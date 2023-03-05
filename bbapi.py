@@ -88,7 +88,7 @@ class BBApi:
 
             return text
 
-    def get_xml_standings(self, leagueid, season) -> str:
+    def get_xml_standings(self, leagueid: int, season: int) -> str:
 
         path = f"matches/standings_{leagueid}_{season}.xml"
 
@@ -96,7 +96,7 @@ class BBApi:
             with open(path, mode="r") as f:
                 return f.read()
         else:
-            p = {"leagueid": leagueid, "season": season}
+            p = {"leagueid": str(leagueid), "season": str(season)}
             text = self.network.get("http://bbapi.buzzerbeater.com/standings.aspx", p)
 
             with open(path, mode="w") as f:
@@ -223,7 +223,7 @@ class BBApi:
 
         return bb_teams
 
-    def standings(self, league_id, season):
+    def standings(self, league_id: int, season: int):
         data = self.get_xml_standings(league_id, season)
 
         root = xml.fromstring(data)
@@ -247,13 +247,15 @@ class BBApi:
         return match_ids
 
 
-if __name__ == "__main__":
-    api = BBApi("radszy11", "gofast")
+def prefetch_data(
+    username: str, password: str, leagueid: int, season_from: int, season_to: int
+):
+    api = BBApi(username, password)
 
     unique_ids = set[str]()
 
-    for season in range(30, 60):
-        team_ids = api.standings("2083", season)
+    for season in range(season_from, season_to + 1):
+        team_ids = api.standings(leagueid, season)
         print(f"Season {season}: teams: {len(team_ids)}")
         for team_id in team_ids:
             match_ids = api.schedule(team_id, season)
@@ -262,3 +264,19 @@ if __name__ == "__main__":
 
     print(unique_ids)
     print(len(unique_ids))
+
+
+if __name__ == "__main__":
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--username", required=True)
+    parser.add_argument("--password", required=True)
+    parser.add_argument("--leagueid", type=int, required=True)
+    parser.add_argument("--season-from", type=int, required=True)
+    parser.add_argument("--season-to", type=int, required=True)
+    args = parser.parse_args()
+
+    prefetch_data(
+        args.username, args.password, args.leagueid, args.season_from, args.season_to
+    )
