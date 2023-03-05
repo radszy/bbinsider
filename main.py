@@ -200,13 +200,15 @@ def main():
         # game.play()
 
         possessions = Possessions()
-        game = Game(matchid, events, ht, at, args, [possessions])
+        shot_types = ShotTypes()
+        game = Game(matchid, events, ht, at, args, [possessions, shot_types])
         game.play()
 
         print(len(possessions.possessions[1]))
         print(possessions.possessions[1])
         print(len(possessions.possessions[0]))
         print(possessions.possessions[0])
+        print(shot_types.table(game))
 
 
 if __name__ == "__main__":

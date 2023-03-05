@@ -1,4 +1,4 @@
-from markdown import extensions
+from typing import Dict
 from bbapi import BBApi
 from team import Team
 from comments import Comments
@@ -54,10 +54,11 @@ class Game:
         self.shotclock = 24
         self.poss = 0
         self.quarter = 1
+        self.quater_poss = [0, 0, 0, 0]
         self.args = args
+        self.event_index = 0
         self.baseevents: list[BaseEvent] = []
         self.extensions = extensions
-        self.index = 0
 
     def update_clocks(self, shot: int, game: int):
         self.shotclock = min(shot, Gameclock(game).till_break())
@@ -98,7 +99,7 @@ class Game:
             print()
             print("###", bev.gameclock, bev.comments)
 
-            self.index = idx
+            self.event_index = idx
             gameclock = self.gameclock_normalized(bev.gameclock)
 
             if isinstance(bev, ShotEvent):
@@ -179,6 +180,15 @@ class Game:
                     bev.shotclock = 0
                     self.update_clocks(24, gameclock)
                     self.update_possession(bev.att_team)
+
+                    # Who will start each quarter
+                    if idx == 0:
+                        self.quater_poss = [
+                            bev.att_team,
+                            bev.def_team,
+                            bev.def_team,
+                            bev.att_team,
+                        ]
 
                 for ext in self.extensions:
                     ext.on_rebound_event(self, bev)
@@ -268,6 +278,7 @@ class Game:
             elif isinstance(bev, BreakEvent):
                 if bev.break_type == BreakType.END_OF_QUARTER:
                     self.update_clocks(24, bev.gameclock)
+
                     if (
                         self.quarter < 4
                         or self.teams[0].points() == self.teams[1].points()
@@ -275,6 +286,9 @@ class Game:
                         self.teams[0].push_stat_sheet()
                         self.teams[1].push_stat_sheet()
                         self.quarter += 1
+
+                    if self.quarter <= 4:
+                        self.update_possession(self.quater_poss[self.quarter - 1])
                 elif bev.break_type == BreakType.END_OF_HALF:
                     pass
                 elif bev.break_type == BreakType.END_OF_GAME:
@@ -362,7 +376,7 @@ class Possessions(Extension):
 
     def on_break_event(self, game: Game, event: BreakEvent):
         if event.break_type == BreakType.END_OF_QUARTER:
-            prev_bev = game.baseevents[game.index - 1]
+            prev_bev = game.baseevents[game.event_index - 1]
             if isinstance(prev_bev, ShotEvent) and prev_bev.shot_result not in (
                 ShotResult.SCORED,
                 ShotResult.GOALTEND,
@@ -375,42 +389,44 @@ class Possessions(Extension):
 class ShotTypes(Extension):
     def __init__(self) -> None:
         super().__init__()
-        self.default_3pt = [0, 0, 0, 0, 0, 0]  # 100
-        self.topkey_3pt = [0, 0, 0, 0, 0, 0]  # 101
-        self.wing_3pt = [0, 0, 0, 0, 0, 0]  # 102
-        self.corner_3pt = [0, 0, 0, 0, 0, 0]  # 103
-        self.long_3pt = [0, 0, 0, 0, 0, 0]  # 104
-        self.halfcourt_3pt = [0, 0, 0, 0, 0, 0]  # 105
+        self.shot_types: list[Dict[ShotType, list[int]]] = [{}, {}]
 
-        self.default_2pt = [0, 0, 0, 0, 0, 0]  # 200
-        self.elbow_2pt = [0, 0, 0, 0, 0, 0]  # 201
-        self.wing_2pt = [0, 0, 0, 0, 0, 0]  # 202
-        self.baseline_2pt = [0, 0, 0, 0, 0, 0]  # 203
-        self.topkey_2pt = [0, 0, 0, 0, 0, 0]  # 204
+    def table(self, game: Game) -> str:
+        from tabulate import tabulate
 
-        self.dunk = [0, 0, 0, 0, 0, 0]  # 401
-        self.layup = [0, 0, 0, 0, 0, 0]  # 402
-        self.postup = [0, 0, 0, 0, 0, 0]  # 403
-        self.fade_away = [0, 0, 0, 0, 0, 0]  # 404
-        self.hook_shot = [0, 0, 0, 0, 0, 0]  # 405
-        self.off_dribble = [0, 0, 0, 0, 0, 0]  # 406
-
-        self.putback_dunk = [0, 0, 0, 0, 0, 0]  # 407
-        self.tipin = [0, 0, 0, 0, 0, 0]  # 408
-        self.rebound_shot = [0, 0, 0, 0, 0, 0]  # 409
-
-        self.strong_dunk = [0, 0, 0, 0, 0, 0]  # 410
-        self.driving_layup = [0, 0, 0, 0, 0, 0]  # 411
+        headers = [
+            "Type",
+            "Missed",
+            "Scored",
+            "Goaltended",
+            "Blocked",
+            "Missed Fouled",
+            "Scored Fouled",
+        ]
+        tables: list[list[list[str]]] = [[], []]
+        for index, team in enumerate(self.shot_types):
+            for shot_type, results in team.items():
+                tables[index].append(
+                    [
+                        str(shot_type),
+                        str(results[0]),
+                        str(results[1]),
+                        str(results[2]),
+                        str(results[3]),
+                        str(results[4]),
+                        str(results[5]),
+                    ]
+                )
+        return f"{game.teams[0].name}:\n{tabulate(tables[0], headers=headers)}\n\n{game.teams[1].name}:\n{tabulate(tables[1], headers=headers)}"
 
     def on_shot_event(self, game: Game, event: ShotEvent):
         result = int(event.shot_result)
 
-        if event.shot_type == ShotType.DEFAULT_THREE_POINTER:
-            self.default_3pt[result] += 1
-        elif event.shot_type == ShotType.TOPKEY_THREE_POINTER:
-            self.topkey_3pt[result] += 1
-        elif event.shot_type == ShotType.WING_THREE_POINTER:
-            self.wing_3pt[result] += 1
+        shot_type = self.shot_types[event.att_team].get(
+            event.shot_type, [0, 0, 0, 0, 0, 0]
+        )
+        shot_type[result] += 1
+        self.shot_types[event.att_team][event.shot_type] = shot_type
 
     def on_interrupt_event(self, game: Game, event: InterruptEvent):
         pass
