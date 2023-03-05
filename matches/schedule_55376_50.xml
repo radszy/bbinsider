@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55376' season='50' retrieved='2023-02-24T22:04:49Z'>
+        <match id='110763751' start='2020-06-04T16:35:00Z' type='friendly'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162262'>
+                <teamName>MLKS Włodawianka</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118581' start='2020-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118589' start='2020-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118989' start='2020-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='165145'>
+                <teamName>FC Chodzież</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118597' start='2020-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118605' start='2020-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111768942' start='2020-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='162682'>
+                <teamName>KS Jastrzębie Łukawica</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118613' start='2020-06-20T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118621' start='2020-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111782081' start='2020-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='164388'>
+                <teamName>Gryf  Wejherowo</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118629' start='2020-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118633' start='2020-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111789153' start='2020-07-02T16:35:00Z' type='cup'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='166025'>
+                <teamName>Siarkowi</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118648' start='2020-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118655' start='2020-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111794775' start='2020-07-09T16:35:00Z' type='cup'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163290'>
+                <teamName>Green Basket Gdańsk</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118662' start='2020-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118669' start='2020-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111799993' start='2020-07-16T16:35:00Z' type='cup'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='55497'>
+                <teamName>FC PREDATOR</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118676' start='2020-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111805304' start='2020-07-21T16:35:00Z' type='cup'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1048002085' start='2020-07-22T16:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>154</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>170</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118683' start='2020-07-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118690' start='2020-07-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111813229' start='2020-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='46952'>
+                <teamName>junior team</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118701' start='2020-08-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118709' start='2020-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111820358' start='2020-08-06T16:35:00Z' type='friendly'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56226'>
+                <teamName>Sparta Białobłoty</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118717' start='2020-08-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118725' start='2020-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111824513' start='2020-08-13T16:35:00Z' type='friendly'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163667'>
+                <teamName>Hans Team Ostrów Wielkopolski</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118733' start='2020-08-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118741' start='2020-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111829424' start='2020-08-20T16:35:00Z' type='friendly'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165469'>
+                <teamName>Bulls Team</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118749' start='2020-08-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111871635' start='2020-08-25T16:35:00Z' type='league.relegation'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111871636' start='2020-08-29T16:35:00Z' type='league.relegation'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111988086' start='2020-09-03T16:35:00Z' type='friendly'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56107'>
+                <teamName>Polonia Parte Przemysl</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111966796' start='2020-09-05T16:35:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

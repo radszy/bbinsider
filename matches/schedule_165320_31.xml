@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165320' season='31' retrieved='2023-02-24T22:11:59Z'>
+        <match id='83276503' start='2015-05-01T00:00:00Z' type='friendly'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='28111'>
+                <teamName>Recons</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283739' start='2015-05-01T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='50505'>
+                <teamName>plateaus</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705739' start='2015-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705746' start='2015-05-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82708494' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='164113'>
+                <teamName>wudzyn bydgoszcz</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283742' start='2015-05-08T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='91095'>
+                <teamName>Tide of Fire</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705757' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705764' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85049411' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='165719'>
+                <teamName>Warsaw Wolfs</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283745' start='2015-05-15T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56725'>
+                <teamName>Red Devilsss</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705773' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705781' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85083003' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55723'>
+                <teamName>Flex-płock</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283748' start='2015-05-22T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='33353'>
+                <teamName>Green Machines</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705788' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705799' start='2015-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100689' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='164040'>
+                <teamName>Święci Rywałd</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283753' start='2015-05-29T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='37123'>
+                <teamName>The Patriots dream</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705807' start='2015-05-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705815' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111793' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='164448'>
+                <teamName>AG Basket</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283758' start='2015-06-05T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='89926'>
+                <teamName>the mumu boys</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705823' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705831' start='2015-06-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119632' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='163998'>
+                <teamName>Koniczyna</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82283763' start='2015-06-12T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='85106'>
+                <teamName>Cassoulet Forever</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705839' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126994' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='165613'>
+                <teamName>WJ Ballers</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029002083' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>174</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>172</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85133559' start='2015-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163395'>
+                <teamName>Gobliny</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85127608' start='2015-06-19T14:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='85106'>
+                <teamName>Cassoulet Forever</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705847' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705855' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85134583' start='2015-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85134886' start='2015-06-26T14:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='33353'>
+                <teamName>Green Machines</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705859' start='2015-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705866' start='2015-06-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85141251' start='2015-07-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56297'>
+                <teamName>Silesia Fighters</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705877' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705884' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85154044' start='2015-07-09T16:35:00Z' type='friendly'>
+            <awayTeam id='277121'>
+                <teamName>Lochness II</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85152003' start='2015-07-10T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56725'>
+                <teamName>Red Devilsss</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705893' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705901' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85160075' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='99939'>
+                <teamName>kreschendo</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85152006' start='2015-07-17T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='143095'>
+                <teamName>zoa</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705908' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237154' start='2015-07-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85344914' start='2015-07-23T15:55:00Z' type='friendly'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='36367'>
+                <teamName>Canadian Solar Bo</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85152009' start='2015-07-24T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85360779' start='2015-07-25T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85565057' start='2015-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='163094'>
+                <teamName>Oilers Płock</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85152014' start='2015-07-31T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='85106'>
+                <teamName>Cassoulet Forever</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483109' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

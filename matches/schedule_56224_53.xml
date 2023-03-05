@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56224' season='53' retrieved='2023-02-24T22:05:10Z'>
+        <match id='114474462' start='2021-03-25T16:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='56216'>
+                <teamName>Selby-BC</teamName>
+<score>25</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114471507' start='2021-03-26T19:00:00Z' type='pl.semifinal'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830407' start='2021-03-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830415' start='2021-03-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830841' start='2021-04-01T16:35:00Z' type='cup'>
+            <awayTeam id='232678'>
+                <teamName>Cyber Bachórzec</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115472227' start='2021-04-02T19:00:00Z' type='pl.final'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830423' start='2021-04-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830431' start='2021-04-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115482518' start='2021-04-08T16:35:00Z' type='cup'>
+            <awayTeam id='55551'>
+                <teamName>BASKET_Sosnowiec</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830439' start='2021-04-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830447' start='2021-04-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115495912' start='2021-04-15T16:35:00Z' type='cup'>
+            <awayTeam id='239224'>
+                <teamName>Mastodons Przyclapy</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502053' start='2021-04-16T19:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830454' start='2021-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830459' start='2021-04-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115503108' start='2021-04-22T16:35:00Z' type='cup'>
+            <awayTeam id='56358'>
+                <teamName>KCS</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502056' start='2021-04-23T19:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830466' start='2021-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830481' start='2021-04-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115510883' start='2021-04-29T16:35:00Z' type='friendly'>
+            <awayTeam id='74266'>
+                <teamName>Hava Durumu Heat</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502061' start='2021-04-30T19:00:00Z' type='pl.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830488' start='2021-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830495' start='2021-05-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115517359' start='2021-05-06T14:30:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='178911'>
+                <teamName>Ginio Pajegos</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502066' start='2021-05-07T19:00:00Z' type='pl.rs'>
+            <awayTeam id='164359'>
+                <teamName>Sumici</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830502' start='2021-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1051002124' start='2021-05-12T16:35:00Z' type='unknown'>
+            <awayTeam id='2124'>
+                <teamName>Big 8</teamName>
+<score>163</score>
+            </awayTeam>
+            <homeTeam id='2124'>
+                <teamName>Great 8</teamName>
+<score>167</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115522114' start='2021-05-13T16:35:00Z' type='friendly'>
+            <awayTeam id='89402'>
+                <teamName>Proodeftiki</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502071' start='2021-05-14T19:00:00Z' type='pl.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830509' start='2021-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830516' start='2021-05-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115527611' start='2021-05-20T16:35:00Z' type='friendly'>
+            <awayTeam id='270383'>
+                <teamName>Puff_Puff_Pass</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502075' start='2021-05-21T19:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163330'>
+                <teamName>Czarni Staszica Gorzów Wlkp.</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830527' start='2021-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830535' start='2021-05-25T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115532844' start='2021-05-27T18:00:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='79392'>
+                <teamName>dkv jovent de badalona</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502078' start='2021-05-28T19:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830543' start='2021-05-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830551' start='2021-06-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115538094' start='2021-06-03T17:05:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>15</score>
+            </awayTeam>
+            <homeTeam id='92758'>
+                <teamName>The Nookie Slammers</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502081' start='2021-06-04T19:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830559' start='2021-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830567' start='2021-06-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115543708' start='2021-06-10T15:30:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='143140'>
+                <teamName>KATSIKIA</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502084' start='2021-06-11T19:00:00Z' type='pl.rs'>
+            <awayTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830574' start='2021-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583858' start='2021-06-15T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502089' start='2021-06-18T19:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>13</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115634412' start='2021-06-19T16:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>9</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115706342' start='2021-06-24T16:30:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='49887'>
+                <teamName>Bornholm Pro Basketball</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115502094' start='2021-06-25T19:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='164359'>
+                <teamName>Sumici</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115678675' start='2021-06-26T16:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>11</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

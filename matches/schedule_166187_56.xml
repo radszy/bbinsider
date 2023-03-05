@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='166187' season='56' retrieved='2023-02-24T22:05:37Z'>
+        <match id='118280836' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='55379'>
+                <teamName>Warsaw Mutants</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638637' start='2022-01-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638645' start='2022-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119279850' start='2022-01-19T15:30:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='51797'>
+                <teamName>Valmieras Ērgļi</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118639202' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='163418'>
+                <teamName>Myślenice Killerz</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638653' start='2022-01-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638661' start='2022-01-25T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119288977' start='2022-01-26T16:55:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='37027'>
+                <teamName>Rodmans</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119305334' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='163120'>
+                <teamName>rydla</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638669' start='2022-01-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638677' start='2022-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119314073' start='2022-02-02T17:35:00Z' type='bbm'>
+            <awayTeam id='55022'>
+                <teamName>PLC 7</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325746' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162905'>
+                <teamName>Galena Kielce</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638684' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638689' start='2022-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331310' start='2022-02-09T17:35:00Z' type='bbm'>
+            <awayTeam id='209650'>
+                <teamName>來一杯紅茶</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119343311' start='2022-02-10T16:30:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='44963'>
+                <teamName>Dunav Ruse</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638696' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638711' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344870' start='2022-02-16T16:55:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='152260'>
+                <teamName>Roma Cobblestones</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119355162' start='2022-02-17T17:35:00Z' type='friendly'>
+            <awayTeam id='56395'>
+                <teamName>Drink Team 2022</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638718' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638725' start='2022-02-22T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357658' start='2022-02-24T01:00:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='24091'>
+                <teamName>Smallfries</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119365915' start='2022-02-24T17:35:00Z' type='friendly'>
+            <awayTeam id='36032'>
+                <teamName>ESPM Grizzlies</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638732' start='2022-02-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>168</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370018' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='39519'>
+                <teamName>without warning or mercy</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054002124' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='2124'>
+                <teamName>Big 8</teamName>
+<score>167</score>
+            </awayTeam>
+            <homeTeam id='2124'>
+                <teamName>Great 8</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119381165' start='2022-03-03T17:35:00Z' type='friendly'>
+            <awayTeam id='88716'>
+                <teamName>B.C. MILTIADES Salonika</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638739' start='2022-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638746' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119385036' start='2022-03-10T17:35:00Z' type='friendly'>
+            <awayTeam id='146106'>
+                <teamName>Oldschool bc.</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638757' start='2022-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638765' start='2022-03-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119390960' start='2022-03-17T16:35:00Z' type='friendly'>
+            <awayTeam id='36222'>
+                <teamName>Casarba Bk</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638773' start='2022-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638781' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119395536' start='2022-03-24T16:35:00Z' type='friendly'>
+            <awayTeam id='186334'>
+                <teamName>放开那个大胸妹</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638789' start='2022-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638797' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119400098' start='2022-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='142937'>
+                <teamName>Retro b.c.</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638804' start='2022-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>147</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>23</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119404445' start='2022-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='276250'>
+                <teamName>boldmongolerne II</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119493033' start='2022-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119507808' start='2022-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='162596'>
+                <teamName>Anwil Włocławek..</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537482' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

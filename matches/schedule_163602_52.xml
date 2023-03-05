@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163602' season='52' retrieved='2023-02-24T22:05:03Z'>
+        <match id='113235270' start='2020-12-17T17:35:00Z' type='friendly'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163216'>
+                <teamName>Czarno Czarni</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593053' start='2020-12-19T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593061' start='2020-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593440' start='2020-12-24T17:35:00Z' type='cup'>
+            <awayTeam id='165576'>
+                <teamName>kacperlandia</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593069' start='2020-12-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593077' start='2020-12-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114244311' start='2020-12-31T17:35:00Z' type='cup'>
+            <awayTeam id='56087'>
+                <teamName>Bydgoszcz Lakers</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593083' start='2021-01-02T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593090' start='2021-01-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114257495' start='2021-01-07T17:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56663'>
+                <teamName>Oby nie do zera</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593099' start='2021-01-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593105' start='2021-01-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114264627' start='2021-01-14T17:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='55620'>
+                <teamName>Zuzi Bulls</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593112' start='2021-01-16T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593119' start='2021-01-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114269935' start='2021-01-21T17:35:00Z' type='cup'>
+            <awayTeam id='56025'>
+                <teamName>RACZKI</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593126' start='2021-01-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593141' start='2021-01-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114275633' start='2021-01-28T17:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165780'>
+                <teamName>Wicher Marcinowo</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593148' start='2021-01-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>154</score>
+            </awayTeam>
+            <homeTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114280853' start='2021-02-02T17:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1050002095' start='2021-02-03T17:35:00Z' type='unknown'>
+            <awayTeam id='2095'>
+                <teamName>Big 8</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='2095'>
+                <teamName>Great 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285972' start='2021-02-04T17:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593155' start='2021-02-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593162' start='2021-02-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114290813' start='2021-02-11T16:00:00Z' type='friendly'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='72565'>
+                <teamName>KıNgS of MeTaL</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593173' start='2021-02-13T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593181' start='2021-02-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114296112' start='2021-02-18T17:35:00Z' type='friendly'>
+            <awayTeam id='276663'>
+                <teamName>Czarno II Czarni</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593189' start='2021-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593197' start='2021-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114299955' start='2021-02-25T17:35:00Z' type='friendly'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='276663'>
+                <teamName>Czarno II Czarni</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593203' start='2021-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593210' start='2021-03-02T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114305955' start='2021-03-04T17:35:00Z' type='friendly'>
+            <awayTeam id='276663'>
+                <teamName>Czarno II Czarni</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593219' start='2021-03-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114347649' start='2021-03-09T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114382636' start='2021-03-11T17:35:00Z' type='friendly'>
+            <awayTeam id='276663'>
+                <teamName>Czarno II Czarni</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114397703' start='2021-03-13T17:35:00Z' type='friendly'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114421677' start='2021-03-18T16:35:00Z' type='friendly'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='276663'>
+                <teamName>Czarno II Czarni</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114442843' start='2021-03-20T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

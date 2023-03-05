@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163826' season='44' retrieved='2023-02-24T22:09:35Z'>
+        <match id='103336807' start='2018-10-25T16:35:00Z' type='friendly'>
+            <awayTeam id='143331'>
+                <teamName>A.O.S</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103336353' start='2018-10-26T18:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695324' start='2018-10-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695331' start='2018-10-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695741' start='2018-11-01T16:35:00Z' type='cup'>
+            <awayTeam id='165799'>
+                <teamName>Flames Przybynin</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104336540' start='2018-11-02T18:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695338' start='2018-11-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695345' start='2018-11-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104346013' start='2018-11-08T17:35:00Z' type='cup'>
+            <awayTeam id='165198'>
+                <teamName>Ekipa z niebieskiego Jeepa</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354008' start='2018-11-09T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695356' start='2018-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695363' start='2018-11-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>148</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104358733' start='2018-11-15T17:35:00Z' type='cup'>
+            <awayTeam id='165037'>
+                <teamName>Fire Ball Kętrzyn</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354011' start='2018-11-16T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695372' start='2018-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695380' start='2018-11-20T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104365890' start='2018-11-22T17:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162321'>
+                <teamName>Hell Monsters</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354014' start='2018-11-23T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695387' start='2018-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695394' start='2018-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104371337' start='2018-11-29T17:35:00Z' type='cup'>
+            <awayTeam id='162282'>
+                <teamName>The Łamags</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354019' start='2018-11-30T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695401' start='2018-12-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695408' start='2018-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104376524' start='2018-12-06T17:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='55668'>
+                <teamName>The In Your Face Dunkers</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354024' start='2018-12-07T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56053'>
+                <teamName>chicago bulss</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695415' start='2018-12-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104382046' start='2018-12-11T17:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1042002121' start='2018-12-12T17:35:00Z' type='unknown'>
+            <awayTeam id='2121'>
+                <teamName>Big 8</teamName>
+<score>202</score>
+            </awayTeam>
+            <homeTeam id='2121'>
+                <teamName>Great 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104387546' start='2018-12-13T17:35:00Z' type='friendly'>
+            <awayTeam id='276490'>
+                <teamName>Águia de Maraba II</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354029' start='2018-12-14T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695422' start='2018-12-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695429' start='2018-12-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104388821' start='2018-12-20T17:35:00Z' type='friendly'>
+            <awayTeam id='276562'>
+                <teamName>Florences Angels</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354033' start='2018-12-21T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695444' start='2018-12-22T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695451' start='2018-12-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104394480' start='2018-12-27T17:35:00Z' type='friendly'>
+            <awayTeam id='275669'>
+                <teamName>兰州北狼 II</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104394182' start='2018-12-28T19:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695458' start='2018-12-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695465' start='2019-01-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104402819' start='2019-01-03T17:35:00Z' type='friendly'>
+            <awayTeam id='276663'>
+                <teamName>TurboPiana Pińczów II</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104399236' start='2019-01-04T19:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695476' start='2019-01-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695483' start='2019-01-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104405508' start='2019-01-10T17:35:00Z' type='friendly'>
+            <awayTeam id='276981'>
+                <teamName>T0r0nt0 Raptors</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104404367' start='2019-01-11T19:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695492' start='2019-01-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450574' start='2019-01-15T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104414708' start='2019-01-17T17:35:00Z' type='friendly'>
+            <awayTeam id='277058'>
+                <teamName>Magic Zone 青训营</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104500442' start='2019-01-19T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104571798' start='2019-01-24T17:35:00Z' type='friendly'>
+            <awayTeam id='276026'>
+                <teamName>Blue Collar Gold Swag</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104545288' start='2019-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

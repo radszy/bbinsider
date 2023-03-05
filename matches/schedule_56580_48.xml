@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56580' season='48' retrieved='2023-02-24T22:10:02Z'>
+        <match id='108645612' start='2019-11-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645623' start='2019-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286462' start='2019-11-27T17:35:00Z' type='bbb'>
+            <awayTeam id='90686'>
+                <teamName>Durham Wasps</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645992' start='2019-11-28T17:35:00Z' type='cup'>
+            <awayTeam id='163515'>
+                <teamName>KluchyKatowice</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645630' start='2019-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645637' start='2019-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286501' start='2019-12-04T17:30:00Z' type='bbb'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='98945'>
+                <teamName>les rois du yeux</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109295956' start='2019-12-05T17:35:00Z' type='cup'>
+            <awayTeam id='55494'>
+                <teamName>AWP TEAM</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645646' start='2019-12-07T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645654' start='2019-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286605' start='2019-12-11T16:30:00Z' type='bbb'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='114273'>
+                <teamName>Celje Basketball Club</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109309053' start='2019-12-12T17:35:00Z' type='cup'>
+            <awayTeam id='162503'>
+                <teamName>AZS Polibuda</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645662' start='2019-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645672' start='2019-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286662' start='2019-12-18T17:35:00Z' type='bbb'>
+            <awayTeam id='59503'>
+                <teamName>LOS IMPLACABLES</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109315803' start='2019-12-19T17:35:00Z' type='cup'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645680' start='2019-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645688' start='2019-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286674' start='2019-12-25T17:35:00Z' type='bbb'>
+            <awayTeam id='50156'>
+                <teamName>BC Kobakäpp</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109321433' start='2019-12-26T17:35:00Z' type='cup'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='162869'>
+                <teamName>PGE Turów Zgorzelec 2</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645696' start='2019-12-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645704' start='2019-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286748' start='2020-01-02T01:00:00Z' type='bbb'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='23706'>
+                <teamName>BigShots</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109326314' start='2020-01-02T17:35:00Z' type='cup'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='237711'>
+                <teamName>13Fears</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645712' start='2020-01-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109331399' start='2020-01-07T17:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286788' start='2020-01-08T17:35:00Z' type='bbb'>
+            <awayTeam id='37936'>
+                <teamName>Zuzi &amp;amp; Co</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1046002091' start='2020-01-08T17:35:00Z' type='unknown'>
+            <awayTeam id='2091'>
+                <teamName>Big 8</teamName>
+<score>159</score>
+            </awayTeam>
+            <homeTeam id='2091'>
+                <teamName>Great 8</teamName>
+<score>168</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336160' start='2020-01-09T17:35:00Z' type='cup'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645720' start='2020-01-11T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645728' start='2020-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109286847' start='2020-01-15T22:00:00Z' type='bbb'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='59358'>
+                <teamName>Hebraica Macabi</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336840' start='2020-01-16T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645732' start='2020-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645743' start='2020-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109342385' start='2020-01-23T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645750' start='2020-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645757' start='2020-01-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645766' start='2020-02-01T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645774' start='2020-02-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645782' start='2020-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397568' start='2020-02-11T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109447149' start='2020-02-15T17:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109518613' start='2020-02-20T17:35:00Z' type='friendly'>
+            <awayTeam id='134561'>
+                <teamName>Narón C.B.</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491760' start='2020-02-22T17:35:00Z' type='friendly'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55528' season='32' retrieved='2023-02-24T22:12:13Z'>
+        <match id='85568496' start='2015-08-06T18:00:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='276359'>
+                <teamName>ASPK Gostynin</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991890' start='2015-08-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991901' start='2015-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367157' start='2015-08-12T15:30:00Z' type='bbb'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='202550'>
+                <teamName>KK Dragons</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85995134' start='2015-08-13T16:35:00Z' type='cup'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>138</score>
+            </awayTeam>
+            <homeTeam id='164471'>
+                <teamName>KK Lombard Zgorzelec</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991908' start='2015-08-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991915' start='2015-08-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367240' start='2015-08-19T16:35:00Z' type='bbb'>
+            <awayTeam id='119236'>
+                <teamName>kokosari</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87390653' start='2015-08-20T16:35:00Z' type='cup'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='165608'>
+                <teamName>Sieradz Baskets</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991924' start='2015-08-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991932' start='2015-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367341' start='2015-08-26T10:00:00Z' type='bbb'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='185981'>
+                <teamName>Capricornus</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87422947' start='2015-08-27T16:35:00Z' type='cup'>
+            <awayTeam id='55941'>
+                <teamName>KKS Dragon Team</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991940' start='2015-08-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991946' start='2015-09-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367424' start='2015-09-02T16:35:00Z' type='bbb'>
+            <awayTeam id='24912'>
+                <teamName>Syndicalists&#39; BC</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87440958' start='2015-09-03T16:35:00Z' type='cup'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='238937'>
+                <teamName>Kingdom Gross Schwaraunen</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991953' start='2015-09-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991960' start='2015-09-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='165735'>
+                <teamName>Jaga Człuchów</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367509' start='2015-09-09T16:35:00Z' type='bbb'>
+            <awayTeam id='58566'>
+                <teamName>BK AQUACITY POPRAD</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87451520' start='2015-09-10T16:35:00Z' type='cup'>
+            <awayTeam id='55412'>
+                <teamName>Slam Dunkers</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991967' start='2015-09-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991974' start='2015-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367634' start='2015-09-16T16:00:00Z' type='bbb'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='59215'>
+                <teamName>tacapes1</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87459604' start='2015-09-17T16:35:00Z' type='cup'>
+            <awayTeam id='162448'>
+                <teamName>sportino2018</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991989' start='2015-09-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87466437' start='2015-09-22T16:35:00Z' type='cup'>
+            <awayTeam id='56469'>
+                <teamName>Noam Team</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367674' start='2015-09-23T14:30:00Z' type='bbb'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='95204'>
+                <teamName>BC Sakura</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1030002129' start='2015-09-23T16:35:00Z' type='unknown'>
+            <awayTeam id='2129'>
+                <teamName>Big 8</teamName>
+<score>176</score>
+            </awayTeam>
+            <homeTeam id='2129'>
+                <teamName>Great 8</teamName>
+<score>162</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87472879' start='2015-09-24T16:35:00Z' type='cup'>
+            <awayTeam id='163220'>
+                <teamName>RoyalFlush</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85991996' start='2015-09-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992003' start='2015-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87367757' start='2015-09-30T16:35:00Z' type='bbb'>
+            <awayTeam id='27378'>
+                <teamName>Joué Basket Club</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87473873' start='2015-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992010' start='2015-10-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992021' start='2015-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87485928' start='2015-10-08T16:35:00Z' type='friendly'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992028' start='2015-10-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992035' start='2015-10-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87488902' start='2015-10-15T16:35:00Z' type='friendly'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992044' start='2015-10-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992052' start='2015-10-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87498807' start='2015-10-22T16:35:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85992060' start='2015-10-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87553847' start='2015-10-27T16:35:00Z' type='league.relegation'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87600991' start='2015-10-29T17:30:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='85141'>
+                <teamName>Milizac Warriors</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87553848' start='2015-10-31T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87553849' start='2015-11-03T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87764019' start='2015-11-05T17:40:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='49343'>
+                <teamName>BC Starobahno</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87714896' start='2015-11-07T17:35:00Z' type='friendly'>
+            <awayTeam id='165735'>
+                <teamName>Jaga Człuchów</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

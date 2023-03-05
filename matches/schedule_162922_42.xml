@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162922' season='42' retrieved='2023-02-24T22:09:18Z'>
+        <match id='100858323' start='2018-04-12T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='163801'>
+                <teamName>Emlememle</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217014' start='2018-04-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217021' start='2018-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101218123' start='2018-04-19T16:35:00Z' type='cup'>
+            <awayTeam id='166182'>
+                <teamName>Spurs Rheinswein</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217028' start='2018-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217039' start='2018-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101867849' start='2018-04-26T16:35:00Z' type='cup'>
+            <awayTeam id='231716'>
+                <teamName>Koalas Sobolów</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217046' start='2018-04-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217055' start='2018-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101880767' start='2018-05-03T16:35:00Z' type='cup'>
+            <awayTeam id='234022'>
+                <teamName>Three-Points Bogaczewo</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217063' start='2018-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217074' start='2018-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>12</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101888235' start='2018-05-10T16:35:00Z' type='cup'>
+            <awayTeam id='164232'>
+                <teamName>Sparrow Team</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217082' start='2018-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217090' start='2018-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101894695' start='2018-05-17T16:35:00Z' type='cup'>
+            <awayTeam id='165611'>
+                <teamName>Boston Celtics 1993</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217098' start='2018-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217106' start='2018-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101900619' start='2018-05-24T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217114' start='2018-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101906137' start='2018-05-29T16:35:00Z' type='cup'>
+            <awayTeam id='162596'>
+                <teamName>Siewcy Wiatru</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1040010624' start='2018-05-30T16:35:00Z' type='unknown'>
+            <awayTeam id='10624'>
+                <teamName>Big 8</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='10624'>
+                <teamName>Great 8</teamName>
+<score>158</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217122' start='2018-06-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217130' start='2018-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101913099' start='2018-06-07T16:35:00Z' type='friendly'>
+            <awayTeam id='91789'>
+                <teamName>maacbi tel aviv ems</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217134' start='2018-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217141' start='2018-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101919862' start='2018-06-14T16:35:00Z' type='friendly'>
+            <awayTeam id='100240'>
+                <teamName>Bivolje</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217148' start='2018-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217159' start='2018-06-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101923891' start='2018-06-21T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='164997'>
+                <teamName>Varsovia Leopards</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217166' start='2018-06-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217175' start='2018-06-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101930488' start='2018-06-28T16:35:00Z' type='friendly'>
+            <awayTeam id='145669'>
+                <teamName>PAOK RETHYMNO</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217183' start='2018-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101935817' start='2018-07-05T16:35:00Z' type='friendly'>
+            <awayTeam id='34660'>
+                <teamName>BC Barbaria 89</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102025190' start='2018-07-07T16:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102040419' start='2018-07-12T16:35:00Z' type='friendly'>
+            <awayTeam id='75347'>
+                <teamName>Betanzos Wild Boars</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102070130' start='2018-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

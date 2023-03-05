@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56221' season='43' retrieved='2023-02-24T22:09:27Z'>
+        <match id='102104132' start='2018-07-19T16:35:00Z' type='friendly'>
+            <awayTeam id='276282'>
+                <teamName>Chi-ki-Ta II</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101923191' start='2018-07-20T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='47472'>
+                <teamName>MightyMice</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147308' start='2018-07-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147319' start='2018-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147941' start='2018-07-26T16:35:00Z' type='cup'>
+            <awayTeam id='164699'>
+                <teamName>Atlas Trefl Świnoujście</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101923194' start='2018-07-27T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147326' start='2018-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147333' start='2018-07-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103110052' start='2018-08-02T16:35:00Z' type='cup'>
+            <awayTeam id='233782'>
+                <teamName>Passers Taberbrück</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103117141' start='2018-08-03T19:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147342' start='2018-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147350' start='2018-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103122248' start='2018-08-09T16:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164171'>
+                <teamName>El White Tigers</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147358' start='2018-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147364' start='2018-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103129729' start='2018-08-16T16:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162684'>
+                <teamName>Grudusk Elite™</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132896' start='2018-08-17T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147371' start='2018-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147378' start='2018-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103135682' start='2018-08-23T16:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='56497'>
+                <teamName>Cokół Miedzychód</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132900' start='2018-08-24T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='119211'>
+                <teamName>Kolač</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147385' start='2018-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147392' start='2018-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103140489' start='2018-08-30T16:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='164271'>
+                <teamName>GlassShield</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132904' start='2018-08-31T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='47100'>
+                <teamName>Sin City inFamous</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147407' start='2018-09-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103146004' start='2018-09-04T16:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1041002087' start='2018-09-05T16:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>146</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>179</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103150864' start='2018-09-06T17:00:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='277081'>
+                <teamName>Vanilla Gorillas</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132908' start='2018-09-07T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='46452'>
+                <teamName>sderenati team</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147414' start='2018-09-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147421' start='2018-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103153533' start='2018-09-13T16:35:00Z' type='friendly'>
+            <awayTeam id='189780'>
+                <teamName>兰州北狼</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132912' start='2018-09-14T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='27176'>
+                <teamName>Slam Nation</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147428' start='2018-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147439' start='2018-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103160296' start='2018-09-20T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='55669'>
+                <teamName>WhiteTigers</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132916' start='2018-09-21T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='59940'>
+                <teamName>ny knicks</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147446' start='2018-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147453' start='2018-09-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103162624' start='2018-09-27T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163019'>
+                <teamName>Borek Kraków</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103132920' start='2018-09-28T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='70747'>
+                <teamName>AdmirAls#54</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147462' start='2018-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147470' start='2018-10-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103168693' start='2018-10-04T14:00:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='39384'>
+                <teamName>Cubas Bubas</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147478' start='2018-10-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212751' start='2018-10-09T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103174136' start='2018-10-11T16:35:00Z' type='friendly'>
+            <awayTeam id='79103'>
+                <teamName>Corrichos</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103246678' start='2018-10-12T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='59940'>
+                <teamName>ny knicks</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103262893' start='2018-10-13T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103276993' start='2018-10-18T13:30:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='58803'>
+                <teamName>Hutivaara</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103246683' start='2018-10-19T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='40426'>
+                <teamName>Soul Power BC</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103307113' start='2018-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

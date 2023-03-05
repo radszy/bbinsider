@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163062' season='54' retrieved='2023-02-24T22:05:20Z'>
+        <match id='115708110' start='2021-07-01T16:35:00Z' type='friendly'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544110' start='2021-07-02T17:00:00Z' type='pl.rs'>
+            <awayTeam id='26464'>
+                <teamName>MSU Spartans</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076271' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076279' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717576' start='2021-07-07T16:35:00Z' type='bbm'>
+            <awayTeam id='39417'>
+                <teamName>Sokovichok</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076657' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='165862'>
+                <teamName>Czarne Owce</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544119' start='2021-07-09T17:00:00Z' type='pl.rs'>
+            <awayTeam id='89014'>
+                <teamName>Thrylos BC</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076287' start='2021-07-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076295' start='2021-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116725221' start='2021-07-14T16:35:00Z' type='bbm'>
+            <awayTeam id='276071'>
+                <teamName>Ljubljana Fat Cats</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740365' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='235939'>
+                <teamName>Racers Wierzelin</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544128' start='2021-07-16T17:00:00Z' type='pl.rs'>
+            <awayTeam id='26669'>
+                <teamName>Jokehim Maniacs</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076303' start='2021-07-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076311' start='2021-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116749499' start='2021-07-21T14:30:00Z' type='bbm'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='51610'>
+                <teamName>Vltigie</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760503' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='232783'>
+                <teamName>cineqqq</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544137' start='2021-07-23T17:00:00Z' type='pl.rs'>
+            <awayTeam id='53437'>
+                <teamName>Brutus Buckeye</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076319' start='2021-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076323' start='2021-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116765758' start='2021-07-28T16:35:00Z' type='bbm'>
+            <awayTeam id='26956'>
+                <teamName>Harambe Team</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774520' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='164239'>
+                <teamName>Ministry</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544146' start='2021-07-30T17:00:00Z' type='pl.rs'>
+            <awayTeam id='44953'>
+                <teamName>Levski Sofia</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076338' start='2021-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076345' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116778838' start='2021-08-04T16:35:00Z' type='bbm'>
+            <awayTeam id='54580'>
+                <teamName>Pilipinas Punishers</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116786514' start='2021-08-05T16:35:00Z' type='cup'>
+            <awayTeam id='56600'>
+                <teamName>BigBrothers</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544155' start='2021-08-06T17:00:00Z' type='pl.rs'>
+            <awayTeam id='92969'>
+                <teamName>Nightearls</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076352' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076359' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116790909' start='2021-08-11T16:35:00Z' type='bbm'>
+            <awayTeam id='276135'>
+                <teamName>kaskarots</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116798016' start='2021-08-12T16:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163756'>
+                <teamName>SKABeat</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544163' start='2021-08-13T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='84742'>
+                <teamName>Baikal Medved</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076366' start='2021-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116809701' start='2021-08-17T16:35:00Z' type='cup'>
+            <awayTeam id='165118'>
+                <teamName>Fire Emperor</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116802634' start='2021-08-18T10:00:00Z' type='bbm'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='187157'>
+                <teamName>熊猫和他的朋友们篮球俱乐部</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052002083' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>158</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116814398' start='2021-08-19T16:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='166146'>
+                <teamName>KKS Brda</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544170' start='2021-08-20T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='101172'>
+                <teamName>Braga SuperSonics</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076373' start='2021-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076380' start='2021-08-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815344' start='2021-08-25T16:35:00Z' type='unknown'>
+            <awayTeam id='275981'>
+                <teamName>Berlin Mavericks</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815932' start='2021-08-26T16:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='165249'>
+                <teamName>BKS Sowlany</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544177' start='2021-08-27T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='47391'>
+                <teamName>Virtus Portici</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076391' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076399' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820699' start='2021-09-01T16:35:00Z' type='unknown'>
+            <awayTeam id='114121'>
+                <teamName>Ljubljana Pigs</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820951' start='2021-09-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544184' start='2021-09-03T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='90126'>
+                <teamName>kikaazz</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076407' start='2021-09-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076415' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116825670' start='2021-09-08T16:35:00Z' type='unknown'>
+            <awayTeam id='89250'>
+                <teamName>Aetos Anogeion B.C.</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116827364' start='2021-09-09T16:35:00Z' type='friendly'>
+            <awayTeam id='275742'>
+                <teamName>OhioDunkers II</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544191' start='2021-09-10T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='178425'>
+                <teamName>KK &amp;quot;Šalvis&amp;quot;</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076423' start='2021-09-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076431' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116830589' start='2021-09-15T16:35:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116831117' start='2021-09-16T16:35:00Z' type='friendly'>
+            <awayTeam id='276269'>
+                <teamName>Moccasins II</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544198' start='2021-09-17T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='70747'>
+                <teamName>AdmirAls#54</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076439' start='2021-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875268' start='2021-09-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116837082' start='2021-09-23T16:35:00Z' type='friendly'>
+            <awayTeam id='55977'>
+                <teamName>KKS Hetman Wrocław</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116835686' start='2021-09-24T17:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='53437'>
+                <teamName>Brutus Buckeye</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116925426' start='2021-09-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116940144' start='2021-09-30T16:35:00Z' type='friendly'>
+            <awayTeam id='41171'>
+                <teamName>Mosbach</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116938924' start='2021-10-01T17:00:00Z' type='pl.semifinal'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='37797'>
+                <teamName>LIDLTallfellas</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969614' start='2021-10-02T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

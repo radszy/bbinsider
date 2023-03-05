@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='56' retrieved='2023-02-24T21:46:49Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2215</pf>
+                    <pa>1437</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2132</pf>
+                    <pa>1568</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1740</pf>
+                    <pa>1915</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163052'>
+                    <teamName>Pruszcz All Stars</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2033</pf>
+                    <pa>1706</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1719</pf>
+                    <pa>1844</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1793</pf>
+                    <pa>1947</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162570'>
+                    <teamName>Natolin Grizzlies</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1797</pf>
+                    <pa>2037</pa>
+                    <isBot>0</isBot>
+                    <forfeits>1</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1272</pf>
+                    <pa>2158</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2268</pf>
+                    <pa>1462</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163062'>
+                    <teamName>Stara Dama</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2047</pf>
+                    <pa>1737</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2093</pf>
+                    <pa>2062</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1853</pf>
+                    <pa>2018</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56056'>
+                    <teamName>The French Bulldog&#39;s</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>2027</pf>
+                    <pa>1978</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='233576'>
+                    <teamName>blekitni krakow</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1948</pf>
+                    <pa>1779</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164157'>
+                    <teamName>Częstochowskie Lwy</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1743</pf>
+                    <pa>1922</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='166187'>
+                    <teamName>Iron Thunder</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>1390</pf>
+                    <pa>2500</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='119443348' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163052'>
+                        <teamName>Pruszcz All Stars</teamName>
+<score>60</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>116</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443349' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443350' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>71</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443351' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+                    </awayTeam>
+                    <homeTeam id='163062'>
+                        <teamName>Stara Dama</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='119493034' start='2022-04-09T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>117</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119493035' start='2022-04-09T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>105</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='119537483' start='2022-04-12T16:35:00Z' type='league.final'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>117</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119537484' start='2022-04-16T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>66</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119537485' start='2022-04-17T16:35:00Z' type='league.final'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='119443352' start='2022-04-05T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='164157'>
+                        <teamName>Częstochowskie Lwy</teamName>
+<score>70</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443355' start='2022-04-05T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162570'>
+                        <teamName>Natolin Grizzlies</teamName>
+<score>88</score>
+                    </awayTeam>
+                    <homeTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>107</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443358' start='2022-04-05T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='233576'>
+                        <teamName>blekitni krakow</teamName>
+<score>99</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443353' start='2022-04-09T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='164157'>
+                        <teamName>Częstochowskie Lwy</teamName>
+<score>59</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443356' start='2022-04-09T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='162570'>
+                        <teamName>Natolin Grizzlies</teamName>
+<score>108</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443359' start='2022-04-09T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='233576'>
+                        <teamName>blekitni krakow</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='119443357' start='2022-04-12T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162570'>
+                        <teamName>Natolin Grizzlies</teamName>
+<score>101</score>
+                    </awayTeam>
+                    <homeTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>112</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='162570'>Natolin Grizzlies</relegated>
+            
+            <relegated id='163966'>Pogrążacze</relegated>
+            
+            <relegated id='164110'>Debeściaki</relegated>
+            
+            <relegated id='164157'>Częstochowskie Lwy</relegated>
+            
+            <relegated id='166187'>Iron Thunder</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

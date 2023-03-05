@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163966' season='54' retrieved='2023-02-24T22:05:15Z'>
+        <match id='115720559' start='2021-07-01T16:35:00Z' type='friendly'>
+            <awayTeam id='163428'>
+                <teamName>Piast AstaBud Głubczyn</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076269' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076277' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717573' start='2021-07-07T16:35:00Z' type='bbm'>
+            <awayTeam id='59186'>
+                <teamName>Canis lupus arctos</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076763' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='56462'>
+                <teamName>BC Beniaminów</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076285' start='2021-07-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076293' start='2021-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116725219' start='2021-07-14T16:35:00Z' type='bbm'>
+            <awayTeam id='35116'>
+                <teamName>Blankenburger Metrostars</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740594' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='162881'>
+                <teamName>ThiagoAlcantara</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076299' start='2021-07-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076308' start='2021-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116749494' start='2021-07-21T14:30:00Z' type='bbm'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='123010'>
+                <teamName>heeringas</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760545' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='164204'>
+                <teamName>Basket Bojano</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076316' start='2021-07-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076325' start='2021-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116765724' start='2021-07-28T16:00:00Z' type='bbm'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='100719'>
+                <teamName>КК Динара</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774591' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='165478'>
+                <teamName>#Bobry Bytom#</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076333' start='2021-07-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076341' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116778836' start='2021-08-04T16:35:00Z' type='bbm'>
+            <awayTeam id='49481'>
+                <teamName>SK BK Přerov</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116786473' start='2021-08-05T16:35:00Z' type='cup'>
+            <awayTeam id='162571'>
+                <teamName>Turow Zgorzelec</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076349' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076357' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116791089' start='2021-08-11T21:00:00Z' type='bbm'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='32579'>
+                <teamName>FlaGarça</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116798030' start='2021-08-12T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55674'>
+                <teamName>Blaugrana Starachowice</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076365' start='2021-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116809699' start='2021-08-17T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='164980'>
+                <teamName>Klub Sportowy Anwil Włocławek</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116802745' start='2021-08-18T14:55:00Z' type='bbm'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='92067'>
+                <teamName>Echis De Nasulka</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052010582' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='10582'>
+                <teamName>Great 8</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='10582'>
+                <teamName>Big 8</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116814393' start='2021-08-19T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='56445'>
+                <teamName>Przemoc</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076373' start='2021-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076381' start='2021-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815353' start='2021-08-25T17:35:00Z' type='unknown'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='37316'>
+                <teamName>BC Tienen</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815934' start='2021-08-26T16:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076389' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076397' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820703' start='2021-09-01T16:00:00Z' type='unknown'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='277033'>
+                <teamName>D L R</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820953' start='2021-09-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076405' start='2021-09-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076413' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116829204' start='2021-09-09T16:35:00Z' type='friendly'>
+            <awayTeam id='163758'>
+                <teamName>Legia Krosno</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076419' start='2021-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076428' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116835173' start='2021-09-16T16:35:00Z' type='friendly'>
+            <awayTeam id='276755'>
+                <teamName>Kingston Reggae Boyz</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076436' start='2021-09-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875266' start='2021-09-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116910463' start='2021-09-23T16:35:00Z' type='friendly'>
+            <awayTeam id='89681'>
+                <teamName>BBC A-City</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116925426' start='2021-09-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116997468' start='2021-09-30T16:35:00Z' type='friendly'>
+            <awayTeam id='62540'>
+                <teamName>La Plata 96ers</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969614' start='2021-10-02T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56382' season='33' retrieved='2023-02-24T22:12:21Z'>
+        <match id='87767666' start='2015-11-12T17:35:00Z' type='friendly'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150000' start='2015-11-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150008' start='2015-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88151371' start='2015-11-19T17:35:00Z' type='cup'>
+            <awayTeam id='164332'>
+                <teamName>SKP SLUPCA LECH</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150016' start='2015-11-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150024' start='2015-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88874086' start='2015-11-26T17:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162668'>
+                <teamName>NKS KOSZ</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150032' start='2015-11-28T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150040' start='2015-12-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88889359' start='2015-12-03T17:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='55498'>
+                <teamName>Gdynskie Sledzie</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150048' start='2015-12-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150052' start='2015-12-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88898568' start='2015-12-10T17:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163628'>
+                <teamName>Pod Nogo 360</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150067' start='2015-12-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150074' start='2015-12-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88905718' start='2015-12-17T17:35:00Z' type='cup'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150081' start='2015-12-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150088' start='2015-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='165735'>
+                <teamName>Jaga Człuchów</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88912966' start='2015-12-24T17:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56273'>
+                <teamName>Wroclaw Inquisitors</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150095' start='2015-12-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88919764' start='2015-12-29T17:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='162818'>
+                <teamName>Saneik</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1031010798' start='2015-12-30T17:35:00Z' type='unknown'>
+            <awayTeam id='10798'>
+                <teamName>Great 8</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='10798'>
+                <teamName>Big 8</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88925722' start='2015-12-31T17:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926421' start='2016-01-01T17:40:00Z' type='pl.rs'>
+            <awayTeam id='172885'>
+                <teamName>Kalevan KoriKonkarit</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150102' start='2016-01-02T17:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150109' start='2016-01-05T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88930311' start='2016-01-07T17:35:00Z' type='friendly'>
+            <awayTeam id='50413'>
+                <teamName>BC Kitse 35</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926426' start='2016-01-08T17:40:00Z' type='pl.rs'>
+            <awayTeam id='90384'>
+                <teamName>Paros Bulls</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150120' start='2016-01-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150128' start='2016-01-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88936991' start='2016-01-14T16:55:00Z' type='friendly'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='47472'>
+                <teamName>MightyMice</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926431' start='2016-01-15T17:40:00Z' type='pl.rs'>
+            <awayTeam id='49481'>
+                <teamName>SK BK Přerov</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150136' start='2016-01-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150144' start='2016-01-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88942810' start='2016-01-21T17:35:00Z' type='friendly'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163252'>
+                <teamName>Mojarro de Huelva</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926435' start='2016-01-22T17:40:00Z' type='pl.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='196796'>
+                <teamName>rimmers</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150152' start='2016-01-23T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150160' start='2016-01-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88951297' start='2016-01-28T17:35:00Z' type='friendly'>
+            <awayTeam id='90384'>
+                <teamName>Paros Bulls</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926438' start='2016-01-29T17:40:00Z' type='pl.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='37123'>
+                <teamName>The Patriots dream</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88150168' start='2016-01-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88987458' start='2016-02-02T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88957742' start='2016-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='36863'>
+                <teamName>Olimpia Salo</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926441' start='2016-02-05T17:40:00Z' type='pl.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56725'>
+                <teamName>Red Devilsss</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88987459' start='2016-02-06T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88987460' start='2016-02-09T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89121212' start='2016-02-11T18:35:00Z' type='friendly'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='90420'>
+                <teamName>RSC Eagles</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='88926444' start='2016-02-12T17:40:00Z' type='pl.rs'>
+            <awayTeam id='31240'>
+                <teamName>Eugene Register-Guard</teamName>
+<score>137</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89089894' start='2016-02-13T17:35:00Z' type='friendly'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

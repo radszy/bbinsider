@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165320' season='59' retrieved='2023-02-24T22:05:53Z'>
+        <match id='122134269' start='2022-11-03T16:35:00Z' type='friendly'>
+            <awayTeam id='47352'>
+                <teamName>Baby Santos</teamName>
+<score>13</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491068' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491075' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132121' start='2022-11-10T01:00:00Z' type='bbb'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491424' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='238709'>
+                <teamName>Sun Devils Bronislawka</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139939' start='2022-11-11T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='92369'>
+                <teamName>Jerusalem TET</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491082' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491093' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140464' start='2022-11-16T16:30:00Z' type='bbb'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='145933'>
+                <teamName>BUCKS B.C</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123156369' start='2022-11-17T17:35:00Z' type='cup'>
+            <awayTeam id='55461'>
+                <teamName>Podolszyn Dynks</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139945' start='2022-11-18T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491100' start='2022-11-19T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491109' start='2022-11-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165313' start='2022-11-23T17:35:00Z' type='bbb'>
+            <awayTeam id='98998'>
+                <teamName>iCeltics</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123177224' start='2022-11-24T17:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='164226'>
+                <teamName>Bloody Monkeys</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139951' start='2022-11-25T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='105392'>
+                <teamName>The Defenders</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491117' start='2022-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491128' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123181995' start='2022-11-30T17:00:00Z' type='bbb'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='58436'>
+                <teamName>Nitra Corgons</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123191256' start='2022-12-01T17:35:00Z' type='cup'>
+            <awayTeam id='235159'>
+                <teamName>Pony Slaystation</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139957' start='2022-12-02T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491136' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491144' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195484' start='2022-12-07T11:00:00Z' type='bbb'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='209932'>
+                <teamName>tofu</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123203784' start='2022-12-08T17:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='55555'>
+                <teamName>MKS Koszalin</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139963' start='2022-12-09T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='34336'>
+                <teamName>Olympic rebels</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491152' start='2022-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491160' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208375' start='2022-12-14T18:30:00Z' type='bbb'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='87264'>
+                <teamName>Nancy Basket Albatros</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123216008' start='2022-12-15T17:35:00Z' type='cup'>
+            <awayTeam id='162860'>
+                <teamName>KS Huzars</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139969' start='2022-12-16T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='210825'>
+                <teamName>Tunjevina</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491168' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123228141' start='2022-12-20T17:35:00Z' type='cup'>
+            <awayTeam id='235317'>
+                <teamName>Gniew Godula</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220698' start='2022-12-21T17:35:00Z' type='bbb'>
+            <awayTeam id='134997'>
+                <teamName>Folgado Lakers</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123232880' start='2022-12-22T17:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>145</score>
+            </awayTeam>
+            <homeTeam id='163672'>
+                <teamName>Wygonin City</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139975' start='2022-12-23T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='92390'>
+                <teamName>Ramat-Gan Billers</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491176' start='2022-12-24T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491184' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>15</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233375' start='2022-12-28T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='45172'>
+                <teamName>Blade of darkness</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233896' start='2022-12-29T17:35:00Z' type='cup'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139981' start='2022-12-30T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='187068'>
+                <teamName>旭日冲天</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491188' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491195' start='2023-01-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123238797' start='2023-01-04T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='53437'>
+                <teamName>Brutus Buckeye</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239057' start='2023-01-05T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139987' start='2023-01-06T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='58449'>
+                <teamName>Confusing Pigs</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491202' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>14</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491213' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123244770' start='2023-01-11T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='94991'>
+                <teamName>Kaunas Eagles</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123244892' start='2023-01-12T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139993' start='2023-01-13T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='119093'>
+                <teamName>KK.Play-Off</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491220' start='2023-01-14T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491229' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123250313' start='2023-01-18T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='97994'>
+                <teamName>SiSiSibenka</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123250506' start='2023-01-19T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139999' start='2023-01-20T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491237' start='2023-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295552' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123255376' start='2023-01-25T11:00:00Z' type='bbb.neutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='186457'>
+                <teamName>Maggies</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123330163' start='2023-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='277033'>
+                <teamName>D L R</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123255471' start='2023-01-27T12:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123345885' start='2023-01-28T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390947' start='2023-01-31T17:35:00Z' type='league.final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123359507' start='2023-02-01T14:30:00Z' type='bbb.neutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='58866'>
+                <teamName>Hupipalloilijat</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123417808' start='2023-02-02T17:35:00Z' type='friendly'>
+            <awayTeam id='277942'>
+                <teamName>Beirut Lakers</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123369737' start='2023-02-03T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390948' start='2023-02-04T17:35:00Z' type='league.final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

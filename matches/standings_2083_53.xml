@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='53' retrieved='2023-02-24T21:46:30Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2178</pf>
+                    <pa>1531</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1934</pf>
+                    <pa>1505</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2038</pf>
+                    <pa>1662</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1967</pf>
+                    <pa>1541</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1845</pf>
+                    <pa>1717</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163402'>
+                    <teamName>Polonia Fordon</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1655</pf>
+                    <pa>1486</pa>
+                    <isBot>1</isBot>
+                    <forfeits>1</forfeits>
+                </team><team id='163357'>
+                    <teamName>Team Ostrów Wielkopolski</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1532</pf>
+                    <pa>2056</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164201'>
+                    <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>748</pf>
+                    <pa>2448</pa>
+                    <isBot>0</isBot>
+                    <forfeits>4</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2114</pf>
+                    <pa>1326</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2084</pf>
+                    <pa>1463</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56224'>
+                    <teamName>Dudopol Dudowizna</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1976</pf>
+                    <pa>1560</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='166187'>
+                    <teamName>Iron Thunder</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2101</pf>
+                    <pa>1712</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163826'>
+                    <teamName>CampoLeony</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1717</pf>
+                    <pa>1629</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163602'>
+                    <teamName>Pasibrzuchy</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1601</pf>
+                    <pa>2009</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163776'>
+                    <teamName>Warsaw Predators</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1741</pf>
+                    <pa>1932</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>529</pf>
+                    <pa>2183</pa>
+                    <isBot>0</isBot>
+                    <forfeits>8</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='115583855' start='2021-06-15T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>68</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583856' start='2021-06-15T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>71</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>135</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583857' start='2021-06-15T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='166187'>
+                        <teamName>Iron Thunder</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583858' start='2021-06-15T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56224'>
+                        <teamName>Dudopol Dudowizna</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>120</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='115634415' start='2021-06-19T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>58</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115634416' start='2021-06-19T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>67</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='115678680' start='2021-06-22T16:35:00Z' type='league.final'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>86</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115678681' start='2021-06-26T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>66</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='115583859' start='2021-06-15T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163776'>
+                        <teamName>Warsaw Predators</teamName>
+<score>64</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583862' start='2021-06-15T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163357'>
+                        <teamName>Team Ostrów Wielkopolski</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='163826'>
+                        <teamName>CampoLeony</teamName>
+<score>117</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583865' start='2021-06-15T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163602'>
+                        <teamName>Pasibrzuchy</teamName>
+<score>50</score>
+                    </awayTeam>
+                    <homeTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>114</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583860' start='2021-06-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>75</score>
+                    </awayTeam>
+                    <homeTeam id='163776'>
+                        <teamName>Warsaw Predators</teamName>
+<score>64</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583863' start='2021-06-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163826'>
+                        <teamName>CampoLeony</teamName>
+<score>140</score>
+                    </awayTeam>
+                    <homeTeam id='163357'>
+                        <teamName>Team Ostrów Wielkopolski</teamName>
+<score>34</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583866' start='2021-06-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='163602'>
+                        <teamName>Pasibrzuchy</teamName>
+<score>88</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='115583867' start='2021-06-22T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163602'>
+                        <teamName>Pasibrzuchy</teamName>
+<score>93</score>
+                    </awayTeam>
+                    <homeTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>88</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='55528'>Lame Ducks</relegated>
+            
+            <relegated id='163357'>Team Ostrów Wielkopolski</relegated>
+            
+            <relegated id='163402'>Polonia Fordon</relegated>
+            
+            <relegated id='163776'>Warsaw Predators</relegated>
+            
+            <relegated id='164201'>B.C Beko Odeabank Gorzów Wlkp</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

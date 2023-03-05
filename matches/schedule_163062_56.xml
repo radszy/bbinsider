@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163062' season='56' retrieved='2023-02-24T22:05:34Z'>
+        <match id='118279861' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='275980'>
+                <teamName>Robi SU</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118037503' start='2022-01-14T17:00:00Z' type='pl.rs'>
+            <awayTeam id='94389'>
+                <teamName>Vitoria Deluxe</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638639' start='2022-01-15T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638646' start='2022-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119280022' start='2022-01-19T17:35:00Z' type='bbm'>
+            <awayTeam id='38851'>
+                <teamName>The Dark Passenger</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118639349' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='236446'>
+                <teamName>Hunks Swierczyniec</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118037512' start='2022-01-21T17:00:00Z' type='pl.rs'>
+            <awayTeam id='105201'>
+                <teamName>WILD_CATS</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638653' start='2022-01-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638660' start='2022-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119289033' start='2022-01-26T17:35:00Z' type='bbm'>
+            <awayTeam id='22906'>
+                <teamName>HipsterBears</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119305283' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='56073'>
+                <teamName>XXX Anwil</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118037521' start='2022-01-28T17:00:00Z' type='pl.rs'>
+            <awayTeam id='52739'>
+                <teamName>The Eve of St Agnes</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638671' start='2022-01-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638678' start='2022-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119313832' start='2022-02-02T12:00:00Z' type='bbm'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='276390'>
+                <teamName>Atlantis Tigers</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325667' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='163086'>
+                <teamName>Ankle Breakerz</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119329659' start='2022-02-04T18:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='60481'>
+                <teamName>Newton Heath LYR</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638687' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638695' start='2022-02-08T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331290' start='2022-02-09T17:35:00Z' type='bbm'>
+            <awayTeam id='187272'>
+                <teamName>hornets247</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119340689' start='2022-02-10T17:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163947'>
+                <teamName>Elbląg Hunters</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119342713' start='2022-02-11T18:00:00Z' type='pl.semifinal'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='26530'>
+                <teamName>Isle of Wight</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638702' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638709' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344920' start='2022-02-16T17:35:00Z' type='bbm'>
+            <awayTeam id='28479'>
+                <teamName>Delta 9</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119355320' start='2022-02-17T17:35:00Z' type='friendly'>
+            <awayTeam id='276414'>
+                <teamName>Les Armateurs Grecs de Monaco</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638716' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638723' start='2022-02-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357420' start='2022-02-23T17:35:00Z' type='bbm'>
+            <awayTeam id='275963'>
+                <teamName>Henoch White Stones</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119366694' start='2022-02-24T17:35:00Z' type='friendly'>
+            <awayTeam id='248902'>
+                <teamName>_TIGERS_</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638730' start='2022-02-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370005' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='86490'>
+                <teamName>PsQG</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054002083' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>175</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>194</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119379110' start='2022-03-03T17:35:00Z' type='friendly'>
+            <awayTeam id='276356'>
+                <teamName>La Cantera F.C</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382614' start='2022-03-04T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='166100'>
+                <teamName>Arcykoty Krzyków</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638737' start='2022-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638744' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119384234' start='2022-03-10T17:35:00Z' type='friendly'>
+            <awayTeam id='134779'>
+                <teamName>FERGUS Style Bahamas</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382623' start='2022-03-11T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638759' start='2022-03-12T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638766' start='2022-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119392309' start='2022-03-17T16:35:00Z' type='friendly'>
+            <awayTeam id='41395'>
+                <teamName>Sellebakk Rivers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382632' start='2022-03-18T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638773' start='2022-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638780' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119396059' start='2022-03-24T16:35:00Z' type='friendly'>
+            <awayTeam id='276636'>
+                <teamName>Mash Flashers</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382641' start='2022-03-25T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164181'>
+                <teamName>King Sajz</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638791' start='2022-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638798' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119399531' start='2022-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='34696'>
+                <teamName>Marburg Demons</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382650' start='2022-04-01T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163674'>
+                <teamName>Payro</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638807' start='2022-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443351' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119404011' start='2022-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='29671'>
+                <teamName>North Mountain Goats</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382658' start='2022-04-08T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='237760'>
+                <teamName>Rajdersi</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119493031' start='2022-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119507335' start='2022-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382665' start='2022-04-15T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537476' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165178' season='50' retrieved='2023-02-24T22:04:46Z'>
+        <match id='110762075' start='2020-06-04T16:35:00Z' type='friendly'>
+            <awayTeam id='135880'>
+                <teamName>Thanatos To Team</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118578' start='2020-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118586' start='2020-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111119188' start='2020-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='165631'>
+                <teamName>FC Warzywniak</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118594' start='2020-06-13T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118602' start='2020-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111768563' start='2020-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='165862'>
+                <teamName>Czarne Owce</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118610' start='2020-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118618' start='2020-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111781931' start='2020-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='56635'>
+                <teamName>Marszałki Dudka</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118625' start='2020-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118634' start='2020-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111789277' start='2020-07-02T16:35:00Z' type='cup'>
+            <awayTeam id='164600'>
+                <teamName>MKS Kataryna</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118642' start='2020-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118650' start='2020-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111794755' start='2020-07-09T16:35:00Z' type='cup'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118658' start='2020-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118666' start='2020-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111801122' start='2020-07-16T10:00:00Z' type='friendly'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='188231'>
+                <teamName>AKAxuan</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118674' start='2020-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1048002137' start='2020-07-22T16:35:00Z' type='unknown'>
+            <awayTeam id='2137'>
+                <teamName>Great 8</teamName>
+<score>168</score>
+            </awayTeam>
+            <homeTeam id='2137'>
+                <teamName>Big 8</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111806045' start='2020-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='276264'>
+                <teamName>Akmenes Cementas</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118682' start='2020-07-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118690' start='2020-07-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111814695' start='2020-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163944'>
+                <teamName>KS Aluminium Konin</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118698' start='2020-08-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118706' start='2020-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111820591' start='2020-08-06T16:35:00Z' type='friendly'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55988'>
+                <teamName>Skorpion Gliwice</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118714' start='2020-08-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118722' start='2020-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118730' start='2020-08-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118738' start='2020-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118745' start='2020-08-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111906192' start='2020-08-27T16:00:00Z' type='friendly'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='210661'>
+                <teamName>NDK</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111921979' start='2020-08-29T16:35:00Z' type='friendly'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111966798' start='2020-09-05T16:35:00Z' type='friendly'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

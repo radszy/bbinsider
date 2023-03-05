@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55469' season='54' retrieved='2023-02-24T22:05:17Z'>
+        <match id='115708225' start='2021-07-01T15:55:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='48594'>
+                <teamName>DATRE</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076270' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076277' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717320' start='2021-07-07T10:00:00Z' type='bbm'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='276455'>
+                <teamName>Dunking Donuts Dortmund</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116077130' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='165956'>
+                <teamName>Spurs Bolescice</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076284' start='2021-07-10T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076291' start='2021-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116725216' start='2021-07-14T16:35:00Z' type='bbm'>
+            <awayTeam id='87547'>
+                <teamName>Baltimore Thunder</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740605' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='236572'>
+                <teamName>Saharans Librantowa</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076302' start='2021-07-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076309' start='2021-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116749689' start='2021-07-21T16:35:00Z' type='bbm'>
+            <awayTeam id='26398'>
+                <teamName>Superhelden</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760818' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163947'>
+                <teamName>Elbląg Hunters</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076318' start='2021-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076330' start='2021-07-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116765929' start='2021-07-28T21:00:00Z' type='bbm'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='106854'>
+                <teamName>Club Nacional de Futbol</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774558' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56572'>
+                <teamName>Perła Lublin</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076338' start='2021-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076346' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116778565' start='2021-08-04T08:00:00Z' type='bbm'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='38921'>
+                <teamName>Generation of Miracles</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116786505' start='2021-08-05T16:35:00Z' type='cup'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163863'>
+                <teamName>Kac_100</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076354' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076362' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116790725' start='2021-08-11T14:30:00Z' type='bbm'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='180631'>
+                <teamName>ErelisLT</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116798032' start='2021-08-12T16:35:00Z' type='cup'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076370' start='2021-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116809689' start='2021-08-17T16:35:00Z' type='cup'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56044'>
+                <teamName>WKS Włocławek</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052002104' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='2104'>
+                <teamName>Big 8</teamName>
+<score>190</score>
+            </awayTeam>
+            <homeTeam id='2104'>
+                <teamName>Great 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116803015' start='2021-08-18T18:00:00Z' type='bbm'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='76209'>
+                <teamName>yeahh</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076378' start='2021-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076386' start='2021-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076390' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076397' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116821318' start='2021-09-02T14:30:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='177732'>
+                <teamName>BC Klaipedos Briedziai</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076404' start='2021-09-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076411' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>146</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116827972' start='2021-09-09T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='164449'>
+                <teamName>Lipno Bulls</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076422' start='2021-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076429' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116834719' start='2021-09-16T23:00:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='33872'>
+                <teamName>©вℓєα¢нкιиg®</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076438' start='2021-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116847713' start='2021-09-23T15:55:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='36515'>
+                <teamName>Ari Ari Ari Arimo</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116925427' start='2021-09-25T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116939311' start='2021-09-30T16:00:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='171574'>
+                <teamName>Psie Hlavy 07</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969618' start='2021-10-02T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

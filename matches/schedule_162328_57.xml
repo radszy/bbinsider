@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162328' season='57' retrieved='2023-02-24T22:05:41Z'>
+        <match id='119566903' start='2022-04-21T10:00:00Z' type='friendly'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='107183'>
+                <teamName>LionDash</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382670' start='2022-04-22T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924117' start='2022-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924125' start='2022-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120566232' start='2022-04-27T16:40:00Z' type='bbm'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='198814'>
+                <teamName>oldgold</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924760' start='2022-04-28T16:35:00Z' type='cup'>
+            <awayTeam id='164974'>
+                <teamName>Krówsko</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382679' start='2022-04-29T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924133' start='2022-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924141' start='2022-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120573934' start='2022-05-04T17:00:00Z' type='bbm'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='35043'>
+                <teamName>Berlin Street Style</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120589481' start='2022-05-05T16:35:00Z' type='cup'>
+            <awayTeam id='233505'>
+                <teamName>Satans Dlugie</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382688' start='2022-05-06T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924147' start='2022-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924154' start='2022-05-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120598572' start='2022-05-11T16:40:00Z' type='bbm'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='160366'>
+                <teamName>Quahog Toy Boys</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120609876' start='2022-05-12T16:35:00Z' type='cup'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='55674'>
+                <teamName>Blaugrana Starachowice</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382697' start='2022-05-13T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924163' start='2022-05-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924173' start='2022-05-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120615237' start='2022-05-18T18:00:00Z' type='bbm'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='76872'>
+                <teamName>Extreme Kings</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120624180' start='2022-05-19T16:35:00Z' type='cup'>
+            <awayTeam id='162905'>
+                <teamName>Galena Kielce</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382706' start='2022-05-20T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='166100'>
+                <teamName>Arcykoty Krzyków</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924181' start='2022-05-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924189' start='2022-05-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120628445' start='2022-05-25T16:35:00Z' type='bbm'>
+            <awayTeam id='55539'>
+                <teamName>Magic Gortat Team</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120636228' start='2022-05-26T16:35:00Z' type='cup'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55539'>
+                <teamName>Magic Gortat Team</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382714' start='2022-05-27T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924197' start='2022-05-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924205' start='2022-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120640673' start='2022-06-01T13:30:00Z' type='bbm'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='58843'>
+                <teamName>K.M.A.</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120648119' start='2022-06-02T16:35:00Z' type='cup'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382721' start='2022-06-03T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924213' start='2022-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120660126' start='2022-06-07T16:35:00Z' type='cup'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162595'>
+                <teamName>Pyro Slam-a-Jama</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1055002087' start='2022-06-08T16:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120653173' start='2022-06-08T16:35:00Z' type='bbm'>
+            <awayTeam id='106849'>
+                <teamName>Vikings BC</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120664588' start='2022-06-09T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382728' start='2022-06-10T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164181'>
+                <teamName>King Sajz</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924221' start='2022-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924229' start='2022-06-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>23</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120665601' start='2022-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='164980'>
+                <teamName>Klub Sportowy Anwil Włocławek</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924237' start='2022-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924245' start='2022-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120670966' start='2022-06-23T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162729'>
+                <teamName>Bug Wyszków</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924253' start='2022-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924261' start='2022-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120675847' start='2022-06-30T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924267' start='2022-07-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924274' start='2022-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681330' start='2022-07-07T22:00:00Z' type='friendly'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='24234'>
+                <teamName>Atenas10</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924283' start='2022-07-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120686756' start='2022-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='163503'>
+                <teamName>My Entire Team Sucks</teamName>
+<score>23</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120775458' start='2022-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120798904' start='2022-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='238787'>
+                <teamName>Cobra Team</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120820496' start='2022-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

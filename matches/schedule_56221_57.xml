@@ -1,0 +1,698 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56221' season='57' retrieved='2023-02-24T22:05:37Z'>
+        <match id='119568577' start='2022-04-21T17:05:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='93195'>
+                <teamName>Rotterdam Red Lights</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382667' start='2022-04-22T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924116' start='2022-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924123' start='2022-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120566207' start='2022-04-27T16:35:00Z' type='bbm'>
+            <awayTeam id='39350'>
+                <teamName>Alecksandro</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924987' start='2022-04-28T16:35:00Z' type='cup'>
+            <awayTeam id='164821'>
+                <teamName>ALMAROWCY</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382675' start='2022-04-29T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924130' start='2022-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924141' start='2022-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120573997' start='2022-05-04T18:00:00Z' type='bbm'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='91681'>
+                <teamName>Optic Fibres</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120589603' start='2022-05-05T16:35:00Z' type='cup'>
+            <awayTeam id='165042'>
+                <teamName>El Chicago Bulls</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382683' start='2022-05-06T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164181'>
+                <teamName>King Sajz</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924148' start='2022-05-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924157' start='2022-05-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120598531' start='2022-05-11T16:35:00Z' type='bbm'>
+            <awayTeam id='90806'>
+                <teamName>Team Nook</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120609843' start='2022-05-12T16:35:00Z' type='cup'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382691' start='2022-05-13T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924165' start='2022-05-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924176' start='2022-05-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120615110' start='2022-05-18T16:35:00Z' type='bbm'>
+            <awayTeam id='172830'>
+                <teamName>Riksun koripallot</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120624183' start='2022-05-19T16:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='55793'>
+                <teamName>Aligatorki</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382699' start='2022-05-20T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163674'>
+                <teamName>Payro</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924184' start='2022-05-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924192' start='2022-05-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120628431' start='2022-05-25T16:35:00Z' type='bbm'>
+            <awayTeam id='78627'>
+                <teamName>Wild Pride</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120638964' start='2022-05-26T17:00:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='26173'>
+                <teamName>Hoop-Hawks</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382707' start='2022-05-27T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924200' start='2022-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924208' start='2022-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120640870' start='2022-06-01T16:35:00Z' type='bbm'>
+            <awayTeam id='77905'>
+                <teamName>NoAguantoLaJuerga</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120651208' start='2022-06-02T17:05:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='93132'>
+                <teamName>NWL STARS</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382715' start='2022-06-03T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='237760'>
+                <teamName>Rajdersi</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924216' start='2022-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120653154' start='2022-06-08T16:35:00Z' type='bbm'>
+            <awayTeam id='27470'>
+                <teamName>Strokes 31</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1055002087' start='2022-06-08T16:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120662147' start='2022-06-09T14:30:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='147538'>
+                <teamName>PaganuDievi</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382723' start='2022-06-10T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924224' start='2022-06-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924232' start='2022-06-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120665094' start='2022-06-15T16:35:00Z' type='unknown'>
+            <awayTeam id='87264'>
+                <teamName>Nancy Basket Albatros</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120666833' start='2022-06-16T22:30:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='59504'>
+                <teamName>Andinos</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120665715' start='2022-06-17T16:35:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924236' start='2022-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924243' start='2022-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120670710' start='2022-06-22T16:35:00Z' type='unknown'>
+            <awayTeam id='277033'>
+                <teamName>D L R</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120673102' start='2022-06-23T15:30:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='89299'>
+                <teamName>Panthessalonikios</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120671022' start='2022-06-24T16:35:00Z' type='pl.finalneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924250' start='2022-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924261' start='2022-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120675726' start='2022-06-29T16:35:00Z' type='unknown'>
+            <awayTeam id='73234'>
+                <teamName>İzmir Orcas</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120679166' start='2022-06-30T18:00:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='176003'>
+                <teamName>SMOKI WAWELSKIE</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924268' start='2022-07-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924277' start='2022-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681025' start='2022-07-06T16:35:00Z' type='unknown'>
+            <awayTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120685114' start='2022-07-07T17:30:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='276568'>
+                <teamName>SOA baby butchers</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924285' start='2022-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120725272' start='2022-07-12T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120685895' start='2022-07-13T16:35:00Z' type='unknown'>
+            <awayTeam id='210825'>
+                <teamName>Tunjevina</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120759304' start='2022-07-14T15:30:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='89482'>
+                <teamName>KakapetraRocks</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120775459' start='2022-07-16T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120789298' start='2022-07-20T16:35:00Z' type='unknown'>
+            <awayTeam id='34336'>
+                <teamName>Olympic rebels</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120791141' start='2022-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='47207'>
+                <teamName>PoppyScotel Academy</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120820490' start='2022-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

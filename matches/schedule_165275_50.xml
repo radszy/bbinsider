@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165275' season='50' retrieved='2023-02-24T22:04:48Z'>
+        <match id='110759624' start='2020-06-04T16:35:00Z' type='friendly'>
+            <awayTeam id='48323'>
+                <teamName>Birra Ichnusa</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110698763' start='2020-06-05T13:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='46158'>
+                <teamName>MAZZINI BAD BIRDS</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118581' start='2020-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118592' start='2020-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118945' start='2020-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='163481'>
+                <teamName>Asseco PRG Procom</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110698766' start='2020-06-12T13:00:00Z' type='pl.rs'>
+            <awayTeam id='85559'>
+                <teamName>Stade Clermontois Basket</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118599' start='2020-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118606' start='2020-06-16T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111768457' start='2020-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='164416'>
+                <teamName>KKS Zagórze Sosnowiec</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110698768' start='2020-06-19T13:00:00Z' type='pl.rs'>
+            <awayTeam id='79491'>
+                <teamName>Sociedad Deportiva Avilés</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118615' start='2020-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118623' start='2020-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111781989' start='2020-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='55460'>
+                <teamName>Nakkiga</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110698769' start='2020-06-26T13:00:00Z' type='pl.rs'>
+            <awayTeam id='46158'>
+                <teamName>MAZZINI BAD BIRDS</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118631' start='2020-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118637' start='2020-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111789279' start='2020-07-02T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='55718'>
+                <teamName>Arbuzy</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110698772' start='2020-07-03T13:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='85559'>
+                <teamName>Stade Clermontois Basket</teamName>
+<score>27</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118644' start='2020-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118651' start='2020-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111794793' start='2020-07-09T16:35:00Z' type='cup'>
+            <awayTeam id='165118'>
+                <teamName>Fire Emperor</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111795759' start='2020-07-10T13:00:00Z' type='pl.final'>
+            <awayTeam id='46158'>
+                <teamName>MAZZINI BAD BIRDS</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118658' start='2020-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118665' start='2020-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111800004' start='2020-07-16T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163576'>
+                <teamName>R.K.S. Huwdu</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111803237' start='2020-07-17T15:00:00Z' type='pl.rs'>
+            <awayTeam id='50573'>
+                <teamName>Kendal 41ers</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118680' start='2020-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111805284' start='2020-07-21T16:35:00Z' type='cup'>
+            <awayTeam id='163342'>
+                <teamName>Turkusowe Szerszenie</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1048002086' start='2020-07-22T16:35:00Z' type='unknown'>
+            <awayTeam id='2086'>
+                <teamName>Big 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='2086'>
+                <teamName>Great 8</teamName>
+<score>156</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111810065' start='2020-07-23T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162292'>
+                <teamName>Znicz Basket Pruszków</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111803240' start='2020-07-24T15:00:00Z' type='pl.rs'>
+            <awayTeam id='277024'>
+                <teamName>Hoopstars BC Academy</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118687' start='2020-07-25T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118694' start='2020-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111810637' start='2020-07-30T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111803242' start='2020-07-31T15:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='95714'>
+                <teamName>ZaibasBC</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118701' start='2020-08-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118712' start='2020-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816692' start='2020-08-06T16:35:00Z' type='friendly'>
+            <awayTeam id='176946'>
+                <teamName>B4N Brno</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111803243' start='2020-08-07T15:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='50573'>
+                <teamName>Kendal 41ers</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118719' start='2020-08-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118726' start='2020-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111821952' start='2020-08-13T16:35:00Z' type='friendly'>
+            <awayTeam id='27427'>
+                <teamName>Feuquières</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111803246' start='2020-08-14T15:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>139</score>
+            </awayTeam>
+            <homeTeam id='277024'>
+                <teamName>Hoopstars BC Academy</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118735' start='2020-08-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118743' start='2020-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111827239' start='2020-08-20T16:35:00Z' type='friendly'>
+            <awayTeam id='193127'>
+                <teamName>Cubao Commuters</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111803248' start='2020-08-21T15:00:00Z' type='pl.rs'>
+            <awayTeam id='95714'>
+                <teamName>ZaibasBC</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118751' start='2020-08-22T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111871627' start='2020-08-25T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111832348' start='2020-08-27T16:35:00Z' type='friendly'>
+            <awayTeam id='58985'>
+                <teamName>0-and-76ers</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111831909' start='2020-08-28T15:00:00Z' type='pl.semifinal'>
+            <awayTeam id='277024'>
+                <teamName>Hoopstars BC Academy</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111921978' start='2020-08-29T16:35:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111935908' start='2020-09-03T17:30:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='35991'>
+                <teamName>Xoteam</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111935453' start='2020-09-04T15:00:00Z' type='pl.final'>
+            <awayTeam id='50573'>
+                <teamName>Kendal 41ers</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111966794' start='2020-09-05T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

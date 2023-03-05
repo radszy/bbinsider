@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163062' season='43' retrieved='2023-02-24T22:09:29Z'>
+        <match id='102101283' start='2018-07-19T16:35:00Z' type='friendly'>
+            <awayTeam id='92576'>
+                <teamName>Winners Team</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101927060' start='2018-07-20T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147309' start='2018-07-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147317' start='2018-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147699' start='2018-07-26T16:35:00Z' type='cup'>
+            <awayTeam id='162557'>
+                <teamName>Anwil69</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101927065' start='2018-07-27T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163674'>
+                <teamName>Payro</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147325' start='2018-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147333' start='2018-07-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103110084' start='2018-08-02T16:35:00Z' type='cup'>
+            <awayTeam id='164857'>
+                <teamName>SMPDistrict</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101927070' start='2018-08-03T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147341' start='2018-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147349' start='2018-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103122462' start='2018-08-09T16:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162454'>
+                <teamName>KS Zamostem</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103126158' start='2018-08-10T18:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147356' start='2018-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147361' start='2018-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103129722' start='2018-08-16T16:35:00Z' type='cup'>
+            <awayTeam id='163027'>
+                <teamName>AZS KA Kraków</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103131703' start='2018-08-17T18:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147368' start='2018-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147383' start='2018-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103135680' start='2018-08-23T16:35:00Z' type='cup'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='164549'>
+                <teamName>Juliankas</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147390' start='2018-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147397' start='2018-08-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103141698' start='2018-08-30T16:35:00Z' type='friendly'>
+            <awayTeam id='139910'>
+                <teamName>Glienior</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143348' start='2018-08-31T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147404' start='2018-09-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1041002083' start='2018-09-05T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103147114' start='2018-09-06T16:35:00Z' type='friendly'>
+            <awayTeam id='277017'>
+                <teamName>养生二号</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143351' start='2018-09-07T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147411' start='2018-09-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147418' start='2018-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103154034' start='2018-09-13T16:35:00Z' type='friendly'>
+            <awayTeam id='248521'>
+                <teamName>Sabers Teeth</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143354' start='2018-09-14T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147429' start='2018-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147437' start='2018-09-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103159755' start='2018-09-20T16:35:00Z' type='friendly'>
+            <awayTeam id='275727'>
+                <teamName>Malavaristas</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143359' start='2018-09-21T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147445' start='2018-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147453' start='2018-09-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103165945' start='2018-09-27T16:35:00Z' type='friendly'>
+            <awayTeam id='23767'>
+                <teamName>Boston Haymakers</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143364' start='2018-09-28T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147461' start='2018-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147469' start='2018-10-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103170671' start='2018-10-04T16:35:00Z' type='friendly'>
+            <awayTeam id='275693'>
+                <teamName>Kerlci II</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143369' start='2018-10-05T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147476' start='2018-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212752' start='2018-10-09T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103174092' start='2018-10-11T16:35:00Z' type='friendly'>
+            <awayTeam id='136848'>
+                <teamName>Power Resaca</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103143373' start='2018-10-12T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212753' start='2018-10-13T16:35:00Z' type='league.relegation'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103279117' start='2018-10-18T16:35:00Z' type='friendly'>
+            <awayTeam id='276000'>
+                <teamName>Alko1000 II</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103276503' start='2018-10-19T18:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103307117' start='2018-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

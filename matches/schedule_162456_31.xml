@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162456' season='31' retrieved='2023-02-24T22:12:01Z'>
+        <match id='82280134' start='2015-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='28128'>
+                <teamName>Super Stars</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705740' start='2015-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705748' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82709575' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='236386'>
+                <teamName>War Wólka Pytowska</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705756' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705764' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85050828' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>150</score>
+            </awayTeam>
+            <homeTeam id='164392'>
+                <teamName>Ratatuj Basket Team</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705770' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705779' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85082847' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='164607'>
+                <teamName>CWKS Legia</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705787' start='2015-05-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705796' start='2015-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100919' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='55626'>
+                <teamName>Zew Kazimierz</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705804' start='2015-05-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705812' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111561' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='165899'>
+                <teamName>Basket Snakes</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705820' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705828' start='2015-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119605' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='165638'>
+                <teamName>ART-CENTRUM TEAM</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705836' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126934' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='55821'>
+                <teamName>The Cormorans</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029002083' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>174</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>172</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85133536' start='2015-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='165513'>
+                <teamName>SFKrawężniki Elbląg</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705844' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705852' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85134583' start='2015-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705860' start='2015-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705868' start='2015-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85142814' start='2015-07-02T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162289'>
+                <teamName>Magik Wrocław</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705876' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705884' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85149126' start='2015-07-09T16:35:00Z' type='friendly'>
+            <awayTeam id='162980'>
+                <teamName>Brooklyn Częstochowa Nets</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705890' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705899' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85155100' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='56166'>
+                <teamName>Oklahoma Silver Fox</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705907' start='2015-07-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85161614' start='2015-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162530'>
+                <teamName>Gwardia szczytno</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85360777' start='2015-07-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85410104' start='2015-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163470'>
+                <teamName>Slask Wrocław</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483111' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

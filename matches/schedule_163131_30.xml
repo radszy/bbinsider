@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163131' season='30' retrieved='2023-02-24T22:11:56Z'>
+        <match id='78989898' start='2015-01-22T17:35:00Z' type='friendly'>
+            <awayTeam id='214552'>
+                <teamName>Angel Bests!</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>18</score>
+            </homeTeam>
+        </match>
+    
+        <match id='78562426' start='2015-01-23T17:35:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='42299'>
+                <teamName>Volketswil 76ers</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413823' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413831' start='2015-01-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79417769' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='232105'>
+                <teamName>No Mercy Srocko Wielkie</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735012' start='2015-01-30T17:35:00Z' type='pl.final'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='42299'>
+                <teamName>Volketswil 76ers</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413839' start='2015-01-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413847' start='2015-02-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81758505' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='163640'>
+                <teamName>goodballers</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413855' start='2015-02-07T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413863' start='2015-02-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81791281' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='239044'>
+                <teamName>Attitude Rosnówko</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413871' start='2015-02-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413875' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81809988' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='164376'>
+                <teamName>Lech z Rypina</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413890' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413897' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81820976' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='55483'>
+                <teamName>Czuchów Magic</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413904' start='2015-02-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413911' start='2015-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829283' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='163395'>
+                <teamName>Gobliny</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>148</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413918' start='2015-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836768' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028002085' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>163</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81844361' start='2015-03-12T16:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='55897'>
+                <teamName>FC Wisnius</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413925' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413932' start='2015-03-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81849358' start='2015-03-19T18:00:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='117041'>
+                <teamName>kyk blt</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413943' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413951' start='2015-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81857658' start='2015-03-27T01:00:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='43136'>
+                <teamName>CHATARREROS</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413959' start='2015-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413967' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413975' start='2015-04-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413983' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413991' start='2015-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81948419' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82073083' start='2015-04-18T16:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82278793' start='2015-04-23T22:30:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>167</score>
+            </awayTeam>
+            <homeTeam id='53589'>
+                <teamName>Gumarelo</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196316' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

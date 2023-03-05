@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='51' retrieved='2023-02-24T21:46:19Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2091</pf>
+                    <pa>1638</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1957</pf>
+                    <pa>1741</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163402'>
+                    <teamName>Polonia Fordon</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1710</pf>
+                    <pa>1498</pa>
+                    <isBot>1</isBot>
+                    <forfeits>1</forfeits>
+                </team><team id='56421'>
+                    <teamName>Nałęczów Warriors</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2079</pf>
+                    <pa>1979</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1943</pf>
+                    <pa>1855</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163288'>
+                    <teamName>Chomiczówka´s Boys</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1834</pf>
+                    <pa>1768</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55897'>
+                    <teamName>Niewazne</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1802</pf>
+                    <pa>1951</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164924'>
+                    <teamName>Zbikoo Team</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1264</pf>
+                    <pa>2366</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2179</pf>
+                    <pa>1592</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>1935</pf>
+                    <pa>1483</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>1950</pf>
+                    <pa>1746</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56224'>
+                    <teamName>Dudopol Dudowizna</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1990</pf>
+                    <pa>1777</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1748</pf>
+                    <pa>1966</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1909</pf>
+                    <pa>1865</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>1875</pf>
+                    <pa>1806</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163885'>
+                    <teamName>Orzeł Cesarski Poznań</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>1201</pf>
+                    <pa>2436</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='113109973' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56421'>
+                        <teamName>Nałęczów Warriors</teamName>
+<score>76</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109974' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>69</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>80</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109975' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56224'>
+                        <teamName>Dudopol Dudowizna</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109976' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>69</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='113160427' start='2020-12-05T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113160428' start='2020-12-05T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='113204914' start='2020-12-08T17:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>113</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113204915' start='2020-12-12T17:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>95</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113204916' start='2020-12-13T17:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='113109977' start='2020-12-01T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109980' start='2020-12-01T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55897'>
+                        <teamName>Niewazne</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109983' start='2020-12-01T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+                    </awayTeam>
+                    <homeTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109978' start='2020-12-05T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109981' start='2020-12-05T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='55897'>
+                        <teamName>Niewazne</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109984' start='2020-12-05T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109979' start='2020-12-08T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>111</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='113109982' start='2020-12-08T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55897'>
+                        <teamName>Niewazne</teamName>
+<score>76</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>87</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='55897'>Niewazne</relegated>
+            
+            <relegated id='56049'>Both teams played hard</relegated>
+            
+            <relegated id='163288'>Chomiczówka´s Boys</relegated>
+            
+            <relegated id='163885'>Orzeł Cesarski Poznań</relegated>
+            
+            <relegated id='164924'>Zbikoo Team</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

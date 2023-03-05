@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56429' season='30' retrieved='2023-02-24T22:11:56Z'>
+        <match id='78990852' start='2015-01-22T16:30:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='202702'>
+                <teamName>K.K. Tomevski</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413824' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413832' start='2015-01-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79416760' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='233848'>
+                <teamName>Capers Miasteczko</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413840' start='2015-01-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413848' start='2015-02-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81757363' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='163374'>
+                <teamName>Chicago Lalkers</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413856' start='2015-02-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413864' start='2015-02-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81791309' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56048'>
+                <teamName>devils_tczew</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413871' start='2015-02-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413876' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81809863' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163161'>
+                <teamName>KK Falcons</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413883' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413898' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81820926' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='162651'>
+                <teamName>Inwalidzi</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413905' start='2015-02-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413912' start='2015-03-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829322' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='56680'>
+                <teamName>Dzikie TaDziki</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413919' start='2015-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836745' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56608'>
+                <teamName>Anwillek</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028002136' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='2136'>
+                <teamName>Big 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='2136'>
+                <teamName>Great 8</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81843586' start='2015-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413926' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413933' start='2015-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81844648' start='2015-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413944' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413952' start='2015-03-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81857031' start='2015-03-26T23:30:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='209159'>
+                <teamName>Dazzlers</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413960' start='2015-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413968' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81861734' start='2015-04-02T11:00:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='207827'>
+                <teamName>Hanoi Dragon</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413976' start='2015-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413984' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81871724' start='2015-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='187378'>
+                <teamName>九霄</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413991' start='2015-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81948418' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81876916' start='2015-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163027'>
+                <teamName>Wybrzeże Klatki Schodowej</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82073084' start='2015-04-18T16:35:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196317' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

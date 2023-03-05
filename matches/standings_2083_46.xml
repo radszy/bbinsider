@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='46' retrieved='2023-02-24T22:09:45Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2272</pf>
+                    <pa>1605</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2286</pf>
+                    <pa>1705</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2061</pf>
+                    <pa>1797</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56056'>
+                    <teamName>The French Bulldog&#39;s</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2055</pf>
+                    <pa>1729</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1879</pf>
+                    <pa>1745</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1748</pf>
+                    <pa>1832</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56429'>
+                    <teamName>TOP TEN THUNDERS</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1971</pf>
+                    <pa>1726</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164210'>
+                    <teamName>Ciamajdy</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1961</pf>
+                    <pa>1917</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2081</pf>
+                    <pa>1586</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1947</pf>
+                    <pa>1778</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2184</pf>
+                    <pa>1697</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164924'>
+                    <teamName>Zbikoo Team</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1987</pf>
+                    <pa>1587</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1856</pf>
+                    <pa>1815</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162479'>
+                    <teamName>Dominatorzy</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1611</pf>
+                    <pa>2355</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165563'>
+                    <teamName>Jastrzębie</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1311</pf>
+                    <pa>2338</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163406'>
+                    <teamName>PGE Dębe</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>841</pf>
+                    <pa>2839</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='106924315' start='2019-07-30T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924316' start='2019-07-30T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924317' start='2019-07-30T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='164924'>
+                        <teamName>Zbikoo Team</teamName>
+<score>75</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>87</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924318' start='2019-07-30T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>67</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='106974250' start='2019-08-03T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106974251' start='2019-08-03T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='107018820' start='2019-08-06T16:35:00Z' type='league.final'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>91</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='107018821' start='2019-08-10T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>105</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='107018822' start='2019-08-11T16:35:00Z' type='league.final'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>95</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='106924319' start='2019-07-30T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='165563'>
+                        <teamName>Jastrzębie</teamName>
+<score>46</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>131</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924322' start='2019-07-30T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924325' start='2019-07-30T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162479'>
+                        <teamName>Dominatorzy</teamName>
+<score>45</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924320' start='2019-08-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>126</score>
+                    </awayTeam>
+                    <homeTeam id='165563'>
+                        <teamName>Jastrzębie</teamName>
+<score>26</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924323' start='2019-08-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>98</score>
+                    </awayTeam>
+                    <homeTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>88</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924326' start='2019-08-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>105</score>
+                    </awayTeam>
+                    <homeTeam id='162479'>
+                        <teamName>Dominatorzy</teamName>
+<score>127</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='106924327' start='2019-08-06T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162479'>
+                        <teamName>Dominatorzy</teamName>
+<score>45</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>139</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='56429'>TOP TEN THUNDERS</relegated>
+            
+            <relegated id='162479'>Dominatorzy</relegated>
+            
+            <relegated id='163406'>PGE Dębe</relegated>
+            
+            <relegated id='164210'>Ciamajdy</relegated>
+            
+            <relegated id='165563'>Jastrzębie</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

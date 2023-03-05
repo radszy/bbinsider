@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162788' season='54' retrieved='2023-02-24T22:05:19Z'>
+        <match id='115707713' start='2021-07-01T16:35:00Z' type='friendly'>
+            <awayTeam id='30168'>
+                <teamName>AZ Sunburn</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540336' start='2021-07-02T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='92390'>
+                <teamName>Ramat-Gan Billers</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076271' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076282' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116716841' start='2021-07-07T16:35:00Z' type='bbb'>
+            <awayTeam id='105899'>
+                <teamName>Jedi Knights</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076934' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='165543'>
+                <teamName>MKS Olimp Parczew</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540342' start='2021-07-09T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076289' start='2021-07-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076296' start='2021-07-13T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116716919' start='2021-07-14T17:30:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='85705'>
+                <teamName>TeemoBoyz</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740585' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='165787'>
+                <teamName>Horsepower Chabowo Swiniary</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540348' start='2021-07-16T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='197523'>
+                <teamName>ILoveNatalie</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076305' start='2021-07-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076313' start='2021-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116716983' start='2021-07-21T16:35:00Z' type='bbb'>
+            <awayTeam id='196187'>
+                <teamName>You Shouldve Dunked!</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760721' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='163834'>
+                <teamName>Rozpierdols</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540354' start='2021-07-23T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='25400'>
+                <teamName>快马巨鞭</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076321' start='2021-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076327' start='2021-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717006' start='2021-07-28T16:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='42729'>
+                <teamName>KK Mordor</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774757' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='162206'>
+                <teamName>WILD.JD</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540360' start='2021-07-30T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='75788'>
+                <teamName>GMA Team</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076334' start='2021-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076341' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717095' start='2021-08-04T10:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='107374'>
+                <teamName>Relent</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116786472' start='2021-08-05T16:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='164361'>
+                <teamName>SKANER ZIELONA GÓRA</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540366' start='2021-08-06T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='166562'>
+                <teamName>Black Dragons</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076348' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076355' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717153' start='2021-08-11T16:35:00Z' type='bbb'>
+            <awayTeam id='44489'>
+                <teamName>Semilasteros</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116797996' start='2021-08-12T16:35:00Z' type='cup'>
+            <awayTeam id='56621'>
+                <teamName>OSTROŁEKA</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540372' start='2021-08-13T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076370' start='2021-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116809700' start='2021-08-17T16:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163855'>
+                <teamName>Krótkie Spodenki Przedmieście</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052002083' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>158</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717180' start='2021-08-18T17:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='118010'>
+                <teamName>Qhoo Church</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116814402' start='2021-08-19T16:35:00Z' type='cup'>
+            <awayTeam id='55379'>
+                <teamName>Warsaw Mutants</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115540378' start='2021-08-20T11:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='209853'>
+                <teamName>Team Infinity</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076377' start='2021-08-21T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076384' start='2021-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717238' start='2021-08-25T16:35:00Z' type='bbb'>
+            <awayTeam id='55117'>
+                <teamName>O-Beshimi</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815934' start='2021-08-26T16:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076391' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076402' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820685' start='2021-09-01T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='198540'>
+                <teamName>pingu16</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116821642' start='2021-09-02T16:35:00Z' type='friendly'>
+            <awayTeam id='92799'>
+                <teamName>Beijum Ducks</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822666' start='2021-09-03T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076409' start='2021-09-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076416' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116825661' start='2021-09-08T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='100532'>
+                <teamName>Batinari</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116829324' start='2021-09-09T16:35:00Z' type='friendly'>
+            <awayTeam id='139942'>
+                <teamName>Godojos Basket</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822672' start='2021-09-10T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='146725'>
+                <teamName>I Love Tehran</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076425' start='2021-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076433' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116830702' start='2021-09-15T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='146725'>
+                <teamName>I Love Tehran</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116832072' start='2021-09-16T18:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='76074'>
+                <teamName>JMDCeltics</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822678' start='2021-09-17T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='92390'>
+                <teamName>Ramat-Gan Billers</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076441' start='2021-09-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875269' start='2021-09-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116837093' start='2021-09-23T16:35:00Z' type='friendly'>
+            <awayTeam id='58908'>
+                <teamName>LaLa Landia</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822686' start='2021-09-24T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='277033'>
+                <teamName>D L R</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116925429' start='2021-09-25T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116939846' start='2021-09-30T15:55:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='46306'>
+                <teamName>Mandibola United</teamName>
+<score>24</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822694' start='2021-10-01T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='69827'>
+                <teamName>正德俱乐部</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969612' start='2021-10-02T16:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

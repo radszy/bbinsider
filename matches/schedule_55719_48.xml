@@ -1,0 +1,478 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55719' season='48' retrieved='2023-02-24T22:10:02Z'>
+        <match id='108290577' start='2019-11-21T16:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='276081'>
+                <teamName>BALKAN Botevgrad II</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645614' start='2019-11-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645621' start='2019-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108646385' start='2019-11-28T17:35:00Z' type='cup'>
+            <awayTeam id='163248'>
+                <teamName>ARMAGEDDON TEAM</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645628' start='2019-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645639' start='2019-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109296180' start='2019-12-05T17:35:00Z' type='cup'>
+            <awayTeam id='56094'>
+                <teamName>Columbus Stoners</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645646' start='2019-12-07T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645655' start='2019-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109309117' start='2019-12-12T17:35:00Z' type='cup'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645663' start='2019-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645674' start='2019-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109315975' start='2019-12-19T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='56690'>
+                <teamName>Inter Kraków</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645682' start='2019-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645690' start='2019-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109321508' start='2019-12-26T17:35:00Z' type='cup'>
+            <awayTeam id='166133'>
+                <teamName>Puglets</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645698' start='2019-12-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645706' start='2019-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109326360' start='2020-01-02T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645714' start='2020-01-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109331394' start='2020-01-07T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162352'>
+                <teamName>Michu Team</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1046002083' start='2020-01-08T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336167' start='2020-01-09T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163220'>
+                <teamName>BlueJays Bydgoszcz</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645722' start='2020-01-11T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645730' start='2020-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336840' start='2020-01-16T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645734' start='2020-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645741' start='2020-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109346957' start='2020-01-24T01:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='23678'>
+                <teamName>Tachenko</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645748' start='2020-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645759' start='2020-01-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109350822' start='2020-01-30T17:35:00Z' type='friendly'>
+            <awayTeam id='273565'>
+                <teamName>Monster Team Low</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645766' start='2020-02-01T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645775' start='2020-02-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109356224' start='2020-02-06T10:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='54146'>
+                <teamName>Cebu Orcas</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645783' start='2020-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397569' start='2020-02-11T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109370256' start='2020-02-14T01:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='30462'>
+                <teamName>Mof State Squizzes</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109447152' start='2020-02-15T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491767' start='2020-02-18T17:35:00Z' type='league.final'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109469533' start='2020-02-20T16:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='143129'>
+                <teamName>ArisThessaloniki</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491768' start='2020-02-22T17:35:00Z' type='league.final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491769' start='2020-02-23T17:35:00Z' type='league.final'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

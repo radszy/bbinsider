@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164110' season='58' retrieved='2023-02-24T22:05:50Z'>
+        <match id='120851211' start='2022-07-28T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208598' start='2022-07-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208605' start='2022-08-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121849327' start='2022-08-03T16:35:00Z' type='bbm'>
+            <awayTeam id='34563'>
+                <teamName>Sin-City</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208997' start='2022-08-04T16:35:00Z' type='cup'>
+            <awayTeam id='163196'>
+                <teamName>Wisnius FC</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208616' start='2022-08-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208623' start='2022-08-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121856897' start='2022-08-10T15:30:00Z' type='bbm'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='146095'>
+                <teamName>Iraklis Aridaias</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121872562' start='2022-08-11T16:35:00Z' type='cup'>
+            <awayTeam id='165171'>
+                <teamName>KS Drwęca Nowe Miasto Lubawskie</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208632' start='2022-08-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208640' start='2022-08-16T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121881222' start='2022-08-17T08:00:00Z' type='bbm'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='38851'>
+                <teamName>The Dark Passenger</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121892896' start='2022-08-18T16:35:00Z' type='cup'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163464'>
+                <teamName>Superstar63</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208647' start='2022-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208654' start='2022-08-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121898378' start='2022-08-24T22:30:00Z' type='bbm'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='96371'>
+                <teamName>piñas ballerz</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121909927' start='2022-08-25T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='56068'>
+                <teamName>PakaZHaka</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208661' start='2022-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208668' start='2022-08-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121911381' start='2022-08-31T10:30:00Z' type='bbm'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='51385'>
+                <teamName>Bayer Leverkusen 04</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121921647' start='2022-09-01T16:35:00Z' type='friendly'>
+            <awayTeam id='28544'>
+                <teamName>Baker Street Irregulars</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208675' start='2022-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>15</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208682' start='2022-09-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121923825' start='2022-09-07T14:55:00Z' type='bbm'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='91717'>
+                <teamName>Stars Team</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121934197' start='2022-09-08T19:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='276695'>
+                <teamName>Les salauds gentilshommes</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208689' start='2022-09-10T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121936105' start='2022-09-14T14:55:00Z' type='bbm'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='91724'>
+                <teamName>The Puppies</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1056002087' start='2022-09-14T16:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>162</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>184</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121948239' start='2022-09-15T16:35:00Z' type='friendly'>
+            <awayTeam id='276380'>
+                <teamName>Naxarita</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208704' start='2022-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208711' start='2022-09-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121951523' start='2022-09-22T16:40:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='160320'>
+                <teamName>Alba 5stars</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208718' start='2022-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208725' start='2022-09-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121956146' start='2022-09-29T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208736' start='2022-10-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208743' start='2022-10-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121962221' start='2022-10-06T14:30:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='181290'>
+                <teamName>Bomžikiniai</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208752' start='2022-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208760' start='2022-10-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121968976' start='2022-10-13T10:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='187157'>
+                <teamName>熊猫和他的朋友们篮球俱乐部</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208767' start='2022-10-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122008796' start='2022-10-18T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121969905' start='2022-10-20T10:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='189309'>
+                <teamName>TIGER.</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122058914' start='2022-10-22T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122130195' start='2022-10-28T00:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='23267'>
+                <teamName>Fenway Flyers</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122103225' start='2022-10-29T16:35:00Z' type='friendly'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

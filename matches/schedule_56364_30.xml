@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='30' retrieved='2023-02-24T22:11:57Z'>
+        <match id='78990036' start='2015-01-22T17:35:00Z' type='friendly'>
+            <awayTeam id='28791'>
+                <teamName>Indiana Slumpbusters</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413825' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413832' start='2015-01-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79416756' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='236972'>
+                <teamName>Chimneys Wierzchowice</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413839' start='2015-01-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413850' start='2015-02-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81758942' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='233354'>
+                <teamName>Chairmen Zabuze</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413857' start='2015-02-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413866' start='2015-02-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81791965' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='165297'>
+                <teamName>LJno2</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413874' start='2015-02-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413881' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81810099' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55717'>
+                <teamName>Sparta66</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413888' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413895' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81821120' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='164838'>
+                <teamName>Posejdony Zgorzelec</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413902' start='2015-02-28T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413909' start='2015-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829310' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='56022'>
+                <teamName>Łomża Fighters</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413916' start='2015-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836734' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028002083' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>159</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>148</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81843595' start='2015-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163672'>
+                <teamName>Wygonin City</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413923' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413938' start='2015-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81844648' start='2015-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413945' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413952' start='2015-03-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81851618' start='2015-03-26T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162447'>
+                <teamName>Bank BPS Basket Kwidzyn</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413959' start='2015-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413970' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81858803' start='2015-04-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413977' start='2015-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413986' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81866225' start='2015-04-09T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413994' start='2015-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>25</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81874180' start='2015-04-16T16:40:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='160648'>
+                <teamName>BC Jáki Sasok</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82073085' start='2015-04-18T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82123664' start='2015-04-23T16:35:00Z' type='friendly'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196318' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

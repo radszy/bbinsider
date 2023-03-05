@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='43' retrieved='2023-02-24T22:09:21Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>1958</pf>
+                    <pa>1632</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2066</pf>
+                    <pa>1751</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1980</pf>
+                    <pa>1726</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163377'>
+                    <teamName>Gladiatorzyy</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1925</pf>
+                    <pa>1574</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165240'>
+                    <teamName>Clippers Wrocław</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1735</pf>
+                    <pa>1761</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1706</pf>
+                    <pa>1953</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162408'>
+                    <teamName>Polo Team Włocławek</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1948</pf>
+                    <pa>1948</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55807'>
+                    <teamName>Star Starachowice</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1847</pf>
+                    <pa>2004</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>22</wins>
+                    <losses>0</losses>
+                    <pf>2122</pf>
+                    <pa>1323</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163826'>
+                    <teamName>CampoLeony</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>1986</pf>
+                    <pa>1433</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2091</pf>
+                    <pa>1775</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56429'>
+                    <teamName>TOP TEN THUNDERS</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1793</pf>
+                    <pa>1808</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162636'>
+                    <teamName>Gornik Walbrzych KSG</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1653</pf>
+                    <pa>1732</pa>
+                    <isBot>1</isBot>
+                    <forfeits>2</forfeits>
+                </team><team id='163363'>
+                    <teamName>Lucky Loosers</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>1765</pf>
+                    <pa>1870</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163062'>
+                    <teamName>KS Olimpia</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1237</pf>
+                    <pa>2215</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55469'>
+                    <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>381</pf>
+                    <pa>1688</pa>
+                    <isBot>0</isBot>
+                    <forfeits>14</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='103212748' start='2018-10-09T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>78</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212749' start='2018-10-09T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212750' start='2018-10-09T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>68</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>84</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212751' start='2018-10-09T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='163826'>
+                        <teamName>CampoLeony</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='103262896' start='2018-10-13T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103262897' start='2018-10-13T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163826'>
+                        <teamName>CampoLeony</teamName>
+<score>61</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>77</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='103307119' start='2018-10-16T16:35:00Z' type='league.final'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>110</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>127</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103307120' start='2018-10-20T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>101</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>107</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103307121' start='2018-10-21T16:35:00Z' type='league.final'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='103212752' start='2018-10-09T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163062'>
+                        <teamName>KS Olimpia</teamName>
+<score>34</score>
+                    </awayTeam>
+                    <homeTeam id='165240'>
+                        <teamName>Clippers Wrocław</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212755' start='2018-10-09T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162408'>
+                        <teamName>Polo Team Włocławek</teamName>
+<score>91</score>
+                    </awayTeam>
+                    <homeTeam id='162636'>
+                        <teamName>Gornik Walbrzych KSG</teamName>
+<score>108</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212758' start='2018-10-09T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163363'>
+                        <teamName>Lucky Loosers</teamName>
+<score>67</score>
+                    </awayTeam>
+                    <homeTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>84</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212753' start='2018-10-13T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='165240'>
+                        <teamName>Clippers Wrocław</teamName>
+<score>97</score>
+                    </awayTeam>
+                    <homeTeam id='163062'>
+                        <teamName>KS Olimpia</teamName>
+<score>35</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212756' start='2018-10-13T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162636'>
+                        <teamName>Gornik Walbrzych KSG</teamName>
+<score>67</score>
+                    </awayTeam>
+                    <homeTeam id='162408'>
+                        <teamName>Polo Team Włocławek</teamName>
+<score>108</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212759' start='2018-10-13T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>71</score>
+                    </awayTeam>
+                    <homeTeam id='163363'>
+                        <teamName>Lucky Loosers</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212757' start='2018-10-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162408'>
+                        <teamName>Polo Team Włocławek</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='162636'>
+                        <teamName>Gornik Walbrzych KSG</teamName>
+<score>106</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='103212760' start='2018-10-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163363'>
+                        <teamName>Lucky Loosers</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='55469'>ROZTOCZAŃSKIE RYSIE</relegated>
+            
+            <relegated id='55807'>Star Starachowice</relegated>
+            
+            <relegated id='162408'>Polo Team Włocławek</relegated>
+            
+            <relegated id='163062'>KS Olimpia</relegated>
+            
+            <relegated id='163363'>Lucky Loosers</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

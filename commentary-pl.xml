@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BBCommentary>
+   <Language>19</Language>
+   <Events>
+      <e0000t0>Nie trafia.</e0000t0>
+      <e0000t1>Kosz.</e0000t1>
+      <e0000t2>Sędzia uznał, że piłka była opadająca. Punkty zaliczone.</e0000t2>
+      <e0000t3>Co za czapa!</e0000t3>
+      <e0001t0>$event1$, przy nim blisko $player2$.</e0001t0>
+      <e0001t1>$event1$ - mimo, że $player2$ był na nim niczym plaster.</e0001t1>
+      <e0001t2>$event1$, mimo tego, że $player2$ był na granicy faulu.</e0001t2>
+      <e0001t3>$event1$ po tym, jak $player2$ odpuścił krycie.</e0001t3>
+      <e0001t4>$event1$. $player2$ zupełnie się tego nie spodziewał.</e0001t4>
+      <e0002t0>$player2$ patrzy, podaje... $player1$ ma piłkę. $event1$.</e0002t0>
+      <e0002t1>$event1$, a świetną asystą popisał się $player2$.</e0002t1>
+      <e0002t2>$player2$ sprytnie podaje do $player1$. $event1$.</e0002t2>
+      <e0002t3>$player1$ ma sporo miejsca, zauważył go $player2$, podanie... $event1$.</e0002t3>
+      <e0002t4>$event1$.</e0002t4>
+      <e0002t5>$player2$! Co za podanie! Piłka już u $player1$. $event1$.</e0002t5>
+      <e0003t0>$event1$, stara się mu przeszkodzić $player2$</e0003t0>
+      <e100xt0>$player1$ próbuje rzutu za 3</e100xt0>
+      <e100xt1>$player1$ rzuca z daleka po zasłonie</e100xt1>
+      <e100xt2>$player1$ rzuca z dużej odległości</e100xt2>
+      <e100xt3>$player1$ próbuje rzutu za 3 po koźle</e100xt3>
+      <e100xt4>$player1$ biega po serii zasłon. Co za podanie w tempo, rzuca za 3</e100xt4>
+      <e100xt5>$player1$ oddaje rzut zza linii 6,75</e100xt5>
+      <e101xt0>$player1$ rzuca za 3 pod presją obrońcy</e101xt0>
+      <e101xt1>$player1$ ciska trójkę</e101xt1>
+      <e101xt2>$player1$ za 3 z kontry</e101xt2>
+      <e102xt0>$player1$ próbuje rzutu za 3 ze skrzydła</e102xt0>
+      <e103xt0>$player1$ odpala trójkę z samiuteńkiego rogu boiska</e103xt0>
+      <e103xt1>$player1$ dostaje piłkę w narożniku boiska i bez zastanowienia rzuca za 3</e103xt1>
+      <e103xt2>$player1$ już prawie na aucie, ale rzuca za 3</e103xt2>
+      <e103xt3>$player1$ uwalnia się od obrońcy po zasłonie i korzystając z chwili luzu rzuca za trzy z narożnika boiska</e103xt3>
+      <e104xt0>Przyciśnięty w obronie $player1$ oddaje rozpaczliwą, bardzo długą trójkę</e104xt0>
+      <e104xt1>Czy można stanąć jeszcze dalej? $player1$ rzuca za 3</e104xt1>
+      <e104xt2>$player1$ rzuca za 3 bez zastanowienia</e104xt2>
+      <e104xt3>$player1$ próbuje udowodnić, że ma bardzo daleki zasięg rzutu i odpala trójkę daleko od łuku</e104xt3>
+      <e105xt0>$player1$ rzuca z połowy, kibice i ławka rezerwowych wstali</e105xt0>
+      <e105xt1>$player1$ wypycha piłkę jedną ręką tuż zza połowy boiska</e105xt1>
+      <e105xt2>$player1$ jak Jacek Krzykała z połowy boiska równo z syreną</e105xt2>
+      <e105xt3>$player1$ rzuca z połowy boiska</e105xt3>
+      <e200xt0>$player1$ oddaje łatwy rzut</e200xt0>
+      <e200xt1>$player1$ dostaje piłkę. Wydaje się, że będą łatwe punkty</e200xt1>
+      <e201xt0>$player1$ rzuca z półdystansu</e201xt0>
+      <e201xt1>$player1$ sprytnie uwalnia się po zasłonie i rzuca z półdystansu</e201xt1>
+      <e201xt2>$player1$ ma mnóstwo czasu, gdzie są obrońcy? Jest 5 metrów od kosza i rzuca</e201xt2>
+      <e201xt3>Widać, że $player1$ ma doskonałą technikę, wychodzi elegancko w górę i oddaje rzut z półdystansu</e201xt3>
+      <e202xt0>$player1$ rzuca ze skrzydła</e202xt0>
+      <e202xt1>$player1$ próbuje zdobyć punkty rzutem o tablicę ze skrzydła</e202xt1>
+      <e202xt2>$player1$ jest popychany, ale udaje mu się oddać rzut ze skrzydła. Ma pretensje do sędziego.</e202xt2>
+      <e203xt0>$player1$ próbuje rzutu z linii bocznej</e203xt0>
+      <e203xt1>$player1$ uwalnia się od obrońcy i rzuca prawie z linii kończącej boisko</e203xt1>
+      <e203xt2>$player1$ świetnie mija obrońcę i wychodzi w górę do rzutu</e203xt2>
+      <e203xt3>$player1$ jest podwajany pod koszem, sprytna pompka i rzuca</e203xt3>
+      <e203xt4>Bardzo trudny rzut z linii końcowej. $player1$ znalazł tam jeszcze trochę miejsca.</e203xt4>
+      <e203xt5>$player1$ już prawie wypadał za boisko, ale udało mu się rzucić</e203xt5>
+      <e204xt0>$player1$ próbuje rzucać</e204xt0>
+      <e204xt1>$player1$ stoi naprzeciw kosza i rzuca z półdystansu</e204xt1>
+      <e21009t0>$player1$! Co za mecz! Ma na swoim koncie już double-double. Brawa od kibiców.</e21009t0>
+      <e21109t0>Wspaniały mecz $player1$. Triple-double to podsumowanie jego dobrego występu. Kibice wstali i skandują jego nazwisko.</e21109t0>
+      <e21209t0>$player1$ nie może się dziś odnaleźć. Pudłuje kolejny rzut.</e21209t0>
+      <e21309t0>$player1$ jeszcze raz! To już 5 celny rzut z rzędu! Czy znajdą na niego odpowiedź?!</e21309t0>
+      <e21409t0>$player1$! Jeeeest! Równo z syreną!</e21409t0>
+      <e21509t0>Trener widzi, że tego meczu już nie przegra i wpuszcza do gry ławkę rezerwowych.</e21509t0>
+      <e401xt0>$player1$ wychodzi w górę, efektowny wsad!</e401xt0>
+      <e401xt1>Świetny manewr pod koszem! $player1$ zawiesił obrońcę, próbuje wsadzić piłkę do kosza</e401xt1>
+      <e401xt2>Nadal $player1$. OOO, co to był za lot! $player1$! Koniec, kończymy mecz. Obrońca może powiesić w domu plakat</e401xt2>
+      <e401xt3>$player1$ wychodzi wysoko w górę, w locie dostaje wspaniałe podanie i alley-oop</e401xt3>
+      <e401xt4>$player1$ mocno pakuje piłkę do kosza</e401xt4>
+      <e401xt5>$player1$ mija obrońcę przy linii i rozciągnięty ładuje piłkę z góry</e401xt5>
+      <e401xt6>Publiczność wstaje, widząc, jak $player1$ markuje nadchodzący wsad</e401xt6>
+      <e401xt7>$player1$ wbija się w obrońców chcąc zapakować piłkę do kosza</e401xt7>
+      <e402xt0>Sprytny zwód w środku strefy i $player1$ kończy kelnerem</e402xt0>
+      <e402xt1>$player1$ wjeżdża pod kosz i chce to skończyć z góry</e402xt1>
+      <e402xt2>$player1$ świetnie zwiódł obrońcę. Przekłada piłkę z ręki do ręki w połowie drogi do kosza</e402xt2>
+      <e402xt3>Jak on to zrobił?! $player1$ mija 3 obrońców i rzuca</e402xt3>
+      <e402xt4>$player1$ znajduje lukę między obrońcami i ze spokojem wchodzi na kosz</e402xt4>
+      <e402xt5>$player1$ wchodzi na lewą rękę i niekryty rzuca o tablicę</e402xt5>
+      <e402xt6>Ładna praca kolegów w ataku. $player1$ wchodzi na kosz, dwutakt, rzuca</e402xt6>
+      <e402xt7>$player1$ mija obrońcę do linii i rzuca tyłem o tablicę</e402xt7>
+      <e402xt8>$player1$ lekko muska piłkę w kierunku kosza</e402xt8>
+      <e402xt9>Co za wyskok! $player1$ jest na wysokości obręczy, ale zamiast wsadu, próbuje kończyć lay-upem</e402xt9>
+      <e403xt0>$player1$ wchodzi atletycznie pod kosz i rzuca między obrońcami</e403xt0>
+      <e403xt1>$player1$ odbija kryjącego go obrońcę i oddaje rzut spod kosza</e403xt1>
+      <e403xt2>$player1$ ostro przepycha się pod koszem i oddaje rzut z trudnej pozycji</e403xt2>
+      <e403xt3>$player1$ robi jeszcze pompkę i rzuca o tablicę</e403xt3>
+      <e403xt4>$player1$ wbiega pod kosz. Obrońca odsunął się od niego. Tam był chyba łokieć</e403xt4>
+      <e404xt0>$player1$ próbuje rzutu z odchylenia</e404xt0>
+      <e404xt1>$player1$ rzuca, ładny fade-away</e404xt1>
+      <e404xt2>$player1$! Co za step back! I rzut</e404xt2>
+      <e404xt3>$player1$ idzie w górę i rzuca z odchylenia</e404xt3>
+      <e405xt0>$player1$ rzuca hakiem. Kiedyś rzucał tak Henryk Wardach</e405xt0>
+      <e406xt0>$player1$ gubi obrońcę efektownym zwodem i szybko wypuszcza piłkę do kosza</e406xt0>
+      <e407xt0>Wooow! Co za wbiegnięcie, nikt się tego nie spodziewał, ale $player1$ wbiegł pod kosz i dobija odbitą piłkę</e407xt0>
+      <e408xt0>$player1$ wyskakuje, będzie jeszcze dobijał ten rzut</e408xt0>
+      <e409xt0>$player1$ zbiera piłkę i momentalnie oddaje rzut</e409xt0>
+      <e410xt0>Mimo tłumu obrońców $player1$ idzie w górę próbując wsadu</e410xt0>
+      <e410xt1>$player1$ mocno idzie w górę i chce urwać obręcz</e410xt1>
+      <e410xt2>$player1$ do linii końcowej, wychodzi w górę zapakować piłkę i...</e410xt2>
+      <e410xt3>$player1$ wyskakuje, by złapać podanie alley-oop i zapakować piłkę z góry do kosza</e410xt3>
+      <e411xt0>$player1$ na luzie wjeżdża pod kosz</e411xt0>
+      <e5029t0>$player1$ bez problemów trafia rzut wolny.</e5029t0>
+      <e5029t1>$player1$ długo mierzy z linii rzutów wolnych i... celny.</e5029t1>
+      <e5029t2>$player1$ rzuca, piłka odbija się jeszcze od obręczy, ale wpada do kosza.</e5029t2>
+      <e5029t3>$player1$ przymierzył, rzucił, trafił.</e5029t3>
+      <e5029t4>$player1$ rzuca i piłka czysto wpada do kosza.</e5029t4>
+      <e5029t5>$player1$... rzuca... piłka toczy się po obręczy... i wpada do kosza. Już można wypuścić powietrze.</e5029t5>
+      <e5029t6>$player1$ niczym Andrzej Pluta z wielkim spokojem trafia rzut wolny.</e5029t6>
+      <e5029t7>$player1$ dopełnia formalności z linii rzutów osobistych.</e5029t7>
+      <e5039t0>$player1$ spudłował rzut wolny.</e5039t0>
+      <e5039t1>Ojojoj.. rzadko widzimy takie rzuty. $player1$ powinien zostać po treningu i potrenować osobiste.</e5039t1>
+      <e5049t0>Sędzia odgwizduje faul. $player2$ faulował rzucającego przeciwnika, chociaż mocno protestuje.</e5049t0>
+      <e5059t0>$player2$ przytrzymywał za koszulkę przeciwnika. Sędzia nie dał się oszukać.</e5059t0>
+      <e5079t0>$player1$ został mocno sfaulowany. Sędziowie zastanawiają się nad faulem niesportowym.</e5079t0>
+      <e5089t0>$player1$ i faul! Tak nie można bronić.</e5089t0>
+      <e5099t0>$player1$ i faul niesportowy! Sędziowie idą obejrzeć powtórkę i możemy mieć większą karę dla $player1$</e5099t0>
+      <e5109t0>$player1$ idzie do szatni! Słychać sporo niecenzuralnych słów od kibiców rywali. $player1$ mocno osłabił swój zespół.</e5109t0>
+      <e7060t0>30-sekundowy czas dla drużyny $team1$. Zawodnicy muszą omówić kolejną akcję. Możliwe, że trener zmieni obronę.</e7060t0>
+      <e7061t0>Trener drużyny $team1$ prosi o pełnowymiarową przerwę na żądanie, jeżeli chcą ten mecz wygrać, muszą coś zmienić.</e7061t0>
+      <e8019t0>$player1$ zaspał pod koszem i sędzia odgwizduje błąd 3 sekund. Prosty błąd tego zawodnika.</e8019t0>
+      <e8019t1>Mamy gwizdek, o co chodzi? Sędzia pokazuje do stolika błąd 3 sekund $player1$ nie policzył do 3.</e8019t1>
+      <e8029t0>Strata! $player1$ wyrzucił piłkę za boisko.</e8029t0>
+      <e8029t1>Strata. $player1$ pokazuje koledze, że miał tam stać, ta zagrywka się nie udała.</e8029t1>
+      <e8029t2>$player1$ chyba przecenił umiejętności swojego kolegi. Mamy stratę, złe podanie.</e8029t2>
+      <e8039t0>Faul w ataku! $player1$ przewrócił obrońcę.</e8039t0>
+      <e8049t0>Błąd 24 sekund!. Zespół $team1$ nie dał rady przeciw agresywnej obronie rywala.</e8049t0>
+      <e8079t0>Piękny przechwyt - $player1$!</e8079t0>
+      <e8079t1>$player1$ naciskał na obrońcę już od połowy boiska i mamy przechwyt!</e8079t1>
+      <e8089t0>$player1$ świetnie wszedł w linię podania i mamy przechwyt.</e8089t0>
+      <e8089t1>Dobra gra w obronie, przechwytuje $player1$, zaczynamy kontrę.</e8089t1>
+      <e8089t2>$player1$ kradnie piłkę rywalowi.</e8089t2>
+      <e8099t0>$player1$ - dokłada asystę do swoich statystyk.</e8099t0>
+      <e8099t1>$player1$ - piękne podanie, jego kolega nie mógł tego zmarnować.</e8099t1>
+      <e8109t0>Mamy gwizdek, sędzia pokazuje błąd kroków. $player1$ pokazuje sędziemu, że wszystko było ok, ale to nic nie da. Gramy na drugi kosz.</e8109t0>
+      <e8129t0>Nie wiem, co $player1$ chciał z tą piłką zrobić - podać, rzucić - ale kibic, który złapał ją po jego stracie, jest mu z pewnością wzdzięczny.</e8129t0>
+      <e9019t0>Wygląda na to, że $player1$ utyka i prosi o zmianę. Kibice są zaniepokojeni.</e9019t0>
+      <e9019t1>$player1$ mocno dostał od obrońców w tej akcji. Na razie nie podnosi się z parkietu i chyba w tym meczu już nie zagra.</e9019t1>
+      <e9029t0>Kontuzja $player1$ nie okazała się aż tak groźna. Klubowy lekarz opatrzył uraz i zawodnik jest gotowy do wejścia na parkiet.</e9029t0>
+      <e9029t1>Okazuje się, że uraz $player1$ nie jest poważny. Krótkie rozmasowanie i zawodnik jest gotowy do wejścia.</e9029t1>
+      <e9039t0>$player1$ prosi o zmianę. Dał z siebie wszystko przez ten moment meczu.</e9039t0>
+      <e9039t1>Wygląda, że $player1$ musi zejść odpocząć. To było intensywne granie z jego strony.</e9039t1>
+      <e9039t2>$player1$ prosi o zmianę, ale trener chce go jeszcze wykorzystać.</e9039t2>
+      <e9049t0>$player1$ źle się poczuł. Na boisku są medycy. Miejmy nadzieję, że to nic poważnego.</e9049t0>
+      <e9049t1>$player1$ zemdlał! Tego dawno nie widzieliśmy. Teraz konieczna zmiana i wracamy do gry.</e9049t1>
+      <e9317t0>Piłka odbija się od obręczy. $player1$ nadlatuje ze skrzydła i zbiera po niecelnym rzucie.</e9317t0>
+      <e9317t1>$player1$ zbiera piłkę z atakowanej tablicy! Co za determinacja!</e9317t1>
+      <e9317t2>$player1$ zmiata piłkę z tablicy - piękna zbiórka w ataku!</e9317t2>
+      <e9317t3>$player1$ wypycha swojego rywala spod kosza i mamy zbiórkę w ataku. Obrońca domaga się faulu, gwizdek milczy!</e9317t3>
+      <e9317t4>$player1$ przepycha się sprytnie pod koszem i zbiera piłkę na atakowanej desce!</e9317t4>
+      <e9317t5>$player1$ zbiera piłkę pod tablicą rywala.</e9317t5>
+      <e9317t6>$player1$ zbiera piłkę w ataku, akcja zaczyna się od nowa</e9317t6>
+      <e9318t0>$player1$ zbiera piłkę w obronie.</e9318t0>
+      <e9318t1>$player1$ zbiera piłkę po niecelnym rzucie.</e9318t1>
+      <e9318t2>$player1$ kończy akcję przeciwnika zbiórką w obronie i już biegnie do ataku.</e9318t2>
+      <e9318t3>Zbiórkę w obronie pewnie łapie $player1$.</e9318t3>
+      <e9318t4>$player1$ notuje zbiórkę w obronie.</e9318t4>
+      <e9318t5>$player1$ pięknie czyści tablicę. Uśmiecha się do rywala i mówi: nie dzisiaj!</e9318t5>
+      <e9318t6>$player1$ dobrze się zastawił i złapał piłkę.</e9318t6>
+      <e9318t7>$player1$ wyskakuje wyżej niż przeciwnicy i chwyta piłkę po niecelnym rzucie rywala.</e9318t7>
+      <e9318t8>$player1$ w pełni kontroluje sytuację pod własną tablicą.</e9318t8>
+      <e9318t9>$player1$! Ależ zebrał tą piłkę ze swojej tablicy!</e9318t9>
+      <e9319t0>$player1$ niespodziewanie nadleciał ze skrzydła i zebrał piłkę. Skąd on się tam wziął?</e9319t0>
+      <e9319t1>Zbiórkę notuje $player1$.</e9319t1>
+      <e9339t0>$player1$ wygrywa rzut sędziowski.</e9339t0>
+      <e9347t0>$player1$ próbuje zebrać piłkę, ale ucieka mu z rąk i mamy piłkę dla rywala.</e9347t0>
+      <e9347t1>Piłka nieszczęśliwie obija się od tablicy, wychodzi na aut i piłka dla rywala.</e9347t1>
+      <e9347t2>Piłka musnęła palce zawodników i przekroczyła linię końcową. Sędziowie się naradzają i wg nich zawodnik z $team1$ dotknął jej jako ostatni</e9347t2>
+      <e9347t3>Żadnej z drużyn nie udało się złapać piłki. $team1$ - to oni wznowią grę</e9347t3>
+      <e9347t4>Zawodnicy walczą o piłkę, obaj patrzą na sędziego, który wskazuje... Tak... $team1$</e9347t4>
+      <e9348t0>$player1$ próbuje zebrać pod swoim koszem, ale piłka wychodzi poza boisko.</e9348t0>
+      <e9348t1>Zawodnicy walczą o piłkę, obaj patrzą na sędziego. Sędziowie muszą tę akcję obejrzeć na video. Piłka jednak dla $team1$</e9348t1>
+      <e9510t0>Zmiana na PG - rozgrywającym będzie $player1$. $player2$ schodzi z parkietu. Brawa od kibiców za walkę.</e9510t0>
+      <e9510t1>$player1$ przejmuje obowiązki rozgrywającego. $player2$ siada na ławce i od razu łapie łyk wody w usta.</e9510t1>
+      <e9510t3>$player2$ zmierza w kierunku ławki - jego miejsce na pozycji PG zajmie $player1$.</e9510t3>
+      <e9511t0>$player1$ wchodzi na boisko na pozycję SG, $player2$ siada na ławce.</e9511t0>
+      <e9512t0>$player1$ rozgrzany wbiega na boisko - pozycję SF opuszcza $player2$.</e9512t0>
+      <e9513t0>Zmiana na pozycji PF: schodzi $player2$, do gry wchodzi $player1$.</e9513t0>
+      <e9514t0>Trener dokonuje zmiany na centrze: $player2$ już na ławce, zaś $player1$ będzie chciał wnieść trochę świeżości</e9514t0>
+      <e9515t0>$player2$ wędruje na ławkę. $player1$ będzie grał jako PG. Widać, że chciałby pograć dłużej.</e9515t0>
+      <e9516t0>Mamy nowego rzucającego obrońcę na parkiecie - był $player2$, jest $player1$.</e9516t0>
+      <e9517t0>$player2$ zostaje zmieniony na pozycji SF. Na jego miejsce wchodzi $player1$.</e9517t0>
+      <e9518t0>$player1$ wchodzi na boisko na pozycję PF. $player2$ siada na ławce.</e9518t0>
+      <e9519t0>$player1$ wchodzi z ławki, na którą zmierza $player2$, grający do tej pory na pozycji centra.</e9519t0>
+      <e9520t0>$player1$ oraz $player2$ przygotowują się do do zamienienia się pozycjami na parkiecie.</e9520t0>
+      <e9521t0>$player1$ oraz $player2$ zamienili się pozycjami.</e9521t0>
+      <e9619t0>Koniec kwarty. Na parkiet wbiegają cheerleaderki.</e9619t0>
+      <e9629t0>Ostatni gwizdek! Dziękujemy, że byliście z nami. widzimy się na kolejnym meczu!</e9629t0>
+      <e9639t0>Pierwsza połowa meczu za nami. Do gry powrócimy za piętnaście minut. Miejmy nadzieje, że czeka nas jeszcze sporo emocji.</e9639t0>
+      <e9810t0>...</e9810t0>
+      <e9811t0>...</e9811t0>
+      <e9819t0>...</e9819t0>
+   </Events>
+</BBCommentary>

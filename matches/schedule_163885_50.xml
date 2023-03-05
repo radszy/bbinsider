@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163885' season='50' retrieved='2023-02-24T22:04:47Z'>
+        <match id='110759653' start='2020-06-04T16:35:00Z' type='friendly'>
+            <awayTeam id='164149'>
+                <teamName>Galaktyczni Niszczyciele</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118584' start='2020-06-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118592' start='2020-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118819' start='2020-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='164609'>
+                <teamName>The Boston Celtic</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118600' start='2020-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118608' start='2020-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111769060' start='2020-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='166080'>
+                <teamName>Brotherhood Nowydwór pod Brodnica</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118614' start='2020-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118621' start='2020-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111781970' start='2020-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='163007'>
+                <teamName>Nobiles_club</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118630' start='2020-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118636' start='2020-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111789266' start='2020-07-02T16:35:00Z' type='cup'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='164126'>
+                <teamName>MadBall</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118643' start='2020-07-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118650' start='2020-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111794780' start='2020-07-09T16:35:00Z' type='cup'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56448'>
+                <teamName>KS Nałęczów</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118657' start='2020-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118672' start='2020-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111800020' start='2020-07-16T16:35:00Z' type='cup'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163873'>
+                <teamName>Wake Forest College</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118679' start='2020-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1048002086' start='2020-07-22T16:35:00Z' type='unknown'>
+            <awayTeam id='2086'>
+                <teamName>Big 8</teamName>
+<score>177</score>
+            </awayTeam>
+            <homeTeam id='2086'>
+                <teamName>Great 8</teamName>
+<score>156</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111806366' start='2020-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='164149'>
+                <teamName>Galaktyczni Niszczyciele</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118686' start='2020-07-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118693' start='2020-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111811854' start='2020-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165832'>
+                <teamName>Krakken Team</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118704' start='2020-08-01T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118712' start='2020-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816741' start='2020-08-06T16:35:00Z' type='friendly'>
+            <awayTeam id='56076'>
+                <teamName>KS Szopienice</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118720' start='2020-08-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118728' start='2020-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111822073' start='2020-08-13T16:35:00Z' type='friendly'>
+            <awayTeam id='151983'>
+                <teamName>gregari lituani</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118734' start='2020-08-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118741' start='2020-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111827572' start='2020-08-20T16:35:00Z' type='friendly'>
+            <awayTeam id='38651'>
+                <teamName>Cathay_Pacific</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118750' start='2020-08-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111871628' start='2020-08-25T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111832812' start='2020-08-27T16:35:00Z' type='friendly'>
+            <awayTeam id='78132'>
+                <teamName>jmussol</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111921977' start='2020-08-29T16:35:00Z' type='friendly'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111936208' start='2020-09-03T16:35:00Z' type='friendly'>
+            <awayTeam id='36663'>
+                <teamName>Pallacanestro Folgore</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111966793' start='2020-09-05T16:35:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

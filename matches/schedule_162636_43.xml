@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162636' season='43' retrieved='2023-02-24T22:09:28Z'>
+        <match id='102102727' start='2018-07-19T14:30:00Z' type='friendly'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='94790'>
+                <teamName>VMSK - 2015</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147308' start='2018-07-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147316' start='2018-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102148386' start='2018-07-26T16:35:00Z' type='cup'>
+            <awayTeam id='164097'>
+                <teamName>Chicago Cavaliers</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147324' start='2018-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147332' start='2018-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103110174' start='2018-08-02T16:35:00Z' type='cup'>
+            <awayTeam id='165021'>
+                <teamName>Dzikie Wróble</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147340' start='2018-08-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147348' start='2018-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103122430' start='2018-08-09T16:35:00Z' type='cup'>
+            <awayTeam id='163182'>
+                <teamName>Silesian Riders (Anwil Fans)</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147356' start='2018-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147360' start='2018-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103129916' start='2018-08-16T16:35:00Z' type='cup'>
+            <awayTeam id='162630'>
+                <teamName>Fafau Bulls</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147375' start='2018-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147382' start='2018-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103135561' start='2018-08-23T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147389' start='2018-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147396' start='2018-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103140515' start='2018-08-30T16:35:00Z' type='cup'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163439'>
+                <teamName>Pronout Jasło</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147403' start='2018-09-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103146003' start='2018-09-04T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1041010680' start='2018-09-05T16:35:00Z' type='unknown'>
+            <awayTeam id='10680'>
+                <teamName>Great 8</teamName>
+<score>139</score>
+            </awayTeam>
+            <homeTeam id='10680'>
+                <teamName>Big 8</teamName>
+<score>164</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103150935' start='2018-09-06T16:35:00Z' type='cup'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55822'>
+                <teamName>mocarna 77</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147410' start='2018-09-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147417' start='2018-09-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103151690' start='2018-09-13T16:35:00Z' type='cup'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147428' start='2018-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147436' start='2018-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147444' start='2018-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147452' start='2018-09-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103167171' start='2018-09-27T16:35:00Z' type='friendly'>
+            <awayTeam id='39365'>
+                <teamName>Fair Kings</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147460' start='2018-09-29T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147468' start='2018-10-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147476' start='2018-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212755' start='2018-10-09T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212756' start='2018-10-13T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212757' start='2018-10-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103335700' start='2018-10-18T16:35:00Z' type='friendly'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56539'>
+                <teamName>wlocsmash</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103307115' start='2018-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

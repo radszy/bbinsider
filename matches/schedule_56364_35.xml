@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='35' retrieved='2023-02-24T22:12:36Z'>
+        <match id='90478506' start='2016-05-26T16:30:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='173428'>
+                <teamName>Ludo en Malmo</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862554' start='2016-05-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862561' start='2016-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90863135' start='2016-06-02T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='231865'>
+                <teamName>Legends Zuki</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862568' start='2016-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862575' start='2016-06-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91586232' start='2016-06-09T16:35:00Z' type='cup'>
+            <awayTeam id='165472'>
+                <teamName>SSA Jaskółki</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862586' start='2016-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862593' start='2016-06-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91601585' start='2016-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='162993'>
+                <teamName>Wilki Morskie Szczecin</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862602' start='2016-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862610' start='2016-06-21T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91611182' start='2016-06-23T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164095'>
+                <teamName>MATRIX 13</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862617' start='2016-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862624' start='2016-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91619860' start='2016-06-30T16:35:00Z' type='friendly'>
+            <awayTeam id='92233'>
+                <teamName>HaifaGreen</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862631' start='2016-07-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862638' start='2016-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91627424' start='2016-07-07T16:40:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='52208'>
+                <teamName>Pécs Saints</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862645' start='2016-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162690'>
+                <teamName>Behemoty</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1033002083' start='2016-07-13T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>162</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>159</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91631990' start='2016-07-14T16:40:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='49578'>
+                <teamName>BC Vizovice Plums</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862652' start='2016-07-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862659' start='2016-07-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91639248' start='2016-07-21T16:40:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='119256'>
+                <teamName>Boletove Zvijeri</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862674' start='2016-07-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862681' start='2016-07-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91644959' start='2016-07-28T08:00:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='196758'>
+                <teamName>Randwick Kangaroos</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862688' start='2016-07-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862695' start='2016-08-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91651483' start='2016-08-05T00:00:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='28810'>
+                <teamName>Linndale</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862706' start='2016-08-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862713' start='2016-08-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91656844' start='2016-08-11T15:55:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='47217'>
+                <teamName>Oratorio Golasecca</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862722' start='2016-08-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91695687' start='2016-08-16T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91663077' start='2016-08-18T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='165832'>
+                <teamName>Krakken Team</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91746216' start='2016-08-20T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91765212' start='2016-08-25T14:30:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='123013'>
+                <teamName>Tallinn Towers BC</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91797719' start='2016-08-27T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

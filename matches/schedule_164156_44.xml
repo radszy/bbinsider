@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164156' season='44' retrieved='2023-02-24T22:09:37Z'>
+        <match id='103695321' start='2018-10-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695332' start='2018-10-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695778' start='2018-11-01T16:35:00Z' type='cup'>
+            <awayTeam id='164946'>
+                <teamName>Aseco Prokom Wiśniewo</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695339' start='2018-11-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695346' start='2018-11-06T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104345903' start='2018-11-08T17:35:00Z' type='cup'>
+            <awayTeam id='163165'>
+                <teamName>Centralne Biurko Antykorupcyjne</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695355' start='2018-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695363' start='2018-11-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>148</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104358742' start='2018-11-15T17:35:00Z' type='cup'>
+            <awayTeam id='166070'>
+                <teamName>AZS Częstochowa</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695371' start='2018-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695377' start='2018-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104366047' start='2018-11-22T17:35:00Z' type='cup'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163346'>
+                <teamName>Bobry Highflyers</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695384' start='2018-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695391' start='2018-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104371404' start='2018-11-29T17:35:00Z' type='cup'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='163715'>
+                <teamName>Pierun Błyskawica</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695398' start='2018-12-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695405' start='2018-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104376521' start='2018-12-06T17:35:00Z' type='cup'>
+            <awayTeam id='56541'>
+                <teamName>AlphaWolf</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695420' start='2018-12-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104382064' start='2018-12-11T17:35:00Z' type='cup'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1042002087' start='2018-12-12T17:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>172</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104387738' start='2018-12-13T17:35:00Z' type='cup'>
+            <awayTeam id='163873'>
+                <teamName>Wake Forest College</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695427' start='2018-12-15T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695434' start='2018-12-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104388321' start='2018-12-20T17:35:00Z' type='cup'>
+            <awayTeam id='162439'>
+                <teamName>Ms uptown</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695441' start='2018-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695452' start='2018-12-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695459' start='2018-12-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695466' start='2019-01-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695475' start='2019-01-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695483' start='2019-01-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695491' start='2019-01-12T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450575' start='2019-01-15T17:35:00Z' type='league.relegation'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104487140' start='2019-01-17T16:30:00Z' type='friendly'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='89317'>
+                <teamName>teoramones</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450576' start='2019-01-19T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450577' start='2019-01-22T17:35:00Z' type='league.relegation'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104536128' start='2019-01-24T17:35:00Z' type='friendly'>
+            <awayTeam id='63716'>
+                <teamName>BolivarVCP</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104545292' start='2019-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

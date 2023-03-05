@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='166187' season='54' retrieved='2023-02-24T22:05:18Z'>
+        <match id='115708121' start='2021-07-01T16:35:00Z' type='friendly'>
+            <awayTeam id='134561'>
+                <teamName>Narón C.B.</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076272' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076279' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717413' start='2021-07-07T14:30:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='95710'>
+                <teamName>Sairijų Būralis</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116077154' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='162930'>
+                <teamName>Ziomki Z Biedronki</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076290' start='2021-07-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076297' start='2021-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116725335' start='2021-07-14T18:00:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='77515'>
+                <teamName>Real Fefiñans</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740901' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='162951'>
+                <teamName>Polonia1911Warszawa</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076306' start='2021-07-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076314' start='2021-07-20T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116749890' start='2021-07-21T23:00:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='276302'>
+                <teamName>The Ironmen</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760826' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076321' start='2021-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076328' start='2021-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116765975' start='2021-07-29T00:00:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='28437'>
+                <teamName>Irvine Anteaters</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774761' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164380'>
+                <teamName>Bemowo United</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076335' start='2021-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076342' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116778837' start='2021-08-04T16:35:00Z' type='bbm'>
+            <awayTeam id='49390'>
+                <teamName>Flumpaci</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116790606' start='2021-08-05T16:35:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55988'>
+                <teamName>Skorpion Gliwice</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076349' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076356' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116791040' start='2021-08-11T18:00:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='76557'>
+                <teamName>Las Palmeras C.B.</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076363' start='2021-08-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052002124' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='2124'>
+                <teamName>Great 8</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='2124'>
+                <teamName>Big 8</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116802964' start='2021-08-18T17:30:00Z' type='bbm'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='87793'>
+                <teamName>Basket Sancéo Troyen</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116814734' start='2021-08-19T15:30:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='52559'>
+                <teamName>HeraKlea</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076378' start='2021-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076385' start='2021-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076392' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076399' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076410' start='2021-09-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076417' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076426' start='2021-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076434' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076441' start='2021-09-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875268' start='2021-09-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116860542' start='2021-09-23T16:35:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='162447'>
+                <teamName>BASKET_Kwidzyn</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116925429' start='2021-09-25T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969619' start='2021-09-28T16:35:00Z' type='league.final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116996081' start='2021-09-30T16:35:00Z' type='friendly'>
+            <awayTeam id='122638'>
+                <teamName>BC kadrina</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969620' start='2021-10-02T16:35:00Z' type='league.final'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969621' start='2021-10-03T16:35:00Z' type='league.final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

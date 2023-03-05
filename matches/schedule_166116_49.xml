@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='166116' season='49' retrieved='2023-02-24T22:10:16Z'>
+        <match id='109523549' start='2020-02-27T23:30:00Z' type='friendly'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='96580'>
+                <teamName>Mágicos Caturros</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880174' start='2020-02-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880181' start='2020-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880435' start='2020-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='238374'>
+                <teamName>Nighthawks Marcinków</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880188' start='2020-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880199' start='2020-03-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110530326' start='2020-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='55697'>
+                <teamName>GalopującePisuary</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880206' start='2020-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880215' start='2020-03-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110543258' start='2020-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880223' start='2020-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880230' start='2020-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110553318' start='2020-03-26T08:00:00Z' type='friendly'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='277034'>
+                <teamName>AFRAID TO SHOZZ STRANGERS</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880237' start='2020-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880244' start='2020-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110559923' start='2020-04-02T16:35:00Z' type='friendly'>
+            <awayTeam id='75781'>
+                <teamName>DILOP C.B-</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880251' start='2020-04-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880258' start='2020-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110564049' start='2020-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='164449'>
+                <teamName>Lipno Bulls</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880265' start='2020-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1047002085' start='2020-04-15T16:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110571816' start='2020-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='31658'>
+                <teamName>Mad about Moldova Mud</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880272' start='2020-04-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880287' start='2020-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110576663' start='2020-04-23T16:35:00Z' type='friendly'>
+            <awayTeam id='198680'>
+                <teamName>Csótányok</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880294' start='2020-04-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880301' start='2020-04-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110583780' start='2020-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='135505'>
+                <teamName>Orvi Team</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880308' start='2020-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880319' start='2020-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110587420' start='2020-05-07T16:35:00Z' type='friendly'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='164228'>
+                <teamName>PiętyCejrowskiego</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880326' start='2020-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880335' start='2020-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110594148' start='2020-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='98549'>
+                <teamName>KK Dražen Petrović</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880343' start='2020-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110635707' start='2020-05-19T16:35:00Z' type='league.relegation'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110596985' start='2020-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='163674'>
+                <teamName>Payro</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110635708' start='2020-05-23T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110757895' start='2020-05-28T16:35:00Z' type='friendly'>
+            <awayTeam id='42820'>
+                <teamName>Alacranes de DGO</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>148</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110730202' start='2020-05-30T16:35:00Z' type='friendly'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

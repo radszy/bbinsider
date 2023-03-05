@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55719' season='54' retrieved='2023-02-24T22:05:13Z'>
+        <match id='115721668' start='2021-07-01T11:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='276189'>
+                <teamName>我哋真係好撚鍾意香港</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076268' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076276' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717580' start='2021-07-07T16:35:00Z' type='bbm'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116077178' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='232949'>
+                <teamName>Hood Brzezienko</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076284' start='2021-07-10T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076292' start='2021-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116725213' start='2021-07-14T16:35:00Z' type='bbm'>
+            <awayTeam id='89777'>
+                <teamName>KV Forever</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740794' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='163519'>
+                <teamName>EA7 Jeans Mediolan</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076300' start='2021-07-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076308' start='2021-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116749849' start='2021-07-21T21:00:00Z' type='bbm'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='106898'>
+                <teamName>Tuya - Mia B.C.</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760632' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='56200'>
+                <teamName>Sharks with Giery</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076315' start='2021-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076324' start='2021-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116765756' start='2021-07-28T16:35:00Z' type='bbm'>
+            <awayTeam id='187157'>
+                <teamName>熊猫和他的朋友们篮球俱乐部</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774702' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56201'>
+                <teamName>Polski Cukier Toruń</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076332' start='2021-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076340' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116778844' start='2021-08-04T16:35:00Z' type='bbm'>
+            <awayTeam id='39568'>
+                <teamName>Red-White Hunters</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116786590' start='2021-08-05T16:35:00Z' type='cup'>
+            <awayTeam id='164965'>
+                <teamName>Galzenberger TEAM</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076348' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076356' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116790912' start='2021-08-11T16:35:00Z' type='bbm'>
+            <awayTeam id='186141'>
+                <teamName>方舟</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116797983' start='2021-08-12T16:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='236573'>
+                <teamName>BNBA - Bydgoski Nurt Basketu Amatorskiego</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076364' start='2021-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116802888' start='2021-08-18T16:35:00Z' type='bbm'>
+            <awayTeam id='98785'>
+                <teamName>Propali Talenti</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052002083' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>158</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116813162' start='2021-08-19T23:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='277079'>
+                <teamName>Mad ants</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076372' start='2021-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076380' start='2021-08-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815341' start='2021-08-25T16:00:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='42597'>
+                <teamName>Scorpions Mld</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116819020' start='2021-08-26T16:35:00Z' type='friendly'>
+            <awayTeam id='62551'>
+                <teamName>quiero retruco basketball</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076388' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076396' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820697' start='2021-09-01T16:35:00Z' type='unknown'>
+            <awayTeam id='44546'>
+                <teamName>KK Osvetnici</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822857' start='2021-09-02T18:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='37871'>
+                <teamName>Birmingham High</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076404' start='2021-09-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076412' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116825669' start='2021-09-08T17:05:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='38373'>
+                <teamName>Dutch Bucks</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116828146' start='2021-09-09T18:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='91030'>
+                <teamName>Wind City Ballers</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076420' start='2021-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076428' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116830589' start='2021-09-15T16:35:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116834631' start='2021-09-16T18:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='276733'>
+                <teamName>*Los Angeles Lakers*</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076435' start='2021-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875266' start='2021-09-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116835565' start='2021-09-22T10:00:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='187021'>
+                <teamName>万狗奔腾之牛逼闪闪：我们要的就是气势！亲，你怕了吗？</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116909368' start='2021-09-23T17:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='252752'>
+                <teamName>PARIS LIONS ®</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116925428' start='2021-09-25T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116938881' start='2021-09-29T18:00:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='76557'>
+                <teamName>Las Palmeras C.B.</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116948515' start='2021-09-30T15:55:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='48891'>
+                <teamName>liberiestolidi</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969612' start='2021-10-02T16:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

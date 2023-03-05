@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='49' retrieved='2023-02-24T22:10:13Z'>
+        <match id='109523352' start='2020-02-27T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162447'>
+                <teamName>BASKET_Kwidzyn</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520036' start='2020-02-28T17:35:00Z' type='pl.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880174' start='2020-02-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880182' start='2020-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880793' start='2020-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='232354'>
+                <teamName>SuperSonics Ukta Alt</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520040' start='2020-03-06T17:35:00Z' type='pl.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880190' start='2020-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880198' start='2020-03-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110530868' start='2020-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='56264'>
+                <teamName>fc szmotulanie</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520044' start='2020-03-13T17:35:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880204' start='2020-03-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880213' start='2020-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110543258' start='2020-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520047' start='2020-03-20T17:35:00Z' type='pl.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880221' start='2020-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880226' start='2020-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110550130' start='2020-03-26T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56242'>
+                <teamName>galaxtixos</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520049' start='2020-03-27T17:35:00Z' type='pl.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880233' start='2020-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880240' start='2020-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110555419' start='2020-04-02T16:35:00Z' type='cup'>
+            <awayTeam id='162877'>
+                <teamName>Nike Zgorzelec</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520051' start='2020-04-03T17:35:00Z' type='pl.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880255' start='2020-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880262' start='2020-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110561116' start='2020-04-09T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520055' start='2020-04-10T17:35:00Z' type='pl.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880269' start='2020-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110566726' start='2020-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='163015'>
+                <teamName>AZeteS</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1047002083' start='2020-04-15T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110572606' start='2020-04-16T16:35:00Z' type='cup'>
+            <awayTeam id='56044'>
+                <teamName>WKS Włocławek</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>151</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520059' start='2020-04-17T17:35:00Z' type='pl.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880276' start='2020-04-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880283' start='2020-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110573357' start='2020-04-23T16:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520062' start='2020-04-24T17:35:00Z' type='pl.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880294' start='2020-04-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880302' start='2020-04-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110579155' start='2020-04-30T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>FC Palermo</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110579274' start='2020-05-01T16:35:00Z' type='pl.semifinal'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880310' start='2020-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880318' start='2020-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110586134' start='2020-05-07T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56053'>
+                <teamName>chicago bulss</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110584568' start='2020-05-08T16:35:00Z' type='pl.final'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880324' start='2020-05-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880333' start='2020-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110590399' start='2020-05-14T18:00:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='25956'>
+                <teamName>C.B.YIASOU</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880341' start='2020-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110635706' start='2020-05-19T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110599634' start='2020-05-21T15:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='105899'>
+                <teamName>Jedi Knights</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110685287' start='2020-05-23T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110699920' start='2020-05-28T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='165829'>
+                <teamName>Nike Club</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110730197' start='2020-05-30T16:35:00Z' type='friendly'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

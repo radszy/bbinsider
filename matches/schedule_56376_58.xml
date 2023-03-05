@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56376' season='58' retrieved='2023-02-24T22:05:52Z'>
+        <match id='120852841' start='2022-07-28T16:35:00Z' type='friendly'>
+            <awayTeam id='55819'>
+                <teamName>ZBIM ROCKETS</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208599' start='2022-07-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208607' start='2022-08-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121849555' start='2022-08-04T00:00:00Z' type='bbm'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='28977'>
+                <teamName>Forza Jazz</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121209223' start='2022-08-04T16:35:00Z' type='cup'>
+            <awayTeam id='162851'>
+                <teamName>Golden State Krobia</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208615' start='2022-08-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208623' start='2022-08-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121856988' start='2022-08-10T16:35:00Z' type='bbm'>
+            <awayTeam id='40395'>
+                <teamName>Leones del Cinaruco</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121872749' start='2022-08-11T16:35:00Z' type='cup'>
+            <awayTeam id='165824'>
+                <teamName>MKS Pogoń Mosty</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208629' start='2022-08-13T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208638' start='2022-08-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121881511' start='2022-08-17T16:35:00Z' type='bbm'>
+            <awayTeam id='28372'>
+                <teamName>Sierra Oaks Cougars</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208646' start='2022-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208651' start='2022-08-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121898396' start='2022-08-24T23:30:00Z' type='bbm'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='97691'>
+                <teamName>Superiority</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208658' start='2022-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208665' start='2022-08-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121911665' start='2022-08-31T17:00:00Z' type='bbm'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='34379'>
+                <teamName>Absteiger</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208680' start='2022-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208687' start='2022-09-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121923986' start='2022-09-07T16:35:00Z' type='bbm'>
+            <awayTeam id='28530'>
+                <teamName>Alaska Alphas</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208694' start='2022-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1056002092' start='2022-09-14T16:35:00Z' type='unknown'>
+            <awayTeam id='2092'>
+                <teamName>Great 8</teamName>
+<score>176</score>
+            </awayTeam>
+            <homeTeam id='2092'>
+                <teamName>Big 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121936345' start='2022-09-14T17:30:00Z' type='bbm'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='88214'>
+                <teamName>Sochaux Basket</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208701' start='2022-09-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208708' start='2022-09-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208719' start='2022-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208727' start='2022-09-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208735' start='2022-10-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208743' start='2022-10-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208749' start='2022-10-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208758' start='2022-10-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208766' start='2022-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122058916' start='2022-10-22T16:35:00Z' type='friendly'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122103230' start='2022-10-29T16:35:00Z' type='friendly'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='49' retrieved='2023-02-24T22:10:09Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2111</pf>
+                    <pa>1659</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165178'>
+                    <teamName>LZS Niemyslowice</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2269</pf>
+                    <pa>1709</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55735'>
+                    <teamName>Buriczki</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>2092</pf>
+                    <pa>1798</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164924'>
+                    <teamName>Zbikoo Team</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1997</pf>
+                    <pa>1737</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1806</pf>
+                    <pa>1880</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>2000</pf>
+                    <pa>1959</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56580'>
+                    <teamName>Hooligan Hawks</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1506</pf>
+                    <pa>2007</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>1361</pf>
+                    <pa>2273</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>21</wins>
+                    <losses>1</losses>
+                    <pf>2281</pf>
+                    <pa>1502</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1935</pf>
+                    <pa>1836</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1783</pf>
+                    <pa>1993</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2133</pf>
+                    <pa>1879</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56056'>
+                    <teamName>The French Bulldog&#39;s</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1963</pf>
+                    <pa>1947</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1744</pf>
+                    <pa>1868</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='166116'>
+                    <teamName>NZW KMP WEK</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1856</pf>
+                    <pa>2309</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>1692</pf>
+                    <pa>2173</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='110635703' start='2020-05-19T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='164924'>
+                        <teamName>Zbikoo Team</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635704' start='2020-05-19T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>123</score>
+                    </awayTeam>
+                    <homeTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>113</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635705' start='2020-05-19T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635706' start='2020-05-19T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>99</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='110685290' start='2020-05-23T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110685291' start='2020-05-23T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='110730204' start='2020-05-26T16:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>104</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>122</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110730205' start='2020-05-30T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>78</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110730206' start='2020-05-31T16:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='110635707' start='2020-05-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='166116'>
+                        <teamName>NZW KMP WEK</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>114</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635710' start='2020-05-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56580'>
+                        <teamName>Hooligan Hawks</teamName>
+<score>14</score>
+                    </awayTeam>
+                    <homeTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>124</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635713' start='2020-05-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>78</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635708' start='2020-05-23T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>86</score>
+                    </awayTeam>
+                    <homeTeam id='166116'>
+                        <teamName>NZW KMP WEK</teamName>
+<score>67</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635711' start='2020-05-23T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>113</score>
+                    </awayTeam>
+                    <homeTeam id='56580'>
+                        <teamName>Hooligan Hawks</teamName>
+<score>26</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='110635714' start='2020-05-23T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>64</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='56049'>Both teams played hard</relegated>
+            
+            <relegated id='56221'>Chiki-Cziki-Chiki-Ta</relegated>
+            
+            <relegated id='56580'>Hooligan Hawks</relegated>
+            
+            <relegated id='163131'>ASPK</relegated>
+            
+            <relegated id='166116'>NZW KMP WEK</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

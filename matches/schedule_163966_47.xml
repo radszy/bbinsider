@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163966' season='47' retrieved='2023-02-24T22:09:54Z'>
+        <match id='107049124' start='2019-08-15T16:35:00Z' type='friendly'>
+            <awayTeam id='55995'>
+                <teamName>Fc Młodzi</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404071' start='2019-08-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404078' start='2019-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404616' start='2019-08-22T16:35:00Z' type='cup'>
+            <awayTeam id='55449'>
+                <teamName>Straszewo City</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404085' start='2019-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404096' start='2019-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108060360' start='2019-08-29T16:35:00Z' type='cup'>
+            <awayTeam id='55803'>
+                <teamName>OLS-76</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404103' start='2019-08-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404112' start='2019-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108073115' start='2019-09-05T16:35:00Z' type='cup'>
+            <awayTeam id='163151'>
+                <teamName>AZS Koszalin 94</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404120' start='2019-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404131' start='2019-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108080207' start='2019-09-12T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='163317'>
+                <teamName>Pokurcze z PGRu</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404139' start='2019-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404147' start='2019-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108086112' start='2019-09-19T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56670'>
+                <teamName>Bienias dream team</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404155' start='2019-09-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404163' start='2019-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108091458' start='2019-09-26T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='162719'>
+                <teamName>SPQR</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404171' start='2019-09-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108096530' start='2019-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='163674'>
+                <teamName>Payro</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1045010582' start='2019-10-02T16:35:00Z' type='unknown'>
+            <awayTeam id='10582'>
+                <teamName>Great 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='10582'>
+                <teamName>Big 8</teamName>
+<score>183</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108101350' start='2019-10-03T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404179' start='2019-10-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404187' start='2019-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108103265' start='2019-10-10T16:35:00Z' type='friendly'>
+            <awayTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404191' start='2019-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404198' start='2019-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108111037' start='2019-10-17T16:35:00Z' type='friendly'>
+            <awayTeam id='55827'>
+                <teamName>WNR Amator</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404205' start='2019-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404216' start='2019-10-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108117388' start='2019-10-24T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163424'>
+                <teamName>KK Nowa Wieś</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404223' start='2019-10-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404232' start='2019-10-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108119370' start='2019-10-31T16:00:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='41118'>
+                <teamName>Bezdan</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404240' start='2019-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108163814' start='2019-11-05T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108125384' start='2019-11-07T17:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163663'>
+                <teamName>Golden Penguins</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108213290' start='2019-11-09T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108284542' start='2019-11-14T17:00:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='100235'>
+                <teamName>Tometic</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108257743' start='2019-11-16T17:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

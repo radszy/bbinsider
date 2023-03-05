@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56056' season='49' retrieved='2023-02-24T22:10:15Z'>
+        <match id='109521689' start='2020-02-27T17:35:00Z' type='friendly'>
+            <awayTeam id='35991'>
+                <teamName>Xoteam</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355629' start='2020-02-28T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='92969'>
+                <teamName>Nightearls</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880172' start='2020-02-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880183' start='2020-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880465' start='2020-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='164766'>
+                <teamName>Krakus Nowa Huta</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355636' start='2020-03-06T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='172496'>
+                <teamName>RakBa</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880190' start='2020-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880197' start='2020-03-10T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110530212' start='2020-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='165368'>
+                <teamName>M4DZ Team</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355643' start='2020-03-13T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='276180'>
+                <teamName>HolySee Angels</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880206' start='2020-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880214' start='2020-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110543201' start='2020-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='55575'>
+                <teamName>FC Żywiec</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355650' start='2020-03-20T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='44953'>
+                <teamName>Levski Sofia</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880222' start='2020-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880228' start='2020-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110550141' start='2020-03-26T16:35:00Z' type='cup'>
+            <awayTeam id='56650'>
+                <teamName>Cracow Storm</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355657' start='2020-03-27T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='105422'>
+                <teamName>BV Pistons</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880235' start='2020-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880242' start='2020-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110555484' start='2020-04-02T16:35:00Z' type='cup'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355664' start='2020-04-03T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='94389'>
+                <teamName>Vitoria Deluxe</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880249' start='2020-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880256' start='2020-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110561059' start='2020-04-09T16:35:00Z' type='cup'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355671' start='2020-04-10T18:00:00Z' type='pl.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='143472'>
+                <teamName>Stelaios</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880271' start='2020-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110566713' start='2020-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>FC Palermo</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1047002083' start='2020-04-15T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110572357' start='2020-04-16T14:30:00Z' type='friendly'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='39907'>
+                <teamName>BlackStarsNr1</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355678' start='2020-04-17T18:00:00Z' type='pl.rs'>
+            <awayTeam id='90212'>
+                <teamName>Asingratitos B.C.</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880278' start='2020-04-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880285' start='2020-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110574474' start='2020-04-23T16:35:00Z' type='friendly'>
+            <awayTeam id='37496'>
+                <teamName>Houdeng Donkeys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355687' start='2020-04-24T18:00:00Z' type='pl.rs'>
+            <awayTeam id='70747'>
+                <teamName>AdmirAls#54</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880292' start='2020-04-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880303' start='2020-04-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110580291' start='2020-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='277135'>
+                <teamName>Kajzer Beasts</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355696' start='2020-05-01T18:00:00Z' type='pl.rs'>
+            <awayTeam id='210825'>
+                <teamName>Tunjevina</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880310' start='2020-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880317' start='2020-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110586610' start='2020-05-07T16:35:00Z' type='friendly'>
+            <awayTeam id='276770'>
+                <teamName>Utopia Brainstormers</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355705' start='2020-05-08T18:00:00Z' type='pl.rs'>
+            <awayTeam id='26530'>
+                <teamName>Isle of Wight</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880326' start='2020-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880334' start='2020-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110591430' start='2020-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='52598'>
+                <teamName>Hip Hop Macedonia</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355714' start='2020-05-15T18:00:00Z' type='pl.rs'>
+            <awayTeam id='34835'>
+                <teamName>Crocodile Dunky</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880342' start='2020-05-16T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110635710' start='2020-05-19T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>14</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110596645' start='2020-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='30861'>
+                <teamName>Mila Saints</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110595301' start='2020-05-22T17:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='34835'>
+                <teamName>Crocodile Dunky</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110635711' start='2020-05-23T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110700212' start='2020-05-28T16:35:00Z' type='friendly'>
+            <awayTeam id='59195'>
+                <teamName>WayneGoGo</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110730200' start='2020-05-30T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

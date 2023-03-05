@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163131' season='59' retrieved='2023-02-24T22:05:59Z'>
+        <match id='122132299' start='2022-11-03T16:35:00Z' type='friendly'>
+            <awayTeam id='146330'>
+                <teamName>AO AGRINIOU</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896636' start='2022-11-04T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='36686'>
+                <teamName>Maddas</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491072' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491080' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132514' start='2022-11-09T19:00:00Z' type='bbm'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='77905'>
+                <teamName>NoAguantoLaJuerga</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491671' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='166049'>
+                <teamName>Pharaohs Jagodziniec</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896643' start='2022-11-11T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='97943'>
+                <teamName>Dalmatia Towars</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491088' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491096' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140835' start='2022-11-16T18:05:00Z' type='bbm'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='92932'>
+                <teamName>Miami Hitte</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123156883' start='2022-11-17T17:35:00Z' type='cup'>
+            <awayTeam id='56206'>
+                <teamName>Zazamcze Forest</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896650' start='2022-11-18T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='59386'>
+                <teamName>La Resistencia BC</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491102' start='2022-11-19T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491111' start='2022-11-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165567' start='2022-11-23T17:00:00Z' type='bbm'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='172208'>
+                <teamName>Bratislava Powers</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123177334' start='2022-11-24T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162447'>
+                <teamName>BASKET_Kwidzyn</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896657' start='2022-11-25T22:00:00Z' type='pl.rs'>
+            <awayTeam id='276752'>
+                <teamName>Old Town BC</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491119' start='2022-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491124' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123182277' start='2022-11-30T17:35:00Z' type='bbm'>
+            <awayTeam id='54902'>
+                <teamName>Celebes Sea Sailors</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123194749' start='2022-12-01T17:35:00Z' type='friendly'>
+            <awayTeam id='276824'>
+                <teamName>Red Devils B.C</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896666' start='2022-12-02T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='172833'>
+                <teamName>Socks &amp; Balls</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491131' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491138' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195812' start='2022-12-07T17:35:00Z' type='bbm'>
+            <awayTeam id='24115'>
+                <teamName>Knights of Autumn</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123206204' start='2022-12-08T17:35:00Z' type='friendly'>
+            <awayTeam id='99722'>
+                <teamName>Grizzly Club Bärenburg</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896675' start='2022-12-09T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='73036'>
+                <teamName>Long Beach Barons</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491153' start='2022-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491160' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208650' start='2022-12-14T17:35:00Z' type='bbm'>
+            <awayTeam id='59554'>
+                <teamName>Caciques de Trujillo</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123218590' start='2022-12-15T17:35:00Z' type='friendly'>
+            <awayTeam id='45618'>
+                <teamName>Balboys</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896684' start='2022-12-16T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='52309'>
+                <teamName>Mezőberényi Pici Pockok</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491167' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220939' start='2022-12-21T17:00:00Z' type='bbm'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='100792'>
+                <teamName>MentoSacra</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002085' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>163</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123232847' start='2022-12-22T17:35:00Z' type='friendly'>
+            <awayTeam id='276491'>
+                <teamName>RUBENES Team</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896693' start='2022-12-23T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='276302'>
+                <teamName>The Ironmen</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491174' start='2022-12-24T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491181' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123235455' start='2022-12-29T17:35:00Z' type='friendly'>
+            <awayTeam id='119143'>
+                <teamName>_FK CRVENA ZVEZDA_</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896702' start='2022-12-30T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='96371'>
+                <teamName>piñas ballerz</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491192' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491200' start='2023-01-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123242371' start='2023-01-05T17:35:00Z' type='friendly'>
+            <awayTeam id='154139'>
+                <teamName>I portinai</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896711' start='2023-01-06T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='60125'>
+                <teamName>Staatliche Bauhaus</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491208' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491216' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123246968' start='2023-01-12T17:35:00Z' type='friendly'>
+            <awayTeam id='94781'>
+                <teamName>BC šilalė</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896720' start='2023-01-13T22:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491222' start='2023-01-14T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491231' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123251502' start='2023-01-19T18:30:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='87167'>
+                <teamName>BBCLeuze</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896728' start='2023-01-20T22:00:00Z' type='pl.rs'>
+            <awayTeam id='122927'>
+                <teamName>kk vpl</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491239' start='2023-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295556' start='2023-01-24T17:35:00Z' type='league.relegation'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123257157' start='2023-01-26T19:00:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='276359'>
+                <teamName>ASPK Gostynin</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896735' start='2023-01-27T22:00:00Z' type='pl.rs'>
+            <awayTeam id='56961'>
+                <teamName>BC Vikings Reborn</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295557' start='2023-01-28T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123369695' start='2023-02-02T17:35:00Z' type='friendly'>
+            <awayTeam id='95817'>
+                <teamName>Unrelenting Force</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121896742' start='2023-02-03T22:00:00Z' type='pl.rs'>
+            <awayTeam id='58877'>
+                <teamName>Vesala Basket</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390945' start='2023-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

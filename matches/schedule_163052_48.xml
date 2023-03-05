@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163052' season='48' retrieved='2023-02-24T22:10:05Z'>
+        <match id='108287284' start='2019-11-21T17:35:00Z' type='friendly'>
+            <awayTeam id='35280'>
+                <teamName>magic dissy</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645612' start='2019-11-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645620' start='2019-11-26T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645856' start='2019-11-28T17:35:00Z' type='cup'>
+            <awayTeam id='239151'>
+                <teamName>Shelf Psary Podlazy</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645628' start='2019-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645636' start='2019-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109296492' start='2019-12-05T17:35:00Z' type='cup'>
+            <awayTeam id='55515'>
+                <teamName>Los Angeles Pioros</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645644' start='2019-12-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645652' start='2019-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109309108' start='2019-12-12T17:35:00Z' type='cup'>
+            <awayTeam id='165372'>
+                <teamName>Patisonki</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645660' start='2019-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>19</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645668' start='2019-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109318104' start='2019-12-19T16:55:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='45876'>
+                <teamName>janfreenk</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645676' start='2019-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645684' start='2019-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109322972' start='2019-12-26T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='166233'>
+                <teamName>Bartoszek Team</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645692' start='2019-12-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645700' start='2019-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109328580' start='2020-01-02T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='165036'>
+                <teamName>johny i tak przegracie</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645708' start='2020-01-04T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1046002101' start='2020-01-08T17:35:00Z' type='unknown'>
+            <awayTeam id='2101'>
+                <teamName>Great 8</teamName>
+<score>173</score>
+            </awayTeam>
+            <homeTeam id='2101'>
+                <teamName>Big 8</teamName>
+<score>168</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109334146' start='2020-01-09T19:30:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='102219'>
+                <teamName>Torres Vedras Blazzers</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645716' start='2020-01-11T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645724' start='2020-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109339457' start='2020-01-16T17:35:00Z' type='friendly'>
+            <awayTeam id='99895'>
+                <teamName>Eko basket</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645732' start='2020-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645740' start='2020-01-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109343890' start='2020-01-23T17:35:00Z' type='friendly'>
+            <awayTeam id='276934'>
+                <teamName>Pruszcz ZSO 1 Team</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645748' start='2020-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645756' start='2020-01-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109350003' start='2020-01-30T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645764' start='2020-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645772' start='2020-02-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109353344' start='2020-02-06T17:35:00Z' type='friendly'>
+            <awayTeam id='89764'>
+                <teamName>Union Liège</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645780' start='2020-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109361616' start='2020-02-13T17:35:00Z' type='friendly'>
+            <awayTeam id='51779'>
+                <teamName>Tuk-Kons</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109447151' start='2020-02-15T17:35:00Z' type='friendly'>
+            <awayTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109461395' start='2020-02-20T17:35:00Z' type='friendly'>
+            <awayTeam id='178153'>
+                <teamName>Žvėrys</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491766' start='2020-02-22T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

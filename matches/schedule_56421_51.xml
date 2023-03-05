@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56421' season='51' retrieved='2023-02-24T22:04:52Z'>
+        <match id='112000234' start='2020-09-10T16:35:00Z' type='friendly'>
+            <awayTeam id='177898'>
+                <teamName>BC Kreksa</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354858' start='2020-09-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354866' start='2020-09-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355124' start='2020-09-17T16:35:00Z' type='cup'>
+            <awayTeam id='164028'>
+                <teamName>Jersey Dreamers</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354874' start='2020-09-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354882' start='2020-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113006288' start='2020-09-24T16:35:00Z' type='cup'>
+            <awayTeam id='164431'>
+                <teamName>=AZS= Politechnika Opolska</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354890' start='2020-09-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354898' start='2020-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113019160' start='2020-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='56154'>
+                <teamName>Dream! Team!</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354906' start='2020-10-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354914' start='2020-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113027390' start='2020-10-08T16:35:00Z' type='cup'>
+            <awayTeam id='237062'>
+                <teamName>Rosomak Zgierz</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354922' start='2020-10-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354930' start='2020-10-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113032862' start='2020-10-15T16:35:00Z' type='cup'>
+            <awayTeam id='162615'>
+                <teamName>Orzeł Legionowo</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354938' start='2020-10-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354946' start='2020-10-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113038212' start='2020-10-22T16:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354954' start='2020-10-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113043579' start='2020-10-27T16:35:00Z' type='cup'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165492'>
+                <teamName>OPS Milan</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1049002084' start='2020-10-28T16:35:00Z' type='unknown'>
+            <awayTeam id='2084'>
+                <teamName>Great 8</teamName>
+<score>162</score>
+            </awayTeam>
+            <homeTeam id='2084'>
+                <teamName>Big 8</teamName>
+<score>163</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113048472' start='2020-10-29T16:35:00Z' type='cup'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='165915'>
+                <teamName>Kraków Raptors</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354962' start='2020-10-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354970' start='2020-11-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113048938' start='2020-11-05T17:35:00Z' type='cup'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354978' start='2020-11-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354986' start='2020-11-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059205' start='2020-11-12T18:30:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='35968'>
+                <teamName>Les Tifosi parisiens</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354994' start='2020-11-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355002' start='2020-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113062044' start='2020-11-19T15:30:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='181671'>
+                <teamName>Rytassss</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355010' start='2020-11-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>32</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355018' start='2020-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113066322' start='2020-11-26T14:30:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='172483'>
+                <teamName>Oulu 76ers</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355026' start='2020-11-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109973' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113073191' start='2020-12-03T17:00:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='100769'>
+                <teamName>Dorćol</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113160425' start='2020-12-05T17:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113175195' start='2020-12-10T16:30:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='45117'>
+                <teamName>rendeta</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113204909' start='2020-12-12T17:35:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>12</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162312' season='48' retrieved='2023-02-24T22:10:08Z'>
+        <match id='108287856' start='2019-11-21T17:35:00Z' type='friendly'>
+            <awayTeam id='50505'>
+                <teamName>plateaus</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645619' start='2019-11-23T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645627' start='2019-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108646522' start='2019-11-28T17:35:00Z' type='cup'>
+            <awayTeam id='55870'>
+                <teamName>Fire Bobcats</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645635' start='2019-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645643' start='2019-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109295929' start='2019-12-05T17:35:00Z' type='cup'>
+            <awayTeam id='235265'>
+                <teamName>Home Mrocezenko</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645649' start='2019-12-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645656' start='2019-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109309078' start='2019-12-12T17:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='162556'>
+                <teamName>Szczecin Rydla Team</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645665' start='2019-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645671' start='2019-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109315937' start='2019-12-19T17:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='164173'>
+                <teamName>Pantery Kraków</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645678' start='2019-12-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645685' start='2019-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109321479' start='2019-12-26T17:35:00Z' type='cup'>
+            <awayTeam id='233530'>
+                <teamName>BK Szczecin</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645692' start='2019-12-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645707' start='2019-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109326358' start='2020-01-02T17:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='55674'>
+                <teamName>Blaugrana Starachowice</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645714' start='2020-01-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109331399' start='2020-01-07T17:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1046002085' start='2020-01-08T17:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>173</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336141' start='2020-01-09T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645721' start='2020-01-11T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645728' start='2020-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109338512' start='2020-01-16T17:35:00Z' type='friendly'>
+            <awayTeam id='52603'>
+                <teamName>Skull and Bones mk</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645739' start='2020-01-18T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645747' start='2020-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109343118' start='2020-01-23T17:35:00Z' type='friendly'>
+            <awayTeam id='52863'>
+                <teamName>Devils Calling</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645755' start='2020-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645763' start='2020-01-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109350003' start='2020-01-30T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645769' start='2020-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645776' start='2020-02-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109353626' start='2020-02-06T17:35:00Z' type='friendly'>
+            <awayTeam id='146797'>
+                <teamName>PieBald WolveS</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645785' start='2020-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397572' start='2020-02-11T17:35:00Z' type='league.relegation'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109358703' start='2020-02-13T17:35:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397573' start='2020-02-15T17:35:00Z' type='league.relegation'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109469301' start='2020-02-20T17:35:00Z' type='friendly'>
+            <awayTeam id='49481'>
+                <teamName>SK BK Přerov</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491765' start='2020-02-22T17:35:00Z' type='friendly'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

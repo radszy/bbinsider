@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='52' retrieved='2023-02-24T21:46:25Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1994</pf>
+                    <pa>1582</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2016</pf>
+                    <pa>1688</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1897</pf>
+                    <pa>1627</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1767</pf>
+                    <pa>1711</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163402'>
+                    <teamName>Polonia Fordon</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1810</pf>
+                    <pa>1693</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164201'>
+                    <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1955</pf>
+                    <pa>1966</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56429'>
+                    <teamName>TOP TEN THUNDERS</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1604</pf>
+                    <pa>2194</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56421'>
+                    <teamName>Nałęczów Warriors</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>1093</pf>
+                    <pa>2645</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2278</pf>
+                    <pa>1438</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2118</pf>
+                    <pa>1635</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2042</pf>
+                    <pa>1573</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163602'>
+                    <teamName>Pasibrzuchy</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1980</pf>
+                    <pa>1851</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56224'>
+                    <teamName>Dudopol Dudowizna</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1959</pf>
+                    <pa>1869</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163498'>
+                    <teamName>Palermo Boys</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1831</pf>
+                    <pa>1949</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1395</pf>
+                    <pa>2134</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1841</pf>
+                    <pa>2025</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='114347647' start='2021-03-09T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347648' start='2021-03-09T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>87</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347649' start='2021-03-09T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163602'>
+                        <teamName>Pasibrzuchy</teamName>
+<score>68</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347650' start='2021-03-09T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>123</score>
+                    </awayTeam>
+                    <homeTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>99</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='114397705' start='2021-03-13T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>93</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114397706' start='2021-03-13T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='114442848' start='2021-03-16T16:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>88</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114442849' start='2021-03-20T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>102</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='114347651' start='2021-03-09T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>47</score>
+                    </awayTeam>
+                    <homeTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>74</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347654' start='2021-03-09T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='56224'>
+                        <teamName>Dudopol Dudowizna</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347657' start='2021-03-09T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='163498'>
+                        <teamName>Palermo Boys</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='164201'>
+                        <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>99</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347652' start='2021-03-13T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>132</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>27</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347655' start='2021-03-13T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56224'>
+                        <teamName>Dudopol Dudowizna</teamName>
+<score>95</score>
+                    </awayTeam>
+                    <homeTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>60</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='114347658' start='2021-03-13T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='164201'>
+                        <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>105</score>
+                    </awayTeam>
+                    <homeTeam id='163498'>
+                        <teamName>Palermo Boys</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='56221'>Chiki-Cziki-Chiki-Ta</relegated>
+            
+            <relegated id='56421'>Nałęczów Warriors</relegated>
+            
+            <relegated id='56429'>TOP TEN THUNDERS</relegated>
+            
+            <relegated id='163498'>Palermo Boys</relegated>
+            
+            <relegated id='165275'>Bieszczadzkie Anioły</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

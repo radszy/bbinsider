@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165275' season='57' retrieved='2023-02-24T22:05:44Z'>
+        <match id='119566433' start='2022-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='78376'>
+                <teamName>C.B. Barracónipos</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382673' start='2022-04-22T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='237760'>
+                <teamName>Rajdersi</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924118' start='2022-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924126' start='2022-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120566200' start='2022-04-27T16:35:00Z' type='bbm'>
+            <awayTeam id='180631'>
+                <teamName>ErelisLT</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924746' start='2022-04-28T16:35:00Z' type='cup'>
+            <awayTeam id='164976'>
+                <teamName>pilzno city</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382682' start='2022-04-29T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924134' start='2022-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924142' start='2022-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120573950' start='2022-05-04T17:05:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='41432'>
+                <teamName>Nøtterøy Funkadelics</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120589375' start='2022-05-05T16:35:00Z' type='cup'>
+            <awayTeam id='165803'>
+                <teamName>Bisons Przywodzie</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382690' start='2022-05-06T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924150' start='2022-05-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924158' start='2022-05-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120598487' start='2022-05-11T16:00:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='276835'>
+                <teamName>BC.Play-Off</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120609792' start='2022-05-12T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='237163'>
+                <teamName>Ballers Katowice</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382697' start='2022-05-13T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924166' start='2022-05-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924170' start='2022-05-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120615113' start='2022-05-18T16:35:00Z' type='bbm'>
+            <awayTeam id='50156'>
+                <teamName>BC Kobakäpp</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120624052' start='2022-05-19T16:35:00Z' type='cup'>
+            <awayTeam id='165478'>
+                <teamName>#Bobry Bytom#</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382704' start='2022-05-20T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924185' start='2022-05-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924192' start='2022-05-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120628558' start='2022-05-25T18:00:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='91681'>
+                <teamName>Optic Fibres</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120636257' start='2022-05-26T16:35:00Z' type='cup'>
+            <awayTeam id='164194'>
+                <teamName>KK Lotnik Oleśnica</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382711' start='2022-05-27T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924199' start='2022-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924206' start='2022-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120640876' start='2022-06-01T16:35:00Z' type='bbm'>
+            <awayTeam id='177891'>
+                <teamName>Miami Lithuania</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120648105' start='2022-06-02T16:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382718' start='2022-06-03T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924213' start='2022-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120660125' start='2022-06-07T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163099'>
+                <teamName>Podwórkowcy</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1055002086' start='2022-06-08T16:35:00Z' type='unknown'>
+            <awayTeam id='2086'>
+                <teamName>Great 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='2086'>
+                <teamName>Big 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120653158' start='2022-06-08T16:35:00Z' type='bbm'>
+            <awayTeam id='52118'>
+                <teamName>Májköldzsordön</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120664588' start='2022-06-09T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382725' start='2022-06-10T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924220' start='2022-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924227' start='2022-06-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120666186' start='2022-06-16T16:35:00Z' type='friendly'>
+            <awayTeam id='33366'>
+                <teamName>Raptor City B.C.</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924238' start='2022-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924246' start='2022-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120671187' start='2022-06-23T16:35:00Z' type='friendly'>
+            <awayTeam id='196228'>
+                <teamName>Dare Devils</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924254' start='2022-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924262' start='2022-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120678330' start='2022-06-30T16:35:00Z' type='friendly'>
+            <awayTeam id='275654'>
+                <teamName>Gardoncity II</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681009' start='2022-07-01T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924270' start='2022-07-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924278' start='2022-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681606' start='2022-07-07T16:35:00Z' type='friendly'>
+            <awayTeam id='134941'>
+                <teamName>Locos por el aro</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681012' start='2022-07-08T17:00:00Z' type='pl.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924286' start='2022-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120725282' start='2022-07-12T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120686426' start='2022-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='259167'>
+                <teamName>FoxTreex</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681014' start='2022-07-15T17:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120725283' start='2022-07-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120799129' start='2022-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='196359'>
+                <teamName>Kinky Koalas</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681015' start='2022-07-22T17:00:00Z' type='pl.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120820494' start='2022-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

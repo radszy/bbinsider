@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165366' season='59' retrieved='2023-02-24T22:05:58Z'>
+        <match id='122491073' start='2022-11-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491080' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132383' start='2022-11-09T17:35:00Z' type='bbm'>
+            <awayTeam id='105422'>
+                <teamName>BV Pistons</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491831' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='166170'>
+                <teamName>Zielonogórskie dziki</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491087' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491094' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140770' start='2022-11-16T17:35:00Z' type='bbm'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='55960'>
+                <teamName>Legion W-wa</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123156256' start='2022-11-17T17:35:00Z' type='cup'>
+            <awayTeam id='163505'>
+                <teamName>Phinx Suns</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491105' start='2022-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491112' start='2022-11-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165609' start='2022-11-23T17:35:00Z' type='bbm'>
+            <awayTeam id='28437'>
+                <teamName>Irvine Anteaters</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123176878' start='2022-11-24T17:35:00Z' type='cup'>
+            <awayTeam id='239214'>
+                <teamName>Snap Domachau</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491121' start='2022-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491129' start='2022-11-29T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123182268' start='2022-11-30T17:35:00Z' type='bbm'>
+            <awayTeam id='178425'>
+                <teamName>KK &amp;quot;Šalvis&amp;quot;</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123191435' start='2022-12-01T17:35:00Z' type='cup'>
+            <awayTeam id='164834'>
+                <teamName>Ittoqqortoormiit</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491136' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491143' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195806' start='2022-12-07T17:35:00Z' type='bbm'>
+            <awayTeam id='29518'>
+                <teamName>Arizona Cacti</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123203763' start='2022-12-08T17:35:00Z' type='cup'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491150' start='2022-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491157' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208819' start='2022-12-14T22:00:00Z' type='bbm'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='277194'>
+                <teamName>Back2Back</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491164' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220985' start='2022-12-21T17:35:00Z' type='bbm'>
+            <awayTeam id='276411'>
+                <teamName>Fabulous Five</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491171' start='2022-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491178' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491193' start='2022-12-31T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491200' start='2023-01-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491207' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491214' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491225' start='2023-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491232' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491241' start='2023-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295559' start='2023-01-24T17:35:00Z' type='league.relegation'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295560' start='2023-01-28T17:35:00Z' type='league.relegation'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295561' start='2023-01-31T17:35:00Z' type='league.relegation'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390943' start='2023-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

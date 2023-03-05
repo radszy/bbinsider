@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163966' season='43' retrieved='2023-02-24T22:09:23Z'>
+        <match id='102099650' start='2018-07-19T16:40:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='44604'>
+                <teamName>JayPees Lumber Jacks</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147305' start='2018-07-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147312' start='2018-07-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102148127' start='2018-07-26T16:35:00Z' type='cup'>
+            <awayTeam id='165962'>
+                <teamName>Slayers Lazek</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147323' start='2018-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147330' start='2018-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103109433' start='2018-08-02T16:35:00Z' type='cup'>
+            <awayTeam id='164193'>
+                <teamName>drwale</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147339' start='2018-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147347' start='2018-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103122362' start='2018-08-09T16:35:00Z' type='cup'>
+            <awayTeam id='56025'>
+                <teamName>RACZKI</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147354' start='2018-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147365' start='2018-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103129969' start='2018-08-16T16:35:00Z' type='cup'>
+            <awayTeam id='162502'>
+                <teamName>Cupula Mundi</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147373' start='2018-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147381' start='2018-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103135561' start='2018-08-23T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147389' start='2018-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147397' start='2018-08-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103142820' start='2018-08-30T16:35:00Z' type='friendly'>
+            <awayTeam id='162770'>
+                <teamName>Pogoń Oleśnica</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147405' start='2018-09-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1041010582' start='2018-09-05T16:35:00Z' type='unknown'>
+            <awayTeam id='10582'>
+                <teamName>Great 8</teamName>
+<score>174</score>
+            </awayTeam>
+            <homeTeam id='10582'>
+                <teamName>Big 8</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103147451' start='2018-09-06T16:35:00Z' type='friendly'>
+            <awayTeam id='63652'>
+                <teamName>Neuquén Stoners</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147413' start='2018-09-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147421' start='2018-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103153971' start='2018-09-13T16:35:00Z' type='friendly'>
+            <awayTeam id='166143'>
+                <teamName>Bobry Dybków</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147425' start='2018-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147432' start='2018-09-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103158535' start='2018-09-20T16:35:00Z' type='friendly'>
+            <awayTeam id='162175'>
+                <teamName>Lubieczeskiepiwo Team</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147443' start='2018-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147450' start='2018-09-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103163380' start='2018-09-27T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='164844'>
+                <teamName>Arash Szczecin</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147459' start='2018-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147467' start='2018-10-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103168466' start='2018-10-04T16:35:00Z' type='friendly'>
+            <awayTeam id='26231'>
+                <teamName>Die Überspitzen 1910</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147474' start='2018-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212749' start='2018-10-09T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103179203' start='2018-10-11T16:40:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='119057'>
+                <teamName>Ljute Ptice</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103262894' start='2018-10-13T16:35:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103334099' start='2018-10-18T16:35:00Z' type='friendly'>
+            <awayTeam id='55356'>
+                <teamName>Paragraf 22</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103307113' start='2018-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

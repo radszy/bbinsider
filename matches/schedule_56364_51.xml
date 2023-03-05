@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='51' retrieved='2023-02-24T22:04:54Z'>
+        <match id='111997004' start='2020-09-10T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='162627'>
+                <teamName>OKK Ostrołęka</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354864' start='2020-09-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354872' start='2020-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355382' start='2020-09-17T16:35:00Z' type='cup'>
+            <awayTeam id='165505'>
+                <teamName>Miami Load</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354880' start='2020-09-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354888' start='2020-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113006334' start='2020-09-24T16:35:00Z' type='cup'>
+            <awayTeam id='162544'>
+                <teamName>Kraków Bulls</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354894' start='2020-09-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354903' start='2020-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113019284' start='2020-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354911' start='2020-10-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354916' start='2020-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113027215' start='2020-10-08T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56520'>
+                <teamName>Kolekcjonerzy Chwil</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031186' start='2020-10-09T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='29853'>
+                <teamName>Los Angeles Lords</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354923' start='2020-10-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354930' start='2020-10-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113032861' start='2020-10-15T16:35:00Z' type='cup'>
+            <awayTeam id='164713'>
+                <teamName>Stavian77</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031192' start='2020-10-16T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='122154'>
+                <teamName>🏀 BC Viiratsi 🏀</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354945' start='2020-10-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354952' start='2020-10-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113038200' start='2020-10-22T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>144</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031198' start='2020-10-23T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='177562'>
+                <teamName>Lenoši</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354959' start='2020-10-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113043563' start='2020-10-27T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1049002083' start='2020-10-28T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>153</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113048474' start='2020-10-29T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55960'>
+                <teamName>Legion W-wa</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031203' start='2020-10-30T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='46471'>
+                <teamName>SAMANTHA BASKET</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354966' start='2020-10-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354973' start='2020-11-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113048944' start='2020-11-05T17:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031207' start='2020-11-06T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354984' start='2020-11-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354992' start='2020-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113054365' start='2020-11-12T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031211' start='2020-11-13T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='43945'>
+                <teamName>Smiley World</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355000' start='2020-11-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355008' start='2020-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059846' start='2020-11-19T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031215' start='2020-11-20T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='218208'>
+                <teamName>Freedom from Fear</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355014' start='2020-11-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355023' start='2020-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113064973' start='2020-11-26T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031219' start='2020-11-27T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='97943'>
+                <teamName>Dalmatia Towars</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355031' start='2020-11-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109976' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113071708' start='2020-12-03T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='164287'>
+                <teamName>Gruźlica 2000</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031225' start='2020-12-04T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='276213'>
+                <teamName>Punxsutawney Groundhogs</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113160424' start='2020-12-05T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113174380' start='2020-12-10T15:55:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='37993'>
+                <teamName>&quot;ROAD RUNNER&quot; HAIFA</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113031231' start='2020-12-11T16:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='29853'>
+                <teamName>Los Angeles Lords</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113204907' start='2020-12-12T17:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

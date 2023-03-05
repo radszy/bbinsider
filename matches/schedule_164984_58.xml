@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164984' season='58' retrieved='2023-02-24T22:05:48Z'>
+        <match id='120849624' start='2022-07-28T16:35:00Z' type='friendly'>
+            <awayTeam id='49816'>
+                <teamName>vesters dunkers</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208595' start='2022-07-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208603' start='2022-08-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121849258' start='2022-08-03T15:55:00Z' type='bbm'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='45767'>
+                <teamName>Krautentruppen</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208774' start='2022-08-04T16:35:00Z' type='cup'>
+            <awayTeam id='164390'>
+                <teamName>kolobrzeg kotwica</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208611' start='2022-08-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208619' start='2022-08-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121856982' start='2022-08-10T16:35:00Z' type='bbm'>
+            <awayTeam id='44708'>
+                <teamName>Llacuabamba Angels</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121872346' start='2022-08-11T16:35:00Z' type='cup'>
+            <awayTeam id='239026'>
+                <teamName>Cliff Trzemeszno</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208625' start='2022-08-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208634' start='2022-08-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121881350' start='2022-08-17T14:55:00Z' type='bbm'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='92013'>
+                <teamName>Elitzur Bney Ha&#39;Yeshivot</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121892718' start='2022-08-18T16:35:00Z' type='cup'>
+            <awayTeam id='166025'>
+                <teamName>Gangsterzy z Białowieży</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208642' start='2022-08-20T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208651' start='2022-08-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121898347' start='2022-08-24T19:00:00Z' type='bbm'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='276190'>
+                <teamName>Slaytanic</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121907237' start='2022-08-25T16:35:00Z' type='cup'>
+            <awayTeam id='234235'>
+                <teamName>Bully Boys</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208659' start='2022-08-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208667' start='2022-08-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121911545' start='2022-08-31T15:55:00Z' type='bbm'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='45885'>
+                <teamName>Peo Team</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121919477' start='2022-09-01T16:35:00Z' type='cup'>
+            <awayTeam id='164216'>
+                <teamName>zagle 2</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208675' start='2022-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>15</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208683' start='2022-09-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121923736' start='2022-09-07T11:00:00Z' type='bbm'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='50693'>
+                <teamName>Auto Recovery</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121931147' start='2022-09-08T16:35:00Z' type='cup'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='164232'>
+                <teamName>Sparrow Team</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208691' start='2022-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121943167' start='2022-09-13T16:35:00Z' type='cup'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121936135' start='2022-09-14T15:30:00Z' type='bbm'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='52377'>
+                <teamName>Makedoncite na Milan</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1056002083' start='2022-09-14T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>144</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121947786' start='2022-09-15T16:35:00Z' type='cup'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162377'>
+                <teamName>Przemo z Niemiec</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208699' start='2022-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208707' start='2022-09-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121950574' start='2022-09-22T16:35:00Z' type='friendly'>
+            <awayTeam id='276648'>
+                <teamName>Ogrzej się w blasku mojej chwały</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208715' start='2022-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208723' start='2022-09-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121956291' start='2022-09-29T16:35:00Z' type='friendly'>
+            <awayTeam id='37692'>
+                <teamName>Gausón</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208731' start='2022-10-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208739' start='2022-10-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959568' start='2022-10-06T16:35:00Z' type='friendly'>
+            <awayTeam id='75346'>
+                <teamName>PORTUSMAGNUS</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208745' start='2022-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208754' start='2022-10-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121966333' start='2022-10-13T16:35:00Z' type='friendly'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='164449'>
+                <teamName>Lipno Bulls</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121208762' start='2022-10-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121970767' start='2022-10-20T10:00:00Z' type='friendly'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='209974'>
+                <teamName>QQguest</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122058916' start='2022-10-22T16:35:00Z' type='friendly'>
+            <awayTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122074653' start='2022-10-27T16:35:00Z' type='friendly'>
+            <awayTeam id='46607'>
+                <teamName>borteam</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122103230' start='2022-10-29T16:35:00Z' type='friendly'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56376'>
+                <teamName>Wataha Wroclaw</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

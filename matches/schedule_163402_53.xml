@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163402' season='53' retrieved='2023-02-24T22:05:08Z'>
+        <match id='115470938' start='2021-03-25T13:30:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>138</score>
+            </awayTeam>
+            <homeTeam id='146629'>
+                <teamName>bayram1</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830402' start='2021-03-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830410' start='2021-03-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114831013' start='2021-04-01T16:35:00Z' type='cup'>
+            <awayTeam id='164319'>
+                <teamName>GÓRNIK BRZESZCZE</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830418' start='2021-04-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830426' start='2021-04-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115482612' start='2021-04-08T16:35:00Z' type='cup'>
+            <awayTeam id='231942'>
+                <teamName>Vibes Paradów</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830434' start='2021-04-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830442' start='2021-04-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115496058' start='2021-04-15T16:35:00Z' type='cup'>
+            <awayTeam id='162629'>
+                <teamName>ANWILOWCY</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830450' start='2021-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830458' start='2021-04-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115503135' start='2021-04-22T16:35:00Z' type='cup'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830466' start='2021-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830474' start='2021-04-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115508453' start='2021-04-29T16:35:00Z' type='cup'>
+            <awayTeam id='55707'>
+                <teamName>Skrzydlate Świnie</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830482' start='2021-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830490' start='2021-05-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115513313' start='2021-05-06T16:35:00Z' type='cup'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830498' start='2021-05-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>31</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115518998' start='2021-05-11T16:35:00Z' type='cup'>
+            <awayTeam id='55539'>
+                <teamName>Magic Gortat Team</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1051002140' start='2021-05-12T16:35:00Z' type='unknown'>
+            <awayTeam id='2140'>
+                <teamName>Great 8</teamName>
+<score>153</score>
+            </awayTeam>
+            <homeTeam id='2140'>
+                <teamName>Big 8</teamName>
+<score>176</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115523823' start='2021-05-13T16:35:00Z' type='cup'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830506' start='2021-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>18</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830514' start='2021-05-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115524382' start='2021-05-20T16:35:00Z' type='cup'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163313'>
+                <teamName>Latające Kurczaki</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830522' start='2021-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830530' start='2021-05-25T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115529470' start='2021-05-27T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830538' start='2021-05-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830546' start='2021-06-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115538875' start='2021-06-03T22:00:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='61979'>
+                <teamName>Club Atlético Estrella</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830554' start='2021-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830562' start='2021-06-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115543977' start='2021-06-10T15:55:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='45548'>
+                <teamName>DESPERADOS team</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830570' start='2021-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583865' start='2021-06-15T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115644700' start='2021-06-17T22:00:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='59949'>
+                <teamName>El Palomar A.B.</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583866' start='2021-06-19T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583867' start='2021-06-22T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115705578' start='2021-06-24T16:35:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115678677' start='2021-06-26T16:35:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

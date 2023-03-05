@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163288' season='48' retrieved='2023-02-24T22:10:07Z'>
+        <match id='108645617' start='2019-11-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645625' start='2019-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108646331' start='2019-11-28T17:35:00Z' type='cup'>
+            <awayTeam id='56465'>
+                <teamName>Basket Tarnów</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645633' start='2019-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645641' start='2019-12-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109296062' start='2019-12-05T17:35:00Z' type='cup'>
+            <awayTeam id='162893'>
+                <teamName>Fuzja Bydgoszcz</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645649' start='2019-12-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645657' start='2019-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109308964' start='2019-12-12T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162649'>
+                <teamName>AZS KATOWICE</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645664' start='2019-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645669' start='2019-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109315791' start='2019-12-19T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165230'>
+                <teamName>koras</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645676' start='2019-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645691' start='2019-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109321445' start='2019-12-26T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>142</score>
+            </awayTeam>
+            <homeTeam id='55873'>
+                <teamName>Warta Poznań</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645698' start='2019-12-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645705' start='2019-12-31T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109326361' start='2020-01-02T17:35:00Z' type='cup'>
+            <awayTeam id='164938'>
+                <teamName>FaceToFace Team</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645712' start='2020-01-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109331392' start='2020-01-07T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56379'>
+                <teamName>Boston Katowice</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1046002084' start='2020-01-08T17:35:00Z' type='unknown'>
+            <awayTeam id='2084'>
+                <teamName>Big 8</teamName>
+<score>175</score>
+            </awayTeam>
+            <homeTeam id='2084'>
+                <teamName>Great 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336161' start='2020-01-09T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56053'>
+                <teamName>chicago bulss</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645719' start='2020-01-11T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>18</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645726' start='2020-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109336841' start='2020-01-16T17:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645737' start='2020-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645745' start='2020-01-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109345131' start='2020-01-23T17:35:00Z' type='friendly'>
+            <awayTeam id='162912'>
+                <teamName>WROCLAWSKIE BYKI</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645753' start='2020-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645761' start='2020-01-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109348413' start='2020-01-30T19:00:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='78150'>
+                <teamName>El Málaga</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645769' start='2020-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645777' start='2020-02-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109355407' start='2020-02-06T17:30:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='26552'>
+                <teamName>Tuna Tigers</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108645784' start='2020-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397575' start='2020-02-11T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109358833' start='2020-02-13T19:00:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='135141'>
+                <teamName>Lugo warriors</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397576' start='2020-02-15T17:35:00Z' type='league.relegation'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109397577' start='2020-02-18T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109461926' start='2020-02-20T17:40:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='49575'>
+                <teamName>Psohlavci</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109491763' start='2020-02-22T17:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

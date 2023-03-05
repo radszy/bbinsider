@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165240' season='59' retrieved='2023-02-24T22:05:57Z'>
+        <match id='122133148' start='2022-11-03T16:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='165249'>
+                <teamName>BKS Sowlany</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491071' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491079' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132375' start='2022-11-09T17:35:00Z' type='bbm'>
+            <awayTeam id='77876'>
+                <teamName>Buckets 24ers</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491859' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='164169'>
+                <teamName>Dnipro Dniepropetrowsk</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491087' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491095' start='2022-11-15T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140766' start='2022-11-16T17:35:00Z' type='bbm'>
+            <awayTeam id='160366'>
+                <teamName>Quahog Toy Boys</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123156235' start='2022-11-17T17:35:00Z' type='cup'>
+            <awayTeam id='56228'>
+                <teamName>Fc Piotrków</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491103' start='2022-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491111' start='2022-11-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165595' start='2022-11-23T17:35:00Z' type='bbm'>
+            <awayTeam id='187468'>
+                <teamName>邯郸江浩</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123177194' start='2022-11-24T17:35:00Z' type='cup'>
+            <awayTeam id='233891'>
+                <teamName>Żani Bears</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491118' start='2022-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491123' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123182267' start='2022-11-30T17:35:00Z' type='bbm'>
+            <awayTeam id='173540'>
+                <teamName>Malmö Highflyers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123191269' start='2022-12-01T17:35:00Z' type='cup'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163681'>
+                <teamName>Woozkonets</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491130' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491145' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195802' start='2022-12-07T17:35:00Z' type='bbm'>
+            <awayTeam id='89684'>
+                <teamName>Ventola Team</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123203780' start='2022-12-08T17:35:00Z' type='cup'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='162226'>
+                <teamName>Victoria Koszalin</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491152' start='2022-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491159' start='2022-12-13T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208642' start='2022-12-14T17:35:00Z' type='bbm'>
+            <awayTeam id='196596'>
+                <teamName>peaceNroll</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123215998' start='2022-12-15T17:35:00Z' type='cup'>
+            <awayTeam id='162825'>
+                <teamName>Czarni Nakło</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491166' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123228128' start='2022-12-20T17:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220976' start='2022-12-21T17:35:00Z' type='bbm'>
+            <awayTeam id='50169'>
+                <teamName>Võru 96´ers</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123232886' start='2022-12-22T17:35:00Z' type='cup'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491173' start='2022-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491180' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233406' start='2022-12-28T17:35:00Z' type='unknown'>
+            <awayTeam id='276282'>
+                <teamName>C H I K I T A</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123237497' start='2022-12-29T17:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='233370'>
+                <teamName>Orzech</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491191' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491199' start='2023-01-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123241260' start='2023-01-05T16:55:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='46282'>
+                <teamName>Spinazzina</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491207' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491215' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123248659' start='2023-01-12T16:00:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='194965'>
+                <teamName>Dubai Leopards</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491223' start='2023-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491231' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123252652' start='2023-01-19T17:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='234977'>
+                <teamName>Fc Szczecinek</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491238' start='2023-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295555' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123301599' start='2023-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164600'>
+                <teamName>MKS Kataryna</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123345882' start='2023-01-28T17:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123361003' start='2023-02-02T17:35:00Z' type='friendly'>
+            <awayTeam id='91962'>
+                <teamName>Red Jerusalem</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390941' start='2023-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

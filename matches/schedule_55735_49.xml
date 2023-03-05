@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55735' season='49' retrieved='2023-02-24T22:10:10Z'>
+        <match id='109521296' start='2020-02-27T17:35:00Z' type='friendly'>
+            <awayTeam id='27693'>
+                <teamName>Atsalakotoi B.C.</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520038' start='2020-02-28T17:35:00Z' type='pl.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880168' start='2020-02-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880176' start='2020-03-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880818' start='2020-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='231528'>
+                <teamName>Ursus Dachnow</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520041' start='2020-03-06T17:35:00Z' type='pl.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880184' start='2020-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880192' start='2020-03-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110530529' start='2020-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='165676'>
+                <teamName>Ice Kolonia Lekinsko</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520043' start='2020-03-13T17:35:00Z' type='pl.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880200' start='2020-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880208' start='2020-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110543174' start='2020-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='56572'>
+                <teamName>Perła Lublin</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520045' start='2020-03-20T17:35:00Z' type='pl.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880216' start='2020-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880224' start='2020-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110549954' start='2020-03-26T16:35:00Z' type='cup'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='163171'>
+                <teamName>Darth Rudolfs</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520049' start='2020-03-27T17:35:00Z' type='pl.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880232' start='2020-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880240' start='2020-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110555442' start='2020-04-02T16:35:00Z' type='cup'>
+            <awayTeam id='56025'>
+                <teamName>RACZKI</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520053' start='2020-04-03T17:35:00Z' type='pl.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880248' start='2020-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880256' start='2020-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110561099' start='2020-04-09T16:35:00Z' type='cup'>
+            <awayTeam id='163993'>
+                <teamName>Stalówka 1938</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520056' start='2020-04-10T17:35:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880264' start='2020-04-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110566730' start='2020-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='164269'>
+                <teamName>ANWIL POLSKA</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1047002083' start='2020-04-15T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110572599' start='2020-04-16T16:35:00Z' type='cup'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='165246'>
+                <teamName>TARPAN Mrocza Team</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520058' start='2020-04-17T17:35:00Z' type='pl.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880272' start='2020-04-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880280' start='2020-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110573356' start='2020-04-23T16:35:00Z' type='cup'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109520060' start='2020-04-24T17:35:00Z' type='pl.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880288' start='2020-04-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880296' start='2020-04-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110579451' start='2020-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='23598'>
+                <teamName>EDH Wolves</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110579274' start='2020-05-01T16:35:00Z' type='pl.semifinal'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880304' start='2020-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880312' start='2020-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110584703' start='2020-05-07T16:35:00Z' type='friendly'>
+            <awayTeam id='23622'>
+                <teamName>Seattle Squatch</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880320' start='2020-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880328' start='2020-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110590172' start='2020-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='24872'>
+                <teamName>50 Shades of Trae</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880336' start='2020-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110635704' start='2020-05-19T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110595682' start='2020-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='34894'>
+                <teamName>Dynamo Steintor</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110685290' start='2020-05-23T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110699102' start='2020-05-28T16:35:00Z' type='friendly'>
+            <awayTeam id='27693'>
+                <teamName>Atsalakotoi B.C.</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110730198' start='2020-05-30T16:35:00Z' type='friendly'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

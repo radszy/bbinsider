@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='58' retrieved='2023-02-24T21:47:01Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>22</wins>
+                    <losses>0</losses>
+                    <pf>2157</pf>
+                    <pa>1405</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>1906</pf>
+                    <pa>1491</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55735'>
+                    <teamName>Buriczki</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1975</pf>
+                    <pa>1697</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1918</pf>
+                    <pa>1769</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55690'>
+                    <teamName>Hegemonia Białystok</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1778</pf>
+                    <pa>1757</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1971</pf>
+                    <pa>1786</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163052'>
+                    <teamName>Pruszcz All Stars</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1561</pf>
+                    <pa>1968</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164984'>
+                    <teamName>Ugnij się przed moim majestatem</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1604</pf>
+                    <pa>2131</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2073</pf>
+                    <pa>1633</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163062'>
+                    <teamName>Stara Dama</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1752</pf>
+                    <pa>1573</pa>
+                    <isBot>0</isBot>
+                    <forfeits>1</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1715</pf>
+                    <pa>1891</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='233576'>
+                    <teamName>blekitni krakow</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1945</pf>
+                    <pa>1735</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1832</pf>
+                    <pa>1777</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>1920</pf>
+                    <pa>2051</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56056'>
+                    <teamName>The French Bulldog&#39;s</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1578</pf>
+                    <pa>2044</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56376'>
+                    <teamName>Wataha Wroclaw</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>279</pf>
+                    <pa>1256</pa>
+                    <isBot>0</isBot>
+                    <forfeits>19</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='122008793' start='2022-10-18T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008794' start='2022-10-18T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>63</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>113</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008795' start='2022-10-18T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='233576'>
+                        <teamName>blekitni krakow</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008796' start='2022-10-18T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>48</score>
+                    </awayTeam>
+                    <homeTeam id='163062'>
+                        <teamName>Stara Dama</teamName>
+<score>105</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='122058917' start='2022-10-22T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>87</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122058918' start='2022-10-22T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163062'>
+                        <teamName>Stara Dama</teamName>
+<score>66</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='122103231' start='2022-10-25T16:35:00Z' type='league.final'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>101</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122103232' start='2022-10-29T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>66</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>107</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='122008797' start='2022-10-18T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>51</score>
+                    </awayTeam>
+                    <homeTeam id='55690'>
+                        <teamName>Hegemonia Białystok</teamName>
+<score>132</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008800' start='2022-10-18T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163052'>
+                        <teamName>Pruszcz All Stars</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>125</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008803' start='2022-10-18T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>131</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>54</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008798' start='2022-10-22T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55690'>
+                        <teamName>Hegemonia Białystok</teamName>
+<score>125</score>
+                    </awayTeam>
+                    <homeTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>51</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008801' start='2022-10-22T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>120</score>
+                    </awayTeam>
+                    <homeTeam id='163052'>
+                        <teamName>Pruszcz All Stars</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='122008804' start='2022-10-22T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>27</score>
+                    </awayTeam>
+                    <homeTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>146</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='165320'>DLR Basketball Club</winner>
+            
+            <relegated id='56056'>The French Bulldog&#39;s</relegated>
+            
+            <relegated id='56221'>Chiki-Cziki-Chiki-Ta</relegated>
+            
+            <relegated id='56376'>Wataha Wroclaw</relegated>
+            
+            <relegated id='163052'>Pruszcz All Stars</relegated>
+            
+            <relegated id='164984'>Ugnij się przed moim majestatem</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

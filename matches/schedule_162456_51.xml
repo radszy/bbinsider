@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162456' season='51' retrieved='2023-02-24T22:04:52Z'>
+        <match id='111996067' start='2020-09-10T16:35:00Z' type='friendly'>
+            <awayTeam id='32774'>
+                <teamName>Assis Basquete</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111823365' start='2020-09-11T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='47670'>
+                <teamName>ASD Imberido</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354859' start='2020-09-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354867' start='2020-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355174' start='2020-09-17T16:35:00Z' type='cup'>
+            <awayTeam id='238617'>
+                <teamName>magicstarsmj</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111823370' start='2020-09-18T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='122154'>
+                <teamName>🏀 BC Viiratsi 🏀</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354875' start='2020-09-19T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354883' start='2020-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113006708' start='2020-09-24T16:35:00Z' type='cup'>
+            <awayTeam id='164528'>
+                <teamName>Golden Team - Cylu</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111823374' start='2020-09-25T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='91809'>
+                <teamName>Ramat-Ilan Pilots</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354891' start='2020-09-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354899' start='2020-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113018957' start='2020-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='163506'>
+                <teamName>FC Minions</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354906' start='2020-10-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354915' start='2020-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113027313' start='2020-10-08T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354923' start='2020-10-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354931' start='2020-10-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113032813' start='2020-10-15T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036274' start='2020-10-16T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='49481'>
+                <teamName>SK BK Přerov</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354939' start='2020-10-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354947' start='2020-10-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113039700' start='2020-10-22T15:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='57084'>
+                <teamName>star4ever</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036280' start='2020-10-23T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='34835'>
+                <teamName>Crocodile Dunky</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354955' start='2020-10-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1049002083' start='2020-10-28T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>153</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113044392' start='2020-10-29T16:35:00Z' type='friendly'>
+            <awayTeam id='46210'>
+                <teamName>BONETEK23</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036286' start='2020-10-30T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='92204'>
+                <teamName>Mordeath Wyverns</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354963' start='2020-10-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354971' start='2020-11-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113050784' start='2020-11-05T17:35:00Z' type='friendly'>
+            <awayTeam id='276309'>
+                <teamName>Cimentul Fieni II</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036292' start='2020-11-06T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='23869'>
+                <teamName>Upsyndrome</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354979' start='2020-11-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354987' start='2020-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113055097' start='2020-11-12T17:35:00Z' type='friendly'>
+            <awayTeam id='84579'>
+                <teamName>Slashers 5.0</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036298' start='2020-11-13T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='146725'>
+                <teamName>I Love Tehran</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354995' start='2020-11-14T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355003' start='2020-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113060566' start='2020-11-19T17:35:00Z' type='friendly'>
+            <awayTeam id='276398'>
+                <teamName>Bambolaja II</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036303' start='2020-11-20T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355011' start='2020-11-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355019' start='2020-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113066104' start='2020-11-26T17:35:00Z' type='friendly'>
+            <awayTeam id='277123'>
+                <teamName>Macerata Drunkens</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036307' start='2020-11-27T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='146803'>
+                <teamName>Tranquil</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355026' start='2020-11-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109977' start='2020-12-01T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113071029' start='2020-12-03T17:35:00Z' type='friendly'>
+            <awayTeam id='39686'>
+                <teamName>Easy Score</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036311' start='2020-12-04T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='92390'>
+                <teamName>Ramat-Gan Billers</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109978' start='2020-12-05T17:35:00Z' type='league.relegation'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109979' start='2020-12-08T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113174938' start='2020-12-10T17:35:00Z' type='friendly'>
+            <awayTeam id='54421'>
+                <teamName>couch potatoes</teamName>
+<score>18</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113036315' start='2020-12-11T23:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='31443'>
+                <teamName>Richmond Rabbits</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113204910' start='2020-12-12T17:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165240' season='44' retrieved='2023-02-24T22:09:34Z'>
+        <match id='103338298' start='2018-10-25T16:35:00Z' type='friendly'>
+            <awayTeam id='89757'>
+                <teamName>leuven p3</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695318' start='2018-10-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695325' start='2018-10-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103696119' start='2018-11-01T16:35:00Z' type='cup'>
+            <awayTeam id='239038'>
+                <teamName>Spirit Lubon</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695336' start='2018-11-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695343' start='2018-11-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>27</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104345566' start='2018-11-08T17:35:00Z' type='cup'>
+            <awayTeam id='165679'>
+                <teamName>Rhythm Mala Kamlenica</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695352' start='2018-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695360' start='2018-11-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104358518' start='2018-11-15T17:35:00Z' type='cup'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56162'>
+                <teamName>Hoopgods</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695367' start='2018-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695378' start='2018-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104370156' start='2018-11-22T19:00:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='25912'>
+                <teamName>rota beach</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695386' start='2018-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695394' start='2018-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695402' start='2018-12-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695410' start='2018-12-04T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695418' start='2018-12-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>163</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1042002083' start='2018-12-12T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>147</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>154</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695426' start='2018-12-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695434' start='2018-12-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695438' start='2018-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695445' start='2018-12-25T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695456' start='2018-12-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695463' start='2019-01-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695472' start='2019-01-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695480' start='2019-01-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695487' start='2019-01-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104500440' start='2019-01-19T17:35:00Z' type='friendly'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104545293' start='2019-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

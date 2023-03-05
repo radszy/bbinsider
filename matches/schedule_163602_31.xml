@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163602' season='31' retrieved='2023-02-24T22:12:01Z'>
+        <match id='82284250' start='2015-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='89684'>
+                <teamName>Ventola Team</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705741' start='2015-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705748' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82709930' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='165961'>
+                <teamName>Plexis Zmuida</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705755' start='2015-05-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705762' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85051378' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='237988'>
+                <teamName>Infantry Prostki</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705773' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705780' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85082865' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='162228'>
+                <teamName>Kaz-Jazz</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705789' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705801' start='2015-05-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100711' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163584'>
+                <teamName>pebegie</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705809' start='2015-05-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705817' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111551' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705825' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705833' start='2015-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119556' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='56166'>
+                <teamName>Oklahoma Silver Fox</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705841' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126980' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='166033'>
+                <teamName>MeoTeam</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029002095' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='2095'>
+                <teamName>Big 8</teamName>
+<score>162</score>
+            </awayTeam>
+            <homeTeam id='2095'>
+                <teamName>Great 8</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85133544' start='2015-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='162352'>
+                <teamName>Michu Team</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705849' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705857' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85134584' start='2015-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='163864'>
+                <teamName>Kalisz Magic</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705861' start='2015-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705868' start='2015-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85141247' start='2015-07-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705875' start='2015-07-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705882' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>139</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85147883' start='2015-07-09T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705893' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705900' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85156497' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163007'>
+                <teamName>Nobiles_club</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705909' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237157' start='2015-07-21T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85178793' start='2015-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='41138'>
+                <teamName>Odojak</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237158' start='2015-07-25T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237159' start='2015-07-28T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483112' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

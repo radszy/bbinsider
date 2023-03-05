@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='33' retrieved='2023-02-24T22:12:14Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1889</pf>
+                    <pa>1978</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2021</pf>
+                    <pa>1901</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1966</pf>
+                    <pa>1850</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1983</pf>
+                    <pa>1891</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2026</pf>
+                    <pa>2013</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56332'>
+                    <teamName>Zaniemysl Basket Team</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1953</pf>
+                    <pa>1770</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55675'>
+                    <teamName>SUPERLIGOTA</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1965</pf>
+                    <pa>2072</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165735'>
+                    <teamName>Jaga Człuchów</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1584</pf>
+                    <pa>2320</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2422</pf>
+                    <pa>1824</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2193</pf>
+                    <pa>1594</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Team 56364</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1821</pf>
+                    <pa>1717</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163288'>
+                    <teamName>Chomiczówka´s Boys</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2010</pf>
+                    <pa>1815</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162778'>
+                    <teamName>Niebiescy Bangow</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2103</pf>
+                    <pa>1974</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162366'>
+                    <teamName>BR66</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1666</pf>
+                    <pa>1686</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56382'>
+                    <teamName>Wolves of Calla</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1796</pf>
+                    <pa>1940</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163178'>
+                    <teamName>Bizony z NYSY</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>1158</pf>
+                    <pa>2211</pa>
+                    <isBot>1</isBot>
+                    <forfeits>5</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='88987454' start='2016-02-02T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>57</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987455' start='2016-02-02T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>131</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>47</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987456' start='2016-02-02T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>58</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987457' start='2016-02-02T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56364'>
+                        <teamName>Team 56364</teamName>
+<score>66</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='89037869' start='2016-02-06T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='89037870' start='2016-02-06T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>95</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='89089896' start='2016-02-09T17:35:00Z' type='league.final'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='89089897' start='2016-02-13T17:35:00Z' type='league.final'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>107</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='89089898' start='2016-02-14T17:35:00Z' type='league.final'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>108</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='88987458' start='2016-02-02T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56382'>
+                        <teamName>Wolves of Calla</teamName>
+<score>86</score>
+                    </awayTeam>
+                    <homeTeam id='56332'>
+                        <teamName>Zaniemysl Basket Team</teamName>
+<score>97</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987461' start='2016-02-02T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>80</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987459' start='2016-02-06T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56332'>
+                        <teamName>Zaniemysl Basket Team</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='56382'>
+                        <teamName>Wolves of Calla</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987462' start='2016-02-06T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>88</score>
+                    </awayTeam>
+                    <homeTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='88987460' start='2016-02-09T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='56382'>
+                        <teamName>Wolves of Calla</teamName>
+<score>116</score>
+                    </awayTeam>
+                    <homeTeam id='56332'>
+                        <teamName>Zaniemysl Basket Team</teamName>
+<score>125</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='163131'>ASPK</winner>
+            
+            <relegated id='56382'>Wolves of Calla</relegated>
+            
+            <relegated id='162366'>BR66</relegated>
+            
+            <relegated id='163178'>Bizony z NYSY</relegated>
+            
+            <relegated id='165735'>Jaga Człuchów</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

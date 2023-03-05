@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55528' season='53' retrieved='2023-02-24T22:05:13Z'>
+        <match id='114474306' start='2021-03-26T00:00:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='28503'>
+                <teamName>[Insert Name]</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830409' start='2021-03-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830417' start='2021-03-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830627' start='2021-04-01T16:35:00Z' type='cup'>
+            <awayTeam id='164514'>
+                <teamName>Wybrzeze Nowy Dwór</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830425' start='2021-04-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830433' start='2021-04-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115482859' start='2021-04-08T16:35:00Z' type='cup'>
+            <awayTeam id='237880'>
+                <teamName>Yard Sadykierz</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830439' start='2021-04-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830446' start='2021-04-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115495989' start='2021-04-15T16:35:00Z' type='cup'>
+            <awayTeam id='163956'>
+                <teamName>Team_ProBanany</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830455' start='2021-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830461' start='2021-04-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115503186' start='2021-04-22T16:35:00Z' type='cup'>
+            <awayTeam id='165053'>
+                <teamName>koneser-konopi.pl</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830468' start='2021-04-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830475' start='2021-04-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830482' start='2021-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830497' start='2021-05-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830504' start='2021-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>158</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1051002129' start='2021-05-12T16:35:00Z' type='unknown'>
+            <awayTeam id='2129'>
+                <teamName>Great 8</teamName>
+<score>195</score>
+            </awayTeam>
+            <homeTeam id='2129'>
+                <teamName>Big 8</teamName>
+<score>159</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830511' start='2021-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830518' start='2021-05-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>165</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115527411' start='2021-05-20T16:00:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='100547'>
+                <teamName>Maximus Decimus Meridius</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830529' start='2021-05-22T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830537' start='2021-05-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830545' start='2021-05-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830553' start='2021-06-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830559' start='2021-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830566' start='2021-06-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830575' start='2021-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115634414' start='2021-06-19T16:35:00Z' type='friendly'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115678679' start='2021-06-26T16:35:00Z' type='friendly'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

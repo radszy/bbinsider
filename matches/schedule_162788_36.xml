@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162788' season='36' retrieved='2023-02-24T22:12:43Z'>
+        <match id='91830577' start='2016-09-01T16:35:00Z' type='friendly'>
+            <awayTeam id='29500'>
+                <teamName>Carolina Lynxs</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91648033' start='2016-09-02T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214815' start='2016-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214823' start='2016-09-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92927973' start='2016-09-07T14:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='39500'>
+                <teamName>Belgian Snatchers</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92216115' start='2016-09-08T16:35:00Z' type='cup'>
+            <awayTeam id='164784'>
+                <teamName>OSKF Orzeł Sidzina</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91648037' start='2016-09-09T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='172885'>
+                <teamName>Kalevan KoriKonkarit</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214831' start='2016-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214839' start='2016-09-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928049' start='2016-09-14T16:35:00Z' type='bbb'>
+            <awayTeam id='166555'>
+                <teamName>White Yar</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92938791' start='2016-09-15T16:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163588'>
+                <teamName>Święcany Dziki</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92947376' start='2016-09-16T14:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214845' start='2016-09-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214854' start='2016-09-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928136' start='2016-09-21T15:30:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>142</score>
+            </awayTeam>
+            <homeTeam id='53044'>
+                <teamName>Zamalek SC</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92958853' start='2016-09-23T00:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='264967'>
+                <teamName>Motown Monstars</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92957809' start='2016-09-23T14:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='172885'>
+                <teamName>Kalevan KoriKonkarit</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214862' start='2016-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214867' start='2016-09-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928212' start='2016-09-28T16:35:00Z' type='bbb'>
+            <awayTeam id='107166'>
+                <teamName>SG Young Guns</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92965672' start='2016-09-29T16:35:00Z' type='friendly'>
+            <awayTeam id='30248'>
+                <teamName>Pelotadores</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214874' start='2016-10-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214881' start='2016-10-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928297' start='2016-10-05T10:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='214575'>
+                <teamName>十二旅</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92971810' start='2016-10-07T00:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='30665'>
+                <teamName>Ladson Lions</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974104' start='2016-10-07T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='185978'>
+                <teamName>羞死屯火箭队</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214896' start='2016-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214903' start='2016-10-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928373' start='2016-10-12T16:35:00Z' type='bbb'>
+            <awayTeam id='197710'>
+                <teamName>SK Tigers</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92977744' start='2016-10-13T10:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='25349'>
+                <teamName>5754sony</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974107' start='2016-10-14T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='103710'>
+                <teamName>Rui Pedro BC</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214910' start='2016-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928440' start='2016-10-19T16:35:00Z' type='bbb'>
+            <awayTeam id='91095'>
+                <teamName>Tide of Fire</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1034002083' start='2016-10-19T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>144</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92984226' start='2016-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='277142'>
+                <teamName>LES YVANOSS II</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974110' start='2016-10-21T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='58436'>
+                <teamName>Nitra Corgons</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214917' start='2016-10-22T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214924' start='2016-10-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162690'>
+                <teamName>Behemoty</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92928551' start='2016-10-26T17:05:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='41383'>
+                <teamName>Bergen Bears</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92990931' start='2016-10-27T16:35:00Z' type='friendly'>
+            <awayTeam id='31511'>
+                <teamName>Peachtree City Shooting Stars</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974115' start='2016-10-28T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214935' start='2016-10-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214943' start='2016-11-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92995780' start='2016-11-02T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='119093'>
+                <teamName>KK.Play-Off</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92996677' start='2016-11-04T00:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='30134'>
+                <teamName>Cincinnati Harambes</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974120' start='2016-11-04T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214951' start='2016-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214959' start='2016-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93001883' start='2016-11-09T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='185978'>
+                <teamName>羞死屯火箭队</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93005493' start='2016-11-10T17:35:00Z' type='friendly'>
+            <awayTeam id='162770'>
+                <teamName>Pogoń Oleśnica</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974125' start='2016-11-11T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='69572'>
+                <teamName>BC Shohoku</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214965' start='2016-11-12T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214974' start='2016-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93008323' start='2016-11-16T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='78343'>
+                <teamName>Mequetrefes</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93011243' start='2016-11-17T17:35:00Z' type='friendly'>
+            <awayTeam id='77094'>
+                <teamName>homers</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>18</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92974129' start='2016-11-18T14:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='91958'>
+                <teamName>green  wave</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='92214982' start='2016-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93048511' start='2016-11-22T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93014544' start='2016-11-25T15:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='69572'>
+                <teamName>BC Shohoku</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93098588' start='2016-11-26T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93150149' start='2016-11-29T17:35:00Z' type='league.final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93119757' start='2016-12-01T17:35:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='165265'>
+                <teamName>Boston Boston Celtics</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93150150' start='2016-12-03T17:35:00Z' type='league.final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='93150151' start='2016-12-04T17:35:00Z' type='league.final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

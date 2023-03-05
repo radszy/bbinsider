@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163498' season='52' retrieved='2023-02-24T22:05:04Z'>
+        <match id='113236306' start='2020-12-17T17:35:00Z' type='friendly'>
+            <awayTeam id='276841'>
+                <teamName>Krompir</teamName>
+<score>15</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059780' start='2020-12-18T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164359'>
+                <teamName>Sumici</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593050' start='2020-12-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593061' start='2020-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593895' start='2020-12-24T17:35:00Z' type='cup'>
+            <awayTeam id='55962'>
+                <teamName>KS Wiśniowy Raj</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059784' start='2020-12-25T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593068' start='2020-12-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593075' start='2020-12-29T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114244238' start='2020-12-31T17:35:00Z' type='cup'>
+            <awayTeam id='163875'>
+                <teamName>Portland Blazers</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059788' start='2021-01-01T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593084' start='2021-01-02T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593092' start='2021-01-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114257400' start='2021-01-07T17:35:00Z' type='cup'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059792' start='2021-01-08T20:00:00Z' type='pl.rs'>
+            <awayTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593100' start='2021-01-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593106' start='2021-01-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114264695' start='2021-01-14T17:35:00Z' type='cup'>
+            <awayTeam id='164713'>
+                <teamName>Stavian77</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059798' start='2021-01-15T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593113' start='2021-01-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593120' start='2021-01-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114269964' start='2021-01-21T17:35:00Z' type='cup'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059804' start='2021-01-22T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593127' start='2021-01-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593134' start='2021-01-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114278054' start='2021-01-28T17:35:00Z' type='friendly'>
+            <awayTeam id='99976'>
+                <teamName>KK Buducnost Ivanjica</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059810' start='2021-01-29T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593149' start='2021-01-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1050002099' start='2021-02-03T17:35:00Z' type='unknown'>
+            <awayTeam id='2099'>
+                <teamName>Big 8</teamName>
+<score>166</score>
+            </awayTeam>
+            <homeTeam id='2099'>
+                <teamName>Great 8</teamName>
+<score>164</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114284664' start='2021-02-05T00:00:00Z' type='friendly'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='275857'>
+                <teamName>star4ever youth</teamName>
+<score>24</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059816' start='2021-02-05T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593156' start='2021-02-06T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593163' start='2021-02-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114289031' start='2021-02-12T01:00:00Z' type='friendly'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='28345'>
+                <teamName>Wilmington Tiger Sharks</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059821' start='2021-02-12T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163022'>
+                <teamName>Toruńskie Twarde Pierniki</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593170' start='2021-02-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593181' start='2021-02-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114293779' start='2021-02-18T17:40:00Z' type='friendly'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='176644'>
+                <teamName>BC Fenerbache Slavkov</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059825' start='2021-02-19T20:00:00Z' type='pl.rs'>
+            <awayTeam id='164359'>
+                <teamName>Sumici</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593188' start='2021-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593195' start='2021-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114300327' start='2021-02-25T17:35:00Z' type='friendly'>
+            <awayTeam id='39369'>
+                <teamName>New Moscow Brainstormers</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059829' start='2021-02-26T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593204' start='2021-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593212' start='2021-03-02T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059833' start='2021-03-05T20:00:00Z' type='pl.rs'>
+            <awayTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113593220' start='2021-03-06T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114347657' start='2021-03-09T17:35:00Z' type='league.relegation'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114381732' start='2021-03-11T17:35:00Z' type='friendly'>
+            <awayTeam id='163462'>
+                <teamName>Azory Bands</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059837' start='2021-03-12T20:00:00Z' type='pl.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114347658' start='2021-03-13T17:35:00Z' type='league.relegation'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114440781' start='2021-03-18T16:35:00Z' type='friendly'>
+            <awayTeam id='56144'>
+                <teamName>Ostrogi</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114411622' start='2021-03-19T19:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114442845' start='2021-03-20T16:35:00Z' type='friendly'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

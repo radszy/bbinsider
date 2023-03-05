@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163363' season='43' retrieved='2023-02-24T22:09:29Z'>
+        <match id='102101006' start='2018-07-19T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039903' start='2018-07-20T14:00:00Z' type='pl.rs'>
+            <awayTeam id='49819'>
+                <teamName>Killer Fleas</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147309' start='2018-07-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147316' start='2018-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102148468' start='2018-07-26T16:35:00Z' type='cup'>
+            <awayTeam id='164431'>
+                <teamName>=AZS= Politechnika Opolska</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039912' start='2018-07-27T14:00:00Z' type='pl.rs'>
+            <awayTeam id='59114'>
+                <teamName>BetoniBasket</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147327' start='2018-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147334' start='2018-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103109567' start='2018-08-02T16:35:00Z' type='cup'>
+            <awayTeam id='235672'>
+                <teamName>Desperados Wola Cieklinska</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039921' start='2018-08-03T14:00:00Z' type='pl.rs'>
+            <awayTeam id='58836'>
+                <teamName>Liffe</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147343' start='2018-08-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147351' start='2018-08-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103122666' start='2018-08-09T16:35:00Z' type='cup'>
+            <awayTeam id='165001'>
+                <teamName>ekipa wuja paweła</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039930' start='2018-08-10T14:00:00Z' type='pl.rs'>
+            <awayTeam id='24830'>
+                <teamName>Steel Tigers</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147358' start='2018-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147365' start='2018-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103129837' start='2018-08-16T16:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039939' start='2018-08-17T14:00:00Z' type='pl.rs'>
+            <awayTeam id='44931'>
+                <teamName>White Chocolates</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147372' start='2018-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147379' start='2018-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103135605' start='2018-08-23T16:35:00Z' type='cup'>
+            <awayTeam id='163139'>
+                <teamName>elgeba</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039948' start='2018-08-24T14:00:00Z' type='pl.rs'>
+            <awayTeam id='172476'>
+                <teamName>Butter Islet Wikings</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147386' start='2018-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147393' start='2018-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103140470' start='2018-08-30T16:35:00Z' type='cup'>
+            <awayTeam id='56337'>
+                <teamName>Perelka Zamość</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039957' start='2018-08-31T14:00:00Z' type='pl.rs'>
+            <awayTeam id='91496'>
+                <teamName>Allll Stars</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147400' start='2018-09-01T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103145990' start='2018-09-04T16:35:00Z' type='cup'>
+            <awayTeam id='164396'>
+                <teamName>BOSTON CATS</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1041002108' start='2018-09-05T16:35:00Z' type='unknown'>
+            <awayTeam id='2108'>
+                <teamName>Great 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='2108'>
+                <teamName>Big 8</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103150942' start='2018-09-06T16:35:00Z' type='cup'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039965' start='2018-09-07T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='29174'>
+                <teamName>Blue Vikings</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147415' start='2018-09-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147422' start='2018-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103155788' start='2018-09-13T15:30:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='27581'>
+                <teamName>Kapital B.C.</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039972' start='2018-09-14T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='166323'>
+                <teamName>Bad Dreams</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147429' start='2018-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147436' start='2018-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103159420' start='2018-09-20T21:00:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='65230'>
+                <teamName>São Paulo Seekers</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039979' start='2018-09-21T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='172833'>
+                <teamName>Socks &amp; Balls</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147447' start='2018-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147454' start='2018-09-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103164123' start='2018-09-27T23:00:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='33941'>
+                <teamName>Da Hounds</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039986' start='2018-09-28T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='23799'>
+                <teamName>Thunder Gods</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147463' start='2018-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147471' start='2018-10-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103168738' start='2018-10-04T21:00:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='24801'>
+                <teamName>|Sharpshooters|</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039993' start='2018-10-05T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='58813'>
+                <teamName>BC Pirut</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147478' start='2018-10-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212758' start='2018-10-09T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103177001' start='2018-10-11T18:00:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='37701'>
+                <teamName>Helsem United</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102040000' start='2018-10-12T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='177992'>
+                <teamName>BC Wazoo</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212759' start='2018-10-13T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212760' start='2018-10-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103277522' start='2018-10-18T10:00:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='277236'>
+                <teamName>红鸡排球队</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102040007' start='2018-10-19T14:00:00Z' type='pl.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='23236'>
+                <teamName>Iron Dukes</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103307116' start='2018-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

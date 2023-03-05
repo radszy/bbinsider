@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56049' season='55' retrieved='2023-02-24T22:05:28Z'>
+        <match id='117000227' start='2021-10-07T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164906'>
+                <teamName>99 Problems</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356878' start='2021-10-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356886' start='2021-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117998672' start='2021-10-14T00:00:00Z' type='bbm'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='31648'>
+                <teamName>Bullets Forever</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357051' start='2021-10-14T16:35:00Z' type='cup'>
+            <awayTeam id='56100'>
+                <teamName>Wrocław Demons</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356894' start='2021-10-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356902' start='2021-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118006901' start='2021-10-20T16:35:00Z' type='bbm'>
+            <awayTeam id='38921'>
+                <teamName>Generation of Miracles</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118022060' start='2021-10-21T16:35:00Z' type='cup'>
+            <awayTeam id='164406'>
+                <teamName>ZSS-Basket</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356908' start='2021-10-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356917' start='2021-10-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118030850' start='2021-10-27T16:35:00Z' type='bbm'>
+            <awayTeam id='41705'>
+                <teamName>Joe.City.Nets</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118042256' start='2021-10-28T16:35:00Z' type='cup'>
+            <awayTeam id='165469'>
+                <teamName>Bulls Team</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356925' start='2021-10-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356930' start='2021-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118046846' start='2021-11-03T16:35:00Z' type='bbm'>
+            <awayTeam id='34746'>
+                <teamName>Hessisch Dynamite</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118055701' start='2021-11-04T16:35:00Z' type='cup'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356937' start='2021-11-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356944' start='2021-11-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118060083' start='2021-11-10T17:35:00Z' type='bbm'>
+            <awayTeam id='105201'>
+                <teamName>WILD_CATS</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118067744' start='2021-11-11T17:35:00Z' type='cup'>
+            <awayTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356959' start='2021-11-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>14</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356966' start='2021-11-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118072308' start='2021-11-17T17:35:00Z' type='bbm'>
+            <awayTeam id='143454'>
+                <teamName>OVERDOSE B.C</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118079391' start='2021-11-18T17:35:00Z' type='cup'>
+            <awayTeam id='55596'>
+                <teamName>Joga Bonito</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356973' start='2021-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118091584' start='2021-11-23T17:35:00Z' type='cup'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118084787' start='2021-11-24T17:35:00Z' type='bbm'>
+            <awayTeam id='173766'>
+                <teamName>BC Ronningen</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1053002135' start='2021-11-24T17:35:00Z' type='unknown'>
+            <awayTeam id='2135'>
+                <teamName>Big 8</teamName>
+<score>159</score>
+            </awayTeam>
+            <homeTeam id='2135'>
+                <teamName>Great 8</teamName>
+<score>155</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118096372' start='2021-11-25T17:35:00Z' type='cup'>
+            <awayTeam id='162684'>
+                <teamName>Grudusk Elite™</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356980' start='2021-11-27T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356987' start='2021-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118096893' start='2021-12-01T17:35:00Z' type='unknown'>
+            <awayTeam id='276458'>
+                <teamName>Boston Hornets</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118097382' start='2021-12-02T17:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356998' start='2021-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357006' start='2021-12-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118107604' start='2021-12-09T17:35:00Z' type='friendly'>
+            <awayTeam id='118643'>
+                <teamName>Beard Club</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357014' start='2021-12-11T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357022' start='2021-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357028' start='2021-12-18T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357037' start='2021-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357045' start='2021-12-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118157010' start='2021-12-28T17:35:00Z' type='league.relegation'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118157011' start='2022-01-01T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118157012' start='2022-01-04T17:35:00Z' type='league.relegation'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118230254' start='2022-01-06T17:30:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='41727'>
+                <teamName>Whomst MDs?</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118251406' start='2022-01-08T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

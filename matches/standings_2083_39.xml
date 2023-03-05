@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='39' retrieved='2023-02-24T22:13:03Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='55726'>
+                    <teamName>Piaski Yellow Hornets</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2071</pf>
+                    <pa>1723</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165563'>
+                    <teamName>Jastrzębie</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2078</pf>
+                    <pa>1736</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2077</pf>
+                    <pa>1856</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1937</pf>
+                    <pa>1905</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55807'>
+                    <teamName>Star Starachowice</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>2128</pf>
+                    <pa>2121</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1840</pf>
+                    <pa>1984</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163377'>
+                    <teamName>Gladiatorzyy</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1943</pf>
+                    <pa>1904</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1589</pf>
+                    <pa>2275</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2151</pf>
+                    <pa>1569</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1944</pf>
+                    <pa>1592</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2063</pf>
+                    <pa>1720</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162366'>
+                    <teamName>BR66</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1944</pf>
+                    <pa>1604</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56421'>
+                    <teamName>Nałęczów Warriors</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2161</pf>
+                    <pa>1993</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162408'>
+                    <teamName>Polo Team Włocławek</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1967</pf>
+                    <pa>1908</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56056'>
+                    <teamName>The French Bulldog&#39;s</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1789</pf>
+                    <pa>1889</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>809</pf>
+                    <pa>2712</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='98138599' start='2017-09-12T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138600' start='2017-09-12T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='165563'>
+                        <teamName>Jastrzębie</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138601' start='2017-09-12T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>95</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138602' start='2017-09-12T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>73</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='98192740' start='2017-09-16T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='165563'>
+                        <teamName>Jastrzębie</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>104</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98192741' start='2017-09-16T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>69</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>82</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='98240866' start='2017-09-19T16:35:00Z' type='league.final'>
+                    <awayTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>118</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98240867' start='2017-09-23T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>95</score>
+                    </awayTeam>
+                    <homeTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>92</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='98138603' start='2017-09-12T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>96</score>
+                    </awayTeam>
+                    <homeTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>116</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138606' start='2017-09-12T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>64</score>
+                    </awayTeam>
+                    <homeTeam id='56421'>
+                        <teamName>Nałęczów Warriors</teamName>
+<score>75</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138609' start='2017-09-12T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162408'>
+                        <teamName>Polo Team Włocławek</teamName>
+<score>67</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138604' start='2017-09-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>95</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138607' start='2017-09-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56421'>
+                        <teamName>Nałęczów Warriors</teamName>
+<score>98</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138610' start='2017-09-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>32</score>
+                    </awayTeam>
+                    <homeTeam id='162408'>
+                        <teamName>Polo Team Włocławek</teamName>
+<score>130</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138605' start='2017-09-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56056'>
+                        <teamName>The French Bulldog&#39;s</teamName>
+<score>95</score>
+                    </awayTeam>
+                    <homeTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='98138611' start='2017-09-19T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162408'>
+                        <teamName>Polo Team Włocławek</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='56056'>The French Bulldog&#39;s</relegated>
+            
+            <relegated id='56221'>Chiki-Cziki-Chiki-Ta</relegated>
+            
+            <relegated id='162408'>Polo Team Włocławek</relegated>
+            
+            <relegated id='162456'>KS Goldena</relegated>
+            
+            <relegated id='163377'>Gladiatorzyy</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='59' retrieved='2023-02-24T21:44:56Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2014</pf>
+                    <pa>1373</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2089</pf>
+                    <pa>1710</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>1812</pf>
+                    <pa>1708</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55690'>
+                    <teamName>Hegemonia Białystok</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1927</pf>
+                    <pa>1835</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55726'>
+                    <teamName>Piaski Yellow Hornets</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1988</pf>
+                    <pa>1947</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55735'>
+                    <teamName>Buriczki</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1678</pf>
+                    <pa>1995</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164157'>
+                    <teamName>Częstochowskie Lwy</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>1543</pf>
+                    <pa>1776</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165272'>
+                    <teamName>Night City Renegades</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1502</pf>
+                    <pa>1888</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2085</pf>
+                    <pa>1472</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163062'>
+                    <teamName>Stara Dama</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>1960</pf>
+                    <pa>1513</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165240'>
+                    <teamName>Clippers Wrocław</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1946</pf>
+                    <pa>1689</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='233576'>
+                    <teamName>blekitni krakow</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2013</pf>
+                    <pa>1716</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165366'>
+                    <teamName>Górnik 1946 Wałbrzych</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1901</pf>
+                    <pa>1720</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1734</pf>
+                    <pa>2076</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1648</pf>
+                    <pa>2220</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1173</pf>
+                    <pa>2375</pa>
+                    <isBot>0</isBot>
+                    <forfeits>1</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='123295552' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55690'>
+                        <teamName>Hegemonia Białystok</teamName>
+<score>66</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>123</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295553' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295554' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='233576'>
+                        <teamName>blekitni krakow</teamName>
+<score>97</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>118</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295555' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165240'>
+                        <teamName>Clippers Wrocław</teamName>
+<score>51</score>
+                    </awayTeam>
+                    <homeTeam id='163062'>
+                        <teamName>Stara Dama</teamName>
+<score>129</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='123345885' start='2023-01-28T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123345886' start='2023-01-28T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163062'>
+                        <teamName>Stara Dama</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='123390947' start='2023-01-31T17:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>65</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>120</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123390948' start='2023-02-04T17:35:00Z' type='league.final'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>54</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='123295556' start='2023-01-24T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>64</score>
+                    </awayTeam>
+                    <homeTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295559' start='2023-01-24T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='164157'>
+                        <teamName>Częstochowskie Lwy</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='165366'>
+                        <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295562' start='2023-01-24T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+                    </awayTeam>
+                    <homeTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295557' start='2023-01-28T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+                    </awayTeam>
+                    <homeTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>80</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295560' start='2023-01-28T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='165366'>
+                        <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='164157'>
+                        <teamName>Częstochowskie Lwy</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295563' start='2023-01-28T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>115</score>
+                    </awayTeam>
+                    <homeTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='123295561' start='2023-01-31T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='164157'>
+                        <teamName>Częstochowskie Lwy</teamName>
+<score>65</score>
+                    </awayTeam>
+                    <homeTeam id='165366'>
+                        <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>82</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='165320'>DLR Basketball Club</winner>
+            
+            <relegated id='163131'>ASPK</relegated>
+            
+            <relegated id='164110'>Debeściaki</relegated>
+            
+            <relegated id='164157'>Częstochowskie Lwy</relegated>
+            
+            <relegated id='165272'>Night City Renegades</relegated>
+            
+            <relegated id='165275'>Bieszczadzkie Anioły</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

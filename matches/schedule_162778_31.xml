@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162778' season='31' retrieved='2023-02-24T22:12:06Z'>
+        <match id='82281520' start='2015-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163813'>
+                <teamName>Starbites</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705742' start='2015-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705750' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82706689' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='238125'>
+                <teamName>Players Korytków</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705758' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705766' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85049449' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='56322'>
+                <teamName>Boston Celtics 01</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705774' start='2015-05-16T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705782' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85083058' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='56029'>
+                <teamName>Rottweilery Bnk Włocławek</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705790' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705794' start='2015-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100958' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='56471'>
+                <teamName>MietekTeam</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705809' start='2015-05-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705816' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111783' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56596'>
+                <teamName>Chicago 23 Bulls</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705823' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705830' start='2015-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119623' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163878'>
+                <teamName>KOCHAM EDYTE Z FABUDU</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705837' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126976' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56078'>
+                <teamName>KP Kalekas Toruń</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029010740' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='10740'>
+                <teamName>Great 8</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='10740'>
+                <teamName>Big 8</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705844' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705851' start='2015-06-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85136985' start='2015-06-25T16:35:00Z' type='friendly'>
+            <awayTeam id='277213'>
+                <teamName>Project Team B</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705862' start='2015-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705870' start='2015-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85145425' start='2015-07-02T16:35:00Z' type='friendly'>
+            <awayTeam id='55988'>
+                <teamName>Skorpion Gliwice</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705878' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705886' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85151260' start='2015-07-09T16:35:00Z' type='friendly'>
+            <awayTeam id='175865'>
+                <teamName>Saqartvelo</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705894' start='2015-07-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705902' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85159281' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='55772'>
+                <teamName>Wroclaw Hippos</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705910' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85177121' start='2015-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55987'>
+                <teamName>kRRum</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85360778' start='2015-07-25T16:35:00Z' type='friendly'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85424819' start='2015-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162986'>
+                <teamName>Tomitaki wrocław</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483114' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

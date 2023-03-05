@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163966' season='51' retrieved='2023-02-24T22:04:51Z'>
+        <match id='111998819' start='2020-09-10T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='162246'>
+                <teamName>Polonia Bytom II</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354859' start='2020-09-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354866' start='2020-09-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355769' start='2020-09-17T16:35:00Z' type='cup'>
+            <awayTeam id='237880'>
+                <teamName>Yard Sadykierz</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112996863' start='2020-09-18T18:00:00Z' type='bbb'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='25843'>
+                <teamName>Sant Mateu</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354877' start='2020-09-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354884' start='2020-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112996920' start='2020-09-23T16:35:00Z' type='bbb'>
+            <awayTeam id='53435'>
+                <teamName>Hi - Machines</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113006384' start='2020-09-24T16:35:00Z' type='cup'>
+            <awayTeam id='164698'>
+                <teamName>BC Jebote</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354893' start='2020-09-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354901' start='2020-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112996953' start='2020-09-30T14:55:00Z' type='bbb'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='38168'>
+                <teamName>neve hof b.c</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113018867' start='2020-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='165476'>
+                <teamName>Bwo Lakers</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354908' start='2020-10-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354919' start='2020-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112997010' start='2020-10-07T16:35:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113027264' start='2020-10-08T16:35:00Z' type='cup'>
+            <awayTeam id='236424'>
+                <teamName>Hot Pepper Dogz</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354927' start='2020-10-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354935' start='2020-10-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112997097' start='2020-10-14T16:35:00Z' type='bbb'>
+            <awayTeam id='146910'>
+                <teamName>radio_galva</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113032813' start='2020-10-15T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354943' start='2020-10-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354951' start='2020-10-20T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112997174' start='2020-10-21T21:00:00Z' type='bbb'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='106803'>
+                <teamName>Unión Atlética</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113038192' start='2020-10-22T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354959' start='2020-10-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113043584' start='2020-10-27T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163873'>
+                <teamName>Wake Forest College</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112997233' start='2020-10-28T16:35:00Z' type='bbb'>
+            <awayTeam id='49887'>
+                <teamName>Bornholm Pro Basketball</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1049010582' start='2020-10-28T16:35:00Z' type='unknown'>
+            <awayTeam id='10582'>
+                <teamName>Big 8</teamName>
+<score>145</score>
+            </awayTeam>
+            <homeTeam id='10582'>
+                <teamName>Great 8</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113048470' start='2020-10-29T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354967' start='2020-10-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354975' start='2020-11-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112997256' start='2020-11-04T16:30:00Z' type='bbb'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='144664'>
+                <teamName>terastiousp</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113048944' start='2020-11-05T17:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354979' start='2020-11-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354986' start='2020-11-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113057948' start='2020-11-12T17:35:00Z' type='friendly'>
+            <awayTeam id='103442'>
+                <teamName>Lisboa Boas</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354997' start='2020-11-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355004' start='2020-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113061859' start='2020-11-19T17:35:00Z' type='friendly'>
+            <awayTeam id='55839'>
+                <teamName>Raptorsi Pułtusk</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355013' start='2020-11-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355021' start='2020-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113068445' start='2020-11-26T17:35:00Z' type='friendly'>
+            <awayTeam id='163479'>
+                <teamName>CWKS Legia Grodzisk</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355028' start='2020-11-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109974' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113146014' start='2020-12-03T17:35:00Z' type='friendly'>
+            <awayTeam id='139052'>
+                <teamName>Toledo Baloncesto</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113160427' start='2020-12-05T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113231908' start='2020-12-10T17:30:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='99780'>
+                <teamName>Locarno Timberwolves</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113204907' start='2020-12-12T17:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163131' season='55' retrieved='2023-02-24T22:05:25Z'>
+        <match id='116812761' start='2021-10-08T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356874' start='2021-10-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356882' start='2021-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117998455' start='2021-10-13T16:35:00Z' type='bbm'>
+            <awayTeam id='51354'>
+                <teamName>Black7ack 21</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357520' start='2021-10-14T16:35:00Z' type='cup'>
+            <awayTeam id='238481'>
+                <teamName>Mścice Bulls</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812767' start='2021-10-15T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356890' start='2021-10-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356898' start='2021-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118006904' start='2021-10-20T16:35:00Z' type='bbm'>
+            <awayTeam id='44657'>
+                <teamName>Bosnian Tigers</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118022154' start='2021-10-21T16:35:00Z' type='cup'>
+            <awayTeam id='164133'>
+                <teamName>zagłebie sosnowiec 2</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356904' start='2021-10-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356913' start='2021-10-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118030853' start='2021-10-27T16:35:00Z' type='bbm'>
+            <awayTeam id='194661'>
+                <teamName>Mile High Club</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118042294' start='2021-10-28T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='236424'>
+                <teamName>Hot Pepper Dogz</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356921' start='2021-10-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356930' start='2021-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118046871' start='2021-11-03T16:40:00Z' type='bbm'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='160370'>
+                <teamName>Pécs Panthers</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118055735' start='2021-11-04T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='55683'>
+                <teamName>Kraków Buffys</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356938' start='2021-11-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356946' start='2021-11-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118060090' start='2021-11-10T17:35:00Z' type='bbm'>
+            <awayTeam id='40115'>
+                <teamName>Seba Utd.</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118067774' start='2021-11-11T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56361'>
+                <teamName>KS Kujawiak Włocławek</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070733' start='2021-11-12T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356954' start='2021-11-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356962' start='2021-11-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118072317' start='2021-11-17T17:35:00Z' type='bbm'>
+            <awayTeam id='70884'>
+                <teamName>Börta Cavaliers</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118079370' start='2021-11-18T17:35:00Z' type='cup'>
+            <awayTeam id='164844'>
+                <teamName>Arash Szczecin</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070741' start='2021-11-19T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163588'>
+                <teamName>Święcany Dziki</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356970' start='2021-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118091603' start='2021-11-23T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162303'>
+                <teamName>40KEMP`S</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118084795' start='2021-11-24T17:35:00Z' type='bbm'>
+            <awayTeam id='190078'>
+                <teamName>Pampanga Dragons</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1053002085' start='2021-11-24T17:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>171</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>154</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118096377' start='2021-11-25T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55379'>
+                <teamName>Warsaw Mutants</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070749' start='2021-11-26T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356978' start='2021-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>23</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356986' start='2021-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118097379' start='2021-12-02T17:35:00Z' type='cup'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070757' start='2021-12-03T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356994' start='2021-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357002' start='2021-12-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118104123' start='2021-12-09T19:30:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='103267'>
+                <teamName>Cascais Crows</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070765' start='2021-12-10T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163161'>
+                <teamName>KK Falcons</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357010' start='2021-12-11T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357018' start='2021-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118110154' start='2021-12-16T17:35:00Z' type='friendly'>
+            <awayTeam id='163331'>
+                <teamName>Jarosław BC</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070772' start='2021-12-17T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357024' start='2021-12-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357033' start='2021-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118116228' start='2021-12-23T17:35:00Z' type='friendly'>
+            <awayTeam id='276177'>
+                <teamName>Quintero United</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>25</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070778' start='2021-12-24T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357041' start='2021-12-25T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118191067' start='2021-12-30T19:00:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='76540'>
+                <teamName>Atletico del gen</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070784' start='2021-12-31T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118206819' start='2022-01-01T17:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118230172' start='2022-01-06T17:35:00Z' type='friendly'>
+            <awayTeam id='100892'>
+                <teamName>ThunderBeast</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070790' start='2022-01-07T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118251409' start='2022-01-08T17:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

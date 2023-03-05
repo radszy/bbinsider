@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165275' season='54' retrieved='2023-02-24T22:05:16Z'>
+        <match id='115707689' start='2021-07-01T16:35:00Z' type='friendly'>
+            <awayTeam id='35919'>
+                <teamName>E.B.B.A.</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115541307' start='2021-07-02T16:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='55995'>
+                <teamName>Fc Młodzi</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076269' start='2021-07-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076276' start='2021-07-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116717677' start='2021-07-07T18:00:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='134997'>
+                <teamName>Folgado Lakers</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116077173' start='2021-07-08T16:35:00Z' type='cup'>
+            <awayTeam id='163567'>
+                <teamName>Dzierąznia</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115541312' start='2021-07-09T16:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076283' start='2021-07-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076294' start='2021-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116725212' start='2021-07-14T16:35:00Z' type='bbm'>
+            <awayTeam id='42329'>
+                <teamName>Surental Lakers</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116740490' start='2021-07-15T16:35:00Z' type='cup'>
+            <awayTeam id='162941'>
+                <teamName>AfroSamurais</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115541317' start='2021-07-16T16:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076301' start='2021-07-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076310' start='2021-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116749799' start='2021-07-21T18:00:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='90686'>
+                <teamName>Durham Wasps</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116760624' start='2021-07-22T16:35:00Z' type='cup'>
+            <awayTeam id='163631'>
+                <teamName>Sloik Dzemu</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115541321' start='2021-07-23T16:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076318' start='2021-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076329' start='2021-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116765746' start='2021-07-28T16:30:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='174329'>
+                <teamName>the Hopheads</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116774689' start='2021-07-29T16:35:00Z' type='cup'>
+            <awayTeam id='56646'>
+                <teamName>Ziemniaki</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116776650' start='2021-07-30T16:35:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076337' start='2021-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076345' start='2021-08-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116778754' start='2021-08-04T15:35:00Z' type='bbm'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='57147'>
+                <teamName>Jibou NRG</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116786567' start='2021-08-05T16:35:00Z' type='cup'>
+            <awayTeam id='164235'>
+                <teamName>Młodzi Wilcy</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076353' start='2021-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076361' start='2021-08-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116790917' start='2021-08-11T16:35:00Z' type='bbm'>
+            <awayTeam id='39410'>
+                <teamName>perm333</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116797980' start='2021-08-12T16:35:00Z' type='cup'>
+            <awayTeam id='163139'>
+                <teamName>elgeba</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076369' start='2021-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>153</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116809680' start='2021-08-17T16:35:00Z' type='cup'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116802893' start='2021-08-18T16:35:00Z' type='bbm'>
+            <awayTeam id='96100'>
+                <teamName>Sukuran</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1052002086' start='2021-08-18T16:35:00Z' type='unknown'>
+            <awayTeam id='2086'>
+                <teamName>Big 8</teamName>
+<score>163</score>
+            </awayTeam>
+            <homeTeam id='2086'>
+                <teamName>Great 8</teamName>
+<score>164</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116814391' start='2021-08-19T16:35:00Z' type='cup'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812723' start='2021-08-20T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076377' start='2021-08-21T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076385' start='2021-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116815935' start='2021-08-26T16:35:00Z' type='cup'>
+            <awayTeam id='235404'>
+                <teamName>Mniszek Boguszow-gorce</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812729' start='2021-08-27T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076389' start='2021-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076396' start='2021-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116820950' start='2021-09-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812735' start='2021-09-03T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076403' start='2021-09-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076414' start='2021-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116825787' start='2021-09-09T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812741' start='2021-09-10T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='55805'>
+                <teamName>Zip Wrocław</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076421' start='2021-09-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076430' start='2021-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116830709' start='2021-09-16T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812747' start='2021-09-17T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116076438' start='2021-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875273' start='2021-09-21T16:35:00Z' type='league.relegation'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116909675' start='2021-09-23T16:35:00Z' type='friendly'>
+            <awayTeam id='172423'>
+                <teamName>Majakkaranta Mets</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812752' start='2021-09-24T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116875274' start='2021-09-25T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116939704' start='2021-09-30T16:35:00Z' type='friendly'>
+            <awayTeam id='89046'>
+                <teamName>F.C Aris P.</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116812756' start='2021-10-01T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116969617' start='2021-10-02T16:35:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

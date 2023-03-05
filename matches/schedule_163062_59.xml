@@ -1,0 +1,698 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163062' season='59' retrieved='2023-02-24T22:05:57Z'>
+        <match id='122133642' start='2022-11-03T16:35:00Z' type='friendly'>
+            <awayTeam id='277203'>
+                <teamName>HK Training Center</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133806' start='2022-11-04T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='49765'>
+                <teamName>Fab Utd</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491072' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491079' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132376' start='2022-11-09T17:35:00Z' type='bbm'>
+            <awayTeam id='51443'>
+                <teamName>光復兵工廠</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491838' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='163369'>
+                <teamName>o0o0.0o0o</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133809' start='2022-11-11T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='46452'>
+                <teamName>sderenati team</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491086' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>21</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491097' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140771' start='2022-11-16T17:35:00Z' type='bbm'>
+            <awayTeam id='44925'>
+                <teamName>GorillaZ MaSters</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123164942' start='2022-11-17T17:35:00Z' type='friendly'>
+            <awayTeam id='276332'>
+                <teamName>快马小鞭</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133812' start='2022-11-18T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491104' start='2022-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491113' start='2022-11-22T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165602' start='2022-11-23T17:35:00Z' type='bbm'>
+            <awayTeam id='88283'>
+                <teamName>Joruus</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123181129' start='2022-11-24T17:35:00Z' type='friendly'>
+            <awayTeam id='276949'>
+                <teamName>Basket CRO Lyon</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133815' start='2022-11-25T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='26181'>
+                <teamName>Buchloe 75ers</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491121' start='2022-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491128' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123182262' start='2022-11-30T17:35:00Z' type='bbm'>
+            <awayTeam id='147625'>
+                <teamName>BK Apollo</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123193747' start='2022-12-01T17:35:00Z' type='friendly'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='165265'>
+                <teamName>Boston Boston Celtics</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133820' start='2022-12-02T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='90959'>
+                <teamName>Bromley-By-Bow</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491135' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491142' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195804' start='2022-12-07T17:35:00Z' type='bbm'>
+            <awayTeam id='275921'>
+                <teamName>Talpone</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123205644' start='2022-12-08T17:35:00Z' type='friendly'>
+            <awayTeam id='38559'>
+                <teamName>Team7</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133825' start='2022-12-09T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='119804'>
+                <teamName>Champions United</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491149' start='2022-12-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491156' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208643' start='2022-12-14T17:35:00Z' type='bbm'>
+            <awayTeam id='188659'>
+                <teamName>FIBA Legends</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123217465' start='2022-12-15T17:35:00Z' type='friendly'>
+            <awayTeam id='276994'>
+                <teamName>Celts II</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122133830' start='2022-12-16T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='94991'>
+                <teamName>Kaunas Eagles</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491163' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220978' start='2022-12-21T17:35:00Z' type='bbm'>
+            <awayTeam id='276190'>
+                <teamName>Slaytanic</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123229719' start='2022-12-22T17:35:00Z' type='friendly'>
+            <awayTeam id='92969'>
+                <teamName>Nightearls</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491170' start='2022-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491185' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233414' start='2022-12-28T17:35:00Z' type='unknown'>
+            <awayTeam id='144351'>
+                <teamName>Campo Stars BC</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123235830' start='2022-12-29T17:35:00Z' type='friendly'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55819'>
+                <teamName>ZBIM ROCKETS</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239090' start='2022-12-30T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491192' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491199' start='2023-01-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123238816' start='2023-01-04T17:35:00Z' type='unknown'>
+            <awayTeam id='26483'>
+                <teamName>UK Wildkitties</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239234' start='2023-01-05T17:35:00Z' type='friendly'>
+            <awayTeam id='60467'>
+                <teamName>Krakovia Blazers</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239093' start='2023-01-06T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='78204'>
+                <teamName>River Legends</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491206' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>12</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491217' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123244779' start='2023-01-11T16:55:00Z' type='unknown'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='46018'>
+                <teamName>P Team</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123246286' start='2023-01-12T17:35:00Z' type='friendly'>
+            <awayTeam id='63237'>
+                <teamName>Atlético Echagüe Club</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239096' start='2023-01-13T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='37027'>
+                <teamName>Rodmans</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491224' start='2023-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491233' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123252005' start='2023-01-19T17:35:00Z' type='friendly'>
+            <awayTeam id='276579'>
+                <teamName>Primavera</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239099' start='2023-01-20T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='46452'>
+                <teamName>sderenati team</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491241' start='2023-01-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295555' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123257502' start='2023-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='162921'>
+                <teamName>dlb</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239104' start='2023-01-27T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='115289'>
+                <teamName>Club Unión Atlética</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123345886' start='2023-01-28T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123359973' start='2023-02-02T17:35:00Z' type='friendly'>
+            <awayTeam id='186457'>
+                <teamName>Maggies</teamName>
+<score>18</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239109' start='2023-02-03T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='26181'>
+                <teamName>Buchloe 75ers</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390940' start='2023-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

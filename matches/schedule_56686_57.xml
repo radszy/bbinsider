@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56686' season='57' retrieved='2023-02-24T22:05:40Z'>
+        <match id='119567804' start='2022-04-21T18:00:00Z' type='friendly'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='75695'>
+                <teamName>Basquet Club New Village</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924114' start='2022-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924125' start='2022-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120566219' start='2022-04-27T16:35:00Z' type='bbm'>
+            <awayTeam id='142800'>
+                <teamName>Batsi</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924447' start='2022-04-28T16:35:00Z' type='cup'>
+            <awayTeam id='165133'>
+                <teamName>KS Trefl Sopot</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924132' start='2022-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924139' start='2022-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120573873' start='2022-05-04T16:35:00Z' type='bbm'>
+            <awayTeam id='186141'>
+                <teamName>方舟</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120589273' start='2022-05-05T16:35:00Z' type='cup'>
+            <awayTeam id='56024'>
+                <teamName>Wild Pigs</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924148' start='2022-05-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924156' start='2022-05-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120598543' start='2022-05-11T16:35:00Z' type='bbm'>
+            <awayTeam id='51737'>
+                <teamName>BK Skrējējs</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120609969' start='2022-05-12T16:35:00Z' type='cup'>
+            <awayTeam id='164229'>
+                <teamName>-Los Plastikos-</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924164' start='2022-05-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924174' start='2022-05-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120615119' start='2022-05-18T16:35:00Z' type='bbm'>
+            <awayTeam id='58843'>
+                <teamName>K.M.A.</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120624144' start='2022-05-19T16:35:00Z' type='cup'>
+            <awayTeam id='162801'>
+                <teamName>Confex Poznań</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924182' start='2022-05-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924190' start='2022-05-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120628439' start='2022-05-25T16:35:00Z' type='bbm'>
+            <awayTeam id='84834'>
+                <teamName>Les cowboys bayonnais</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120636206' start='2022-05-26T16:35:00Z' type='cup'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='163113'>
+                <teamName>Bulls 2015</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924198' start='2022-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924206' start='2022-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120640888' start='2022-06-01T16:35:00Z' type='bbm'>
+            <awayTeam id='92932'>
+                <teamName>Miami Hitte</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120648148' start='2022-06-02T16:35:00Z' type='cup'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163139'>
+                <teamName>elgeba</teamName>
+<score>22</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924214' start='2022-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120660110' start='2022-06-07T16:35:00Z' type='cup'>
+            <awayTeam id='163290'>
+                <teamName>Green Basket Gdańsk</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120653167' start='2022-06-08T16:35:00Z' type='bbm'>
+            <awayTeam id='40404'>
+                <teamName>esbama</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1055002157' start='2022-06-08T16:35:00Z' type='unknown'>
+            <awayTeam id='2157'>
+                <teamName>Great 8</teamName>
+<score>191</score>
+            </awayTeam>
+            <homeTeam id='2157'>
+                <teamName>Big 8</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120664595' start='2022-06-09T16:35:00Z' type='cup'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924222' start='2022-06-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924230' start='2022-06-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120665600' start='2022-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924234' start='2022-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924245' start='2022-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120670963' start='2022-06-23T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924252' start='2022-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924259' start='2022-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120676635' start='2022-06-30T18:00:00Z' type='friendly'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='134784'>
+                <teamName>LaPazDeLaHuerta</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924268' start='2022-07-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924276' start='2022-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681373' start='2022-07-07T16:35:00Z' type='friendly'>
+            <awayTeam id='92736'>
+                <teamName>AA team</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924284' start='2022-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120725282' start='2022-07-12T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120687044' start='2022-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='234977'>
+                <teamName>Fc Szczecinek</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120725283' start='2022-07-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120790860' start='2022-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='49843'>
+                <teamName>boldmongolerne</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120820494' start='2022-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

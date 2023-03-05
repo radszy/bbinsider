@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164110' season='42' retrieved='2023-02-24T22:09:16Z'>
+        <match id='100861642' start='2018-04-12T16:35:00Z' type='friendly'>
+            <awayTeam id='53967'>
+                <teamName>San Agustin</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668334' start='2018-04-13T17:00:00Z' type='pl.rs'>
+            <awayTeam id='148227'>
+                <teamName>Zenit B7</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217014' start='2018-04-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217022' start='2018-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217978' start='2018-04-19T16:35:00Z' type='cup'>
+            <awayTeam id='55415'>
+                <teamName>TBG TEAM</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668342' start='2018-04-20T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='164269'>
+                <teamName>ANWIL POLSKA</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217030' start='2018-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217038' start='2018-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101867926' start='2018-04-26T16:35:00Z' type='cup'>
+            <awayTeam id='165140'>
+                <teamName>arka gdynia</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668350' start='2018-04-27T17:00:00Z' type='pl.rs'>
+            <awayTeam id='51598'>
+                <teamName>Beaver Kings</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217044' start='2018-04-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217053' start='2018-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101881174' start='2018-05-03T16:35:00Z' type='cup'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='55849'>
+                <teamName>Leszcze</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668358' start='2018-05-04T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='146358'>
+                <teamName>Bold Bucks</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217061' start='2018-05-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217070' start='2018-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101888275' start='2018-05-10T16:35:00Z' type='cup'>
+            <awayTeam id='163715'>
+                <teamName>Pierun Błyskawica</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668366' start='2018-05-11T17:00:00Z' type='pl.rs'>
+            <awayTeam id='44216'>
+                <teamName>Koloss - Dnipro</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217078' start='2018-05-12T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217086' start='2018-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101894755' start='2018-05-17T16:35:00Z' type='cup'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='164448'>
+                <teamName>AG Basket</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668374' start='2018-05-18T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='209781'>
+                <teamName>TGQ</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217094' start='2018-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217102' start='2018-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101904270' start='2018-05-25T01:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='276737'>
+                <teamName>Skinny Dudes II</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668382' start='2018-05-25T17:00:00Z' type='pl.rs'>
+            <awayTeam id='92315'>
+                <teamName>Stimpy Cult Minions</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217110' start='2018-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1040002087' start='2018-05-30T16:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>169</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>147</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101907168' start='2018-05-31T15:55:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='36776'>
+                <teamName>trolme</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668390' start='2018-06-01T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='37732'>
+                <teamName>Southport Bulls</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217118' start='2018-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217126' start='2018-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101915131' start='2018-06-07T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='56069'>
+                <teamName>Mochocice</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668398' start='2018-06-08T17:00:00Z' type='pl.rs'>
+            <awayTeam id='107400'>
+                <teamName>Sanxia Hawks</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217134' start='2018-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217142' start='2018-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101918301' start='2018-06-14T18:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='80298'>
+                <teamName>deanswer</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668406' start='2018-06-15T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='196195'>
+                <teamName>Efforfred</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217150' start='2018-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217158' start='2018-06-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101923781' start='2018-06-21T16:40:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='160824'>
+                <teamName>Fakezű KK</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668414' start='2018-06-22T17:00:00Z' type='pl.rs'>
+            <awayTeam id='37432'>
+                <teamName>Kriflonius</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217164' start='2018-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217173' start='2018-06-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101930531' start='2018-06-28T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163092'>
+                <teamName>Swollen Members</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668422' start='2018-06-29T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='23136'>
+                <teamName>Sir Chewbacca</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217181' start='2018-06-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974693' start='2018-07-03T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101940864' start='2018-07-05T15:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='276416'>
+                <teamName>Huttrop Hornets</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668430' start='2018-07-06T17:00:00Z' type='pl.rs'>
+            <awayTeam id='95192'>
+                <teamName>Babrai</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974694' start='2018-07-07T16:35:00Z' type='league.relegation'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974695' start='2018-07-10T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102039296' start='2018-07-12T17:30:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='86117'>
+                <teamName>chicago rasta rocket</teamName>
+<score>31</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100668438' start='2018-07-13T17:00:00Z' type='pl.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='172986'>
+                <teamName>Tampere Eagles</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102070127' start='2018-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

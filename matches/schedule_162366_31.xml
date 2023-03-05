@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162366' season='31' retrieved='2023-02-24T22:12:04Z'>
+        <match id='82283530' start='2015-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='163142'>
+                <teamName>Philodendrony</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705745' start='2015-05-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705753' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82707362' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='55618'>
+                <teamName>Lenkowie</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705761' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705769' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85049697' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='55839'>
+                <teamName>Raptorsi Pułtusk</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705775' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705782' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85082609' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='56371'>
+                <teamName>Mohicans Przemyśl</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705791' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705797' start='2015-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100976' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='235045'>
+                <teamName>Alert Trzesnik</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705804' start='2015-05-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705811' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111619' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='162634'>
+                <teamName>Warsaw Mustangs</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705818' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705833' start='2015-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119564' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='165124'>
+                <teamName>Seahawks Gdynia</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705840' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126954' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='162729'>
+                <teamName>F.C Internazionale Milano</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029010729' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='10729'>
+                <teamName>Great 8</teamName>
+<score>159</score>
+            </awayTeam>
+            <homeTeam id='10729'>
+                <teamName>Big 8</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85133560' start='2015-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163912'>
+                <teamName>KKS Rybnik</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705847' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705854' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85140589' start='2015-06-25T15:30:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='120865'>
+                <teamName>Trimonzium</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705865' start='2015-06-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705873' start='2015-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85147294' start='2015-07-02T16:35:00Z' type='friendly'>
+            <awayTeam id='163027'>
+                <teamName>Wybrzeże Klatki Schodowej</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705881' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705889' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85153883' start='2015-07-09T10:00:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='107384'>
+                <teamName>Dont Boo Us</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705895' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705902' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85159848' start='2015-07-16T22:30:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='209026'>
+                <teamName>spanish town</teamName>
+<score>27</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705911' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237155' start='2015-07-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85316972' start='2015-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='38655'>
+                <teamName>Villains</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85360776' start='2015-07-25T16:35:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85564528' start='2015-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='92260'>
+                <teamName>Shamtak</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483110' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

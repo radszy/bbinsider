@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='42' retrieved='2023-02-24T22:09:14Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='163377'>
+                    <teamName>Gladiatorzyy</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2221</pf>
+                    <pa>1386</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2095</pf>
+                    <pa>1741</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55807'>
+                    <teamName>Star Starachowice</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2106</pf>
+                    <pa>2063</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1896</pf>
+                    <pa>1887</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1818</pf>
+                    <pa>2191</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='166116'>
+                    <teamName>NZW KMP WEK</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1642</pf>
+                    <pa>2087</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1546</pf>
+                    <pa>2059</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162922'>
+                    <teamName>The Lechers</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1451</pf>
+                    <pa>2162</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>22</wins>
+                    <losses>0</losses>
+                    <pf>2275</pf>
+                    <pa>1431</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2094</pf>
+                    <pa>1998</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55469'>
+                    <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2171</pf>
+                    <pa>1777</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162366'>
+                    <teamName>BR66</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1995</pf>
+                    <pa>1654</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1886</pf>
+                    <pa>1874</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56429'>
+                    <teamName>TOP TEN THUNDERS</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2097</pf>
+                    <pa>1936</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1704</pf>
+                    <pa>1808</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1578</pf>
+                    <pa>2521</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='101974689' start='2018-07-03T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974690' start='2018-07-03T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>102</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974691' start='2018-07-03T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>95</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974692' start='2018-07-03T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55469'>
+                        <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='102025191' start='2018-07-07T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>62</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='102025192' start='2018-07-07T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55469'>
+                        <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>99</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>112</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='102070131' start='2018-07-10T16:35:00Z' type='league.final'>
+                    <awayTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>69</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>81</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='102070132' start='2018-07-14T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>72</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='101974693' start='2018-07-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974696' start='2018-07-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>82</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974699' start='2018-07-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='166116'>
+                        <teamName>NZW KMP WEK</teamName>
+<score>58</score>
+                    </awayTeam>
+                    <homeTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974694' start='2018-07-07T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>104</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974697' start='2018-07-07T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>95</score>
+                    </awayTeam>
+                    <homeTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974700' start='2018-07-07T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>56</score>
+                    </awayTeam>
+                    <homeTeam id='166116'>
+                        <teamName>NZW KMP WEK</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974695' start='2018-07-10T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>89</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>107</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='101974701' start='2018-07-10T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='166116'>
+                        <teamName>NZW KMP WEK</teamName>
+<score>59</score>
+                    </awayTeam>
+                    <homeTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>120</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='56364'>Szerszony</relegated>
+            
+            <relegated id='162456'>KS Goldena</relegated>
+            
+            <relegated id='162922'>The Lechers</relegated>
+            
+            <relegated id='163131'>ASPK</relegated>
+            
+            <relegated id='166116'>NZW KMP WEK</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

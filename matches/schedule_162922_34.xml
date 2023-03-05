@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162922' season='34' retrieved='2023-02-24T22:12:25Z'>
+        <match id='89125893' start='2016-02-18T17:35:00Z' type='friendly'>
+            <awayTeam id='162958'>
+                <teamName>Skałeczka Świony</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507832' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507839' start='2016-02-23T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508682' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='164782'>
+                <teamName>East COAST #1</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507850' start='2016-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507857' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90231770' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='164593'>
+                <teamName>Słabiaki</teamName>
+<score>15</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507866' start='2016-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507874' start='2016-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90246722' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='164095'>
+                <teamName>MATRIX 13</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507881' start='2016-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507892' start='2016-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256182' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='164432'>
+                <teamName>Warsaw City</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507900' start='2016-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507908' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90263562' start='2016-03-24T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507916' start='2016-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507924' start='2016-03-29T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90270252' start='2016-03-31T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56474'>
+                <teamName>Radogoszczanka_</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507932' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90277133' start='2016-04-05T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032010624' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='10624'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='10624'>
+                <teamName>Great 8</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283365' start='2016-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='55952'>
+                <teamName>PIGMEJ TEAM</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507940' start='2016-04-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507948' start='2016-04-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90284187' start='2016-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162595'>
+                <teamName>Pyro Slam-a-Jama</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507952' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507959' start='2016-04-19T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90296038' start='2016-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='164327'>
+                <teamName>HYDROMIL Poznań</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507970' start='2016-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507977' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90300254' start='2016-04-28T16:35:00Z' type='friendly'>
+            <awayTeam id='205321'>
+                <teamName>homotigers</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507986' start='2016-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507994' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90303983' start='2016-05-05T16:35:00Z' type='friendly'>
+            <awayTeam id='79144'>
+                <teamName>Cunit</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508001' start='2016-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90343063' start='2016-05-10T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90373477' start='2016-05-12T16:35:00Z' type='friendly'>
+            <awayTeam id='163988'>
+                <teamName>Violetta</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90343064' start='2016-05-14T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90476705' start='2016-05-19T16:35:00Z' type='friendly'>
+            <awayTeam id='56471'>
+                <teamName>Tymon Tymowa</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445341' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

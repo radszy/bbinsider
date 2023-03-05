@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='30' retrieved='2023-02-24T22:11:51Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2184</pf>
+                    <pa>1547</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1997</pf>
+                    <pa>1698</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55675'>
+                    <teamName>SUPERLIGOTA</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1935</pf>
+                    <pa>1799</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1949</pf>
+                    <pa>1791</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56232'>
+                    <teamName>KS Spójnia Stargard Szcz.</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1631</pf>
+                    <pa>1998</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1927</pf>
+                    <pa>1879</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163830'>
+                    <teamName>Parowozy Jarocin</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1609</pf>
+                    <pa>2077</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163288'>
+                    <teamName>Chomiczówka´s Boys</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1471</pf>
+                    <pa>2310</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2346</pf>
+                    <pa>1441</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163178'>
+                    <teamName>Bizony z NYSY</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>2245</pf>
+                    <pa>1790</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2168</pf>
+                    <pa>1867</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56429'>
+                    <teamName>TOP TEN THUNDERS</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2037</pf>
+                    <pa>1732</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Team 56364</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1891</pf>
+                    <pa>1603</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162366'>
+                    <teamName>BR66</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1542</pf>
+                    <pa>1806</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165178'>
+                    <teamName>LZS Niemyslowice</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1704</pf>
+                    <pa>2488</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56382'>
+                    <teamName>Wolves of Calla</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1432</pf>
+                    <pa>2242</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='81948416' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948417' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>102</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>75</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948418' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>53</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>121</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948419' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>71</score>
+                    </awayTeam>
+                    <homeTeam id='163178'>
+                        <teamName>Bizony z NYSY</teamName>
+<score>106</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='82073087' start='2015-04-18T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>97</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='82073088' start='2015-04-18T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163178'>
+                        <teamName>Bizony z NYSY</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='82196322' start='2015-04-21T16:35:00Z' type='league.final'>
+                    <awayTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>94</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>116</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='82196323' start='2015-04-25T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>102</score>
+                    </awayTeam>
+                    <homeTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>112</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='82196324' start='2015-04-26T16:35:00Z' type='league.final'>
+                    <awayTeam id='55675'>
+                        <teamName>SUPERLIGOTA</teamName>
+<score>88</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='81948420' start='2015-04-14T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>53</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>132</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948423' start='2015-04-14T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163830'>
+                        <teamName>Parowozy Jarocin</teamName>
+<score>44</score>
+                    </awayTeam>
+                    <homeTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>80</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948421' start='2015-04-18T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>115</score>
+                    </awayTeam>
+                    <homeTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>73</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948424' start='2015-04-18T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>54</score>
+                    </awayTeam>
+                    <homeTeam id='163830'>
+                        <teamName>Parowozy Jarocin</teamName>
+<score>78</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='81948425' start='2015-04-21T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163830'>
+                        <teamName>Parowozy Jarocin</teamName>
+<score>59</score>
+                    </awayTeam>
+                    <homeTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='56382'>Wolves of Calla</relegated>
+            
+            <relegated id='163288'>Chomiczówka´s Boys</relegated>
+            
+            <relegated id='163830'>Parowozy Jarocin</relegated>
+            
+            <relegated id='165178'>LZS Niemyslowice</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165275' season='47' retrieved='2023-02-24T22:10:00Z'>
+        <match id='107048107' start='2019-08-15T16:35:00Z' type='friendly'>
+            <awayTeam id='276407'>
+                <teamName>TeemoBoyz II</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107047392' start='2019-08-16T08:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='26956'>
+                <teamName>Harambe Team</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404074' start='2019-08-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404081' start='2019-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404815' start='2019-08-22T16:35:00Z' type='cup'>
+            <awayTeam id='165432'>
+                <teamName>Chicago Bulls 1996</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404092' start='2019-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404099' start='2019-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108060796' start='2019-08-29T16:35:00Z' type='cup'>
+            <awayTeam id='165045'>
+                <teamName>Night Miechowice</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108068442' start='2019-08-30T14:30:00Z' type='pl.quarterfinal'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='50332'>
+                <teamName>BC RV</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404108' start='2019-08-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404116' start='2019-09-03T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108073356' start='2019-09-05T16:35:00Z' type='cup'>
+            <awayTeam id='163807'>
+                <teamName>Miasto Szkła Krosno</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108076823' start='2019-09-06T14:30:00Z' type='pl.semifinal'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='35592'>
+                <teamName>Dallas Stars</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404123' start='2019-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404130' start='2019-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108080148' start='2019-09-12T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55463'>
+                <teamName>Fabianki</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082269' start='2019-09-13T14:30:00Z' type='pl.final'>
+            <awayTeam id='144882'>
+                <teamName>spartans team</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404137' start='2019-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404144' start='2019-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108086182' start='2019-09-19T16:35:00Z' type='cup'>
+            <awayTeam id='162269'>
+                <teamName>BOLKO gRzMoTy</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404151' start='2019-09-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404158' start='2019-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108091498' start='2019-09-26T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163092'>
+                <teamName>Swollen Members</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094494' start='2019-09-27T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='55895'>
+                <teamName>Baltic Strong</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404165' start='2019-09-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1045002086' start='2019-10-02T16:35:00Z' type='unknown'>
+            <awayTeam id='2086'>
+                <teamName>Big 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='2086'>
+                <teamName>Great 8</teamName>
+<score>161</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108097155' start='2019-10-03T16:35:00Z' type='friendly'>
+            <awayTeam id='276084'>
+                <teamName>Dudopol Sharks</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094499' start='2019-10-04T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404180' start='2019-10-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404187' start='2019-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108105104' start='2019-10-10T16:35:00Z' type='friendly'>
+            <awayTeam id='275769'>
+                <teamName>LKN Cartel</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094503' start='2019-10-11T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162457'>
+                <teamName>Diabloz</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404194' start='2019-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404201' start='2019-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108108000' start='2019-10-17T16:35:00Z' type='friendly'>
+            <awayTeam id='103942'>
+                <teamName>Texas BC</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094506' start='2019-10-18T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404212' start='2019-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404219' start='2019-10-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108113736' start='2019-10-24T16:35:00Z' type='friendly'>
+            <awayTeam id='189407'>
+                <teamName>新洲蛋堡队</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094509' start='2019-10-25T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404228' start='2019-10-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404236' start='2019-10-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108119050' start='2019-10-31T18:00:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='139856'>
+                <teamName>C.B. Barracónipos</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094512' start='2019-11-01T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404243' start='2019-11-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108163817' start='2019-11-05T17:35:00Z' type='league.relegation'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108124241' start='2019-11-07T17:35:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='276084'>
+                <teamName>Dudopol Sharks</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108094517' start='2019-11-08T17:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108163818' start='2019-11-09T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108227682' start='2019-11-14T17:35:00Z' type='friendly'>
+            <awayTeam id='37259'>
+                <teamName>Beerschot Bears</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108226758' start='2019-11-15T18:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108257748' start='2019-11-16T17:35:00Z' type='friendly'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

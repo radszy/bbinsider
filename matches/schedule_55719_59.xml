@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55719' season='59' retrieved='2023-02-24T22:05:53Z'>
+        <match id='122133276' start='2022-11-03T10:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='189492'>
+                <teamName>TW-1</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491069' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491077' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132152' start='2022-11-09T11:00:00Z' type='bbm'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='69699'>
+                <teamName>大陆王</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491704' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='236223'>
+                <teamName>Gypsies Filipy</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491085' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491093' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140758' start='2022-11-16T17:35:00Z' type='bbm'>
+            <awayTeam id='276040'>
+                <teamName>Folgado Lakers II</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491099' start='2022-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491106' start='2022-11-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165592' start='2022-11-23T17:35:00Z' type='bbm'>
+            <awayTeam id='142799'>
+                <teamName>Kyanos Asteras B.C.</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491115' start='2022-11-26T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491125' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123182255' start='2022-11-30T17:35:00Z' type='bbm'>
+            <awayTeam id='42553'>
+                <teamName>Lazarevac</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491133' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491141' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195797' start='2022-12-07T17:35:00Z' type='bbm'>
+            <awayTeam id='39568'>
+                <teamName>Red-White Hunters</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491149' start='2022-12-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491157' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208639' start='2022-12-14T17:35:00Z' type='bbm'>
+            <awayTeam id='276454'>
+                <teamName>The Falling Whale</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491165' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>13</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220975' start='2022-12-21T17:35:00Z' type='bbm'>
+            <awayTeam id='188207'>
+                <teamName>MUSTANG</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123231583' start='2022-12-22T22:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='106924'>
+                <teamName>Gacela BBC</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491173' start='2022-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491181' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233413' start='2022-12-28T17:35:00Z' type='unknown'>
+            <awayTeam id='26483'>
+                <teamName>UK Wildkitties</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491189' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491197' start='2023-01-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491205' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491213' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491219' start='2023-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491226' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491235' start='2023-01-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295553' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123345885' start='2023-01-28T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123418521' start='2023-02-03T02:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='42824'>
+                <teamName>Phoenix Suns V2</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390940' start='2023-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

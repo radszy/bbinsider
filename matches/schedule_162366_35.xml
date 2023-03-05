@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162366' season='35' retrieved='2023-02-24T22:12:37Z'>
+        <match id='90482393' start='2016-05-26T16:35:00Z' type='friendly'>
+            <awayTeam id='23718'>
+                <teamName>Tar Heel BC</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862552' start='2016-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862560' start='2016-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90863231' start='2016-06-02T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='55749'>
+                <teamName>BC Parlament</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862568' start='2016-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862576' start='2016-06-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91587097' start='2016-06-09T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163455'>
+                <teamName>KKS Kufel Team</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862584' start='2016-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862592' start='2016-06-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91601587' start='2016-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='162999'>
+                <teamName>KS Iskra Opole</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862599' start='2016-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862604' start='2016-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91611316' start='2016-06-23T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56137'>
+                <teamName>Dżanus team</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862611' start='2016-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862626' start='2016-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91618407' start='2016-06-30T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163838'>
+                <teamName>BC PACANY</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862633' start='2016-07-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862640' start='2016-07-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91624602' start='2016-07-07T16:35:00Z' type='cup'>
+            <awayTeam id='163590'>
+                <teamName>Anwil Yelonki</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862647' start='2016-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91630667' start='2016-07-12T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1033010729' start='2016-07-13T16:35:00Z' type='unknown'>
+            <awayTeam id='10729'>
+                <teamName>Great 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='10729'>
+                <teamName>Big 8</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91636449' start='2016-07-14T16:35:00Z' type='cup'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862654' start='2016-07-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862661' start='2016-07-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162690'>
+                <teamName>Behemoty</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91637168' start='2016-07-21T16:35:00Z' type='cup'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163182'>
+                <teamName>Silesian Riders (Anwil Fans)</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862672' start='2016-07-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862680' start='2016-07-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91643450' start='2016-07-28T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862688' start='2016-07-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862696' start='2016-08-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91654633' start='2016-08-04T16:35:00Z' type='friendly'>
+            <awayTeam id='95347'>
+                <teamName>Admiral Galaxy</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862704' start='2016-08-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862712' start='2016-08-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91661668' start='2016-08-11T15:00:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='75266'>
+                <teamName>YoungUnity</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862719' start='2016-08-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91695691' start='2016-08-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91732830' start='2016-08-18T10:30:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='51421'>
+                <teamName>Prodigious Ninjas</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91695692' start='2016-08-20T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91695693' start='2016-08-23T16:35:00Z' type='league.relegation'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91829437' start='2016-08-25T16:35:00Z' type='friendly'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='164207'>
+                <teamName>AgroKowale</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91797722' start='2016-08-27T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

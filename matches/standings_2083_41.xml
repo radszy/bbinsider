@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='41' retrieved='2023-02-24T22:09:06Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='163377'>
+                    <teamName>Gladiatorzyy</teamName>
+                    <wins>19</wins>
+                    <losses>3</losses>
+                    <pf>2063</pf>
+                    <pa>1248</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>1945</pf>
+                    <pa>1412</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>1940</pf>
+                    <pa>1476</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162922'>
+                    <teamName>The Lechers</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1801</pf>
+                    <pa>1543</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164110'>
+                    <teamName>Debeściaki</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1829</pf>
+                    <pa>1749</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55726'>
+                    <teamName>Piaski Yellow Hornets</teamName>
+                    <wins>9</wins>
+                    <losses>13</losses>
+                    <pf>1608</pf>
+                    <pa>1905</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165178'>
+                    <teamName>LZS Niemyslowice</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1459</pf>
+                    <pa>2057</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165563'>
+                    <teamName>Jastrzębie</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>0</pf>
+                    <pa>1100</pa>
+                    <isBot>1</isBot>
+                    <forfeits>22</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2036</pf>
+                    <pa>1476</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162366'>
+                    <teamName>BR66</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>1993</pf>
+                    <pa>1284</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55469'>
+                    <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2030</pf>
+                    <pa>1626</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1773</pf>
+                    <pa>1572</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56429'>
+                    <teamName>TOP TEN THUNDERS</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1917</pf>
+                    <pa>1670</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1738</pf>
+                    <pa>1692</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162328'>
+                    <teamName>Bursztyn Kalisz</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1352</pf>
+                    <pa>2039</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56421'>
+                    <teamName>Nałęczów Warriors</teamName>
+                    <wins>1</wins>
+                    <losses>21</losses>
+                    <pf>867</pf>
+                    <pa>2502</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='100732857' start='2018-03-27T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162922'>
+                        <teamName>The Lechers</teamName>
+<score>76</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>90</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732858' start='2018-03-27T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>82</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732859' start='2018-03-27T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>104</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>117</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732860' start='2018-03-27T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='55469'>
+                        <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>98</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='100783029' start='2018-03-31T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>106</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100783030' start='2018-03-31T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>69</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>83</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='100828149' start='2018-04-03T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>88</score>
+                    </awayTeam>
+                    <homeTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>76</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100828150' start='2018-04-07T16:35:00Z' type='league.final'>
+                    <awayTeam id='163377'>
+                        <teamName>Gladiatorzyy</teamName>
+<score>90</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>104</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='100732861' start='2018-03-27T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162328'>
+                        <teamName>Bursztyn Kalisz</teamName>
+<score>109</score>
+                    </awayTeam>
+                    <homeTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>110</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732864' start='2018-03-27T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>76</score>
+                    </awayTeam>
+                    <homeTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>113</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732867' start='2018-03-27T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732862' start='2018-03-31T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='164110'>
+                        <teamName>Debeściaki</teamName>
+<score>111</score>
+                    </awayTeam>
+                    <homeTeam id='162328'>
+                        <teamName>Bursztyn Kalisz</teamName>
+<score>106</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732865' start='2018-03-31T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>69</score>
+                    </awayTeam>
+                    <homeTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732868' start='2018-03-31T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>92</score>
+                    </awayTeam>
+                    <homeTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>99</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732866' start='2018-04-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>55</score>
+                    </awayTeam>
+                    <homeTeam id='56429'>
+                        <teamName>TOP TEN THUNDERS</teamName>
+<score>124</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='100732869' start='2018-04-03T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55726'>
+                        <teamName>Piaski Yellow Hornets</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='55726'>Piaski Yellow Hornets</relegated>
+            
+            <relegated id='56421'>Nałęczów Warriors</relegated>
+            
+            <relegated id='162328'>Bursztyn Kalisz</relegated>
+            
+            <relegated id='165178'>LZS Niemyslowice</relegated>
+            
+            <relegated id='165563'>Jastrzębie</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

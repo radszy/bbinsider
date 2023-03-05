@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163966' season='56' retrieved='2023-02-24T22:05:33Z'>
+        <match id='118281352' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='55687'>
+                <teamName>Ptaszki Poludnie</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638635' start='2022-01-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638642' start='2022-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119280013' start='2022-01-19T17:35:00Z' type='bbm'>
+            <awayTeam id='166678'>
+                <teamName>Костоломы</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118639260' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='165928'>
+                <teamName>Skyhawks Skarszewy</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638649' start='2022-01-22T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638656' start='2022-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119289038' start='2022-01-26T17:35:00Z' type='bbm'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119305094' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='233075'>
+                <teamName>Sun Suków</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638667' start='2022-01-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638674' start='2022-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119314068' start='2022-02-02T17:35:00Z' type='bbm'>
+            <awayTeam id='58598'>
+                <teamName>ZV PIGS</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325890' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='55674'>
+                <teamName>Blaugrana Starachowice</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638683' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638695' start='2022-02-08T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331296' start='2022-02-09T17:35:00Z' type='bbm'>
+            <awayTeam id='23070'>
+                <teamName>Work in Progress</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119340775' start='2022-02-10T17:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163139'>
+                <teamName>elgeba</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638703' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638711' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344919' start='2022-02-16T17:35:00Z' type='bbm'>
+            <awayTeam id='135090'>
+                <teamName>killers dragons</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119353126' start='2022-02-17T17:35:00Z' type='cup'>
+            <awayTeam id='162947'>
+                <teamName>Rekiny Bytom</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638719' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638727' start='2022-02-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357422' start='2022-02-23T17:35:00Z' type='bbm'>
+            <awayTeam id='45344'>
+                <teamName>InteramniaUrbs</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>18</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638735' start='2022-02-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370012' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='54189'>
+                <teamName>USPS Mailers</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054010582' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='10582'>
+                <teamName>Big 8</teamName>
+<score>152</score>
+            </awayTeam>
+            <homeTeam id='10582'>
+                <teamName>Great 8</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638743' start='2022-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638751' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638755' start='2022-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638762' start='2022-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638769' start='2022-03-19T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638776' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638787' start='2022-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638794' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638803' start='2022-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119493033' start='2022-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537482' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

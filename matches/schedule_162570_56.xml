@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162570' season='56' retrieved='2023-02-24T22:05:33Z'>
+        <match id='118281393' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162596'>
+                <teamName>Anwil Włocławek..</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638633' start='2022-01-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638640' start='2022-01-18T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119280019' start='2022-01-19T17:35:00Z' type='bbm'>
+            <awayTeam id='58875'>
+                <teamName>Tanzigan pojat</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638994' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='165973'>
+                <teamName>Flyers Kolonia Brzeziny</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638651' start='2022-01-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638658' start='2022-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119289054' start='2022-01-26T17:35:00Z' type='bbm'>
+            <awayTeam id='60668'>
+                <teamName>La Pelada</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119304952' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='239221'>
+                <teamName>Nasty Neu Proberg</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638667' start='2022-01-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638675' start='2022-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119314059' start='2022-02-02T17:35:00Z' type='bbm'>
+            <awayTeam id='60179'>
+                <teamName>Centro Vasco</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325421' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='163300'>
+                <teamName>San Jarosław</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638682' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638693' start='2022-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331292' start='2022-02-09T17:35:00Z' type='bbm'>
+            <awayTeam id='46717'>
+                <teamName>Teikou</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119340693' start='2022-02-10T17:35:00Z' type='cup'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56478'>
+                <teamName>Enea Astoria Bydgoszcz</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638701' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638709' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344925' start='2022-02-16T17:35:00Z' type='bbm'>
+            <awayTeam id='107488'>
+                <teamName>Night Owl</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119353017' start='2022-02-17T17:35:00Z' type='cup'>
+            <awayTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638717' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638725' start='2022-02-22T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357425' start='2022-02-23T17:35:00Z' type='bbm'>
+            <awayTeam id='59375'>
+                <teamName>Sauce BBC</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119365097' start='2022-02-24T17:35:00Z' type='cup'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56032'>
+                <teamName>Boston Celtics PL</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638733' start='2022-02-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370013' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='178161'>
+                <teamName>BC LAZERIS</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054002085' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>173</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119378537' start='2022-03-03T17:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638741' start='2022-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638749' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119387591' start='2022-03-10T17:35:00Z' type='friendly'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638753' start='2022-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638760' start='2022-03-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119392610' start='2022-03-17T16:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638771' start='2022-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638778' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119398412' start='2022-03-24T16:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638787' start='2022-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638795' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638802' start='2022-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443355' start='2022-04-05T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119482501' start='2022-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443356' start='2022-04-09T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443357' start='2022-04-12T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119565696' start='2022-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537481' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

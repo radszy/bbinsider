@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56049' season='34' retrieved='2023-02-24T22:12:23Z'>
+        <match id='89127927' start='2016-02-18T17:35:00Z' type='friendly'>
+            <awayTeam id='196650'>
+                <teamName>Sydney Celtics</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507834' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507841' start='2016-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89509520' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='165846'>
+                <teamName>Pogoń Prudnik</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507848' start='2016-02-27T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507855' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90231730' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='55878'>
+                <teamName>Qrczaki 91ers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507866' start='2016-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507873' start='2016-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90247116' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162448'>
+                <teamName>sportino2018</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507882' start='2016-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507894' start='2016-03-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256255' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='56056'>
+                <teamName>Jack Daniel&#39;s</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507902' start='2016-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507910' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90263574' start='2016-03-24T16:35:00Z' type='cup'>
+            <awayTeam id='55520'>
+                <teamName>BC Korona Kielce</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507918' start='2016-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507926' start='2016-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90270256' start='2016-03-31T16:35:00Z' type='cup'>
+            <awayTeam id='163912'>
+                <teamName>KKS Rybnik</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507934' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90277126' start='2016-04-05T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='164600'>
+                <teamName>PBG BARTASY POZNAŃ</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032002135' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='2135'>
+                <teamName>Great 8</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='2135'>
+                <teamName>Big 8</teamName>
+<score>167</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283313' start='2016-04-07T16:35:00Z' type='cup'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507942' start='2016-04-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507950' start='2016-04-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283957' start='2016-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507954' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507961' start='2016-04-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90290473' start='2016-04-21T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507968' start='2016-04-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507975' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90298343' start='2016-04-28T16:35:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507986' start='2016-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507993' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90306184' start='2016-05-05T16:40:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='277073'>
+                <teamName>Skokani Kozly</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508002' start='2016-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90343056' start='2016-05-10T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90309442' start='2016-05-12T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55907'>
+                <teamName>Mydlice</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90393585' start='2016-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90473387' start='2016-05-19T15:30:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='142652'>
+                <teamName>ΔΙΟΣΚΟΥΡΟΙ</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445338' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

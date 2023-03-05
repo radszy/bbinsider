@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162479' season='44' retrieved='2023-02-24T22:09:36Z'>
+        <match id='103338612' start='2018-10-25T14:30:00Z' type='friendly'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='50371'>
+                <teamName>Ormos Gialos</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695321' start='2018-10-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695329' start='2018-10-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695596' start='2018-11-01T16:35:00Z' type='cup'>
+            <awayTeam id='162421'>
+                <teamName>RóżoweKoniki</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695337' start='2018-11-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695345' start='2018-11-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104345853' start='2018-11-08T17:35:00Z' type='cup'>
+            <awayTeam id='165813'>
+                <teamName>Violets Zalesie Labedzkie</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695353' start='2018-11-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695361' start='2018-11-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104358556' start='2018-11-15T17:35:00Z' type='cup'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163433'>
+                <teamName>ReesPeCt</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695369' start='2018-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695373' start='2018-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104366105' start='2018-11-22T17:35:00Z' type='cup'>
+            <awayTeam id='163005'>
+                <teamName>Companeros</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695388' start='2018-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695395' start='2018-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104371372' start='2018-11-29T17:35:00Z' type='cup'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695402' start='2018-12-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695409' start='2018-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104376479' start='2018-12-06T17:35:00Z' type='cup'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164081'>
+                <teamName>SNAJPERZY</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695416' start='2018-12-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104382067' start='2018-12-11T17:35:00Z' type='cup'>
+            <awayTeam id='164224'>
+                <teamName>Beasties Night</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1042010652' start='2018-12-12T17:35:00Z' type='unknown'>
+            <awayTeam id='10652'>
+                <teamName>Great 8</teamName>
+<score>152</score>
+            </awayTeam>
+            <homeTeam id='10652'>
+                <teamName>Big 8</teamName>
+<score>164</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104387723' start='2018-12-13T17:35:00Z' type='cup'>
+            <awayTeam id='56474'>
+                <teamName>Radogoszczanka_</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695423' start='2018-12-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695430' start='2018-12-18T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104388318' start='2018-12-20T17:35:00Z' type='cup'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695441' start='2018-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695449' start='2018-12-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104394072' start='2018-12-27T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695457' start='2018-12-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695465' start='2019-01-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104399131' start='2019-01-03T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695473' start='2019-01-05T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695481' start='2019-01-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104409182' start='2019-01-10T17:35:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695489' start='2019-01-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450578' start='2019-01-15T17:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104410871' start='2019-01-17T19:00:00Z' type='friendly'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='80190'>
+                <teamName>Tabertroters</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450579' start='2019-01-19T17:35:00Z' type='league.relegation'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104574215' start='2019-01-24T19:30:00Z' type='friendly'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='94271'>
+                <teamName>Maia Warriors</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104545290' start='2019-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

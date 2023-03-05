@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163602' season='53' retrieved='2023-02-24T22:05:12Z'>
+        <match id='114472837' start='2021-03-25T16:35:00Z' type='friendly'>
+            <awayTeam id='276663'>
+                <teamName>Czarno II Czarni</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830406' start='2021-03-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830414' start='2021-03-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830836' start='2021-04-01T16:35:00Z' type='cup'>
+            <awayTeam id='165941'>
+                <teamName>Marzysz Kielce SS</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830422' start='2021-04-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830430' start='2021-04-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115482550' start='2021-04-08T16:35:00Z' type='cup'>
+            <awayTeam id='162401'>
+                <teamName>KS Górnik Zabrze</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830438' start='2021-04-10T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830446' start='2021-04-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115495936' start='2021-04-15T16:35:00Z' type='cup'>
+            <awayTeam id='166040'>
+                <teamName>Lance Armstrong</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830454' start='2021-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830458' start='2021-04-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>17</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115503345' start='2021-04-22T16:35:00Z' type='cup'>
+            <awayTeam id='162312'>
+                <teamName>Matrix Mighty Dunkers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830473' start='2021-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830480' start='2021-04-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115508451' start='2021-04-29T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='163667'>
+                <teamName>Hans Team Ostrów Wielkopolski</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830487' start='2021-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830494' start='2021-05-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115513327' start='2021-05-06T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163784'>
+                <teamName>Tłoki z Bydzi</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830501' start='2021-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115519021' start='2021-05-11T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='56044'>
+                <teamName>WKS Włocławek</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1051002095' start='2021-05-12T16:35:00Z' type='unknown'>
+            <awayTeam id='2095'>
+                <teamName>Great 8</teamName>
+<score>167</score>
+            </awayTeam>
+            <homeTeam id='2095'>
+                <teamName>Big 8</teamName>
+<score>151</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115523816' start='2021-05-13T16:35:00Z' type='cup'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830508' start='2021-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830515' start='2021-05-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115524384' start='2021-05-20T16:35:00Z' type='cup'>
+            <awayTeam id='165026'>
+                <teamName>Bulgoty</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830526' start='2021-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830534' start='2021-05-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115529471' start='2021-05-27T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830542' start='2021-05-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830550' start='2021-06-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115534221' start='2021-06-03T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830558' start='2021-06-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830566' start='2021-06-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115541843' start='2021-06-10T16:35:00Z' type='friendly'>
+            <awayTeam id='164984'>
+                <teamName>Ugnij się przed moim majestatem</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830574' start='2021-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583865' start='2021-06-15T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115618628' start='2021-06-17T16:35:00Z' type='friendly'>
+            <awayTeam id='34037'>
+                <teamName>独角马</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583866' start='2021-06-19T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583867' start='2021-06-22T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115705617' start='2021-06-24T16:35:00Z' type='friendly'>
+            <awayTeam id='34198'>
+                <teamName>High Five Berlin</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115678677' start='2021-06-26T16:35:00Z' type='friendly'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

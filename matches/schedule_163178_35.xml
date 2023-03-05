@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163178' season='35' retrieved='2023-02-24T22:12:37Z'>
+        <match id='90480607' start='2016-05-26T14:30:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='122306'>
+                <teamName>amatöörid</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862553' start='2016-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862560' start='2016-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90863083' start='2016-06-02T16:35:00Z' type='cup'>
+            <awayTeam id='55599'>
+                <teamName>koszykaze</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862567' start='2016-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862578' start='2016-06-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91587071' start='2016-06-09T16:35:00Z' type='cup'>
+            <awayTeam id='163388'>
+                <teamName>Stone Cold Miami</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862585' start='2016-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862594' start='2016-06-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91601749' start='2016-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164076'>
+                <teamName>Waleczne Wiewióry</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862602' start='2016-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862609' start='2016-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91611281' start='2016-06-23T16:35:00Z' type='cup'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='165209'>
+                <teamName>Nati&#39;sTeam</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862616' start='2016-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862623' start='2016-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91618425' start='2016-06-30T16:35:00Z' type='cup'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='165559'>
+                <teamName>Mapety</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862630' start='2016-07-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862637' start='2016-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162690'>
+                <teamName>Behemoty</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91629347' start='2016-07-07T16:30:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='26717'>
+                <teamName>Oop to the Hoop</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862644' start='2016-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1033002154' start='2016-07-13T16:35:00Z' type='unknown'>
+            <awayTeam id='2154'>
+                <teamName>Big 8</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='2154'>
+                <teamName>Great 8</teamName>
+<score>146</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91634002' start='2016-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162831'>
+                <teamName>KSG ONUFER</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862651' start='2016-07-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862666' start='2016-07-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91643103' start='2016-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='166037'>
+                <teamName>Ohio Warpigs</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862673' start='2016-07-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862680' start='2016-07-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862687' start='2016-07-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862698' start='2016-08-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91653815' start='2016-08-04T15:55:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='47489'>
+                <teamName>San Antonino Spritz</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862705' start='2016-08-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862714' start='2016-08-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91660466' start='2016-08-11T14:30:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='179574'>
+                <teamName>BC Divine</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90862722' start='2016-08-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91695688' start='2016-08-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91726658' start='2016-08-18T16:35:00Z' type='friendly'>
+            <awayTeam id='215026'>
+                <teamName>永倫</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91695689' start='2016-08-20T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91827300' start='2016-08-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='164312'>
+                <teamName>Cleveland Browns</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='91797723' start='2016-08-27T16:35:00Z' type='friendly'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

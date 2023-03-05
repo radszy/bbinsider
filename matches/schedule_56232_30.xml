@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56232' season='30' retrieved='2023-02-24T22:11:53Z'>
+        <match id='79247336' start='2015-01-22T10:30:00Z' type='friendly'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='54607'>
+                <teamName>Highlander Warriors</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413822' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413830' start='2015-01-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735290' start='2015-01-28T17:35:00Z' type='bbb'>
+            <awayTeam id='70015'>
+                <teamName>小猛牛</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79415245' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='239161'>
+                <teamName>Mentals Maszki</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413838' start='2015-01-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413846' start='2015-02-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735395' start='2015-02-04T16:00:00Z' type='bbb'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='70265'>
+                <teamName>Florenzköy</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81758602' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='237368'>
+                <teamName>Scots Holendry Slawskie</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413852' start='2015-02-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413859' start='2015-02-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735456' start='2015-02-11T17:35:00Z' type='bbb'>
+            <awayTeam id='49699'>
+                <teamName>Papagallos</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81792256' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162576'>
+                <teamName>Shark Włocławek</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413868' start='2015-02-14T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413878' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735573' start='2015-02-18T14:30:00Z' type='bbb'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56709'>
+                <teamName>Venomous Scorpions</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81809920' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413886' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413894' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735628' start='2015-02-25T17:35:00Z' type='bbb'>
+            <awayTeam id='56926'>
+                <teamName>Ares United</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81821006' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='164251'>
+                <teamName>BetonyKamikadzeTim</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413902' start='2015-02-28T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413910' start='2015-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735701' start='2015-03-04T11:00:00Z' type='bbb'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='69416'>
+                <teamName>Dionysus</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829305' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='56644'>
+                <teamName>Tęcza Włocławek</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413918' start='2015-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836782' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735757' start='2015-03-11T16:35:00Z' type='bbb'>
+            <awayTeam id='43580'>
+                <teamName>fc nourane</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028002142' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='2142'>
+                <teamName>Great 8</teamName>
+<score>169</score>
+            </awayTeam>
+            <homeTeam id='2142'>
+                <teamName>Big 8</teamName>
+<score>148</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81843570' start='2015-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162596'>
+                <teamName>Siewcy Wiatru</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413926' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413934' start='2015-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735839' start='2015-03-18T23:30:00Z' type='bbb'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='209107'>
+                <teamName>Kingston Beginners</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81844645' start='2015-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='55430'>
+                <teamName>NarewOstrołęka</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>157</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413942' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413950' start='2015-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81851726' start='2015-03-25T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='207741'>
+                <teamName>Cactus Tigers</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81851615' start='2015-03-26T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='55842'>
+                <teamName>MadeInPoland</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413958' start='2015-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413966' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81858763' start='2015-04-01T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='41555'>
+                <teamName>Ghost Masters</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81858804' start='2015-04-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413972' start='2015-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413979' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81866176' start='2015-04-08T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='42729'>
+                <teamName>KK Mordor</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81866226' start='2015-04-09T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413988' start='2015-04-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81872998' start='2015-04-16T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82073085' start='2015-04-18T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82278127' start='2015-04-23T21:00:00Z' type='friendly'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='24801'>
+                <teamName>|Sharpshooters|</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196318' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

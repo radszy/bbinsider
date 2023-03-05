@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='35' retrieved='2023-02-24T22:12:30Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='165320'>
+                    <teamName>DLR Basketball Club</teamName>
+                    <wins>17</wins>
+                    <losses>5</losses>
+                    <pf>2151</pf>
+                    <pa>1710</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2011</pf>
+                    <pa>1994</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1758</pf>
+                    <pa>1899</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56332'>
+                    <teamName>Zaniemysl Basket Team</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1773</pf>
+                    <pa>2004</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162690'>
+                    <teamName>Behemoty</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2010</pf>
+                    <pa>2049</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56049'>
+                    <teamName>Both teams played hard</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1857</pf>
+                    <pa>2046</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55807'>
+                    <teamName>Star Starachowice</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>2062</pf>
+                    <pa>2283</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55675'>
+                    <teamName>SUPERLIGOTA</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1799</pf>
+                    <pa>1996</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>20</wins>
+                    <losses>2</losses>
+                    <pf>2232</pf>
+                    <pa>1720</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163402'>
+                    <teamName>Polonia Fordon</teamName>
+                    <wins>14</wins>
+                    <losses>8</losses>
+                    <pf>2063</pf>
+                    <pa>1796</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1866</pf>
+                    <pa>1679</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2059</pf>
+                    <pa>1838</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163288'>
+                    <teamName>Chomiczówka´s Boys</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1960</pf>
+                    <pa>1848</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162366'>
+                    <teamName>BR66</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1750</pf>
+                    <pa>1682</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163178'>
+                    <teamName>Bizony z NYSY</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1990</pf>
+                    <pa>1940</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162778'>
+                    <teamName>Niebiescy Bangow</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>1404</pf>
+                    <pa>2261</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='91695684' start='2016-08-16T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56332'>
+                        <teamName>Zaniemysl Basket Team</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>105</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695685' start='2016-08-16T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>79</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695686' start='2016-08-16T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>112</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695687' start='2016-08-16T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>104</score>
+                    </awayTeam>
+                    <homeTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>117</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='91746220' start='2016-08-20T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91746221' start='2016-08-20T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163402'>
+                        <teamName>Polonia Fordon</teamName>
+<score>68</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>90</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='91797725' start='2016-08-23T16:35:00Z' type='league.final'>
+                    <awayTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>70</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>87</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91797726' start='2016-08-27T16:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>96</score>
+                    </awayTeam>
+                    <homeTeam id='165320'>
+                        <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='91695688' start='2016-08-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163178'>
+                        <teamName>Bizony z NYSY</teamName>
+<score>71</score>
+                    </awayTeam>
+                    <homeTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>84</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695691' start='2016-08-16T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>70</score>
+                    </awayTeam>
+                    <homeTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695689' start='2016-08-20T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56049'>
+                        <teamName>Both teams played hard</teamName>
+<score>107</score>
+                    </awayTeam>
+                    <homeTeam id='163178'>
+                        <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695692' start='2016-08-20T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>28</score>
+                    </awayTeam>
+                    <homeTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>125</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='91695693' start='2016-08-23T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55807'>
+                        <teamName>Star Starachowice</teamName>
+<score>78</score>
+                    </awayTeam>
+                    <homeTeam id='162366'>
+                        <teamName>BR66</teamName>
+<score>86</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='55675'>SUPERLIGOTA</relegated>
+            
+            <relegated id='55807'>Star Starachowice</relegated>
+            
+            <relegated id='162778'>Niebiescy Bangow</relegated>
+            
+            <relegated id='163178'>Bizony z NYSY</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

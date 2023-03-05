@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='44' retrieved='2023-02-24T22:09:34Z'>
+        <match id='103337232' start='2018-10-25T16:35:00Z' type='friendly'>
+            <awayTeam id='276236'>
+                <teamName>FC Barcelona 03</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103336354' start='2018-10-26T18:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695322' start='2018-10-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695329' start='2018-10-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695737' start='2018-11-01T16:35:00Z' type='cup'>
+            <awayTeam id='56125'>
+                <teamName>Real madrid łuki</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695340' start='2018-11-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695347' start='2018-11-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104345626' start='2018-11-08T17:35:00Z' type='cup'>
+            <awayTeam id='238583'>
+                <teamName>Chefs Ogrodzieniec</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354008' start='2018-11-09T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695356' start='2018-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695364' start='2018-11-13T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104358603' start='2018-11-15T17:35:00Z' type='cup'>
+            <awayTeam id='163219'>
+                <teamName>R.K.S. GIGANCIK</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354013' start='2018-11-16T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695371' start='2018-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695378' start='2018-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104365933' start='2018-11-22T17:35:00Z' type='cup'>
+            <awayTeam id='56534'>
+                <teamName>MacMilan</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354017' start='2018-11-23T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56053'>
+                <teamName>chicago bulss</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695385' start='2018-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695392' start='2018-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104371450' start='2018-11-29T17:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164488'>
+                <teamName>Moon Riders</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354020' start='2018-11-30T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695399' start='2018-12-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695406' start='2018-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104376495' start='2018-12-06T17:35:00Z' type='cup'>
+            <awayTeam id='235980'>
+                <teamName>Somberia City</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354023' start='2018-12-07T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695413' start='2018-12-08T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104382047' start='2018-12-11T17:35:00Z' type='cup'>
+            <awayTeam id='164149'>
+                <teamName>Galaktyczni Niszczyciele</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1042002083' start='2018-12-12T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>147</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>154</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104387726' start='2018-12-13T17:35:00Z' type='cup'>
+            <awayTeam id='56044'>
+                <teamName>WKS Włocławek</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354026' start='2018-12-14T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695428' start='2018-12-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695435' start='2018-12-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104388314' start='2018-12-20T17:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104354031' start='2018-12-21T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695442' start='2018-12-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695449' start='2018-12-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104394282' start='2018-12-27T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104394184' start='2018-12-28T19:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695460' start='2018-12-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695467' start='2019-01-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104400059' start='2019-01-03T17:35:00Z' type='friendly'>
+            <awayTeam id='33358'>
+                <teamName>Calgary Spitfires</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104399237' start='2019-01-04T19:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695476' start='2019-01-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695484' start='2019-01-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104405008' start='2019-01-10T17:35:00Z' type='friendly'>
+            <awayTeam id='34521'>
+                <teamName>Chemnitz Knicks</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104404367' start='2019-01-11T19:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103695491' start='2019-01-12T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164156'>
+                <teamName>Gsquad</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104450574' start='2019-01-15T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104410953' start='2019-01-17T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='165118'>
+                <teamName>Fire Emperor</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104500438' start='2019-01-19T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104514771' start='2019-01-24T17:35:00Z' type='friendly'>
+            <awayTeam id='24830'>
+                <teamName>Toronto Visoreds</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='104545287' start='2019-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

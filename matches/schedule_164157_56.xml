@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164157' season='56' retrieved='2023-02-24T22:05:36Z'>
+        <match id='118280361' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='31929'>
+                <teamName>Jan Dunkers</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070794' start='2022-01-14T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638637' start='2022-01-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638644' start='2022-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119280018' start='2022-01-19T17:35:00Z' type='bbm'>
+            <awayTeam id='75870'>
+                <teamName>Ziuwari</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118639508' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='163848'>
+                <teamName>Roman´s Nicks</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>137</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070802' start='2022-01-21T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638655' start='2022-01-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638662' start='2022-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119289046' start='2022-01-26T17:35:00Z' type='bbm'>
+            <awayTeam id='117389'>
+                <teamName>Megalonisos</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119304780' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='163530'>
+                <teamName>Niewinni Mielecin</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070810' start='2022-01-28T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638671' start='2022-01-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638679' start='2022-02-01T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119314062' start='2022-02-02T17:35:00Z' type='bbm'>
+            <awayTeam id='99839'>
+                <teamName>Massagno Lakers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325869' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='162555'>
+                <teamName>SolveRstarS</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118070818' start='2022-02-04T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638686' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638693' start='2022-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331293' start='2022-02-09T17:35:00Z' type='bbm'>
+            <awayTeam id='147280'>
+                <teamName>BK Ezerkrasta basketbols</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119340690' start='2022-02-10T17:35:00Z' type='cup'>
+            <awayTeam id='165148'>
+                <teamName>Kings Bydgoszcz</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119342709' start='2022-02-11T17:35:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638700' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>28</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638707' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344918' start='2022-02-16T17:35:00Z' type='bbm'>
+            <awayTeam id='166555'>
+                <teamName>White Yar</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119353018' start='2022-02-17T17:35:00Z' type='cup'>
+            <awayTeam id='162216'>
+                <teamName>KOKS Association</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119354052' start='2022-02-18T17:35:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='276136'>
+                <teamName>Szerszony II</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638714' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638721' start='2022-02-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357415' start='2022-02-23T17:35:00Z' type='bbm'>
+            <awayTeam id='35424'>
+                <teamName>Boulettes</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119365106' start='2022-02-24T17:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119365572' start='2022-02-25T17:35:00Z' type='pl.finalneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638728' start='2022-02-26T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119377909' start='2022-03-01T17:35:00Z' type='cup'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162982'>
+                <teamName>Sepolno Bucks</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370001' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054002084' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='2084'>
+                <teamName>Big 8</teamName>
+<score>147</score>
+            </awayTeam>
+            <homeTeam id='2084'>
+                <teamName>Great 8</teamName>
+<score>156</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382935' start='2022-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382617' start='2022-03-04T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='164181'>
+                <teamName>King Sajz</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638743' start='2022-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638750' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119383987' start='2022-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='55703'>
+                <teamName>The Freitags</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382624' start='2022-03-11T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='163674'>
+                <teamName>Payro</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638757' start='2022-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638764' start='2022-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119389149' start='2022-03-17T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382631' start='2022-03-18T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='237760'>
+                <teamName>Rajdersi</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638775' start='2022-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638782' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119398276' start='2022-03-24T09:00:00Z' type='friendly'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='53324'>
+                <teamName>くまのプーさん</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382638' start='2022-03-25T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638791' start='2022-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638799' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119402516' start='2022-03-31T15:00:00Z' type='friendly'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='277776'>
+                <teamName>RCB Beyrouth</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382645' start='2022-04-01T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638806' start='2022-04-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443352' start='2022-04-05T16:35:00Z' type='league.relegation'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119464224' start='2022-04-08T01:00:00Z' type='friendly'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='176369'>
+                <teamName>Sololá HEAT</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382652' start='2022-04-08T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443353' start='2022-04-09T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119507572' start='2022-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='277847'>
+                <teamName>Super Indian national team</teamName>
+<score>16</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382659' start='2022-04-15T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537481' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

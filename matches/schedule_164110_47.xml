@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164110' season='47' retrieved='2023-02-24T22:09:57Z'>
+        <match id='107050911' start='2019-08-15T14:30:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='95103'>
+                <teamName>Ttl</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404069' start='2019-08-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404080' start='2019-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404994' start='2019-08-22T16:35:00Z' type='cup'>
+            <awayTeam id='237548'>
+                <teamName>Steamboats Koscierzynek</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404087' start='2019-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404094' start='2019-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108060514' start='2019-08-29T16:35:00Z' type='cup'>
+            <awayTeam id='165174'>
+                <teamName>Chicago Planes</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404103' start='2019-08-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404111' start='2019-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108073082' start='2019-09-05T16:35:00Z' type='cup'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163893'>
+                <teamName>madox888</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404119' start='2019-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404129' start='2019-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108080167' start='2019-09-12T16:35:00Z' type='cup'>
+            <awayTeam id='56061'>
+                <teamName>Air Ball Team</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404137' start='2019-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404145' start='2019-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108086099' start='2019-09-19T16:35:00Z' type='cup'>
+            <awayTeam id='56396'>
+                <teamName>Dupki</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404153' start='2019-09-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404161' start='2019-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108091448' start='2019-09-26T16:35:00Z' type='cup'>
+            <awayTeam id='165249'>
+                <teamName>BKS Sowlany</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404169' start='2019-09-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1045002087' start='2019-10-02T16:35:00Z' type='unknown'>
+            <awayTeam id='2087'>
+                <teamName>Big 8</teamName>
+<score>145</score>
+            </awayTeam>
+            <homeTeam id='2087'>
+                <teamName>Great 8</teamName>
+<score>164</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108097119' start='2019-10-03T14:55:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='37993'>
+                <teamName>&quot;ROAD RUNNER&quot; HAIFA</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404177' start='2019-10-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404185' start='2019-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108104173' start='2019-10-10T16:35:00Z' type='friendly'>
+            <awayTeam id='57088'>
+                <teamName>Danube Delta</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404189' start='2019-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404200' start='2019-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108108357' start='2019-10-17T17:30:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='36071'>
+                <teamName>Crappers</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404207' start='2019-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404214' start='2019-10-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108115215' start='2019-10-24T16:35:00Z' type='friendly'>
+            <awayTeam id='33294'>
+                <teamName>Mustard Tigers</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404223' start='2019-10-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404231' start='2019-10-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108119256' start='2019-10-31T17:00:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='34221'>
+                <teamName>LA Lakers 46</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404239' start='2019-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108124827' start='2019-11-07T17:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162986'>
+                <teamName>Tomitaki wrocław</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108213289' start='2019-11-09T17:35:00Z' type='friendly'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108228077' start='2019-11-14T10:30:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='54931'>
+                <teamName>Kauswagan Barbecue Club</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108257749' start='2019-11-16T17:35:00Z' type='friendly'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

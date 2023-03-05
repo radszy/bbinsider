@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BBCommentary>
+   <Language>19</Language>
+   <Events>
+      <e0000t0>Shot missed.</e0000t0>
+      <e0000t1>Scored.</e0000t1>
+      <e0000t2>Goaltending called.</e0000t2>
+      <e0000t3>Shot blocked.</e0000t3>
+      <e0001t0>$event1$, guarded closely by $player2$.</e0001t0>
+      <e0001t1>$event1$ with $player2$ right in his face.</e0001t1>
+      <e0001t2>$event1$ under pressure from $player2$.</e0001t2>
+      <e0001t3>$event1$ after $player2$ backed off slightly.</e0001t3>
+      <e0001t4>$event1$ over $player2$.</e0001t4>
+      <e0002t0>$player2$ gets off a great pass to $player1$. $event1$.</e0002t0>
+      <e0002t1>$event1$ off of a nice pass from $player2$.</e0002t1>
+      <e0002t2>$player2$ opens up the play with a pass to $player1$. $event1$.</e0002t2>
+      <e0002t3>$player2$  finds $player1$ in space. $event1$.</e0002t3>
+      <e0002t4>$event1$.</e0002t4>
+      <e0002t5>$player2$ threads a pass through the defense and finds $player1$.  $event1$.</e0002t5>
+      <e0003t0>$event1$, as $player2$ rotates over and alters his shot.</e0003t0>
+      <e100xt0>$player1$ launches a three-pointer</e100xt0>
+      <e100xt1>$player1$ fires from downtown</e100xt1>
+      <e100xt2>$player1$ shoots from long-range</e100xt2>
+      <e100xt3>Three-point shot attempted by $player1$</e100xt3>
+      <e100xt4>$player1$ catches in rhythm and puts up the three</e100xt4>
+      <e100xt5>$player1$ releases a shot from behind the arc</e100xt5>
+      <e101xt0>$player1$ forces up a three from the top of the arc</e101xt0>
+      <e101xt1>$player1$ jacks one up from downtown</e101xt1>
+      <e101xt2>$player1$ tries a three-pointer from straight-on</e101xt2>
+      <e102xt0>$player1$ attempts a three-point shot from the wing</e102xt0>
+      <e103xt0>$player1$ fires up a three-point shot from the corner</e103xt0>
+      <e103xt1>$player1$ catches in the corner and launches for three</e103xt1>
+      <e103xt2>$player1$ launches a three-pointer from the corner of the floor</e103xt2>
+      <e103xt3>$player1$ gets open in the corner and puts up a three-point shot</e103xt3>
+      <e104xt0>$player1$ is forced to take a very long three pointer</e104xt0>
+      <e104xt1>$player1$ attempts a long three-pointer</e104xt1>
+      <e104xt2>$player1$ launches a three-pointer from another zip-code</e104xt2>
+      <e104xt3>$player1$ tries to show off his range with a very long three-point attempt</e104xt3>
+      <e105xt0>$player1$ offers up a prayer from half-court</e105xt0>
+      <e105xt1>$player1$ with a one-handed heave from just beyond half-court</e105xt1>
+      <e105xt2>$player1$ heaves up a half-court shot as time expires</e105xt2>
+      <e105xt3>$player1$ hopes for a miracle as he throws up a long half-court shot</e105xt3>
+      <e200xt0>$player1$ puts up an easy jumper</e200xt0>
+      <e200xt1>Quick catch and release from $player1$</e200xt1>
+      <e201xt0>$player1$ attempts a jumper from the elbow</e201xt0>
+      <e201xt1>$player1$ slips off a screen and fires from the elbow</e201xt1>
+      <e201xt2>$player1$ has plenty of time to set-up, and shoots from near the foul line</e201xt2>
+      <e201xt3>$player1$ elevates and fires off a pull-up jumper from the elbow</e201xt3>
+      <e202xt0>$player1$ attempts a jump-shot from the wing</e202xt0>
+      <e202xt1>$player1$ tries to bank one in from the wing</e202xt1>
+      <e202xt2>$player1$ fires an off-balance jumper from the wing</e202xt2>
+      <e203xt0>$player1$ attempts a baseline jumper</e203xt0>
+      <e203xt1>$player1$ gets free for a baseline jumper</e203xt1>
+      <e203xt2>$player1$ dribbles baseline and pulls up for a jumper</e203xt2>
+      <e203xt3>$player1$ puts up a jumper from the baseline</e203xt3>
+      <e203xt4>Baseline jumper from $player1$</e203xt4>
+      <e203xt5>$player1$ puts up an off-balance jumper from the baseline</e203xt5>
+      <e204xt0>$player1$ pulls up at the top of the key and takes a shot</e204xt0>
+      <e204xt1>$player1$ fires from the top of the key</e204xt1>
+      <e21009t0>$player1$ now has a double double.</e21009t0>
+      <e21109t0>$player1$ now has a triple double!</e21109t0>
+      <e21209t0>$player1$ can't buy a bucket!</e21209t0>
+      <e21309t0>$player1$ is on fire! that's 5 in a row!</e21309t0>
+      <e21409t0>A buzzerbeater for $player1$!</e21409t0>
+      <e21509t0>It looks like that we're now in garbage time.</e21509t0>
+      <e401xt0>$player1$ throws down a powerful two-handed dunk</e401xt0>
+      <e401xt1>Quick drop-step move leads to a two-handed dunk by $player1$</e401xt1>
+      <e401xt2>$player1$ skies over the defender and throws it down one-handed</e401xt2>
+      <e401xt3>$player1$ goes way up to snag an alley-oop pass</e401xt3>
+      <e401xt4>$player1$ goes up strong for a dunk</e401xt4>
+      <e401xt5>$player1$ goes baseline and stretches out for the dunk</e401xt5>
+      <e401xt6>$player1$ brings the crowd to its feet with a powerful slam</e401xt6>
+      <e401xt7>$player1$ goes up for a dunk in a crowd</e401xt7>
+      <e402xt0>Inside move leads to a layup by $player1$</e402xt0>
+      <e402xt1>$player1$ glides to the hoop and tries to finish off the glass</e402xt1>
+      <e402xt2>$player1$ switches hands in mid-air on his way to the basket</e402xt2>
+      <e402xt3>$player1$ shows some amazing body control with an acrobatic finish at the rim</e402xt3>
+      <e402xt4>$player1$ finds a clear path to the hoop and lays it up</e402xt4>
+      <e402xt5>$player1$ lays it off the glass with his left hand</e402xt5>
+      <e402xt6>$player1$ slaps the backboard as he puts up the lay-in</e402xt6>
+      <e402xt7>$player1$ goes baseline and tries a reverse lay-up</e402xt7>
+      <e402xt8>$player1$ tries a finger roll</e402xt8>
+      <e402xt9>$player1$ flies high above the rim and drops it in</e402xt9>
+      <e403xt0>$player1$ goes up strong for an inside shot</e403xt0>
+      <e403xt1>$player1$ backs down his defender and shoots from close range</e403xt1>
+      <e403xt2>$player1$ bullies his way to the basket for a tough inside shot</e403xt2>
+      <e403xt3>$player1$ lowers his shoulder and plays a shot off the glass</e403xt3>
+      <e403xt4>Bodies go flying as $player1$ plows his way to the basket</e403xt4>
+      <e404xt0>$player1$ attempts the fade-away</e404xt0>
+      <e404xt1>$player1$ tries a fade-away jumper</e404xt1>
+      <e404xt2>$player1$ shoots while falling away</e404xt2>
+      <e404xt3>$player1$ goes up with the fade-away</e404xt3>
+      <e405xt0>$player1$ attempts a hook shot</e405xt0>
+      <e406xt0>$player1$  spins around his defender and fires off a quick jump shot</e406xt0>
+      <e407xt0>Out of nowhere, $player1$ flew in to slam home the rebound</e407xt0>
+      <e408xt0>$player1$ reaches up and tries to tip it in</e408xt0>
+      <e409xt0>$player1$ collects the rebound and goes back up for the shot</e409xt0>
+      <e410xt0>$player1$ goes up for the dunk in a crowd</e410xt0>
+      <e410xt1>$player1$ goes up strong for a dunk</e410xt1>
+      <e410xt2>$player1$ goes baseline and stretches out for the dunk</e410xt2>
+      <e410xt3>$player1$ goes way up to snag the alley-oop pass</e410xt3>
+      <e411xt0>$player1$ tries a driving layup</e411xt0>
+      <e5029t0>$player1$ sinks the free throw.</e5029t0>
+      <e5029t1>Free throw made by $player1$.</e5029t1>
+      <e5029t2>$player1$ gets the free throw to go.</e5029t2>
+      <e5029t3>The free throw by $player1$ is up and in.</e5029t3>
+      <e5029t4>$player1$'s free throw attempt is up and good.</e5029t4>
+      <e5029t5>Free throw by $player1$ rolls around the rim before going in.</e5029t5>
+      <e5029t6>$player1$ calmly knocks down the free throw attempt.</e5029t6>
+      <e5029t7>$player1$ banks in the free throw.</e5029t7>
+      <e5039t0>Free throw missed by $player1$.</e5039t0>
+      <e5039t1>$player1$ throws up a brick from the line.</e5039t1>
+      <e5049t0>$player2$ is called for a shooting foul.</e5049t0>
+      <e5059t0>Foul called on $player2$.</e5059t0>
+      <e5079t0>$player1$ is hit with a personal foul.</e5079t0>
+      <e5089t0>Foul called on $player1$.</e5089t0>
+      <e5099t0>$player1$ is assessed a flagrant foul.</e5099t0>
+      <e5109t0>$player1$ was ejected from the game!</e5109t0>
+      <e7060t0>30 second timeout called by $team1$.</e7060t0>
+      <e7061t0>Full timeout called by $team1$.</e7061t0>
+      <e8019t0>$player1$ is whistled for a three-second violation.</e8019t0>
+      <e8019t1>$player1$ stayed in the lane too long and was called for a three second violation.</e8019t1>
+      <e8029t0>$player1$ threw the ball away.</e8029t0>
+      <e8029t1>Ball thrown out of bounds by $player1$.</e8029t1>
+      <e8029t2>The pass from $player1$ sailed out of bounds.</e8029t2>
+      <e8039t0>Offensive foul called on $player1$.</e8039t0>
+      <e8049t0>Shot clock violation on $team1$.</e8049t0>
+      <e8079t0>Ball stolen by $player1$.</e8079t0>
+      <e8079t1>$player1$ stole the ball.</e8079t1>
+      <e8089t0>$player1$ intercepted a pass.</e8089t0>
+      <e8089t1>Pass intercepted by $player1$.</e8089t1>
+      <e8089t2>Pass stolen by $player1$.</e8089t2>
+      <e8099t0>The shot was assisted by $player1$.</e8099t0>
+      <e8099t1>$player1$ credited with the assist.</e8099t1>
+      <e8109t0>$player1$ called for a traveling violation.</e8109t0>
+      <e8129t0>$player1$ lost the handle! Ball ends up in the stands.</e8129t0>
+      <e9019t0>$player1$ injured on the play.</e9019t0>
+      <e9019t1>$player1$ takes a hard shot and will have to leave the game.</e9019t1>
+      <e9029t0>$player1$ injury has been sprayed on and taped over by the team doctor, he's good to go and back in the game!</e9029t0>
+      <e9029t1>Looks like $player1$ injury was nothing serious. He's shaken it off and the team doctor has approved his return.</e9029t1>
+      <e9039t0>$player1$ seems to be really dragging his feet, he's terribly exhausted!</e9039t0>
+      <e9039t1>Looks like $player1$ is exhausted. He's barely walking!</e9039t1>
+      <e9039t2>$player1$ looks very pale and exhausted. He's asking for a substitution but the coach doesn't seem to notice.</e9039t2>
+      <e9049t0>$player1$ fainted after the play. He's been carried off the court by the medical team.</e9049t0>
+      <e9049t1>$player1$ fainted! The medical team has managed to get him conscious but he's been escorted off.</e9049t1>
+      <e9317t0>$player1$ flew in from the wing to grab the offensive rebound.</e9317t0>
+      <e9317t1>$player1$ grabs the offensive rebound.</e9317t1>
+      <e9317t2>$player1$ cleans the offensive glass.</e9317t2>
+      <e9317t3>$player1$ boxes out his man and snags the offensive rebound.</e9317t3>
+      <e9317t4>$player1$ hustles for the offensive rebound.</e9317t4>
+      <e9317t5>$player1$ snags the offensive board.</e9317t5>
+      <e9317t6>$player1$ keeps the play alive with an offensive rebound.</e9317t6>
+      <e9318t0>$player1$ grabs the defensive rebound.</e9318t0>
+      <e9318t1>$player1$ corrals the missed shot.</e9318t1>
+      <e9318t2>$player1$ ends the possession with a defensive rebound.</e9318t2>
+      <e9318t3>The defensive rebound is snapped up by $player1$.</e9318t3>
+      <e9318t4>$player1$ pulls down a defensive rebound.</e9318t4>
+      <e9318t5>$player1$ cleans the defensive glass.</e9318t5>
+      <e9318t6>$player1$ tracks down the defensive rebound.</e9318t6>
+      <e9318t7>$player1$ leaps high above the rim to grab the defensive board.</e9318t7>
+      <e9318t8>$player1$ controls the defensive board.</e9318t8>
+      <e9318t9>$player1$ makes an outstanding play to bring in the defensive rebound.</e9318t9>
+      <e9319t0>$player1$ flew in from the wing to grab the rebound.</e9319t0>
+      <e9319t1>Rebound pulled down by $player1$.</e9319t1>
+      <e9339t0>Jump ball won by $player1$.</e9339t0>
+      <e9347t0>$player1$ tries to grab the offensive rebound, but the ball goes out of bounds.</e9347t0>
+      <e9347t1>The ball bounces off the top of the backboard and goes out of bounds.</e9347t1>
+      <e9347t2>Both rebounders back off, but the referee rules that $team1$ touched the ball last</e9347t2>
+      <e9347t3>Neither team can corral the airball, and $team1$ will take the ball out of bounds</e9347t3>
+      <e9347t4>There's a scramble for the ball, and both players look to the ref, who rules in favor of $team1$</e9347t4>
+      <e9348t0>$player1$ tries to grab the defensive rebound, but the ball goes out of bounds.</e9348t0>
+      <e9348t1>There's a scramble for the ball, and both players look to the ref, who rules in favor of $team1$</e9348t1>
+      <e9510t0>$player1$ will come off the bench to replace $player2$ at PG.</e9510t0>
+      <e9510t1>$player1$ comes into the game to replace $player2$ at PG.</e9510t1>
+      <e9510t3>$player2$ is headed to the bench; he'll be replaced at PG by $player1$.</e9510t3>
+      <e9511t0>$player1$ substituted for $player2$ at SG.</e9511t0>
+      <e9512t0>$player1$ brought in for $player2$ at SF.</e9512t0>
+      <e9513t0>Change at PF: $player1$ in. $player2$ out.</e9513t0>
+      <e9514t0>Substitution at C: $player1$ for $player2$.</e9514t0>
+      <e9515t0>$player1$ substituted for $player2$ at PG.</e9515t0>
+      <e9516t0>$player1$ substituted for $player2$ at SG.</e9516t0>
+      <e9517t0>$player2$ was replaced by $player1$ at SF.</e9517t0>
+      <e9518t0>$player1$ brought in for $player2$ at PF.</e9518t0>
+      <e9519t0>$player1$ came off the bench to replace $player2$ at center.</e9519t0>
+      <e9520t0>$player1$ and $player2$ will swap positions on the court.</e9520t0>
+      <e9521t0>$player1$ and $player2$ trade positions on the court.</e9521t0>
+      <e9619t0>End of period.</e9619t0>
+      <e9629t0>~~GAME OVER~~</e9629t0>
+      <e9639t0>Half time.</e9639t0>
+      <e9810t0 />
+      <e9811t0 />
+      <e9819t0 />
+   </Events>
+</BBCommentary>

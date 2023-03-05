@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162922' season='31' retrieved='2023-02-24T22:12:05Z'>
+        <match id='82280563' start='2015-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='56451'>
+                <teamName>Monstares</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705745' start='2015-05-02T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705752' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82707931' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='164106'>
+                <teamName>GłęboczekLipnica</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705759' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705766' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85050663' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='55799'>
+                <teamName>Nowogard Stars</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705777' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705784' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85083078' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='231379'>
+                <teamName>Obscure Miaczyn</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705793' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705801' start='2015-05-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85101005' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='162238'>
+                <teamName>KrajanDunk</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705808' start='2015-05-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705815' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85115263' start='2015-06-04T16:35:00Z' type='friendly'>
+            <awayTeam id='74750'>
+                <teamName>San Antonio Ülker</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705822' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705829' start='2015-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85123630' start='2015-06-11T16:35:00Z' type='friendly'>
+            <awayTeam id='165900'>
+                <teamName>Mazur team</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705836' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029010624' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='10624'>
+                <teamName>Great 8</teamName>
+<score>153</score>
+            </awayTeam>
+            <homeTeam id='10624'>
+                <teamName>Big 8</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85128664' start='2015-06-18T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56473'>
+                <teamName>Sopot D-Fenders</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705843' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705850' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85136827' start='2015-06-25T16:35:00Z' type='friendly'>
+            <awayTeam id='45884'>
+                <teamName>mtz basket beach</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705865' start='2015-06-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705872' start='2015-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85142843' start='2015-07-02T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='164736'>
+                <teamName>PK Krzewo</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705879' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705886' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85149346' start='2015-07-09T10:00:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='59156'>
+                <teamName>Ancient Titans</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705897' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705904' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85157549' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163698'>
+                <teamName>Zalew Koszyce</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705913' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237157' start='2015-07-21T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85161506' start='2015-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='89184'>
+                <teamName>I.C.I. BC</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237158' start='2015-07-25T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237159' start='2015-07-28T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85563310' start='2015-07-30T16:35:00Z' type='friendly'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165708'>
+                <teamName>Siara Tarnobrzeg</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483113' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

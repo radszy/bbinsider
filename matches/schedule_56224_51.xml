@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56224' season='51' retrieved='2023-02-24T22:04:55Z'>
+        <match id='111996375' start='2020-09-10T16:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='56002'>
+                <teamName>MKS  Golasy</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816256' start='2020-09-11T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163828'>
+                <teamName>Les Cocottes</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354865' start='2020-09-12T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354872' start='2020-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355762' start='2020-09-17T16:35:00Z' type='cup'>
+            <awayTeam id='164138'>
+                <teamName>Viscalia Kraków</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816263' start='2020-09-18T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354879' start='2020-09-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354886' start='2020-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113006146' start='2020-09-24T16:35:00Z' type='cup'>
+            <awayTeam id='163141'>
+                <teamName>PODLASIE</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816270' start='2020-09-25T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163500'>
+                <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354897' start='2020-09-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354904' start='2020-09-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113019159' start='2020-10-01T16:35:00Z' type='cup'>
+            <awayTeam id='163092'>
+                <teamName>Swollen Members</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816277' start='2020-10-02T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354913' start='2020-10-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354921' start='2020-10-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113027396' start='2020-10-08T16:35:00Z' type='cup'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163914'>
+                <teamName>Hilfiger Team</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816284' start='2020-10-09T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354928' start='2020-10-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354935' start='2020-10-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113037555' start='2020-10-15T17:30:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='88312'>
+                <teamName>Bazong</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816291' start='2020-10-16T19:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56585'>
+                <teamName>WKS Śląsk Wroclaw</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354942' start='2020-10-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354949' start='2020-10-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113040310' start='2020-10-22T16:35:00Z' type='friendly'>
+            <awayTeam id='276165'>
+                <teamName>Sunderland Boilermakers</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113038791' start='2020-10-23T19:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354956' start='2020-10-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1049002124' start='2020-10-28T16:35:00Z' type='unknown'>
+            <awayTeam id='2124'>
+                <teamName>Great 8</teamName>
+<score>175</score>
+            </awayTeam>
+            <homeTeam id='2124'>
+                <teamName>Big 8</teamName>
+<score>169</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113046949' start='2020-10-29T16:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='56445'>
+                <teamName>Przemoc</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113043826' start='2020-10-30T19:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354963' start='2020-10-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354970' start='2020-11-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113051192' start='2020-11-05T17:35:00Z' type='friendly'>
+            <awayTeam id='42571'>
+                <teamName>Gooners</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354985' start='2020-11-07T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354992' start='2020-11-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113055903' start='2020-11-12T17:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='166238'>
+                <teamName>Sztywna Ekipa Łuków</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059753' start='2020-11-13T20:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112354999' start='2020-11-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355006' start='2020-11-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113061492' start='2020-11-19T17:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55687'>
+                <teamName>Ptaszki Poludnie</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059757' start='2020-11-20T20:00:00Z' type='pl.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355017' start='2020-11-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355024' start='2020-11-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>26</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113069207' start='2020-11-26T19:00:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='91026'>
+                <teamName>Coventry Phoenix</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059763' start='2020-11-27T20:00:00Z' type='pl.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='112355033' start='2020-11-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113109975' start='2020-12-01T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113080874' start='2020-12-03T16:55:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='49035'>
+                <teamName>olimpia fornello</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059769' start='2020-12-04T20:00:00Z' type='pl.rs'>
+            <awayTeam id='55897'>
+                <teamName>Niewazne</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113160425' start='2020-12-05T17:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113232214' start='2020-12-10T17:35:00Z' type='friendly'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='165829'>
+                <teamName>Nike Club</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113059775' start='2020-12-11T20:00:00Z' type='pl.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='113204909' start='2020-12-12T17:35:00Z' type='friendly'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>12</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

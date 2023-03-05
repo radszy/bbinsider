@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55469' season='42' retrieved='2023-02-24T22:09:19Z'>
+        <match id='100859457' start='2018-04-12T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='100612763' start='2018-04-13T12:00:00Z' type='pl.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='276386'>
+                <teamName>Team Infinity Jr.</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217019' start='2018-04-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217027' start='2018-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217937' start='2018-04-19T16:35:00Z' type='cup'>
+            <awayTeam id='238690'>
+                <teamName>Chinese Kziaznica</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101857661' start='2018-04-20T11:00:00Z' type='pl.semifinal'>
+            <awayTeam id='162282'>
+                <teamName>The Łamags</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217035' start='2018-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217043' start='2018-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101867874' start='2018-04-26T16:35:00Z' type='cup'>
+            <awayTeam id='165066'>
+                <teamName>Pogoń Ruda Śląska</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101875658' start='2018-04-27T11:00:00Z' type='pl.final'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='53432'>
+                <teamName>Kitakyushu</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217049' start='2018-04-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217056' start='2018-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101880978' start='2018-05-03T16:35:00Z' type='cup'>
+            <awayTeam id='56349'>
+                <teamName>HUSAR WŁOCŁAWEK</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217065' start='2018-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217071' start='2018-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101890342' start='2018-05-10T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='166238'>
+                <teamName>Sztywna Ekipa Łuków</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891729' start='2018-05-11T11:00:00Z' type='pl.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='71934'>
+                <teamName>Genç Basketbolcular</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217078' start='2018-05-12T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217085' start='2018-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101896500' start='2018-05-17T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891732' start='2018-05-18T11:00:00Z' type='pl.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='179324'>
+                <teamName>Nusikalstama grupuotė Varpelis</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217092' start='2018-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217107' start='2018-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101902931' start='2018-05-24T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891735' start='2018-05-25T11:00:00Z' type='pl.rs'>
+            <awayTeam id='162282'>
+                <teamName>The Łamags</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217114' start='2018-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1040002104' start='2018-05-30T16:35:00Z' type='unknown'>
+            <awayTeam id='2104'>
+                <teamName>Great 8</teamName>
+<score>152</score>
+            </awayTeam>
+            <homeTeam id='2104'>
+                <teamName>Big 8</teamName>
+<score>146</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101909661' start='2018-05-31T16:35:00Z' type='friendly'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891740' start='2018-06-01T11:00:00Z' type='pl.rs'>
+            <awayTeam id='122811'>
+                <teamName>BC Põltsamaa lakers</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217121' start='2018-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217128' start='2018-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101916589' start='2018-06-07T16:35:00Z' type='friendly'>
+            <awayTeam id='85046'>
+                <teamName>Les Gaulois</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891745' start='2018-06-08T11:00:00Z' type='pl.rs'>
+            <awayTeam id='276282'>
+                <teamName>Chi-ki-Ta II</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217139' start='2018-06-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217147' start='2018-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>153</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101919245' start='2018-06-14T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891750' start='2018-06-15T11:00:00Z' type='pl.rs'>
+            <awayTeam id='53432'>
+                <teamName>Kitakyushu</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217155' start='2018-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217163' start='2018-06-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101924360' start='2018-06-21T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891754' start='2018-06-22T11:00:00Z' type='pl.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='70653'>
+                <teamName>Harsh Tigers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217169' start='2018-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217176' start='2018-06-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101930415' start='2018-06-28T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>125</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891757' start='2018-06-29T11:00:00Z' type='pl.rs'>
+            <awayTeam id='71934'>
+                <teamName>Genç Basketbolcular</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217185' start='2018-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974692' start='2018-07-03T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101938834' start='2018-07-05T16:35:00Z' type='friendly'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891760' start='2018-07-06T11:00:00Z' type='pl.rs'>
+            <awayTeam id='179324'>
+                <teamName>Nusikalstama grupuotė Varpelis</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102025192' start='2018-07-07T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102047521' start='2018-07-12T16:35:00Z' type='friendly'>
+            <awayTeam id='73917'>
+                <teamName>G++</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101891763' start='2018-07-13T11:00:00Z' type='pl.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>124</score>
+            </awayTeam>
+            <homeTeam id='162282'>
+                <teamName>The Łamags</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102070125' start='2018-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

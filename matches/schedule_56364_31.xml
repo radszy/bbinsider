@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='31' retrieved='2023-02-24T22:12:03Z'>
+        <match id='82282587' start='2015-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='164448'>
+                <teamName>AG Basket</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705744' start='2015-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705751' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82708256' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='163982'>
+                <teamName>UKS Bzura Łódź</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705758' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705769' start='2015-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85051280' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='165625'>
+                <teamName>Ekipa LeBrona</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705776' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705785' start='2015-05-19T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85082971' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='163241'>
+                <teamName>MWD Team</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705793' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705800' start='2015-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100886' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162877'>
+                <teamName>Nike Zgorzelec</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705807' start='2015-05-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705814' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111571' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='55531'>
+                <teamName>Basket Ultimate Pruszków</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705821' start='2015-06-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705828' start='2015-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119551' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='162770'>
+                <teamName>Pogoń Oleśnica</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705835' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126931' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029002083' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>174</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>172</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85133623' start='2015-06-18T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='89791'>
+                <teamName>Wat Cats</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705842' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705857' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85136669' start='2015-06-25T16:35:00Z' type='friendly'>
+            <awayTeam id='52726'>
+                <teamName>MyBBTeam</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705864' start='2015-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705871' start='2015-06-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85143688' start='2015-07-02T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163001'>
+                <teamName>Gortat Bydgoszcz</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705878' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705889' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85148255' start='2015-07-09T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162912'>
+                <teamName>WROCLAWSKIE BYKI</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705896' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705905' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85157940' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='196162'>
+                <teamName>Eaton Boomers</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705913' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85237156' start='2015-07-21T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85164093' start='2015-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163092'>
+                <teamName>Swollen Members</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85360780' start='2015-07-25T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85410124' start='2015-07-30T14:00:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='39296'>
+                <teamName>CSKA Moscow</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483108' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

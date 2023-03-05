@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163131' season='31' retrieved='2023-02-24T22:12:04Z'>
+        <match id='82283316' start='2015-04-30T16:30:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='118058'>
+                <teamName>...And-Justice-For-All</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705743' start='2015-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705751' start='2015-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82708409' start='2015-05-07T16:35:00Z' type='cup'>
+            <awayTeam id='55665'>
+                <teamName>FC WerKam Głogów</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705759' start='2015-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705767' start='2015-05-12T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85050962' start='2015-05-14T16:35:00Z' type='cup'>
+            <awayTeam id='162693'>
+                <teamName>AniołyDemony</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>147</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705775' start='2015-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705783' start='2015-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85082882' start='2015-05-21T16:35:00Z' type='cup'>
+            <awayTeam id='163650'>
+                <teamName>Stal Gorzów 1947</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705790' start='2015-05-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705795' start='2015-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85100982' start='2015-05-28T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='235131'>
+                <teamName>Inferno Byszewo</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705802' start='2015-05-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>142</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705817' start='2015-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85111680' start='2015-06-04T16:35:00Z' type='cup'>
+            <awayTeam id='164007'>
+                <teamName>Legion Lublin</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705824' start='2015-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>134</score>
+            </awayTeam>
+            <homeTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705831' start='2015-06-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85119569' start='2015-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='55833'>
+                <teamName>World Cup</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705838' start='2015-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85126989' start='2015-06-16T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide78</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1029002085' start='2015-06-17T16:35:00Z' type='unknown'>
+            <awayTeam id='2085'>
+                <teamName>Great 8</teamName>
+<score>153</score>
+            </awayTeam>
+            <homeTeam id='2085'>
+                <teamName>Big 8</teamName>
+<score>169</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85133547' start='2015-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705845' start='2015-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705852' start='2015-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85134571' start='2015-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>168</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705863' start='2015-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705871' start='2015-06-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85145413' start='2015-07-02T16:35:00Z' type='friendly'>
+            <awayTeam id='40448'>
+                <teamName>Compensar</teamName>
+<score>138</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705879' start='2015-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705887' start='2015-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85150380' start='2015-07-09T22:30:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='59624'>
+                <teamName>Caracas F.C</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705895' start='2015-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705903' start='2015-07-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>137</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85156920' start='2015-07-16T16:35:00Z' type='friendly'>
+            <awayTeam id='26647'>
+                <teamName>Pierce Posse</teamName>
+<score>155</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82705910' start='2015-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85166079' start='2015-07-23T18:00:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='76756'>
+                <teamName>barrufets</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85360777' start='2015-07-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85409354' start='2015-07-30T16:00:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='98379'>
+                <teamName>Davitelj</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='85483111' start='2015-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56332' season='34' retrieved='2023-02-24T22:12:23Z'>
+        <match id='89123993' start='2016-02-18T16:30:00Z' type='friendly'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='88887'>
+                <teamName>Tsouik</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769603' start='2016-02-19T13:00:00Z' type='pl.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='44967'>
+                <teamName>BC Balkan</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507832' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507840' start='2016-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508873' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='56280'>
+                <teamName>Polish Bulls</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769611' start='2016-02-26T13:00:00Z' type='pl.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='37133'>
+                <teamName>Highlands Warriors</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507848' start='2016-02-27T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507856' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90232463' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='166112'>
+                <teamName>TM Heat</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769619' start='2016-03-04T13:00:00Z' type='pl.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='80089'>
+                <teamName>Ramiro de Maéztu</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507864' start='2016-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507872' start='2016-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90246974' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='234282'>
+                <teamName>Evolve Boby Ksieze</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769627' start='2016-03-11T13:00:00Z' type='pl.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='71985'>
+                <teamName>sonay barkın</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507879' start='2016-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507888' start='2016-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256240' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='164355'>
+                <teamName>Niewinni Mielęcin</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769635' start='2016-03-18T13:00:00Z' type='pl.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='276592'>
+                <teamName>La Carotte Basket Union Club</teamName>
+<score>38</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507896' start='2016-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507904' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90263543' start='2016-03-24T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769643' start='2016-03-25T13:00:00Z' type='pl.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='71562'>
+                <teamName>TheSUNpower</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507912' start='2016-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507920' start='2016-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90270292' start='2016-03-31T16:35:00Z' type='cup'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162576'>
+                <teamName>Shark Włocławek</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769650' start='2016-04-01T13:00:00Z' type='pl.rs'>
+            <awayTeam id='48758'>
+                <teamName>Pall. Cantù</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507928' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90277140' start='2016-04-05T16:35:00Z' type='cup'>
+            <awayTeam id='164041'>
+                <teamName>Green Hill Eagles</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032010798' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='10798'>
+                <teamName>Great 8</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='10798'>
+                <teamName>Big 8</teamName>
+<score>151</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283316' start='2016-04-07T16:35:00Z' type='cup'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='56519'>
+                <teamName>Leszczymsy</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769656' start='2016-04-08T13:00:00Z' type='pl.rs'>
+            <awayTeam id='58966'>
+                <teamName>Zwölf</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507936' start='2016-04-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507944' start='2016-04-12T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283963' start='2016-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769662' start='2016-04-15T13:00:00Z' type='pl.rs'>
+            <awayTeam id='23376'>
+                <teamName>Michigan Blasters</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507952' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507960' start='2016-04-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90290960' start='2016-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='28378'>
+                <teamName>10inch Vertical</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769668' start='2016-04-22T13:00:00Z' type='pl.rs'>
+            <awayTeam id='47175'>
+                <teamName>Montesacro Warriors</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507968' start='2016-04-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507976' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90297957' start='2016-04-28T17:00:00Z' type='friendly'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='34323'>
+                <teamName>Saturn Preciosa</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769674' start='2016-04-29T13:00:00Z' type='pl.rs'>
+            <awayTeam id='50573'>
+                <teamName>Kendal 41ers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507984' start='2016-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507992' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90303543' start='2016-05-06T00:00:00Z' type='friendly'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='28944'>
+                <teamName>Bricktown Gobblers</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='87769680' start='2016-05-06T13:00:00Z' type='pl.rs'>
+            <awayTeam id='85282'>
+                <teamName>FRENCH KINGS</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507999' start='2016-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90343057' start='2016-05-10T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90310061' start='2016-05-12T16:35:00Z' type='friendly'>
+            <awayTeam id='28917'>
+                <teamName>Backcourt Violation</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90309143' start='2016-05-13T12:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='48758'>
+                <teamName>Pall. Cantù</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90393584' start='2016-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90411904' start='2016-05-19T22:00:00Z' type='friendly'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='24463'>
+                <teamName>Los Amigos de Scottie</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90411370' start='2016-05-20T12:00:00Z' type='pl.semifinal'>
+            <awayTeam id='50573'>
+                <teamName>Kendal 41ers</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445336' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

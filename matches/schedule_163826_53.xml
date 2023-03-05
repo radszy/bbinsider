@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163826' season='53' retrieved='2023-02-24T22:05:12Z'>
+        <match id='114471751' start='2021-03-25T16:35:00Z' type='friendly'>
+            <awayTeam id='47026'>
+                <teamName>principal</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285914' start='2021-03-26T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='56294'>
+                <teamName>Czarni Słupsk#</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830409' start='2021-03-27T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830416' start='2021-03-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114831344' start='2021-04-01T16:35:00Z' type='cup'>
+            <awayTeam id='162960'>
+                <teamName>Ninjas in Pyjamas Basketball</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285919' start='2021-04-02T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830423' start='2021-04-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830430' start='2021-04-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115482561' start='2021-04-08T16:35:00Z' type='cup'>
+            <awayTeam id='236635'>
+                <teamName>Anwil radom</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285924' start='2021-04-09T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='276247'>
+                <teamName>Asseco75 II</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830441' start='2021-04-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830448' start='2021-04-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115495953' start='2021-04-15T16:35:00Z' type='cup'>
+            <awayTeam id='56248'>
+                <teamName>Tygrysy i Prosiaczki</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285929' start='2021-04-16T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163290'>
+                <teamName>Green Basket Gdańsk</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830457' start='2021-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830465' start='2021-04-20T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115503337' start='2021-04-22T16:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='164258'>
+                <teamName>Teo91</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285933' start='2021-04-23T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165367'>
+                <teamName>Rush Them</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830472' start='2021-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830479' start='2021-04-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='164201'>
+                <teamName>B.C Beko Odeabank Gorzów Wlkp</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115508459' start='2021-04-29T16:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='162722'>
+                <teamName>Sosnowiec Miners</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285936' start='2021-04-30T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163216'>
+                <teamName>Czarno Czarni</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830486' start='2021-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830493' start='2021-05-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115513307' start='2021-05-06T16:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162385'>
+                <teamName>Goldbergs</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114285939' start='2021-05-07T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830500' start='2021-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115519013' start='2021-05-11T16:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55575'>
+                <teamName>FC Żywiec</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1051002121' start='2021-05-12T16:35:00Z' type='unknown'>
+            <awayTeam id='2121'>
+                <teamName>Big 8</teamName>
+<score>162</score>
+            </awayTeam>
+            <homeTeam id='2121'>
+                <teamName>Great 8</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115523814' start='2021-05-13T16:35:00Z' type='cup'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='165492'>
+                <teamName>OPS Milan</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115519424' start='2021-05-14T16:35:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='163290'>
+                <teamName>Green Basket Gdańsk</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830507' start='2021-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830514' start='2021-05-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115524387' start='2021-05-20T16:35:00Z' type='cup'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115524478' start='2021-05-21T16:35:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='276247'>
+                <teamName>Asseco75 II</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830529' start='2021-05-22T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830536' start='2021-05-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115529470' start='2021-05-27T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115529567' start='2021-05-28T16:35:00Z' type='pl.finalneutral'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830543' start='2021-05-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830550' start='2021-06-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115534220' start='2021-06-03T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163776'>
+                <teamName>Warsaw Predators</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830561' start='2021-06-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830568' start='2021-06-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115539249' start='2021-06-10T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='114830577' start='2021-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583862' start='2021-06-15T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115544698' start='2021-06-17T16:35:00Z' type='friendly'>
+            <awayTeam id='60125'>
+                <teamName>Staatliche Bauhaus</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115583863' start='2021-06-19T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>140</score>
+            </awayTeam>
+            <homeTeam id='163357'>
+                <teamName>Team Ostrów Wielkopolski</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115651171' start='2021-06-24T16:35:00Z' type='friendly'>
+            <awayTeam id='85450'>
+                <teamName>Les Blondins</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='115678676' start='2021-06-26T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

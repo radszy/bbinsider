@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56429' season='42' retrieved='2023-02-24T22:09:20Z'>
+        <match id='100858154' start='2018-04-12T15:55:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='47739'>
+                <teamName>Chicago Stags</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217016' start='2018-04-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217024' start='2018-04-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101218049' start='2018-04-19T16:35:00Z' type='cup'>
+            <awayTeam id='233615'>
+                <teamName>Angels Toruń</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217032' start='2018-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217040' start='2018-04-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101867982' start='2018-04-26T16:35:00Z' type='cup'>
+            <awayTeam id='163909'>
+                <teamName>KKS Lech Poznań SA</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217048' start='2018-04-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217056' start='2018-05-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101880894' start='2018-05-03T16:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56150'>
+                <teamName>Terrormachine</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217064' start='2018-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217068' start='2018-05-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101888386' start='2018-05-10T16:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56144'>
+                <teamName>SpursBrd</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217083' start='2018-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217090' start='2018-05-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>25</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101896037' start='2018-05-17T13:30:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='44277'>
+                <teamName>BC Magnat</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217097' start='2018-05-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217104' start='2018-05-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101903706' start='2018-05-24T14:00:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='166458'>
+                <teamName>Casuals_</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217111' start='2018-05-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1040002136' start='2018-05-30T16:35:00Z' type='unknown'>
+            <awayTeam id='2136'>
+                <teamName>Big 8</teamName>
+<score>188</score>
+            </awayTeam>
+            <homeTeam id='2136'>
+                <teamName>Great 8</teamName>
+<score>169</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101908482' start='2018-05-31T16:35:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='238983'>
+                <teamName>KOSZ@LIN 76ers</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217118' start='2018-06-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217125' start='2018-06-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101914940' start='2018-06-07T16:35:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165372'>
+                <teamName>Patisonki</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217136' start='2018-06-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217144' start='2018-06-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101919296' start='2018-06-14T15:55:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='37012'>
+                <teamName>Laricotta Basket Faella</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217152' start='2018-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217160' start='2018-06-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101925921' start='2018-06-21T17:30:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='27385'>
+                <teamName>Zaharak</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217168' start='2018-06-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217176' start='2018-06-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101931041' start='2018-06-28T14:30:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='122413'>
+                <teamName>BC Pärnu Kallur</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101217184' start='2018-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974699' start='2018-07-03T16:35:00Z' type='league.relegation'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101938667' start='2018-07-05T15:00:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='70449'>
+                <teamName>zamansızlar</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974700' start='2018-07-07T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='101974701' start='2018-07-10T16:35:00Z' type='league.relegation'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102097063' start='2018-07-12T16:35:00Z' type='friendly'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='164844'>
+                <teamName>Arash Szczecin</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102070128' start='2018-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

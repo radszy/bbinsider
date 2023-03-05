@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='165275' season='34' retrieved='2023-02-24T22:12:29Z'>
+        <match id='89123343' start='2016-02-18T18:30:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='35774'>
+                <teamName>Bouffay Fury</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507837' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507844' start='2016-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508104' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='165111'>
+                <teamName>Siatek Team</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507851' start='2016-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507862' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90231841' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='234851'>
+                <teamName>Ants Stawy Wielkie</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507869' start='2016-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507878' start='2016-03-08T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90247136' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='165050'>
+                <teamName>StrejmerTeam</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507886' start='2016-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507893' start='2016-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256268' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='162207'>
+                <teamName>PHOENIX STAROGARD</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507900' start='2016-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>57</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507907' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90263543' start='2016-03-24T16:35:00Z' type='cup'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507914' start='2016-03-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507921' start='2016-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90271483' start='2016-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='162503'>
+                <teamName>AZS Polibuda</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507928' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032002086' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='2086'>
+                <teamName>Great 8</teamName>
+<score>127</score>
+            </awayTeam>
+            <homeTeam id='2086'>
+                <teamName>Big 8</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90277941' start='2016-04-07T10:30:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='197494'>
+                <teamName>LK01</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507935' start='2016-04-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507950' start='2016-04-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90284700' start='2016-04-14T15:55:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='47492'>
+                <teamName>Redecesio Spurs</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507957' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507964' start='2016-04-19T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90291658' start='2016-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='162602'>
+                <teamName>Tekma Bydgoszcz</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507971' start='2016-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507982' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90300754' start='2016-04-28T16:35:00Z' type='friendly'>
+            <awayTeam id='52001'>
+                <teamName>Rácponty tejföllel</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507989' start='2016-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507998' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90304534' start='2016-05-05T16:35:00Z' type='friendly'>
+            <awayTeam id='86406'>
+                <teamName>Les Crapauds</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508006' start='2016-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90309808' start='2016-05-12T16:35:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>139</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90393587' start='2016-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90412097' start='2016-05-19T15:30:00Z' type='friendly'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='27581'>
+                <teamName>Kapital B.C.</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445342' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

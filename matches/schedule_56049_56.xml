@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56049' season='56' retrieved='2023-02-24T22:05:35Z'>
+        <match id='118280874' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='164938'>
+                <teamName>FaceToFace Team</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638638' start='2022-01-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638646' start='2022-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119279804' start='2022-01-19T14:30:00Z' type='bbm'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='44384'>
+                <teamName>Team 44384</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118639404' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='163619'>
+                <teamName>B.C Kamikadze Rybnik</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638654' start='2022-01-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638662' start='2022-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119289035' start='2022-01-26T17:35:00Z' type='bbm'>
+            <awayTeam id='38335'>
+                <teamName>Pleuntjes Balls</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119304999' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='231853'>
+                <teamName>String Music Kownaty</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638668' start='2022-01-29T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638677' start='2022-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119314053' start='2022-02-02T17:35:00Z' type='bbm'>
+            <awayTeam id='92315'>
+                <teamName>Stimpy Cult Minions</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325471' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='164679'>
+                <teamName>KS Bukowina</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638685' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638690' start='2022-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331289' start='2022-02-09T17:35:00Z' type='bbm'>
+            <awayTeam id='77905'>
+                <teamName>NoAguantoLaJuerga</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119340667' start='2022-02-10T17:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163460'>
+                <teamName>Owners WWA</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638697' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>149</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638704' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344917' start='2022-02-16T17:35:00Z' type='bbm'>
+            <awayTeam id='114268'>
+                <teamName>Slovenia Suns</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119353121' start='2022-02-17T17:35:00Z' type='cup'>
+            <awayTeam id='237711'>
+                <teamName>13Fears</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638719' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638726' start='2022-02-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357414' start='2022-02-23T17:35:00Z' type='bbm'>
+            <awayTeam id='197882'>
+                <teamName>Miss In Action</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119365106' start='2022-02-24T17:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638733' start='2022-02-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370003' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='34232'>
+                <teamName>DUNKsager</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054002135' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='2135'>
+                <teamName>Big 8</teamName>
+<score>154</score>
+            </awayTeam>
+            <homeTeam id='2135'>
+                <teamName>Great 8</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119381779' start='2022-03-03T17:35:00Z' type='friendly'>
+            <awayTeam id='55707'>
+                <teamName>Skrzydlate Świnie</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638740' start='2022-03-05T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638747' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119387775' start='2022-03-10T17:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162612'>
+                <teamName>Maranahar</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638758' start='2022-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638766' start='2022-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119393353' start='2022-03-17T16:35:00Z' type='friendly'>
+            <awayTeam id='163269'>
+                <teamName>Westsiders</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638774' start='2022-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638782' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119398739' start='2022-03-24T16:40:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='44734'>
+                <teamName>sajkokiler</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638788' start='2022-03-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638797' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119403262' start='2022-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='164281'>
+                <teamName>Basket Człuchów</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638805' start='2022-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443350' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119405361' start='2022-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='51354'>
+                <teamName>Black7ack 21</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119493032' start='2022-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119565450' start='2022-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='71736'>
+                <teamName>Fatih Solak Basketbol Okulu</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537478' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

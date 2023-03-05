@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163178' season='30' retrieved='2023-02-24T22:11:55Z'>
+        <match id='78987532' start='2015-01-22T19:00:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='75459'>
+                <teamName>L.A. LAKERS of Barna</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413824' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413831' start='2015-01-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79414078' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='165640'>
+                <teamName>Fourious Bull</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413842' start='2015-01-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413849' start='2015-02-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81758381' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='239106'>
+                <teamName>Names Wysocko Wielkie</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413858' start='2015-02-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413866' start='2015-02-10T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81791287' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='164986'>
+                <teamName>Finiks Sans</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413873' start='2015-02-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413880' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81809857' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='164210'>
+                <teamName>Ciamajdy</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413887' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413894' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81821004' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='162376'>
+                <teamName>maltaerzy</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413901' start='2015-02-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413908' start='2015-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829264' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='164126'>
+                <teamName>MadBall</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413915' start='2015-03-07T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836746' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='164448'>
+                <teamName>AG Basket</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028002154' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='2154'>
+                <teamName>Big 8</teamName>
+<score>149</score>
+            </awayTeam>
+            <homeTeam id='2154'>
+                <teamName>Great 8</teamName>
+<score>150</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81843584' start='2015-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163715'>
+                <teamName>Imatinib</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413930' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413937' start='2015-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81844644' start='2015-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='55379'>
+                <teamName>Warsaw Mutants</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413944' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413951' start='2015-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81851612' start='2015-03-26T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413962' start='2015-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413969' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>136</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81862561' start='2015-04-02T17:30:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='86949'>
+                <teamName>luluteam</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413978' start='2015-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413986' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81868267' start='2015-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='92233'>
+                <teamName>HaifaGreen</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413993' start='2015-04-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81948419' start='2015-04-14T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81881250' start='2015-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='92227'>
+                <teamName>Serpent Sword</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82073088' start='2015-04-18T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82122292' start='2015-04-23T23:00:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='276914'>
+                <teamName>LINSANITY0716 II</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196316' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

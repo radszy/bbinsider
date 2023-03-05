@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='233576' season='57' retrieved='2023-02-24T22:05:43Z'>
+        <match id='119566623' start='2022-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='28029'>
+                <teamName>Rebelsoul</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382670' start='2022-04-22T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924121' start='2022-04-23T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924128' start='2022-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120566203' start='2022-04-27T16:35:00Z' type='bbm'>
+            <awayTeam id='144351'>
+                <teamName>Campo Stars BC</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924664' start='2022-04-28T16:35:00Z' type='cup'>
+            <awayTeam id='56387'>
+                <teamName>Ząbkowski Kosz</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382677' start='2022-04-29T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924135' start='2022-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924142' start='2022-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120573893' start='2022-05-04T16:35:00Z' type='bbm'>
+            <awayTeam id='122337'>
+                <teamName>Pelgu Pallid</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120589769' start='2022-05-05T16:35:00Z' type='cup'>
+            <awayTeam id='165670'>
+                <teamName>Black Rose Nowa Ruska Wies</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382684' start='2022-05-06T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162926'>
+                <teamName>Anwil Broniszew</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924153' start='2022-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>0</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924160' start='2022-05-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120598535' start='2022-05-11T16:35:00Z' type='bbm'>
+            <awayTeam id='197693'>
+                <teamName>邁阿密熱火隊</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120609981' start='2022-05-12T16:35:00Z' type='cup'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55508'>
+                <teamName>Pelicans Area 51</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382691' start='2022-05-13T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924169' start='2022-05-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924177' start='2022-05-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120614947' start='2022-05-18T14:30:00Z' type='bbm'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='122180'>
+                <teamName>ottozviliz</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120624090' start='2022-05-19T16:35:00Z' type='cup'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55341'>
+                <teamName>Wysoki Ekipa</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382700' start='2022-05-20T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924184' start='2022-05-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924191' start='2022-05-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120628438' start='2022-05-25T16:35:00Z' type='bbm'>
+            <awayTeam id='27127'>
+                <teamName>Tamarillo Wings</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120636218' start='2022-05-26T16:35:00Z' type='cup'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='164481'>
+                <teamName>Slupsk 4liga</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382709' start='2022-05-27T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924198' start='2022-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56686'>
+                <teamName>TURBOMISIE</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924205' start='2022-05-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120640639' start='2022-06-01T10:00:00Z' type='bbm'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='187669'>
+                <teamName>铲屎达人</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120649509' start='2022-06-02T16:35:00Z' type='friendly'>
+            <awayTeam id='163920'>
+                <teamName>KS Ostrów Wlkp.</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382718' start='2022-06-03T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924212' start='2022-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1055002083' start='2022-06-08T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>137</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>146</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120653321' start='2022-06-08T21:00:00Z' type='bbm'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='115497'>
+                <teamName>Dimasioro.B.C</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120660800' start='2022-06-09T16:35:00Z' type='friendly'>
+            <awayTeam id='34768'>
+                <teamName>Magic-Birds</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119382727' start='2022-06-10T17:35:00Z' type='pl.rsneutral'>
+            <awayTeam id='166100'>
+                <teamName>Arcykoty Krzyków</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924219' start='2022-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924226' start='2022-06-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120666166' start='2022-06-16T16:35:00Z' type='friendly'>
+            <awayTeam id='55793'>
+                <teamName>Aligatorki</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924241' start='2022-06-18T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924248' start='2022-06-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120673192' start='2022-06-23T15:00:00Z' type='friendly'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='70746'>
+                <teamName>D.Doğuş</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924255' start='2022-06-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924262' start='2022-06-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120676876' start='2022-06-30T18:00:00Z' type='friendly'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='80236'>
+                <teamName>Cans de Palleiro</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681010' start='2022-07-01T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924273' start='2022-07-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924280' start='2022-07-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681271' start='2022-07-07T16:35:00Z' type='friendly'>
+            <awayTeam id='23593'>
+                <teamName>DC Wizards</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681012' start='2022-07-08T17:00:00Z' type='pl.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119924289' start='2022-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120725275' start='2022-07-12T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120686379' start='2022-07-14T16:35:00Z' type='friendly'>
+            <awayTeam id='276222'>
+                <teamName>Duncan City Admirals</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681013' start='2022-07-15T17:00:00Z' type='pl.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120775460' start='2022-07-16T16:35:00Z' type='league.semifinal'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120790534' start='2022-07-21T16:35:00Z' type='friendly'>
+            <awayTeam id='39580'>
+                <teamName>DELTA Saratov</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120681016' start='2022-07-22T17:00:00Z' type='pl.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='120820491' start='2022-07-23T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

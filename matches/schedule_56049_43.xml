@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56049' season='43' retrieved='2023-02-24T22:09:24Z'>
+        <match id='102102428' start='2018-07-19T16:35:00Z' type='friendly'>
+            <awayTeam id='47628'>
+                <teamName>Fortitudo S</teamName>
+<score>22</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147304' start='2018-07-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147315' start='2018-07-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147553' start='2018-07-26T16:35:00Z' type='cup'>
+            <awayTeam id='164012'>
+                <teamName>Regal FC Barcelona ESP</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>141</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147322' start='2018-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147329' start='2018-07-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103110033' start='2018-08-02T16:35:00Z' type='cup'>
+            <awayTeam id='232946'>
+                <teamName>Strike Force Chelmek</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147338' start='2018-08-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147346' start='2018-08-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103122475' start='2018-08-09T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='162729'>
+                <teamName>F.C Internazionale Milano</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147354' start='2018-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147364' start='2018-08-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103129919' start='2018-08-16T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='232285'>
+                <teamName>BasketMafia</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147372' start='2018-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147380' start='2018-08-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='163826'>
+                <teamName>CampoLeony</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103135674' start='2018-08-23T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163713'>
+                <teamName>WTK Włocławek</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147388' start='2018-08-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147396' start='2018-08-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162636'>
+                <teamName>Gornik Walbrzych KSG</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103140508' start='2018-08-30T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56379'>
+                <teamName>Boston Katowice</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147404' start='2018-09-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>KS Olimpia</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103145994' start='2018-09-04T16:35:00Z' type='cup'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1041002135' start='2018-09-05T16:35:00Z' type='unknown'>
+            <awayTeam id='2135'>
+                <teamName>Great 8</teamName>
+<score>200</score>
+            </awayTeam>
+            <homeTeam id='2135'>
+                <teamName>Big 8</teamName>
+<score>172</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103151354' start='2018-09-06T16:35:00Z' type='friendly'>
+            <awayTeam id='186370'>
+                <teamName>BigBird</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147412' start='2018-09-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147420' start='2018-09-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55469'>
+                <teamName>ROZTOCZAŃSKIE RYSIE</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103155231' start='2018-09-13T16:35:00Z' type='friendly'>
+            <awayTeam id='48395'>
+                <teamName>noanoa</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147424' start='2018-09-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147435' start='2018-09-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103158580' start='2018-09-20T16:35:00Z' type='friendly'>
+            <awayTeam id='178644'>
+                <teamName>Bc RYTAS</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147442' start='2018-09-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147449' start='2018-09-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103165496' start='2018-09-27T17:00:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='34351'>
+                <teamName>Team Bot</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147458' start='2018-09-29T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147466' start='2018-10-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103171847' start='2018-10-04T16:35:00Z' type='friendly'>
+            <awayTeam id='94732'>
+                <teamName>Viseu Devil Bats</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='102147474' start='2018-10-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212758' start='2018-10-09T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103247306' start='2018-10-11T16:35:00Z' type='friendly'>
+            <awayTeam id='99952'>
+                <teamName>Les Passantes</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212759' start='2018-10-13T16:35:00Z' type='league.relegation'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103212760' start='2018-10-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103334405' start='2018-10-18T16:40:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='160441'>
+                <teamName>Olympos Budapest</teamName>
+<score>36</score>
+            </homeTeam>
+        </match>
+    
+        <match id='103307116' start='2018-10-20T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

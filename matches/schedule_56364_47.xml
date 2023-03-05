@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56364' season='47' retrieved='2023-02-24T22:09:58Z'>
+        <match id='107048683' start='2019-08-15T11:00:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='59308'>
+                <teamName>Russia♥</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404073' start='2019-08-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404081' start='2019-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404332' start='2019-08-22T16:35:00Z' type='cup'>
+            <awayTeam id='56244'>
+                <teamName>KKS Sosnowiczanka</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404089' start='2019-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404097' start='2019-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108060190' start='2019-08-29T16:35:00Z' type='cup'>
+            <awayTeam id='238126'>
+                <teamName>Orange Boczkowice</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404105' start='2019-08-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404113' start='2019-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108073162' start='2019-09-05T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='166025'>
+                <teamName>Siarkowi</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404121' start='2019-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>17</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404125' start='2019-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108083978' start='2019-09-12T16:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='232285'>
+                <teamName>BasketMafia</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404140' start='2019-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404147' start='2019-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108087581' start='2019-09-19T16:40:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='160697'>
+                <teamName>Assaulters</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404154' start='2019-09-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404161' start='2019-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108092616' start='2019-09-26T16:35:00Z' type='friendly'>
+            <awayTeam id='36401'>
+                <teamName>Atletico Quanno Me Pare</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404168' start='2019-09-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1045002083' start='2019-10-02T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>185</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>192</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108099323' start='2019-10-03T18:00:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='134267'>
+                <teamName>Bàsquet Manresa SAE</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404175' start='2019-10-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404182' start='2019-10-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108106377' start='2019-10-10T15:30:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='45186'>
+                <teamName>Tetevenska slivova</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404193' start='2019-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404201' start='2019-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108111433' start='2019-10-17T16:35:00Z' type='friendly'>
+            <awayTeam id='277100'>
+                <teamName>Las Vegas Slammers</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404209' start='2019-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404217' start='2019-10-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108114008' start='2019-10-24T14:30:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='95632'>
+                <teamName>Talentų kalvė</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404225' start='2019-10-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404233' start='2019-10-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108120073' start='2019-10-31T16:35:00Z' type='friendly'>
+            <awayTeam id='99092'>
+                <teamName>MilanCrashers</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404241' start='2019-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108163816' start='2019-11-05T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108123906' start='2019-11-07T18:30:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='87060'>
+                <teamName>Claret Basket</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108213287' start='2019-11-09T17:35:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108228052' start='2019-11-14T17:40:00Z' type='friendly'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='49386'>
+                <teamName>MSA Steelers</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108257743' start='2019-11-16T17:35:00Z' type='friendly'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162788' season='59' retrieved='2023-02-24T22:05:56Z'>
+        <match id='122132849' start='2022-11-03T16:35:00Z' type='friendly'>
+            <awayTeam id='28746'>
+                <teamName>Stark Contrast</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491071' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491078' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132093' start='2022-11-09T17:35:00Z' type='bbb'>
+            <awayTeam id='58866'>
+                <teamName>Hupipalloilijat</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491584' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='237108'>
+                <teamName>Warszawa Thunder</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139940' start='2022-11-11T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491089' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491096' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140483' start='2022-11-16T17:35:00Z' type='bbb'>
+            <awayTeam id='185824'>
+                <teamName>Spitfire Snipers</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123156430' start='2022-11-17T17:35:00Z' type='cup'>
+            <awayTeam id='56544'>
+                <teamName>Candy Rockets</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139947' start='2022-11-18T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491105' start='2022-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491113' start='2022-11-22T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165314' start='2022-11-23T17:35:00Z' type='bbb'>
+            <awayTeam id='42729'>
+                <teamName>KK Mordor</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123177323' start='2022-11-24T17:35:00Z' type='cup'>
+            <awayTeam id='162622'>
+                <teamName>Jebanito</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139954' start='2022-11-25T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='210825'>
+                <teamName>Tunjevina</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491120' start='2022-11-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491127' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123181993' start='2022-11-30T16:55:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='46473'>
+                <teamName>Proggetto Calamai by Marco Calamai</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123191493' start='2022-12-01T17:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162833'>
+                <teamName>sks starogard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139961' start='2022-12-02T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='187068'>
+                <teamName>旭日冲天</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491134' start='2022-12-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491141' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195532' start='2022-12-07T18:30:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='87264'>
+                <teamName>Nancy Basket Albatros</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123203794' start='2022-12-08T17:35:00Z' type='cup'>
+            <awayTeam id='55942'>
+                <teamName>SK Wisła Płock SA</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139968' start='2022-12-09T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='119093'>
+                <teamName>KK.Play-Off</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491148' start='2022-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491155' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208366' start='2022-12-14T17:35:00Z' type='bbb'>
+            <awayTeam id='56774'>
+                <teamName>Shahin.Boushehr</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123217104' start='2022-12-15T17:35:00Z' type='friendly'>
+            <awayTeam id='31669'>
+                <teamName>Dark Matter</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139974' start='2022-12-16T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='92369'>
+                <teamName>Jerusalem TET</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491162' start='2022-12-17T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220699' start='2022-12-21T17:35:00Z' type='bbb'>
+            <awayTeam id='30713'>
+                <teamName>The LA Lions</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123229966' start='2022-12-22T17:35:00Z' type='friendly'>
+            <awayTeam id='196895'>
+                <teamName>Bayside Pacers</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139979' start='2022-12-23T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='105392'>
+                <teamName>The Defenders</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491177' start='2022-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491184' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>15</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233372' start='2022-12-28T23:30:00Z' type='bbb.neutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='107908'>
+                <teamName>Infested Warriors</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123235128' start='2022-12-29T17:35:00Z' type='friendly'>
+            <awayTeam id='37776'>
+                <teamName>besikduzu e.s.</teamName>
+<score>144</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139984' start='2022-12-30T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='34336'>
+                <teamName>Olympic rebels</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491191' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491198' start='2023-01-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123238795' start='2023-01-04T17:40:00Z' type='bbb.neutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='119093'>
+                <teamName>KK.Play-Off</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123240305' start='2023-01-05T15:30:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='39817'>
+                <teamName>Ursa Major</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139989' start='2023-01-06T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='92390'>
+                <teamName>Ramat-Gan Billers</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491209' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491216' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>44</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123246203' start='2023-01-13T01:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='31055'>
+                <teamName>Team JHop</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139994' start='2023-01-13T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='58449'>
+                <teamName>Confusing Pigs</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491225' start='2023-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491233' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123251657' start='2023-01-19T16:55:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='46449'>
+                <teamName>RomaCapoccia</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123139999' start='2023-01-20T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491240' start='2023-01-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295554' start='2023-01-24T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123256481' start='2023-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='75735'>
+                <teamName>Folgueroles Sonics</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123345886' start='2023-01-28T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390947' start='2023-01-31T17:35:00Z' type='league.final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123360623' start='2023-02-02T17:35:00Z' type='friendly'>
+            <awayTeam id='70747'>
+                <teamName>AdmirAls#54</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123369740' start='2023-02-03T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='119093'>
+                <teamName>KK.Play-Off</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390948' start='2023-02-04T17:35:00Z' type='league.final'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

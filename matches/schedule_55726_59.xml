@@ -1,0 +1,698 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55726' season='59' retrieved='2023-02-24T22:05:54Z'>
+        <match id='122132628' start='2022-11-03T19:00:00Z' type='friendly'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='208563'>
+                <teamName>Thioffy BC</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959344' start='2022-11-04T17:00:00Z' type='pl.rs'>
+            <awayTeam id='29088'>
+                <teamName>Harbor City Storm</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491068' start='2022-11-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491076' start='2022-11-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123132378' start='2022-11-09T17:35:00Z' type='bbm'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491255' start='2022-11-10T17:35:00Z' type='cup'>
+            <awayTeam id='164797'>
+                <teamName>Sztolnia Szczecin</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959353' start='2022-11-11T17:00:00Z' type='pl.rs'>
+            <awayTeam id='93878'>
+                <teamName>Ovar 76ers</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491084' start='2022-11-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491092' start='2022-11-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123140665' start='2022-11-16T16:30:00Z' type='bbm'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='142770'>
+                <teamName>Valencia Basket Club (Taronjas)</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123156435' start='2022-11-17T17:35:00Z' type='cup'>
+            <awayTeam id='55998'>
+                <teamName>GONZAGA PREDATORS</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959362' start='2022-11-18T17:00:00Z' type='pl.rs'>
+            <awayTeam id='194217'>
+                <teamName>Lil Yaboo</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491098' start='2022-11-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491107' start='2022-11-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123165608' start='2022-11-23T17:35:00Z' type='bbm'>
+            <awayTeam id='50717'>
+                <teamName>Spirit Of Java</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123177320' start='2022-11-24T17:35:00Z' type='cup'>
+            <awayTeam id='164448'>
+                <teamName>AG Basket</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959371' start='2022-11-25T17:00:00Z' type='pl.rs'>
+            <awayTeam id='26714'>
+                <teamName>Wellington BK</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491115' start='2022-11-26T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491124' start='2022-11-29T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123182266' start='2022-11-30T17:35:00Z' type='bbm'>
+            <awayTeam id='276386'>
+                <teamName>Team Infinity Jr.</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123191288' start='2022-12-01T17:35:00Z' type='cup'>
+            <awayTeam id='165833'>
+                <teamName>Wild Pandas</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959380' start='2022-12-02T17:00:00Z' type='pl.rs'>
+            <awayTeam id='105422'>
+                <teamName>BV Pistons</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491132' start='2022-12-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491140' start='2022-12-06T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123195805' start='2022-12-07T17:35:00Z' type='bbm'>
+            <awayTeam id='34563'>
+                <teamName>Sin-City</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123203770' start='2022-12-08T17:35:00Z' type='cup'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='165026'>
+                <teamName>Bulgoty</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959388' start='2022-12-09T17:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='94389'>
+                <teamName>Vitoria Deluxe</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491148' start='2022-12-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491156' start='2022-12-13T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123208530' start='2022-12-14T16:30:00Z' type='bbm'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='89572'>
+                <teamName>ΔΙΩΚΕ ΔΟΞΑΝ ΚΑΙ ΑΡΕΤΗΝ</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123216005' start='2022-12-15T17:35:00Z' type='cup'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='164162'>
+                <teamName>Paseo Team Poland</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959395' start='2022-12-16T17:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='24511'>
+                <teamName>Aurux Wolf</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491164' start='2022-12-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123228143' start='2022-12-20T17:35:00Z' type='cup'>
+            <awayTeam id='55639'>
+                <teamName>76ers Wrocław</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>132</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1057002083' start='2022-12-21T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123220979' start='2022-12-21T17:35:00Z' type='bbm'>
+            <awayTeam id='105883'>
+                <teamName>Buricul Pământului</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123232891' start='2022-12-22T17:35:00Z' type='cup'>
+            <awayTeam id='163779'>
+                <teamName>DUDKI Ladna Tarnów</teamName>
+<score>51</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959402' start='2022-12-23T17:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='71606'>
+                <teamName>galatasaray suns</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491172' start='2022-12-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>120</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491180' start='2022-12-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165240'>
+                <teamName>Clippers Wrocław</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233398' start='2022-12-28T11:30:00Z' type='unknown'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='197966'>
+                <teamName>bigshoes</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123233893' start='2022-12-29T17:35:00Z' type='cup'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959409' start='2022-12-30T17:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='52480'>
+                <teamName>The Black Ice</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491188' start='2022-12-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491196' start='2023-01-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123238808' start='2023-01-04T17:35:00Z' type='unknown'>
+            <awayTeam id='26181'>
+                <teamName>Buchloe 75ers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123239055' start='2023-01-05T17:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959416' start='2023-01-06T17:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='76884'>
+                <teamName>Ktulu</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491204' start='2023-01-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='55690'>
+                <teamName>Hegemonia Białystok</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491212' start='2023-01-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123246238' start='2023-01-12T16:55:00Z' type='friendly'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='45401'>
+                <teamName>Timberpups</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='121959423' start='2023-01-13T17:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='65129'>
+                <teamName>Buffalo Braves</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491218' start='2023-01-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='165272'>
+                <teamName>Night City Renegades</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491227' start='2023-01-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123253060' start='2023-01-19T17:35:00Z' type='friendly'>
+            <awayTeam id='60398'>
+                <teamName>los ranfañosos</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123250593' start='2023-01-20T18:00:00Z' type='pl.quarterfinal'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='26714'>
+                <teamName>Wellington BK</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='122491235' start='2023-01-21T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295556' start='2023-01-24T17:35:00Z' type='league.relegation'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123256273' start='2023-01-26T17:35:00Z' type='friendly'>
+            <awayTeam id='38003'>
+                <teamName>Coldogs</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123295557' start='2023-01-28T17:35:00Z' type='league.relegation'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123369604' start='2023-02-02T17:35:00Z' type='friendly'>
+            <awayTeam id='277309'>
+                <teamName>LA Angels C</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123419700' start='2023-02-03T18:00:00Z' type='pl.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='47391'>
+                <teamName>Virtus Portici</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='123390943' start='2023-02-04T17:35:00Z' type='friendly'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='165366'>
+                <teamName>Górnik 1946 Wałbrzych</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

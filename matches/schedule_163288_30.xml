@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163288' season='30' retrieved='2023-02-24T22:11:54Z'>
+        <match id='78991401' start='2015-01-22T17:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55411'>
+                <teamName>MC Groovers</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265064' start='2015-01-23T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413820' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>JC ABSOLUT</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413827' start='2015-01-27T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79416042' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='163076'>
+                <teamName>Wincentow</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265067' start='2015-01-30T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413838' start='2015-01-31T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413845' start='2015-02-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>141</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>28</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81757322' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162328'>
+                <teamName>Bursztyn Kalisz</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265070' start='2015-02-06T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='89926'>
+                <teamName>the mumu boys</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413854' start='2015-02-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413862' start='2015-02-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>18</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81791744' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>128</score>
+            </awayTeam>
+            <homeTeam id='166009'>
+                <teamName>ROW Rybnik</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265075' start='2015-02-13T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='25435'>
+                <teamName>粘豆包</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413869' start='2015-02-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413880' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81810001' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='166119'>
+                <teamName>Spurs Iwanowo</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265080' start='2015-02-20T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413888' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413896' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81821121' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='165613'>
+                <teamName>WJ Ballers</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265085' start='2015-02-27T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413904' start='2015-02-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413912' start='2015-03-03T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829303' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='56294'>
+                <teamName>energa słupsk</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79265089' start='2015-03-06T13:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='146725'>
+                <teamName>I Love Tehran</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413920' start='2015-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836749' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56295'>
+                <teamName>La chubacarba</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028002084' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='2084'>
+                <teamName>Big 8</teamName>
+<score>158</score>
+            </awayTeam>
+            <homeTeam id='2084'>
+                <teamName>Great 8</teamName>
+<score>156</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81843573' start='2015-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164171'>
+                <teamName>Zajeboza Sanok</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413928' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413936' start='2015-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>131</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81844642' start='2015-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='163033'>
+                <teamName>Smokin` Team</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413940' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413947' start='2015-03-24T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81851612' start='2015-03-26T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413958' start='2015-03-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413965' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>152</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81858801' start='2015-04-02T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81860377' start='2015-04-03T12:00:00Z' type='pl.quarterfinalneutral'>
+            <awayTeam id='59095'>
+                <teamName>Taikasuon Tattivatit</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413974' start='2015-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413982' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81870808' start='2015-04-09T15:55:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='48689'>
+                <teamName>CaOssiBk</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81866332' start='2015-04-10T12:00:00Z' type='pl.semifinalneutral'>
+            <awayTeam id='172771'>
+                <teamName>Bc Kaaos</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413989' start='2015-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81880932' start='2015-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='164790'>
+                <teamName>BC STANLEY</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82073086' start='2015-04-18T16:35:00Z' type='friendly'>
+            <awayTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82276807' start='2015-04-23T18:00:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='43651'>
+                <teamName>fc-bayou</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196321' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

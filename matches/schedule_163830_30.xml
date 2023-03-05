@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163830' season='30' retrieved='2023-02-24T22:11:54Z'>
+        <match id='78988557' start='2015-01-22T19:00:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>JC ABSOLUT</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='176003'>
+                <teamName>SMOKI WAWELSKIE</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='78986925' start='2015-01-23T18:00:00Z' type='pl.semifinal'>
+            <awayTeam id='163830'>
+                <teamName>JC ABSOLUT</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='160139'>
+                <teamName>Jessze Team</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413820' start='2015-01-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>JC ABSOLUT</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413828' start='2015-01-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79414159' start='2015-01-29T17:35:00Z' type='cup'>
+            <awayTeam id='231528'>
+                <teamName>Reds Bartki</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735908' start='2015-01-30T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='97838'>
+                <teamName>Samobor-1242</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413836' start='2015-01-31T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413844' start='2015-02-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81757884' start='2015-02-05T17:35:00Z' type='cup'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='234657'>
+                <teamName>Passers Bagny</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735914' start='2015-02-06T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='49790'>
+                <teamName>Høsten BK</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413852' start='2015-02-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413860' start='2015-02-10T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81792002' start='2015-02-12T17:35:00Z' type='cup'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='238260'>
+                <teamName>Ballistics Bryly</teamName>
+<score>37</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735920' start='2015-02-13T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='175920'>
+                <teamName>IMERETI</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413867' start='2015-02-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413876' start='2015-02-17T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>131</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81810043' start='2015-02-19T17:35:00Z' type='cup'>
+            <awayTeam id='55831'>
+                <teamName>Olimpia Grudziądz</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735926' start='2015-02-20T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='173540'>
+                <teamName>Malmö Highflyers</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413884' start='2015-02-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413892' start='2015-02-24T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81821089' start='2015-02-26T17:35:00Z' type='cup'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162773'>
+                <teamName>Olimpia Legnica</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735931' start='2015-02-27T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='42205'>
+                <teamName>Rhyfälde Lakers</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413900' start='2015-02-28T17:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>39</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413908' start='2015-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='163178'>
+                <teamName>Bizony z NYSY</teamName>
+<score>127</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81829337' start='2015-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='56053'>
+                <teamName>chicago bulss</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735935' start='2015-03-06T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='40395'>
+                <teamName>Leones del Cinaruco</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413916' start='2015-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81836734' start='2015-03-10T16:35:00Z' type='cup'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1028010621' start='2015-03-11T16:35:00Z' type='unknown'>
+            <awayTeam id='10621'>
+                <teamName>Great 8</teamName>
+<score>156</score>
+            </awayTeam>
+            <homeTeam id='10621'>
+                <teamName>Big 8</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81843389' start='2015-03-12T16:35:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='165694'>
+                <teamName>RKK Pyszczyn</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735939' start='2015-03-13T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='53423'>
+                <teamName>Northern Kyushu Ramen Kings</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413924' start='2015-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='56382'>
+                <teamName>Wolves of Calla</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413932' start='2015-03-17T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81847862' start='2015-03-19T16:35:00Z' type='friendly'>
+            <awayTeam id='39955'>
+                <teamName>Raptors Valpo</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735943' start='2015-03-20T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='41703'>
+                <teamName>Lightning Ravens</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413940' start='2015-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413948' start='2015-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>64</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81855576' start='2015-03-26T16:35:00Z' type='friendly'>
+            <awayTeam id='162651'>
+                <teamName>Inwalidzi</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81735947' start='2015-03-27T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='90062'>
+                <teamName>Providence Steamrollers</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413956' start='2015-03-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413964' start='2015-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81861339' start='2015-04-02T17:30:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='207755'>
+                <teamName>BU Gaiters</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413972' start='2015-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56232'>
+                <teamName>KS Spójnia Stargard Szcz.</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413980' start='2015-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81869744' start='2015-04-09T15:00:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='25767'>
+                <teamName>Çaylaklar</teamName>
+<score>47</score>
+            </homeTeam>
+        </match>
+    
+        <match id='79413987' start='2015-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81948423' start='2015-04-14T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81874489' start='2015-04-16T15:00:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='51910'>
+                <teamName>king of monoi</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81948424' start='2015-04-18T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='81948425' start='2015-04-21T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82132037' start='2015-04-23T16:35:00Z' type='friendly'>
+            <awayTeam id='53593'>
+                <teamName>Guma Terror</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='82196320' start='2015-04-25T16:35:00Z' type='friendly'>
+            <awayTeam id='163830'>
+                <teamName>Parowozy Jarocin</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

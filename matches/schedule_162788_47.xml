@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162788' season='47' retrieved='2023-02-24T22:09:57Z'>
+        <match id='107048084' start='2019-08-15T14:30:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='51781'>
+                <teamName>Kanjons</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106878047' start='2019-08-16T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='47670'>
+                <teamName>ASD Imberido</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404075' start='2019-08-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404083' start='2019-08-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108050832' start='2019-08-21T16:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='210776'>
+                <teamName>П и в о п и ј е</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404563' start='2019-08-22T16:35:00Z' type='cup'>
+            <awayTeam id='163239'>
+                <teamName>Coffee_House</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106878050' start='2019-08-23T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>138</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404091' start='2019-08-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404099' start='2019-08-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>129</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108050888' start='2019-08-28T16:35:00Z' type='bbb'>
+            <awayTeam id='118383'>
+                <teamName>MARITIMO Herceg Novi</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108060938' start='2019-08-29T16:35:00Z' type='cup'>
+            <awayTeam id='55632'>
+                <teamName>Rolling Joints</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106878053' start='2019-08-30T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404105' start='2019-08-31T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404114' start='2019-09-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108050918' start='2019-09-04T16:35:00Z' type='bbb'>
+            <awayTeam id='26398'>
+                <teamName>Superhelden</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108073318' start='2019-09-05T16:35:00Z' type='cup'>
+            <awayTeam id='163602'>
+                <teamName>Pasibrzuchy</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108076844' start='2019-09-06T18:00:00Z' type='pl.finalneutral'>
+            <awayTeam id='114656'>
+                <teamName>docholidaj</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404122' start='2019-09-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404127' start='2019-09-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108050998' start='2019-09-11T16:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='276282'>
+                <teamName>C H I K I T A</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108080077' start='2019-09-12T16:35:00Z' type='cup'>
+            <awayTeam id='162226'>
+                <teamName>Victoria Koszalin</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082912' start='2019-09-13T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404134' start='2019-09-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404141' start='2019-09-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108051062' start='2019-09-18T22:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='59940'>
+                <teamName>ny knicks</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108086121' start='2019-09-19T16:35:00Z' type='cup'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='165025'>
+                <teamName>Korona Puck</teamName>
+<score>55</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082915' start='2019-09-20T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='37519'>
+                <teamName>Vottem Cowboys</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404156' start='2019-09-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404163' start='2019-09-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108051118' start='2019-09-25T16:35:00Z' type='bbb'>
+            <awayTeam id='174720'>
+                <teamName>Inventores B.C.</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108091492' start='2019-09-26T16:35:00Z' type='cup'>
+            <awayTeam id='163220'>
+                <teamName>BlueJays Bydgoszcz</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082918' start='2019-09-27T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404170' start='2019-09-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1045002083' start='2019-10-02T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>185</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>192</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108051189' start='2019-10-02T21:00:00Z' type='bbb'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>144</score>
+            </awayTeam>
+            <homeTeam id='65425'>
+                <teamName>Wimblends</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108097723' start='2019-10-03T15:30:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='58248'>
+                <teamName>Dream Catchers</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082921' start='2019-10-04T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='59940'>
+                <teamName>ny knicks</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404177' start='2019-10-05T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>27</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404184' start='2019-10-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108051245' start='2019-10-09T16:35:00Z' type='bbb'>
+            <awayTeam id='70135'>
+                <teamName>怜子清如许；执子手不渝</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108103599' start='2019-10-10T16:35:00Z' type='friendly'>
+            <awayTeam id='51598'>
+                <teamName>Beaver Kings</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082926' start='2019-10-11T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='38316'>
+                <teamName>South Dragons</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404195' start='2019-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404203' start='2019-10-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108107276' start='2019-10-16T16:35:00Z' type='bbb.neutral'>
+            <awayTeam id='59154'>
+                <teamName>科科園區</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108108976' start='2019-10-17T16:35:00Z' type='friendly'>
+            <awayTeam id='35847'>
+                <teamName>CSPbonat</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>41</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082931' start='2019-10-18T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='114656'>
+                <teamName>docholidaj</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404211' start='2019-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404219' start='2019-10-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108113024' start='2019-10-23T10:00:00Z' type='bbb.neutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='70135'>
+                <teamName>怜子清如许；执子手不渝</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108114440' start='2019-10-24T15:30:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>13</score>
+            </awayTeam>
+            <homeTeam id='145137'>
+                <teamName>StoVrodo_Raptors</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108082936' start='2019-10-25T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='47670'>
+                <teamName>ASD Imberido</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404225' start='2019-10-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404234' start='2019-10-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108118124' start='2019-10-31T00:00:00Z' type='bbb.neutral'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='23706'>
+                <teamName>BigShots</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108119052' start='2019-11-01T00:00:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='31042'>
+                <teamName>Arcadia Bay Otters</teamName>
+<score>129</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107404242' start='2019-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163454'>
+                <teamName>BASKET LECH POZNAŃ</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108163815' start='2019-11-05T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108125767' start='2019-11-06T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='134997'>
+                <teamName>Folgado Lakers</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108124312' start='2019-11-07T17:35:00Z' type='friendly'>
+            <awayTeam id='87158'>
+                <teamName>FC Zibou</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108198577' start='2019-11-08T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108213291' start='2019-11-09T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108257750' start='2019-11-12T17:35:00Z' type='league.final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108226674' start='2019-11-13T17:35:00Z' type='bbb.neutral'>
+            <awayTeam id='172496'>
+                <teamName>RakBa</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108227495' start='2019-11-14T15:30:00Z' type='friendly'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='122749'>
+                <teamName>banaan</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108198582' start='2019-11-15T18:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='59940'>
+                <teamName>ny knicks</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='108257751' start='2019-11-16T17:35:00Z' type='league.final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

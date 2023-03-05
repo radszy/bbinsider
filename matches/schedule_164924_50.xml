@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164924' season='50' retrieved='2023-02-24T22:04:45Z'>
+        <match id='110760456' start='2020-06-04T16:35:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163935'>
+                <teamName>Straszewo team</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118578' start='2020-06-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118585' start='2020-06-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111119566' start='2020-06-11T16:35:00Z' type='cup'>
+            <awayTeam id='163480'>
+                <teamName>Basket Września</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118596' start='2020-06-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118603' start='2020-06-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111768657' start='2020-06-18T16:35:00Z' type='cup'>
+            <awayTeam id='165623'>
+                <teamName>mih team</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118612' start='2020-06-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118620' start='2020-06-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111782004' start='2020-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='56230'>
+                <teamName>Gdzie Jest Szczepan</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118627' start='2020-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118638' start='2020-06-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>122</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>31</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111789377' start='2020-07-02T16:35:00Z' type='cup'>
+            <awayTeam id='55806'>
+                <teamName>miciowate</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118646' start='2020-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118654' start='2020-07-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111794735' start='2020-07-09T16:35:00Z' type='cup'>
+            <awayTeam id='55594'>
+                <teamName>Cuk Toruń</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118662' start='2020-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118670' start='2020-07-14T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111800025' start='2020-07-16T16:35:00Z' type='cup'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>50</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118678' start='2020-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163393'>
+                <teamName>Borsuki Osw</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111805285' start='2020-07-21T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='55703'>
+                <teamName>The Freitags</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1048010707' start='2020-07-22T16:35:00Z' type='unknown'>
+            <awayTeam id='10707'>
+                <teamName>Big 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='10707'>
+                <teamName>Great 8</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111810057' start='2020-07-23T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162729'>
+                <teamName>F.C Internazionale Milano</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118686' start='2020-07-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='163885'>
+                <teamName>Orzeł Cesarski Poznań</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118694' start='2020-07-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111810636' start='2020-07-30T16:35:00Z' type='cup'>
+            <awayTeam id='163219'>
+                <teamName>R.K.S. GIGANCIK</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118698' start='2020-08-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118705' start='2020-08-04T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111816195' start='2020-08-06T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118716' start='2020-08-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>133</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118723' start='2020-08-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111823284' start='2020-08-13T16:35:00Z' type='friendly'>
+            <awayTeam id='85427'>
+                <teamName>preachers</teamName>
+<score>52</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118732' start='2020-08-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118740' start='2020-08-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111828544' start='2020-08-20T17:00:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='276287'>
+                <teamName>Bc Maskoliūnas</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111118747' start='2020-08-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111871635' start='2020-08-25T16:35:00Z' type='league.relegation'>
+            <awayTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111905607' start='2020-08-27T18:00:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='77086'>
+                <teamName>Miranda Wildboars</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111871636' start='2020-08-29T16:35:00Z' type='league.relegation'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111945208' start='2020-09-03T16:35:00Z' type='friendly'>
+            <awayTeam id='276117'>
+                <teamName>TNT 🧨</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='111966796' start='2020-09-05T16:35:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='55376'>
+                <teamName>Provide.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

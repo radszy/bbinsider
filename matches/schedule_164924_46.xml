@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='164924' season='46' retrieved='2023-02-24T22:09:51Z'>
+        <match id='105814428' start='2019-05-09T17:00:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='34309'>
+                <teamName>Hertha BC</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171205' start='2019-05-11T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171213' start='2019-05-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>61</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106172016' start='2019-05-16T16:35:00Z' type='cup'>
+            <awayTeam id='163156'>
+                <teamName>Kalafusta</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171221' start='2019-05-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163406'>
+                <teamName>PGE Dębe</teamName>
+<score>20</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171229' start='2019-05-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106822182' start='2019-05-23T16:35:00Z' type='cup'>
+            <awayTeam id='165337'>
+                <teamName>Myslenice Rosomaki</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171235' start='2019-05-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171242' start='2019-05-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>35</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106835071' start='2019-05-30T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='164814'>
+                <teamName>UCLA Renegades</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171251' start='2019-06-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>35</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171257' start='2019-06-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='164210'>
+                <teamName>Ciamajdy</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106842253' start='2019-06-06T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='162667'>
+                <teamName>CZARNUCHY SŁUPSK</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171264' start='2019-06-08T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171271' start='2019-06-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>63</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106847716' start='2019-06-13T16:35:00Z' type='cup'>
+            <awayTeam id='162658'>
+                <teamName>Stowarzyszenie Miłośników Koszykówki Lubin</teamName>
+<score>49</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171278' start='2019-06-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>60</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171293' start='2019-06-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106853061' start='2019-06-20T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163508'>
+                <teamName>Dike BBC</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171300' start='2019-06-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>44</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106858438' start='2019-06-25T16:35:00Z' type='cup'>
+            <awayTeam id='162738'>
+                <teamName>//Los Angeles Lakres//</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1044010707' start='2019-06-26T16:35:00Z' type='unknown'>
+            <awayTeam id='10707'>
+                <teamName>Great 8</teamName>
+<score>148</score>
+            </awayTeam>
+            <homeTeam id='10707'>
+                <teamName>Big 8</teamName>
+<score>143</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106863223' start='2019-06-27T16:35:00Z' type='cup'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171307' start='2019-06-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>62</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171314' start='2019-07-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106863772' start='2019-07-04T16:35:00Z' type='cup'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171325' start='2019-07-06T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171333' start='2019-07-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106868884' start='2019-07-11T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171341' start='2019-07-13T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>142</score>
+            </awayTeam>
+            <homeTeam id='163406'>
+                <teamName>PGE Dębe</teamName>
+<score>34</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171349' start='2019-07-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106878023' start='2019-07-19T00:00:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>123</score>
+            </awayTeam>
+            <homeTeam id='22846'>
+                <teamName>Bad News Good Boyz</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171355' start='2019-07-20T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171362' start='2019-07-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>133</score>
+            </awayTeam>
+            <homeTeam id='162479'>
+                <teamName>Dominatorzy</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106879842' start='2019-07-25T16:35:00Z' type='friendly'>
+            <awayTeam id='77480'>
+                <teamName>Classic Spain</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106171371' start='2019-07-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106924317' start='2019-07-30T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106895322' start='2019-08-01T16:35:00Z' type='friendly'>
+            <awayTeam id='90806'>
+                <teamName>Team Nook</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106974248' start='2019-08-03T16:35:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='106988884' start='2019-08-08T18:00:00Z' type='friendly'>
+            <awayTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='276932'>
+                <teamName>Hibernian</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='107018815' start='2019-08-10T16:35:00Z' type='friendly'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

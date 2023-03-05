@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162456' season='55' retrieved='2023-02-24T22:05:22Z'>
+        <match id='116999005' start='2021-10-07T16:35:00Z' type='friendly'>
+            <awayTeam id='44633'>
+                <teamName>Team Rocket</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822705' start='2021-10-08T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='76557'>
+                <teamName>Las Palmeras C.B.</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356875' start='2021-10-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>77</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356883' start='2021-10-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117998575' start='2021-10-13T18:00:00Z' type='bbm'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='138007'>
+                <teamName>Charlotte CB</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357413' start='2021-10-14T16:35:00Z' type='cup'>
+            <awayTeam id='164474'>
+                <teamName>Miami Basket Łachacz</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822711' start='2021-10-15T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='25400'>
+                <teamName>快马巨鞭</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356891' start='2021-10-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356899' start='2021-10-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118006720' start='2021-10-20T14:00:00Z' type='bbm'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='166443'>
+                <teamName>yuristy</teamName>
+<score>67</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118022068' start='2021-10-21T16:35:00Z' type='cup'>
+            <awayTeam id='164189'>
+                <teamName>Lolowniki</teamName>
+<score>48</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822717' start='2021-10-22T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356905' start='2021-10-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356912' start='2021-10-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118030605' start='2021-10-27T10:00:00Z' type='bbm'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='186457'>
+                <teamName>Maggies</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118041900' start='2021-10-28T16:35:00Z' type='cup'>
+            <awayTeam id='163412'>
+                <teamName>Raptors Lublin</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822723' start='2021-10-29T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='147133'>
+                <teamName>Wake Forest Hams</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356921' start='2021-10-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356931' start='2021-11-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118046843' start='2021-11-03T16:35:00Z' type='bbm'>
+            <awayTeam id='32579'>
+                <teamName>FlaGarça</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118055582' start='2021-11-04T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='163221'>
+                <teamName>Sla Wro</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822729' start='2021-11-05T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='277070'>
+                <teamName>Navettapojat</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356939' start='2021-11-06T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356947' start='2021-11-09T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118060120' start='2021-11-10T18:00:00Z' type='bbm'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='26483'>
+                <teamName>UK Wildkitties</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118069359' start='2021-11-11T17:35:00Z' type='friendly'>
+            <awayTeam id='36765'>
+                <teamName>Sutor Triangolo</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822735' start='2021-11-12T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='92189'>
+                <teamName>Hapoel Katamon</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356955' start='2021-11-13T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56363'>
+                <teamName>Penetrator City</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356963' start='2021-11-16T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118072306' start='2021-11-17T17:35:00Z' type='bbm'>
+            <awayTeam id='139251'>
+                <teamName>Almorrana Revenge</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118080706' start='2021-11-18T17:35:00Z' type='friendly'>
+            <awayTeam id='277330'>
+                <teamName>Sky Dragons</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822741' start='2021-11-19T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='92390'>
+                <teamName>Ramat-Gan Billers</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356971' start='2021-11-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='56224'>
+                <teamName>Dudopol Dudowizna</teamName>
+<score>21</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>139</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118084785' start='2021-11-24T17:35:00Z' type='bbm'>
+            <awayTeam id='276458'>
+                <teamName>Boston Hornets</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1053002083' start='2021-11-24T17:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>160</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>163</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118092614' start='2021-11-25T17:35:00Z' type='friendly'>
+            <awayTeam id='87859'>
+                <teamName>TOONS 59</teamName>
+<score>37</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='116822749' start='2021-11-26T12:00:00Z' type='pl.rsneutral'>
+            <awayTeam id='146725'>
+                <teamName>I Love Tehran</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356979' start='2021-11-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356987' start='2021-11-30T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>136</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118096887' start='2021-12-01T17:35:00Z' type='unknown'>
+            <awayTeam id='178563'>
+                <teamName>Krituliai</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118097652' start='2021-12-02T17:35:00Z' type='friendly'>
+            <awayTeam id='38674'>
+                <teamName>Gators</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>58</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117356995' start='2021-12-04T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357003' start='2021-12-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118102495' start='2021-12-08T17:35:00Z' type='unknown'>
+            <awayTeam id='87264'>
+                <teamName>Nancy Basket Albatros</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118103362' start='2021-12-09T17:35:00Z' type='friendly'>
+            <awayTeam id='45473'>
+                <teamName>Globetrotters Bologna</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118106677' start='2021-12-10T12:00:00Z' type='pl.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='49466'>
+                <teamName>BC Hostivař</teamName>
+<score>52</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357011' start='2021-12-11T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357019' start='2021-12-14T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118107813' start='2021-12-15T17:35:00Z' type='unknown'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118109382' start='2021-12-16T17:35:00Z' type='friendly'>
+            <awayTeam id='51447'>
+                <teamName>Wu Kai Sha Lazy Dogs</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118106682' start='2021-12-17T12:00:00Z' type='pl.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357025' start='2021-12-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='163498'>
+                <teamName>Palermo Boys</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357032' start='2021-12-21T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>113</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118112915' start='2021-12-22T17:35:00Z' type='unknown'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118114691' start='2021-12-23T17:35:00Z' type='friendly'>
+            <awayTeam id='144003'>
+                <teamName>Goyard</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118106687' start='2021-12-24T12:00:00Z' type='pl.rs'>
+            <awayTeam id='146725'>
+                <teamName>I Love Tehran</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='117357041' start='2021-12-25T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>26</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118157003' start='2021-12-28T17:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>55</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118117719' start='2021-12-29T17:35:00Z' type='unknown'>
+            <awayTeam id='44720'>
+                <teamName>Minesota Timberwolfs</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118118310' start='2021-12-30T17:35:00Z' type='friendly'>
+            <awayTeam id='189163'>
+                <teamName>圣天堂</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118106694' start='2021-12-31T12:00:00Z' type='pl.rs'>
+            <awayTeam id='92189'>
+                <teamName>Hapoel Katamon</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>135</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118206820' start='2022-01-01T17:35:00Z' type='league.semifinal'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118251410' start='2022-01-04T17:35:00Z' type='league.final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118220178' start='2022-01-05T19:00:00Z' type='unknown'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='75565'>
+                <teamName>Basket Etonic</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118221850' start='2022-01-06T17:35:00Z' type='friendly'>
+            <awayTeam id='147548'>
+                <teamName>Kāmji</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118106701' start='2022-01-07T12:00:00Z' type='pl.rs'>
+            <awayTeam id='76557'>
+                <teamName>Las Palmeras C.B.</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118251411' start='2022-01-08T17:35:00Z' type='league.final'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118251412' start='2022-01-09T17:35:00Z' type='league.final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

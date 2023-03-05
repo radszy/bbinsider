@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='48' retrieved='2023-02-24T22:10:01Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='56580'>
+                    <teamName>Hooligan Hawks</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2042</pf>
+                    <pa>1549</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>15</wins>
+                    <losses>7</losses>
+                    <pf>2123</pf>
+                    <pa>1790</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163131'>
+                    <teamName>ASPK</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>2064</pf>
+                    <pa>1655</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1966</pf>
+                    <pa>1660</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1728</pf>
+                    <pa>1926</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165178'>
+                    <teamName>LZS Niemyslowice</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2011</pf>
+                    <pa>1860</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55735'>
+                    <teamName>Buriczki</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1872</pf>
+                    <pa>1833</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163052'>
+                    <teamName>Pruszcz All Stars</teamName>
+                    <wins>0</wins>
+                    <losses>22</losses>
+                    <pf>864</pf>
+                    <pa>2622</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>2040</pf>
+                    <pa>1619</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1886</pf>
+                    <pa>1760</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56221'>
+                    <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1945</pf>
+                    <pa>1763</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1857</pf>
+                    <pa>2084</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163288'>
+                    <teamName>Chomiczówka´s Boys</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1862</pf>
+                    <pa>1774</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163393'>
+                    <teamName>Borsuki Osw</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1906</pf>
+                    <pa>1918</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162312'>
+                    <teamName>Matrix Mighty Dunkers</teamName>
+                    <wins>7</wins>
+                    <losses>15</losses>
+                    <pf>1798</pf>
+                    <pa>1858</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163500'>
+                    <teamName>KS &amp;quot;Powiśle&amp;quot;</teamName>
+                    <wins>5</wins>
+                    <losses>17</losses>
+                    <pf>1685</pf>
+                    <pa>1978</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='109397568' start='2020-02-11T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='56580'>
+                        <teamName>Hooligan Hawks</teamName>
+<score>68</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397569' start='2020-02-11T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163131'>
+                        <teamName>ASPK</teamName>
+<score>51</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397570' start='2020-02-11T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>66</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397571' start='2020-02-11T17:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56221'>
+                        <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>110</score>
+                    </awayTeam>
+                    <homeTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>125</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='109447152' start='2020-02-15T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>73</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109447153' start='2020-02-15T17:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>103</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='109491767' start='2020-02-18T17:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>68</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109491768' start='2020-02-22T17:35:00Z' type='league.final'>
+                    <awayTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>80</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109491769' start='2020-02-23T17:35:00Z' type='league.final'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>91</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='109397572' start='2020-02-11T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='162312'>
+                        <teamName>Matrix Mighty Dunkers</teamName>
+<score>72</score>
+                    </awayTeam>
+                    <homeTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>90</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397575' start='2020-02-11T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397578' start='2020-02-11T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='163393'>
+                        <teamName>Borsuki Osw</teamName>
+<score>74</score>
+                    </awayTeam>
+                    <homeTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>89</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397573' start='2020-02-15T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>117</score>
+                    </awayTeam>
+                    <homeTeam id='162312'>
+                        <teamName>Matrix Mighty Dunkers</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397576' start='2020-02-15T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+                    </awayTeam>
+                    <homeTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397579' start='2020-02-15T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='165178'>
+                        <teamName>LZS Niemyslowice</teamName>
+<score>97</score>
+                    </awayTeam>
+                    <homeTeam id='163393'>
+                        <teamName>Borsuki Osw</teamName>
+<score>90</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='109397577' start='2020-02-18T17:35:00Z' type='league.relegation'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>87</score>
+                    </awayTeam>
+                    <homeTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>73</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='162788'>Młoty Stargard</winner>
+            
+            <relegated id='162312'>Matrix Mighty Dunkers</relegated>
+            
+            <relegated id='163052'>Pruszcz All Stars</relegated>
+            
+            <relegated id='163288'>Chomiczówka´s Boys</relegated>
+            
+            <relegated id='163393'>Borsuki Osw</relegated>
+            
+            <relegated id='163500'>KS &amp;quot;Powiśle&amp;quot;</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <standings season='50' retrieved='2023-02-24T21:46:15Z'>
+        <league id='2083' level='1'>PLK</league>
+        <country id='58'>Polska</country>
+        <regularSeason>
+            <conference>
+                <team id='163966'>
+                    <teamName>Pogrążacze</teamName>
+                    <wins>18</wins>
+                    <losses>4</losses>
+                    <pf>1923</pf>
+                    <pa>1341</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55719'>
+                    <teamName>Legendy Wrocław</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>2028</pf>
+                    <pa>1565</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56421'>
+                    <teamName>Nałęczów Warriors</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1997</pf>
+                    <pa>1625</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='162456'>
+                    <teamName>KS Goldena</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>2053</pf>
+                    <pa>1759</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163288'>
+                    <teamName>Chomiczówka´s Boys</teamName>
+                    <wins>12</wins>
+                    <losses>10</losses>
+                    <pf>1859</pf>
+                    <pa>1628</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='164924'>
+                    <teamName>Zbikoo Team</teamName>
+                    <wins>10</wins>
+                    <losses>12</losses>
+                    <pf>1849</pf>
+                    <pa>1604</pa>
+                    <isBot>1</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55735'>
+                    <teamName>Buriczki</teamName>
+                    <wins>6</wins>
+                    <losses>16</losses>
+                    <pf>1438</pf>
+                    <pa>2225</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165178'>
+                    <teamName>LZS Niemyslowice</teamName>
+                    <wins>2</wins>
+                    <losses>20</losses>
+                    <pf>1289</pf>
+                    <pa>2338</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+            <conference>
+                <team id='162788'>
+                    <teamName>Młoty Stargard</teamName>
+                    <wins>21</wins>
+                    <losses>1</losses>
+                    <pf>2159</pf>
+                    <pa>1457</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55528'>
+                    <teamName>Lame Ducks</teamName>
+                    <wins>16</wins>
+                    <losses>6</losses>
+                    <pf>2000</pf>
+                    <pa>1730</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163885'>
+                    <teamName>Orzeł Cesarski Poznań</teamName>
+                    <wins>13</wins>
+                    <losses>9</losses>
+                    <pf>1946</pf>
+                    <pa>1846</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='165275'>
+                    <teamName>Bieszczadzkie Anioły</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>2041</pf>
+                    <pa>1710</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='56364'>
+                    <teamName>Szerszony</teamName>
+                    <wins>11</wins>
+                    <losses>11</losses>
+                    <pf>1838</pf>
+                    <pa>1651</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='55376'>
+                    <teamName>Provide.</teamName>
+                    <wins>8</wins>
+                    <losses>14</losses>
+                    <pf>1861</pf>
+                    <pa>1871</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team><team id='163393'>
+                    <teamName>Borsuki Osw</teamName>
+                    <wins>4</wins>
+                    <losses>18</losses>
+                    <pf>835</pf>
+                    <pa>1427</pa>
+                    <isBot>1</isBot>
+                    <forfeits>12</forfeits>
+                </team><team id='56056'>
+                    <teamName>The French Bulldog&#39;s</teamName>
+                    <wins>3</wins>
+                    <losses>19</losses>
+                    <pf>1113</pf>
+                    <pa>2452</pa>
+                    <isBot>0</isBot>
+                    <forfeits>0</forfeits>
+                </team>
+            </conference>
+        </regularSeason>
+        
+        <playoffs>
+            
+            <quarterfinals>
+                
+                <match id='111871625' start='2020-08-25T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='162456'>
+                        <teamName>KS Goldena</teamName>
+<score>86</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>100</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871626' start='2020-08-25T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='56421'>
+                        <teamName>Nałęczów Warriors</teamName>
+<score>77</score>
+                    </awayTeam>
+                    <homeTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871627' start='2020-08-25T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='165275'>
+                        <teamName>Bieszczadzkie Anioły</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>96</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871628' start='2020-08-25T16:35:00Z' type='league.quarterfinal'>
+                    <awayTeam id='163885'>
+                        <teamName>Orzeł Cesarski Poznań</teamName>
+<score>56</score>
+                    </awayTeam>
+                    <homeTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>131</score>
+                    </homeTeam>
+                </match>
+                
+            </quarterfinals>
+            
+            <semifinals>
+                
+                <match id='111921980' start='2020-08-29T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55719'>
+                        <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>93</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111921981' start='2020-08-29T16:35:00Z' type='league.semifinal'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>91</score>
+                    </awayTeam>
+                    <homeTeam id='162788'>
+                        <teamName>Młoty Stargard</teamName>
+<score>85</score>
+                    </homeTeam>
+                </match>
+                
+            </semifinals>
+            
+            <finals>
+                
+                <match id='111966799' start='2020-09-01T16:35:00Z' type='league.final'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>99</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>115</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111966800' start='2020-09-05T16:35:00Z' type='league.final'>
+                    <awayTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>81</score>
+                    </awayTeam>
+                    <homeTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>109</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111966801' start='2020-09-06T16:35:00Z' type='league.final'>
+                    <awayTeam id='55528'>
+                        <teamName>Lame Ducks</teamName>
+<score>84</score>
+                    </awayTeam>
+                    <homeTeam id='163966'>
+                        <teamName>Pogrążacze</teamName>
+<score>95</score>
+                    </homeTeam>
+                </match>
+                
+            </finals>
+            
+        </playoffs>
+        
+        
+        <relegation>
+                
+                <match id='111871629' start='2020-08-25T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163393'>
+                        <teamName>Borsuki Osw</teamName>
+<score>0</score>
+                    </awayTeam>
+                    <homeTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>50</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871632' start='2020-08-25T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>15</score>
+                    </awayTeam>
+                    <homeTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>113</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871635' start='2020-08-25T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='55376'>
+                        <teamName>Provide.</teamName>
+<score>86</score>
+                    </awayTeam>
+                    <homeTeam id='164924'>
+                        <teamName>Zbikoo Team</teamName>
+<score>106</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871630' start='2020-08-29T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='163288'>
+                        <teamName>Chomiczówka´s Boys</teamName>
+<score>50</score>
+                    </awayTeam>
+                    <homeTeam id='163393'>
+                        <teamName>Borsuki Osw</teamName>
+<score>0</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871633' start='2020-08-29T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='56364'>
+                        <teamName>Szerszony</teamName>
+<score>99</score>
+                    </awayTeam>
+                    <homeTeam id='55735'>
+                        <teamName>Buriczki</teamName>
+<score>28</score>
+                    </homeTeam>
+                </match>
+                
+                <match id='111871636' start='2020-08-29T16:35:00Z' type='league.relegation'>
+                    <awayTeam id='164924'>
+                        <teamName>Zbikoo Team</teamName>
+<score>119</score>
+                    </awayTeam>
+                    <homeTeam id='55376'>
+                        <teamName>Provide.</teamName>
+<score>118</score>
+                    </homeTeam>
+                </match>
+                
+        </relegation>
+        
+                
+        <finalResults>
+            <winner id='163966'>Pogrążacze</winner>
+            
+            <relegated id='55376'>Provide.</relegated>
+            
+            <relegated id='55735'>Buriczki</relegated>
+            
+            <relegated id='56056'>The French Bulldog&#39;s</relegated>
+            
+            <relegated id='163393'>Borsuki Osw</relegated>
+            
+            <relegated id='165178'>LZS Niemyslowice</relegated>
+            
+        </finalResults>
+        
+    </standings>
+</bbapi>

@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55719' season='34' retrieved='2023-02-24T22:12:24Z'>
+        <match id='89127134' start='2016-02-18T17:35:00Z' type='friendly'>
+            <awayTeam id='41317'>
+                <teamName>adax</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507833' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507841' start='2016-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89509515' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>135</score>
+            </awayTeam>
+            <homeTeam id='164470'>
+                <teamName>GKK Gorzów Wielkopolski</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507849' start='2016-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507857' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>48</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90232373' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='162357'>
+                <teamName>BC Absolwent Radom</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507863' start='2016-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507872' start='2016-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90246899' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='236419'>
+                <teamName>Ozone Marcinów</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>140</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507880' start='2016-03-12T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507889' start='2016-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256241' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='55805'>
+                <teamName>Zip Wrocław</teamName>
+<score>132</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507897' start='2016-03-19T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>109</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507905' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90266111' start='2016-03-24T11:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='207827'>
+                <teamName>Hanoi Dragon</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507913' start='2016-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>113</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507921' start='2016-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90275753' start='2016-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='105302'>
+                <teamName>CORVINIANA</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507929' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032002083' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>166</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>174</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90278807' start='2016-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='207814'>
+                <teamName>Lao Cai PackerBackers</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507937' start='2016-04-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507945' start='2016-04-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>126</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90289619' start='2016-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='50077'>
+                <teamName>El Nine</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>29</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507953' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507961' start='2016-04-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90294731' start='2016-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='57324'>
+                <teamName>Jianhuo</teamName>
+<score>57</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507969' start='2016-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507977' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>61</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90298733' start='2016-04-28T16:35:00Z' type='friendly'>
+            <awayTeam id='43162'>
+                <teamName>99ers</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507983' start='2016-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507992' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90307770' start='2016-05-05T16:35:00Z' type='friendly'>
+            <awayTeam id='44488'>
+                <teamName>Malcriados de Chulumani</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>53</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508000' start='2016-05-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90355982' start='2016-05-12T13:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='194217'>
+                <teamName>Lil Yaboo</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90393586' start='2016-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90467198' start='2016-05-19T19:00:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='208426'>
+                <teamName>CEPS</teamName>
+<score>43</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445339' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

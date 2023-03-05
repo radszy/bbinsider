@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163288' season='34' retrieved='2023-02-24T22:12:28Z'>
+        <match id='89126016' start='2016-02-18T17:35:00Z' type='friendly'>
+            <awayTeam id='24166'>
+                <teamName>Lanús</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507837' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507845' start='2016-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>124</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508932' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='165173'>
+                <teamName>Piast Inowrocław</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507853' start='2016-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507861' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90232466' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='232365'>
+                <teamName>State Parma</teamName>
+<score>66</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507867' start='2016-03-05T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>24</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507876' start='2016-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90246823' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='56608'>
+                <teamName>Anwillek</teamName>
+<score>33</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507884' start='2016-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507889' start='2016-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256295' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='163472'>
+                <teamName>lech2010</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507896' start='2016-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507903' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90263565' start='2016-03-24T16:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='56337'>
+                <teamName>Perelka Zamość</teamName>
+<score>80</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507918' start='2016-03-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507925' start='2016-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90273893' start='2016-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162288'>
+                <teamName>Los Łódź</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507932' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032002084' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='2084'>
+                <teamName>Big 8</teamName>
+<score>170</score>
+            </awayTeam>
+            <homeTeam id='2084'>
+                <teamName>Great 8</teamName>
+<score>151</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90279774' start='2016-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>114</score>
+            </awayTeam>
+            <homeTeam id='164107'>
+                <teamName>Basket Bats</teamName>
+<score>40</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507939' start='2016-04-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507946' start='2016-04-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90286086' start='2016-04-14T10:00:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='186106'>
+                <teamName>SCQ</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507957' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507965' start='2016-04-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90293994' start='2016-04-21T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='55673'>
+                <teamName>Polish Vodka Team Kętrzyn</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507973' start='2016-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507981' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90297947' start='2016-04-28T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='165188'>
+                <teamName>Polpharma Starogard Gdański1</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507987' start='2016-04-30T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507996' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90306140' start='2016-05-05T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='164506'>
+                <teamName>Pysiaczki</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508004' start='2016-05-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90372674' start='2016-05-12T14:30:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='178402'>
+                <teamName>Memel City B.C.</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90393586' start='2016-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90425040' start='2016-05-19T15:55:00Z' type='friendly'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>117</score>
+            </awayTeam>
+            <homeTeam id='27151'>
+                <teamName>Fulgor Libertas Forlì</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445339' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

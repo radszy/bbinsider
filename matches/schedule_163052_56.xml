@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='163052' season='56' retrieved='2023-02-24T22:05:31Z'>
+        <match id='118280988' start='2022-01-13T17:35:00Z' type='friendly'>
+            <awayTeam id='56230'>
+                <teamName>Gdzie Jest Szczepan</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>118</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638634' start='2022-01-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>97</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638641' start='2022-01-18T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>54</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119280017' start='2022-01-19T17:35:00Z' type='bbm'>
+            <awayTeam id='52118'>
+                <teamName>Májköldzsordön</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>88</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118639241' start='2022-01-20T17:35:00Z' type='cup'>
+            <awayTeam id='163967'>
+                <teamName>Jasne Ciemności</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638648' start='2022-01-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638659' start='2022-01-25T17:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119289049' start='2022-01-26T17:35:00Z' type='bbm'>
+            <awayTeam id='39960'>
+                <teamName>C.D Leyenda</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119304783' start='2022-01-27T17:35:00Z' type='cup'>
+            <awayTeam id='162516'>
+                <teamName>Wyginacze</teamName>
+<score>33</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638666' start='2022-01-29T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638675' start='2022-02-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119314060' start='2022-02-02T17:35:00Z' type='bbm'>
+            <awayTeam id='103075'>
+                <teamName>Carnaxide Supersonics</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119325415' start='2022-02-03T17:35:00Z' type='cup'>
+            <awayTeam id='236843'>
+                <teamName>Summit Annopol</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638683' start='2022-02-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>73</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638694' start='2022-02-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>115</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119331323' start='2022-02-09T17:40:00Z' type='bbm'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='49360'>
+                <teamName>Napálsko</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119340744' start='2022-02-10T17:35:00Z' type='cup'>
+            <awayTeam id='235129'>
+                <teamName>KZee BC</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638702' start='2022-02-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>117</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638710' start='2022-02-15T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='233576'>
+                <teamName>blekitni krakow</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119344926' start='2022-02-16T17:35:00Z' type='bbm'>
+            <awayTeam id='176701'>
+                <teamName>BC Tigers</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119353066' start='2022-02-17T17:35:00Z' type='cup'>
+            <awayTeam id='165703'>
+                <teamName>LA Plazma</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638718' start='2022-02-19T17:35:00Z' type='league.rs'>
+            <awayTeam id='166187'>
+                <teamName>Iron Thunder</teamName>
+<score>53</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>128</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638726' start='2022-02-22T17:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119357594' start='2022-02-23T22:00:00Z' type='bbm'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='32371'>
+                <teamName>Ranulfo E.C</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119366294' start='2022-02-24T17:35:00Z' type='friendly'>
+            <awayTeam id='164499'>
+                <teamName>Magic Garden</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>142</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638734' start='2022-02-26T17:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119370004' start='2022-03-02T17:35:00Z' type='bbm'>
+            <awayTeam id='45344'>
+                <teamName>InteramniaUrbs</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1054002101' start='2022-03-02T17:35:00Z' type='unknown'>
+            <awayTeam id='2101'>
+                <teamName>Great 8</teamName>
+<score>157</score>
+            </awayTeam>
+            <homeTeam id='2101'>
+                <teamName>Big 8</teamName>
+<score>178</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119380667' start='2022-03-03T17:35:00Z' type='friendly'>
+            <awayTeam id='276934'>
+                <teamName>Pruszcz ZSO 1 Team</teamName>
+<score>30</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>125</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638742' start='2022-03-05T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638750' start='2022-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='164157'>
+                <teamName>Częstochowskie Lwy</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119386350' start='2022-03-10T17:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='232285'>
+                <teamName>BasketMafia</teamName>
+<score>46</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638754' start='2022-03-12T17:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638761' start='2022-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>20</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119393460' start='2022-03-17T16:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>69</score>
+            </awayTeam>
+            <homeTeam id='164600'>
+                <teamName>MKS Kataryna</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638768' start='2022-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='164110'>
+                <teamName>Debeściaki</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638779' start='2022-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>130</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119397330' start='2022-03-24T16:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>121</score>
+            </awayTeam>
+            <homeTeam id='55988'>
+                <teamName>Skorpion Gliwice</teamName>
+<score>7</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638786' start='2022-03-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638795' start='2022-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162570'>
+                <teamName>Natolin Grizzlies</teamName>
+<score>97</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119401212' start='2022-03-31T16:35:00Z' type='friendly'>
+            <awayTeam id='88933'>
+                <teamName>Paketo</teamName>
+<score>23</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='118638803' start='2022-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>111</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>49</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119443348' start='2022-04-05T16:35:00Z' type='league.quarterfinal'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119404771' start='2022-04-07T16:35:00Z' type='friendly'>
+            <awayTeam id='91962'>
+                <teamName>Red Jerusalem</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>56</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119493032' start='2022-04-09T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>0</score>
+            </awayTeam>
+            <homeTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119507335' start='2022-04-14T16:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='163062'>
+                <teamName>Stara Dama</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='119537478' start='2022-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='163052'>
+                <teamName>Pruszcz All Stars</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

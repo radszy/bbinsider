@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='55719' season='39' retrieved='2023-02-24T22:13:07Z'>
+        <match id='96940676' start='2017-06-22T13:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='44356'>
+                <teamName>Шахтёр</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311090' start='2017-06-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>106</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311098' start='2017-06-27T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311876' start='2017-06-29T16:35:00Z' type='cup'>
+            <awayTeam id='56594'>
+                <teamName>Warszawskie Bibeloty</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311106' start='2017-07-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311114' start='2017-07-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98026236' start='2017-07-06T16:35:00Z' type='cup'>
+            <awayTeam id='164878'>
+                <teamName>Harmonogram</teamName>
+<score>56</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311120' start='2017-07-08T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>123</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311127' start='2017-07-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>91</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98040008' start='2017-07-13T16:35:00Z' type='cup'>
+            <awayTeam id='55703'>
+                <teamName>The Freitags</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311136' start='2017-07-15T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311146' start='2017-07-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98047864' start='2017-07-20T16:35:00Z' type='cup'>
+            <awayTeam id='55579'>
+                <teamName>ThePeaceMaker</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311154' start='2017-07-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311162' start='2017-07-25T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>31</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98054639' start='2017-07-27T16:35:00Z' type='cup'>
+            <awayTeam id='164269'>
+                <teamName>ANWIL POLSKA</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>122</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311170' start='2017-07-29T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>98</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311178' start='2017-08-01T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='162366'>
+                <teamName>BR66</teamName>
+<score>111</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98060558' start='2017-08-03T16:35:00Z' type='cup'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>107</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311186' start='2017-08-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98066313' start='2017-08-08T16:35:00Z' type='cup'>
+            <awayTeam id='56174'>
+                <teamName>Basket Rzeszów</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1037002083' start='2017-08-09T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>143</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>145</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98071926' start='2017-08-10T16:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>118</score>
+            </awayTeam>
+            <homeTeam id='163363'>
+                <teamName>Lucky Loosers</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311194' start='2017-08-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>42</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311202' start='2017-08-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='56421'>
+                <teamName>Nałęczów Warriors</teamName>
+<score>74</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98072546' start='2017-08-17T16:35:00Z' type='cup'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>85</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311210' start='2017-08-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311218' start='2017-08-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='163377'>
+                <teamName>Gladiatorzyy</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98082728' start='2017-08-24T16:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>101</score>
+            </awayTeam>
+            <homeTeam id='26497'>
+                <teamName>Coco Loco Pineapple Eaterz</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311226' start='2017-08-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311234' start='2017-08-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='165563'>
+                <teamName>Jastrzębie</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98088420' start='2017-08-31T16:30:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>77</score>
+            </awayTeam>
+            <homeTeam id='98932'>
+                <teamName>Arcegno.Ghepards</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311240' start='2017-09-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='55807'>
+                <teamName>Star Starachowice</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311247' start='2017-09-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>79</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98093976' start='2017-09-07T16:35:00Z' type='friendly'>
+            <awayTeam id='45125'>
+                <teamName>MTT PLOVDIV</teamName>
+<score>65</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='97311256' start='2017-09-09T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98138609' start='2017-09-12T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98109465' start='2017-09-14T16:35:00Z' type='friendly'>
+            <awayTeam id='59202'>
+                <teamName>Lions Tunis</teamName>
+<score>68</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>82</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98138610' start='2017-09-16T16:35:00Z' type='league.relegation'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>32</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>130</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98138611' start='2017-09-19T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98271792' start='2017-09-21T16:35:00Z' type='friendly'>
+            <awayTeam id='98405'>
+                <teamName>KK Stara Gora Virje</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>121</score>
+            </homeTeam>
+        </match>
+    
+        <match id='98240863' start='2017-09-23T16:35:00Z' type='friendly'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>106</score>
+            </awayTeam>
+            <homeTeam id='162408'>
+                <teamName>Polo Team Włocławek</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

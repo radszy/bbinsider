@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='56049' season='49' retrieved='2023-02-24T22:10:16Z'>
+        <match id='109523645' start='2020-02-27T17:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>107</score>
+            </awayTeam>
+            <homeTeam id='56131'>
+                <teamName>Red888</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880175' start='2020-02-29T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880183' start='2020-03-03T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109881201' start='2020-03-05T17:35:00Z' type='cup'>
+            <awayTeam id='164656'>
+                <teamName>Fighters Kraków</teamName>
+<score>45</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880191' start='2020-03-07T17:35:00Z' type='league.rs'>
+            <awayTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>76</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880199' start='2020-03-10T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>98</score>
+            </awayTeam>
+            <homeTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110530807' start='2020-03-12T16:35:00Z' type='cup'>
+            <awayTeam id='165288'>
+                <teamName>Asseco Prokom Gdynia Fans</teamName>
+<score>38</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880205' start='2020-03-14T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880212' start='2020-03-17T16:35:00Z' type='league.rs'>
+            <awayTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>50</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110543214' start='2020-03-19T16:35:00Z' type='cup'>
+            <awayTeam id='56429'>
+                <teamName>TOP TEN THUNDERS</teamName>
+<score>34</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>126</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880221' start='2020-03-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>73</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880227' start='2020-03-24T16:35:00Z' type='league.rs'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>102</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>63</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110550011' start='2020-03-26T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>103</score>
+            </awayTeam>
+            <homeTeam id='162352'>
+                <teamName>Michu Team</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880234' start='2020-03-28T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>60</score>
+            </awayTeam>
+            <homeTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>116</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880241' start='2020-03-31T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>78</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110555443' start='2020-04-02T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='163221'>
+                <teamName>Sla Wro</teamName>
+<score>81</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880248' start='2020-04-04T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55735'>
+                <teamName>Buriczki</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880263' start='2020-04-07T16:35:00Z' type='league.rs'>
+            <awayTeam id='56580'>
+                <teamName>Hooligan Hawks</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>51</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110561106' start='2020-04-09T16:35:00Z' type='cup'>
+            <awayTeam id='164149'>
+                <teamName>Galaktyczni Niszczyciele</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880270' start='2020-04-11T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>43</score>
+            </awayTeam>
+            <homeTeam id='164924'>
+                <teamName>Zbikoo Team</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110566714' start='2020-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='165246'>
+                <teamName>TARPAN Mrocza Team</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1047002135' start='2020-04-15T16:35:00Z' type='unknown'>
+            <awayTeam id='2135'>
+                <teamName>Great 8</teamName>
+<score>149</score>
+            </awayTeam>
+            <homeTeam id='2135'>
+                <teamName>Big 8</teamName>
+<score>188</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110572565' start='2020-04-16T16:35:00Z' type='friendly'>
+            <awayTeam id='27599'>
+                <teamName>kolobianoi</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>103</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880277' start='2020-04-18T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880284' start='2020-04-21T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>142</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>23</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110578969' start='2020-04-23T16:35:00Z' type='friendly'>
+            <awayTeam id='78487'>
+                <teamName>j.walker</teamName>
+<score>75</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>115</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880295' start='2020-04-25T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='165275'>
+                <teamName>Bieszczadzkie Anioły</teamName>
+<score>114</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880303' start='2020-04-28T16:35:00Z' type='league.rs'>
+            <awayTeam id='56056'>
+                <teamName>The French Bulldog&#39;s</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>65</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110583847' start='2020-04-30T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>116</score>
+            </awayTeam>
+            <homeTeam id='55756'>
+                <teamName>Mietki z dziurawej skarpetki</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880311' start='2020-05-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='55528'>
+                <teamName>Lame Ducks</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880319' start='2020-05-05T16:35:00Z' type='league.rs'>
+            <awayTeam id='166116'>
+                <teamName>NZW KMP WEK</teamName>
+<score>105</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110588614' start='2020-05-07T16:35:00Z' type='friendly'>
+            <awayTeam id='27494'>
+                <teamName>BOULAMOGES</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880325' start='2020-05-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>74</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880332' start='2020-05-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110593711' start='2020-05-14T16:35:00Z' type='friendly'>
+            <awayTeam id='164519'>
+                <teamName>CaramelAnton Team</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='109880341' start='2020-05-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='56364'>
+                <teamName>Szerszony</teamName>
+<score>96</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>75</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110670641' start='2020-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='196404'>
+                <teamName>DBJ Pears</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>144</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110685289' start='2020-05-23T16:35:00Z' type='friendly'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>68</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110758062' start='2020-05-28T16:35:00Z' type='friendly'>
+            <awayTeam id='162468'>
+                <teamName>SKP SŁUPCA</teamName>
+<score>19</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='110730203' start='2020-05-30T16:35:00Z' type='friendly'>
+            <awayTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>76</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	

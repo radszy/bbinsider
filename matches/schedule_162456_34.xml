@@ -1,0 +1,566 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bbapi version='1'>
+    <schedule teamid='162456' season='34' retrieved='2023-02-24T22:12:24Z'>
+        <match id='89126384' start='2016-02-18T17:35:00Z' type='friendly'>
+            <awayTeam id='59868'>
+                <teamName>ADENTRO¡¡¡¡¡¡</teamName>
+<score>67</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>119</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507834' start='2016-02-20T17:35:00Z' type='league.rs'>
+            <awayTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507842' start='2016-02-23T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>104</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221185' start='2016-02-24T19:00:01Z' type='bbb'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>82</score>
+            </awayTeam>
+            <homeTeam id='57628'>
+                <teamName>Macau Hospitallers</teamName>
+<score>45</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89509610' start='2016-02-25T17:35:00Z' type='cup'>
+            <awayTeam id='164086'>
+                <teamName>Misiaki</teamName>
+<score>47</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507850' start='2016-02-27T17:35:00Z' type='league.rs'>
+            <awayTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507858' start='2016-03-01T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221266' start='2016-03-02T17:35:01Z' type='bbb'>
+            <awayTeam id='57957'>
+                <teamName>EricUnited</teamName>
+<score>64</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90232590' start='2016-03-03T17:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </awayTeam>
+            <homeTeam id='164861'>
+                <teamName>Wroclove nyggas</teamName>
+<score>62</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507864' start='2016-03-05T17:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>88</score>
+            </awayTeam>
+            <homeTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>96</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507871' start='2016-03-08T17:35:00Z' type='league.rs'>
+            <awayTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>108</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221353' start='2016-03-09T17:35:01Z' type='bbb'>
+            <awayTeam id='276359'>
+                <teamName>ASPK Gostynin</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>105</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90246735' start='2016-03-10T17:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='164126'>
+                <teamName>MadBall</teamName>
+<score>54</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507880' start='2016-03-12T17:35:00Z' type='league.rs.tv'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </awayTeam>
+            <homeTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507890' start='2016-03-15T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>58</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>158</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221440' start='2016-03-16T15:30:01Z' type='bbb'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='58728'>
+                <teamName>E-5</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90256146' start='2016-03-17T16:35:00Z' type='cup'>
+            <awayTeam id='162555'>
+                <teamName>Atom Czernobyl</teamName>
+<score>71</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507898' start='2016-03-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>59</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>101</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507906' start='2016-03-22T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>36</score>
+            </awayTeam>
+            <homeTeam id='162788'>
+                <teamName>Młoty Stargard</teamName>
+<score>134</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221516' start='2016-03-23T16:35:01Z' type='bbb'>
+            <awayTeam id='208484'>
+                <teamName>DK Shaolins</teamName>
+<score>89</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>99</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90263578' start='2016-03-24T16:35:00Z' type='cup'>
+            <awayTeam id='164681'>
+                <teamName>Crcow Dragons</teamName>
+<score>70</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>112</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507914' start='2016-03-26T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='165275'>
+                <teamName>Basket GO Przemyśl</teamName>
+<score>86</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507922' start='2016-03-29T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>39</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>138</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221598' start='2016-03-30T16:40:01Z' type='bbb'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='160427'>
+                <teamName>airteam</teamName>
+<score>87</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90270260' start='2016-03-31T16:35:00Z' type='cup'>
+            <awayTeam id='165178'>
+                <teamName>LZS Niemyslowice</teamName>
+<score>84</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507930' start='2016-04-02T16:35:00Z' type='league.rs'>
+            <awayTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>110</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>86</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90277125' start='2016-04-05T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>112</score>
+            </awayTeam>
+            <homeTeam id='163500'>
+                <teamName>Warsaw Loosers</teamName>
+<score>72</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221650' start='2016-04-06T08:00:01Z' type='bbb'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </awayTeam>
+            <homeTeam id='196359'>
+                <teamName>Kinky Koalas</teamName>
+<score>59</score>
+            </homeTeam>
+        </match>
+    
+        <match id='1032002083' start='2016-04-06T16:35:00Z' type='unknown'>
+            <awayTeam id='2083'>
+                <teamName>Big 8</teamName>
+<score>166</score>
+            </awayTeam>
+            <homeTeam id='2083'>
+                <teamName>Great 8</teamName>
+<score>174</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283320' start='2016-04-07T16:35:00Z' type='cup'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='164382'>
+                <teamName>A kij ci to wiedziec?</teamName>
+<score>71</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507938' start='2016-04-09T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>40</score>
+            </awayTeam>
+            <homeTeam id='56364'>
+                <teamName>Team 56364</teamName>
+<score>120</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507946' start='2016-04-12T16:35:00Z' type='league.rs'>
+            <awayTeam id='163288'>
+                <teamName>Chomiczówka´s Boys</teamName>
+<score>81</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90221731' start='2016-04-13T16:35:01Z' type='bbb'>
+            <awayTeam id='40395'>
+                <teamName>Leones del Cinaruco</teamName>
+<score>80</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>102</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90283962' start='2016-04-14T16:35:00Z' type='cup'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>46</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>89</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507954' start='2016-04-16T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='56049'>
+                <teamName>Both teams played hard</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507962' start='2016-04-19T16:35:00Z' type='league.rs'>
+            <awayTeam id='165320'>
+                <teamName>DLR Basketball Club</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>30</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90290428' start='2016-04-20T18:00:01Z' type='bbb.neutral'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </awayTeam>
+            <homeTeam id='176007'>
+                <teamName>Welsh Cockneys</teamName>
+<score>85</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90290474' start='2016-04-21T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='55726'>
+                <teamName>Piaski Yellow Hornets</teamName>
+<score>79</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>94</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507970' start='2016-04-23T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>29</score>
+            </awayTeam>
+            <homeTeam id='162922'>
+                <teamName>The Lechers</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507978' start='2016-04-26T16:35:00Z' type='league.rs'>
+            <awayTeam id='55675'>
+                <teamName>SUPERLIGOTA</teamName>
+<score>66</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>83</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90296916' start='2016-04-27T16:35:01Z' type='bbb.neutral'>
+            <awayTeam id='60370'>
+                <teamName>Sportivo Cojones</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>90</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90296932' start='2016-04-28T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>92</score>
+            </awayTeam>
+            <homeTeam id='163402'>
+                <teamName>Polonia Fordon</teamName>
+<score>84</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507984' start='2016-04-30T16:35:00Z' type='league.rs'>
+            <awayTeam id='56332'>
+                <teamName>Zaniemysl Basket Team</teamName>
+<score>119</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>42</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89507991' start='2016-05-03T16:35:00Z' type='league.rs'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>109</score>
+            </awayTeam>
+            <homeTeam id='56221'>
+                <teamName>Chiki-Cziki-Chiki-Ta</teamName>
+<score>92</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90303100' start='2016-05-05T16:35:00Z' type='cup.semi_or_final'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>104</score>
+            </awayTeam>
+            <homeTeam id='163131'>
+                <teamName>ASPK</teamName>
+<score>110</score>
+            </homeTeam>
+        </match>
+    
+        <match id='89508000' start='2016-05-07T16:35:00Z' type='league.rs.tv'>
+            <awayTeam id='55719'>
+                <teamName>Legendy Wrocław</teamName>
+<score>87</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90343060' start='2016-05-10T16:35:00Z' type='league.relegation'>
+            <awayTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>72</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>108</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90372513' start='2016-05-12T16:35:00Z' type='friendly'>
+            <awayTeam id='164678'>
+                <teamName>MKS SANDWIC Konin</teamName>
+<score>78</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>91</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90343061' start='2016-05-14T16:35:00Z' type='league.relegation'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>93</score>
+            </awayTeam>
+            <homeTeam id='163966'>
+                <teamName>Pogrążacze</teamName>
+<score>70</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90414415' start='2016-05-19T16:35:00Z' type='friendly'>
+            <awayTeam id='277071'>
+                <teamName>KS Golden Grizzlies</teamName>
+<score>41</score>
+            </awayTeam>
+            <homeTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>95</score>
+            </homeTeam>
+        </match>
+    
+        <match id='90445340' start='2016-05-21T16:35:00Z' type='friendly'>
+            <awayTeam id='162456'>
+                <teamName>KS Goldena</teamName>
+<score>100</score>
+            </awayTeam>
+            <homeTeam id='162778'>
+                <teamName>Niebiescy Bangow</teamName>
+<score>69</score>
+            </homeTeam>
+        </match>
+    </schedule>
+</bbapi>
+	
