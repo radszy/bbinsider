@@ -330,11 +330,11 @@ def main():
                 *sum_shot_types(
                     (
                         "ShotType.THREE_POINTER_DEFAULT",
-                        "ShotType.TWO_POINTER_BASELINE",
-                        "ShotType.TWO_POINTER_ELBOW",
-                        "ShotType.TWO_POINTER_TOPKEY",
-                        "ShotType.TWO_POINTER_WING",
-                        "ShotType.OFF_DRIBBLE_JUMP_SHOT",
+                        "ShotType.THREE_POINTER_TOPKEY",
+                        "ShotType.THREE_POINTER_WING",
+                        "ShotType.THREE_POINTER_CORNER",
+                        "ShotType.THREE_POINTER_LONG",
+                        "ShotType.THREE_POINTER_HALFCOURT",
                     )
                 ),
             ]
