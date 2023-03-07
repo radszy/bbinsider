@@ -23,7 +23,10 @@ class Network:
 
 
 class BBApi:
-    def __init__(self, login, password):
+    def __init__(self, login=None, password=None):
+        if login is None or password is None:
+            return
+
         self.login = login
         self.password = password
         self.logged_in = False
@@ -129,6 +132,17 @@ class BBApi:
 
         return position.text
 
+    def strategy(self, matchid=0):
+        data = self.get_xml_boxscore(matchid)
+
+        root = xml.fromstring(data)
+        away_off = root.find("./match/awayTeam/offStrategy").text
+        away_def = root.find("./match/awayTeam/defStrategy").text
+        home_off = root.find("./match/homeTeam/offStrategy").text
+        home_def = root.find("./match/homeTeam/defStrategy").text
+
+        return away_off, away_def, home_off, home_def
+
     def boxscore(self, matchid=0) -> list[Team]:
         data = self.get_xml_boxscore(matchid)
 
@@ -144,6 +158,9 @@ class BBApi:
             assert isinstance(xml_team, xml.Element), ""
             bb_team.id = int(xml_team.attrib["id"])
             bb_team.name = xml_team.find("./teamName").text
+
+            bb_team.off_strategy = xml_team.find("./offStrategy").text
+            bb_team.def_strategy = xml_team.find("./defStrategy").text
 
             quarters = xml_team.find("./score").attrib["partials"].split(",")
             for i in range(len(quarters)):
@@ -261,6 +278,13 @@ def prefetch_data(
             match_ids = api.schedule(team_id, season)
             unique_ids.update(match_ids)
             print(f"Season {season}: matches: {len(match_ids)}")
+
+    with open("uids1.txt", "w") as f:
+        for index, uid in enumerate(unique_ids):
+            print(f"Fetch {uid} ({index+1}/{len(unique_ids)})")
+            api.boxscore(uid)
+
+            f.write(str(uid) + "\n")
 
     print(unique_ids)
     print(len(unique_ids))

@@ -41,14 +41,14 @@ class Game:
         self,
         matchid: str,
         events: list[BBEvent],
-        ht: Team,
         at: Team,
+        ht: Team,
         args,
         extensions: list[Extension],
     ) -> None:
         self.matchid = matchid
         self.events = events
-        self.teams = [ht, at]
+        self.teams = [at, ht]
         self.comments = Comments()
         self.gameclock = 0
         self.shotclock = 24
@@ -63,17 +63,21 @@ class Game:
     def update_clocks(self, shot: int, game: int):
         self.shotclock = min(shot, Gameclock(game).till_break())
         self.gameclock = game
-        print(f"Set shotclock: {self.shotclock}")
+
+        if self.args.print_events:
+            print(f"Set shotclock: {self.shotclock}")
 
     def patch_clock(self, bev, prev_bev):
         clock_delta = bev.gameclock - prev_bev.gameclock
-
         bev.shotclock = max(0, self.shotclock - clock_delta)
-        print(f"Remaining shotclock: {bev.shotclock}")
+
+        if self.args.print_events:
+            print(f"Remaining shotclock: {bev.shotclock}")
 
     def update_possession(self, team: int):
         self.poss = team
-        print(f"Next possession: {self.teams[self.poss].name}")
+        if self.args.print_events:
+            print(f"Next possession: {self.teams[self.poss].name}")
 
     def gameclock_normalized(self, gameclock: int):
         # TODO: translate gameclock at first parse
@@ -96,8 +100,9 @@ class Game:
         prev_bev = BaseEvent([], Clocks(-1, -1, -1))
 
         for idx, bev in enumerate(self.baseevents):
-            print()
-            print("###", bev.gameclock, bev.comments)
+            if self.args.print_events:
+                print()
+                print("###", bev.gameclock, bev.comments)
 
             self.event_index = idx
             gameclock = self.gameclock_normalized(bev.gameclock)
@@ -312,12 +317,14 @@ class Game:
                 prev_bev = bev
 
         for team in reversed(self.teams):
-            team.print_stats()
-            team.shot_chart.save(f"matches/{self.matchid}-{team.short}.png")
+            if self.args.print_stats:
+                team.print_stats()
+            if self.args.save_charts:
+                team.shot_chart.save(f"matches/{self.matchid}-{team.short}.png")
 
         # Verify data against BBApi boxscore
-        if self.args.user and self.args.password:
-            bbapi = BBApi(self.args.user, self.args.password)
+        if self.args.username and self.args.password and self.args.verify:
+            bbapi = BBApi(self.args.username, self.args.password)
             bbteams = bbapi.boxscore(matchid=self.matchid)
             assert bbteams[0] == self.teams[1]
             assert bbteams[1] == self.teams[0]
@@ -326,18 +333,17 @@ class Game:
 class Possessions(Extension):
     def __init__(self) -> None:
         super().__init__()
-        self.possessions = ([], [])
-        self.stop = False
+        self.possessions: list[list[int]] = [[], []]
 
-    def add_possession(self, game, team, shotclock):
-        if self.stop:
-            return
+    def add_possession(self, game: Game, team, shotclock):
         assert team == 0 or team == 1
         assert shotclock >= 0 and shotclock <= 24, f"Got shotclock {shotclock}!"
         self.possessions[team].append(shotclock)
-        print(
-            f"nPossessions: {len(self.possessions[1])}:{len(self.possessions[0])} (+1 {game.teams[team].name})"
-        )
+
+        if game.args.print_events:
+            print(
+                f"nPossessions: {len(self.possessions[1])}:{len(self.possessions[0])} (+1 {game.teams[team].name})"
+            )
 
     def on_shot_event(self, game, event: ShotEvent):
         # For other shot results the def teams needs to rebound ball first
@@ -423,10 +429,10 @@ class ShotTypes(Extension):
         result = int(event.shot_result)
 
         shot_type = self.shot_types[event.att_team].get(
-            event.shot_type, [0, 0, 0, 0, 0, 0]
+            str(event.shot_type), [0, 0, 0, 0, 0, 0]
         )
         shot_type[result] += 1
-        self.shot_types[event.att_team][event.shot_type] = shot_type
+        self.shot_types[event.att_team][str(event.shot_type)] = shot_type
 
     def on_interrupt_event(self, game: Game, event: InterruptEvent):
         pass

@@ -3,8 +3,7 @@
 import argparse
 import requests
 import xml.etree.ElementTree as XML
-from pprint import pprint as pp
-from typing import TextIO
+from tabulate import tabulate, SEPARATING_LINE
 
 from game import *
 from event import *
@@ -13,7 +12,7 @@ from team import Team
 from bbapi import *
 
 
-def parse_report(report: str, ht: Team, at: Team) -> list[BBEvent]:
+def parse_report(report: str, at: Team, ht: Team) -> list[BBEvent]:
     events = []
 
     # Read players
@@ -40,14 +39,16 @@ def parse_report(report: str, ht: Team, at: Team) -> list[BBEvent]:
     pos = 0
     while i < 197:
         id = int(report[i], 16) - 1
-        print("starter: ", id, f"{ht.players[id]}")
+        if __debug__:
+            print("starter: ", id, f"{ht.players[id]}")
         ht.set_starter(id, pos)
         i += 1
         pos += 1
     pos = 0
     while i < 202:
         id = int(report[i], 16) - 1
-        print("starter: ", id, f"{at.players[id]}")
+        if __debug__:
+            print("starter: ", id, f"{at.players[id]}")
         at.set_starter(id, pos)
         i += 1
         pos += 1
@@ -107,8 +108,8 @@ def parse_xml(text: str) -> tuple[list[BBEvent], Team, Team]:
     tree = XML.ElementTree(XML.fromstring(text))
     root = tree.getroot()
 
-    ht = Team()
     at = Team()
+    ht = Team()
     report = ""
 
     for child in root:
@@ -155,9 +156,9 @@ def parse_xml(text: str) -> tuple[list[BBEvent], Team, Team]:
     while len(at.players) < 12:
         at.players.append(Player("Lucky Fan"))
 
-    events = parse_report(report, ht, at)
+    events = parse_report(report, at, ht)
 
-    return (events, ht, at)
+    return (events, at, ht)
 
 
 def get_xml_text(matchid) -> str:
@@ -184,31 +185,173 @@ def main():
     parser.add_argument(
         "--ids", help="A comma delimited list of match IDs", required=True
     )
-    parser.add_argument("--user", help="BBAPI username")
+    parser.add_argument("--username", help="BBAPI username")
     parser.add_argument("--password", help="BBAPI password")
+    parser.add_argument("--print-events", action="store_true")
+    parser.add_argument("--print-stats", action="store_true")
+    parser.add_argument("--save-charts", action="store_true")
+    parser.add_argument("--verify", action="store_true")
     args = parser.parse_args()
 
     matchids = args.ids.split(",")
 
-    for matchid in matchids:
-        assert matchid.isnumeric()
+    with open("uids1.txt", "r") as f:
+        matchids = f.readlines()
+
+    games = {}
+
+    for index, matchid in enumerate(matchids):
+        matchid = matchid.strip()
+        assert matchid.isnumeric(), f"MatchID {matchid}"
+
+        print(f"Processing {index+1} of {len(matchids)}")
 
         text = get_xml_text(matchid)
-        events, ht, at = parse_xml(text)
+        events, at, ht = parse_xml(text)
 
-        # game = Game(matchid, events, ht, at, args)
-        # game.play()
-
-        possessions = Possessions()
+        # possessions = Possessions()
         shot_types = ShotTypes()
-        game = Game(matchid, events, ht, at, args, [possessions, shot_types])
+        game = Game(matchid, events, at, ht, args, [shot_types])
         game.play()
 
-        print(len(possessions.possessions[1]))
-        print(possessions.possessions[1])
-        print(len(possessions.possessions[0]))
-        print(possessions.possessions[0])
-        print(shot_types.table(game))
+        api = BBApi()
+        strategy = api.strategy(matchid)
+
+        away_shots_tactics = f"{strategy[0]}|{strategy[3]}"
+        aw_shots = games.get(away_shots_tactics, [])
+        aw_shots.append(shot_types.shot_types[0])
+        games[away_shots_tactics] = aw_shots
+
+        home_shots_tactics = f"{strategy[2]}|{strategy[1]}"
+        hm_shots = games.get(home_shots_tactics, [])
+        hm_shots.append(shot_types.shot_types[1])
+        games[home_shots_tactics] = hm_shots
+
+        # if index == 100:
+        #     break
+
+    headers = [
+        "Type",
+        "Missed",
+        "Scored",
+        "Goaltended",
+        "Blocked",
+        "Missed Fouled",
+        "Scored Fouled",
+        "Total",
+    ]
+
+    for tactic, tactic_games in games.items():
+        print(f"{tactic} ({len(tactic_games)}):")
+        tactic_shots = {}
+        for tactic_game in tactic_games:
+            for shot_type, shot_results in tactic_game.items():
+                shots = tactic_shots.get(shot_type, [0, 0, 0, 0, 0, 0])
+                shots = [x + y for x, y in zip(shots, shot_results)]
+                tactic_shots[shot_type] = shots
+
+        table = []
+        for shot_type, shot_results in sorted(tactic_shots.items()):
+            table.append(
+                [
+                    shot_type,
+                    shot_results[0] / len(tactic_games),
+                    shot_results[1] / len(tactic_games),
+                    shot_results[2] / len(tactic_games),
+                    shot_results[3] / len(tactic_games),
+                    shot_results[4] / len(tactic_games),
+                    shot_results[5] / len(tactic_games),
+                    sum(shot_results) / len(tactic_games),
+                ]
+            )
+
+        def sum_shot_types(types):
+            results = [0, 0, 0, 0, 0, 0]
+            for t in types:
+                if t in tactic_shots:
+                    results = [x + y for x, y in zip(results, tactic_shots[t])]
+            return (
+                results[0] / len(tactic_games),
+                results[1] / len(tactic_games),
+                results[2] / len(tactic_games),
+                results[3] / len(tactic_games),
+                results[4] / len(tactic_games),
+                results[5] / len(tactic_games),
+                sum(results) / len(tactic_games),
+            )
+
+        table.append(SEPARATING_LINE)
+        table.append(
+            [
+                "CLOSE RANGE",
+                *sum_shot_types(
+                    (
+                        "ShotType.DUNK1",
+                        "ShotType.DUNK2",
+                        "ShotType.LAYUP",
+                        "ShotType.DRIVING_LAYUP",
+                        "ShotType.HOOK",
+                        "ShotType.FADE_AWAY",
+                        "ShotType.POST_UP_MOVE",
+                    )
+                ),
+            ]
+        )
+        table.append(
+            [
+                "PUTBACK",
+                *sum_shot_types(
+                    (
+                        "ShotType.PUTBACK_DUNK",
+                        "ShotType.REBOUND_SHOT",
+                        "ShotType.TIPIN",
+                    )
+                ),
+            ]
+        )
+        table.append(
+            [
+                "MID RANGE",
+                *sum_shot_types(
+                    (
+                        "ShotType.TWO_POINTER_DEFAULT",
+                        "ShotType.TWO_POINTER_BASELINE",
+                        "ShotType.TWO_POINTER_ELBOW",
+                        "ShotType.TWO_POINTER_TOPKEY",
+                        "ShotType.TWO_POINTER_WING",
+                        "ShotType.OFF_DRIBBLE_JUMP_SHOT",
+                    )
+                ),
+            ]
+        )
+        table.append(
+            [
+                "LONG RANGE",
+                *sum_shot_types(
+                    (
+                        "ShotType.THREE_POINTER_DEFAULT",
+                        "ShotType.TWO_POINTER_BASELINE",
+                        "ShotType.TWO_POINTER_ELBOW",
+                        "ShotType.TWO_POINTER_TOPKEY",
+                        "ShotType.TWO_POINTER_WING",
+                        "ShotType.OFF_DRIBBLE_JUMP_SHOT",
+                    )
+                ),
+            ]
+        )
+
+        print(tabulate(table, headers=headers, floatfmt=".2f"))
+        print()
+
+        # print(f"{game.teams[0].name}")
+        # print(len(possessions.possessions[0]))
+        # print(possessions.possessions[0])
+
+        # print(f"{game.teams[1].name}")
+        # print(len(possessions.possessions[1]))
+        # print(possessions.possessions[1])
+
+        # print(shot_types.table(game))
 
 
 if __name__ == "__main__":

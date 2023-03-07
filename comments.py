@@ -1,8 +1,6 @@
 import xml.etree.ElementTree as XML
 from event import *
 
-DEBUG = 0
-
 
 class Comments:
     def __init__(self) -> None:
@@ -77,7 +75,7 @@ class Comments:
         evar1 = int(data[4], 16)  # ???
         event_variation = int(data[5], 16)
 
-        if DEBUG:
+        if __debug__:
             print(
                 "\nRaw:\n\tprefix: {}\n\tresult: {}\n\tloc9: {}\n\tvar: {}".format(
                     event_prefix, event_result, evar1, event_variation
@@ -142,7 +140,7 @@ class Comments:
         event_prefix = event.type // 100
         event_type = event.type
 
-        if DEBUG:
+        if __debug__:
             print(
                 f"RAW2:\n\tloc3: {loc3}\n\tloc10: {loc10}\n\ttype: {event_type}\n\tprefix: {event_prefix}"
             )
@@ -206,7 +204,7 @@ class Comments:
         event.player1obj = p1
         event.player2obj = p2
 
-        if DEBUG:
+        if __debug__:
             print(event.to_string(p1, p2))
 
         if "$player1$" in text:
@@ -239,7 +237,8 @@ class Comments:
             text = text.replace("$team1$", teams[t1].name)
 
         event.comment = text
-        print(event.to_string(p1, p2))
+        if __debug__:
+            print(event.to_string(p1, p2))
 
         return text
 

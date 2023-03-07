@@ -58,12 +58,12 @@ class ShotEvent(BaseEvent):
 
     def is_3pt(self):
         return self.shot_type in (
-            ShotType.DEFAULT_THREE_POINTER,
-            ShotType.LONG_THREE_POINTER,
-            ShotType.WING_THREE_POINTER,
-            ShotType.CORNER_THREE_POINTER,
-            ShotType.TOPKEY_THREE_POINTER,
-            ShotType.HALF_COURT_THREE_POINTER,
+            ShotType.THREE_POINTER_DEFAULT,
+            ShotType.THREE_POINTER_LONG,
+            ShotType.THREE_POINTER_WING,
+            ShotType.THREE_POINTER_CORNER,
+            ShotType.THREE_POINTER_TOPKEY,
+            ShotType.THREE_POINTER_HALFCOURT,
         )
 
     def is_blocked(self):
@@ -732,7 +732,8 @@ def convert(events: list[BBEvent]) -> list[BaseEvent]:
         elif etype == 963:
             base_events.append(BreakEvent(comments, clocks, BreakType.END_OF_HALF, -1))
         else:
-            print(f"Unknown event {etype}")
+            if etype != -100:
+                print(f"Unknown event {etype}")
 
     return base_events
 

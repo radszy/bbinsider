@@ -22,6 +22,10 @@ class Team:
         self.last_update = 0
         self.shot_chart = ShotChart()
 
+        self.verbose = False
+        self.off_strategy = "~unknown~"
+        self.def_strategy = "~unknown~"
+
     def set_starter(self, pid: int, pos: int):
         self.active[pos] = self.players[pid]
         self.players[pid].starter = True
@@ -30,7 +34,9 @@ class Team:
         pout = self.players[player_out]
         pin = self.players[player_in]
 
-        print(f"{str(sub_type)} - OUT: {pout.name}, IN: {pin.name}")
+        if self.verbose:
+            print(f"{str(sub_type)} - OUT: {pout.name}, IN: {pin.name}")
+
         if sub_type == SubType.SUB_PG:
             self.active[0] = pin
         elif sub_type == SubType.SUB_SG:
@@ -60,9 +66,10 @@ class Team:
         self.active[pos1] = p1
         self.active[pos2] = p2
 
-        print(
-            f"SWAP {self.name} - {p1.name} to {pos_name[pos1]} and {p2.name} to {pos_name[pos2]}"
-        )
+        if self.verbose:
+            print(
+                f"SWAP {self.name} - {p1.name} to {pos_name[pos1]} and {p2.name} to {pos_name[pos2]}"
+            )
 
     def update_minutes(self, gameclock: int):
         secs = gameclock - self.last_update
@@ -73,10 +80,11 @@ class Team:
         self.active[3].add_stats(Statistic.SecsPF, secs)
         self.active[4].add_stats(Statistic.SecsC, secs)
 
-        for player in self.active:
-            print(
-                f"MINUTES {self.short} - {player.name} +{secs}s = {player.secs_total()}"
-            )
+        if self.verbose:
+            for player in self.active:
+                print(
+                    f"MINUTES {self.short} - {player.name} +{secs}s = {player.secs_total()}"
+                )
 
         self.last_update = gameclock
 
@@ -85,10 +93,14 @@ class Team:
 
     def add_stats(self, stat: Statistic, val: int, pid: Optional[int] = None):
         if isinstance(pid, int):
-            print(f"{self.name},  {self.players[pid - 1].name},  {stat.name}: {val}")
+            if self.verbose:
+                print(
+                    f"{self.name},  {self.players[pid - 1].name},  {stat.name}: {val}"
+                )
             self.players[pid - 1].stats.add(stat, val)
         else:
-            print(f"{self.name},  --  {stat.name}: {val}")
+            if self.verbose:
+                print(f"{self.name},  --  {stat.name}: {val}")
         self.stats.add(stat, val)
 
     def push_stat_sheet(self):
@@ -162,18 +174,20 @@ class Team:
 
             def p_stats_eql(stat: Statistic):
                 if player.stats.full.sheet[stat] != other.stats.full.sheet[stat]:
-                    print(
-                        f"Not eql: {player.name} - {str(stat)}: {player.stats.full.sheet[stat]} != {other.stats.full.sheet[stat]}"
-                    )
+                    if __debug__:
+                        print(
+                            f"Not eql: {player.name} - {str(stat)}: {player.stats.full.sheet[stat]} != {other.stats.full.sheet[stat]}"
+                        )
                     return False
                 return True
 
-            print(
-                player.name,
-                player.stats.full.minutes() == other.stats.full.minutes(),
-                player.stats.full.minutes(),
-                other.stats.full.minutes(),
-            )
+            if __debug__:
+                print(
+                    player.name,
+                    player.stats.full.minutes() == other.stats.full.minutes(),
+                    player.stats.full.minutes(),
+                    other.stats.full.minutes(),
+                )
 
             player_eql &= (
                 player.id == other.id
