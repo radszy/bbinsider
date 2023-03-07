@@ -283,6 +283,18 @@ def main():
         table.append(SEPARATING_LINE)
         table.append(
             [
+                "PUTBACK",
+                *sum_shot_types(
+                    (
+                        "ShotType.PUTBACK_DUNK",
+                        "ShotType.REBOUND_SHOT",
+                        "ShotType.TIPIN",
+                    )
+                ),
+            ]
+        )
+        table.append(
+            [
                 "CLOSE RANGE",
                 *sum_shot_types(
                     (
@@ -293,18 +305,6 @@ def main():
                         "ShotType.HOOK",
                         "ShotType.FADE_AWAY",
                         "ShotType.POST_UP_MOVE",
-                    )
-                ),
-            ]
-        )
-        table.append(
-            [
-                "PUTBACK",
-                *sum_shot_types(
-                    (
-                        "ShotType.PUTBACK_DUNK",
-                        "ShotType.REBOUND_SHOT",
-                        "ShotType.TIPIN",
                     )
                 ),
             ]
@@ -329,6 +329,38 @@ def main():
                 "LONG RANGE",
                 *sum_shot_types(
                     (
+                        "ShotType.THREE_POINTER_DEFAULT",
+                        "ShotType.THREE_POINTER_TOPKEY",
+                        "ShotType.THREE_POINTER_WING",
+                        "ShotType.THREE_POINTER_CORNER",
+                        "ShotType.THREE_POINTER_LONG",
+                        "ShotType.THREE_POINTER_HALFCOURT",
+                    )
+                ),
+            ]
+        )
+        table.append(SEPARATING_LINE)
+        table.append(
+            [
+                "TOTAL",
+                *sum_shot_types(
+                    (
+                        "ShotType.PUTBACK_DUNK",
+                        "ShotType.REBOUND_SHOT",
+                        "ShotType.TIPIN",
+                        "ShotType.DUNK1",
+                        "ShotType.DUNK2",
+                        "ShotType.LAYUP",
+                        "ShotType.DRIVING_LAYUP",
+                        "ShotType.HOOK",
+                        "ShotType.FADE_AWAY",
+                        "ShotType.POST_UP_MOVE",
+                        "ShotType.TWO_POINTER_DEFAULT",
+                        "ShotType.TWO_POINTER_BASELINE",
+                        "ShotType.TWO_POINTER_ELBOW",
+                        "ShotType.TWO_POINTER_TOPKEY",
+                        "ShotType.TWO_POINTER_WING",
+                        "ShotType.OFF_DRIBBLE_JUMP_SHOT",
                         "ShotType.THREE_POINTER_DEFAULT",
                         "ShotType.THREE_POINTER_TOPKEY",
                         "ShotType.THREE_POINTER_WING",
