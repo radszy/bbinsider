@@ -3604,7 +3604,7 @@
             "gameclock": 3,
             "shotclock": 0,
             "comments": [
-                "Jump ball won by J. Jagodziak (D)."
+                "Jump ball won by J. Jagodziak (H)."
             ]
         },
         {
@@ -3621,9 +3621,9 @@
             "shot_pos_x": 364,
             "shot_pos_y": 14,
             "comments": [
-                "J. Jagodziak (D) opens up the play with a pass to E. Nejman (D). E. Nejman (D) dribbles baseline and pulls up for a jumper.",
+                "J. Jagodziak (H) opens up the play with a pass to E. Nejman (H). E. Nejman (H) dribbles baseline and pulls up for a jumper.",
                 "Scored.",
-                "The shot was assisted by J. Jagodziak (D)."
+                "The shot was assisted by J. Jagodziak (H)."
             ]
         },
         {
@@ -3640,9 +3640,9 @@
             "shot_pos_x": 87,
             "shot_pos_y": 166,
             "comments": [
-                "A. Brzezicki (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) attempts a three-point shot from the wing.",
+                "A. Brzezicki (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) attempts a three-point shot from the wing.",
                 "Scored.",
-                "The shot was assisted by A. Brzezicki (W)."
+                "The shot was assisted by A. Brzezicki (A)."
             ]
         },
         {
@@ -3655,7 +3655,7 @@
             "gameclock": 56,
             "shotclock": 4,
             "comments": [
-                "A. Brzezicki (W) stole the ball."
+                "A. Brzezicki (A) stole the ball."
             ]
         },
         {
@@ -3672,7 +3672,7 @@
             "shot_pos_x": 27,
             "shot_pos_y": 85,
             "comments": [
-                "A. Magoński (W) opens up the play with a pass to A. Szyszka (W). A. Szyszka (W) tries a driving layup.",
+                "A. Magoński (A) opens up the play with a pass to A. Szyszka (A). A. Szyszka (A) tries a driving layup.",
                 "Shot missed."
             ]
         },
@@ -3686,7 +3686,7 @@
             "gameclock": 65,
             "shotclock": 15,
             "comments": [
-                "N. Guz (W) hustles for the offensive rebound."
+                "N. Guz (A) hustles for the offensive rebound."
             ]
         },
         {
@@ -3703,7 +3703,7 @@
             "shot_pos_x": 45,
             "shot_pos_y": 87,
             "comments": [
-                "N. Guz (W) collects the rebound and goes back up for the shot with S. Sztaba (D) right in his face.",
+                "N. Guz (A) collects the rebound and goes back up for the shot with S. Sztaba (H) right in his face.",
                 "Shot missed."
             ]
         },
@@ -3717,7 +3717,7 @@
             "gameclock": 67,
             "shotclock": 22,
             "comments": [
-                "N. Skórkiewicz (D) corrals the missed shot."
+                "N. Skórkiewicz (H) corrals the missed shot."
             ]
         },
         {
@@ -3734,7 +3734,7 @@
             "shot_pos_x": 319,
             "shot_pos_y": 120,
             "comments": [
-                "N. Skórkiewicz (D) gets off a great pass to J. Jagodziak (D). J. Jagodziak (D) attempts a hook shot.",
+                "N. Skórkiewicz (H) gets off a great pass to J. Jagodziak (H). J. Jagodziak (H) attempts a hook shot.",
                 "Shot missed."
             ]
         },
@@ -3748,7 +3748,7 @@
             "gameclock": 90,
             "shotclock": 1,
             "comments": [
-                "The defensive rebound is snapped up by N. Guz (W)."
+                "The defensive rebound is snapped up by N. Guz (A)."
             ]
         },
         {
@@ -3765,7 +3765,7 @@
             "shot_pos_x": 13,
             "shot_pos_y": 60,
             "comments": [
-                "N. Guz (W) gets free for a baseline jumper off of a nice pass from A. Magoński (W).",
+                "N. Guz (A) gets free for a baseline jumper off of a nice pass from A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -3779,7 +3779,7 @@
             "gameclock": 101,
             "shotclock": 13,
             "comments": [
-                "A. Brzezicki (W) boxes out his man and snags the offensive rebound."
+                "A. Brzezicki (A) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -3796,7 +3796,7 @@
             "shot_pos_x": 36,
             "shot_pos_y": 68,
             "comments": [
-                "A. Brzezicki (W) collects the rebound and goes back up for the shot after J. Jagodziak (D) backed off slightly.",
+                "A. Brzezicki (A) collects the rebound and goes back up for the shot after J. Jagodziak (H) backed off slightly.",
                 "Goaltending called."
             ]
         },
@@ -3810,7 +3810,7 @@
             "gameclock": 124,
             "shotclock": 3,
             "comments": [
-                "Pass intercepted by A. Magoński (W)."
+                "Pass intercepted by A. Magoński (A)."
             ]
         },
         {
@@ -3827,9 +3827,9 @@
             "shot_pos_x": 33,
             "shot_pos_y": 81,
             "comments": [
-                "N. Guz (W)  finds R. Stokowski (W) in space. R. Stokowski (W) tries a driving layup.",
+                "N. Guz (A)  finds R. Stokowski (A) in space. R. Stokowski (A) tries a driving layup.",
                 "Scored.",
-                "The shot was assisted by N. Guz (W)."
+                "The shot was assisted by N. Guz (A)."
             ]
         },
         {
@@ -3846,7 +3846,7 @@
             "shot_pos_x": 299,
             "shot_pos_y": 75,
             "comments": [
-                "E. Nejman (D) attempts a jumper from the elbow, guarded closely by A. Magoński (W).",
+                "E. Nejman (H) attempts a jumper from the elbow, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -3861,7 +3861,7 @@
             "gameclock": 155,
             "shotclock": 0,
             "comments": [
-                "A. Magoński (W) is called for a shooting foul."
+                "A. Magoński (A) is called for a shooting foul."
             ]
         },
         {
@@ -3872,7 +3872,7 @@
             "gameclock": 155,
             "shotclock": 0,
             "comments": [
-                "E. Nejman (D)'s free throw attempt is up and good."
+                "E. Nejman (H)'s free throw attempt is up and good."
             ]
         },
         {
@@ -3883,7 +3883,7 @@
             "gameclock": 155,
             "shotclock": 0,
             "comments": [
-                "E. Nejman (D) sinks the free throw."
+                "E. Nejman (H) sinks the free throw."
             ]
         },
         {
@@ -3900,7 +3900,7 @@
             "shot_pos_x": 4,
             "shot_pos_y": 164,
             "comments": [
-                "A. Magoński (W) attempts a baseline jumper, guarded closely by E. Nejman (D).",
+                "A. Magoński (A) attempts a baseline jumper, guarded closely by E. Nejman (H).",
                 "Shot missed."
             ]
         },
@@ -3914,7 +3914,7 @@
             "gameclock": 170,
             "shotclock": 9,
             "comments": [
-                "The defensive rebound is snapped up by S. Sztaba (D)."
+                "The defensive rebound is snapped up by S. Sztaba (H)."
             ]
         },
         {
@@ -3931,7 +3931,7 @@
             "shot_pos_x": 289,
             "shot_pos_y": 49,
             "comments": [
-                "R. Barresi (D) attempts a jumper from the elbow.",
+                "R. Barresi (H) attempts a jumper from the elbow.",
                 "Shot missed."
             ]
         },
@@ -3945,7 +3945,7 @@
             "gameclock": 181,
             "shotclock": 13,
             "comments": [
-                "N. Guz (W) corrals the missed shot."
+                "N. Guz (A) corrals the missed shot."
             ]
         },
         {
@@ -3962,7 +3962,7 @@
             "shot_pos_x": 53,
             "shot_pos_y": 76,
             "comments": [
-                "A. Magoński (W) tries a driving layup under pressure from E. Nejman (D).",
+                "A. Magoński (A) tries a driving layup under pressure from E. Nejman (H).",
                 "Shot missed."
             ]
         },
@@ -3977,7 +3977,7 @@
             "gameclock": 195,
             "shotclock": 10,
             "comments": [
-                "E. Nejman (D) is called for a shooting foul."
+                "E. Nejman (H) is called for a shooting foul."
             ]
         },
         {
@@ -3988,7 +3988,7 @@
             "gameclock": 195,
             "shotclock": 0,
             "comments": [
-                "The free throw by A. Magoński (W) is up and in."
+                "The free throw by A. Magoński (A) is up and in."
             ]
         },
         {
@@ -3999,7 +3999,7 @@
             "gameclock": 195,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by A. Magoński (W)."
+                "Free throw missed by A. Magoński (A)."
             ]
         },
         {
@@ -4012,7 +4012,7 @@
             "gameclock": 195,
             "shotclock": 10,
             "comments": [
-                "The defensive rebound is snapped up by J. Jagodziak (D)."
+                "The defensive rebound is snapped up by J. Jagodziak (H)."
             ]
         },
         {
@@ -4029,7 +4029,7 @@
             "shot_pos_x": 291,
             "shot_pos_y": 4,
             "comments": [
-                "R. Barresi (D) attempts a three-point shot from the wing.",
+                "R. Barresi (H) attempts a three-point shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -4043,7 +4043,7 @@
             "gameclock": 211,
             "shotclock": 8,
             "comments": [
-                "N. Skórkiewicz (D) flew in from the wing to grab the offensive rebound."
+                "N. Skórkiewicz (H) flew in from the wing to grab the offensive rebound."
             ]
         },
         {
@@ -4056,7 +4056,7 @@
             "gameclock": 224,
             "shotclock": 11,
             "comments": [
-                "Pass intercepted by R. Stokowski (W)."
+                "Pass intercepted by R. Stokowski (A)."
             ]
         },
         {
@@ -4073,9 +4073,9 @@
             "shot_pos_x": 9,
             "shot_pos_y": 44,
             "comments": [
-                "A. Szyszka (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) attempts a baseline jumper.",
+                "A. Szyszka (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) attempts a baseline jumper.",
                 "Scored.",
-                "The shot was assisted by A. Szyszka (W)."
+                "The shot was assisted by A. Szyszka (A)."
             ]
         },
         {
@@ -4088,7 +4088,7 @@
             "gameclock": 244,
             "shotclock": 13,
             "comments": [
-                "Pass intercepted by R. Stokowski (W)."
+                "Pass intercepted by R. Stokowski (A)."
             ]
         },
         {
@@ -4105,9 +4105,9 @@
             "shot_pos_x": 25,
             "shot_pos_y": 89,
             "comments": [
-                "A. Szyszka (W) threads a pass through the defense and finds A. Brzezicki (W).  A. Brzezicki (W) goes baseline and stretches out for the dunk.",
+                "A. Szyszka (A) threads a pass through the defense and finds A. Brzezicki (A).  A. Brzezicki (A) goes baseline and stretches out for the dunk.",
                 "Scored.",
-                "The shot was assisted by A. Szyszka (W)."
+                "The shot was assisted by A. Szyszka (A)."
             ]
         },
         {
@@ -4124,9 +4124,9 @@
             "shot_pos_x": 314,
             "shot_pos_y": 64,
             "comments": [
-                "E. Nejman (D) gets off a great pass to N. Skórkiewicz (D). N. Skórkiewicz (D) slaps the backboard as he puts up the lay-in.",
+                "E. Nejman (H) gets off a great pass to N. Skórkiewicz (H). N. Skórkiewicz (H) slaps the backboard as he puts up the lay-in.",
                 "Scored.",
-                "The shot was assisted by E. Nejman (D)."
+                "The shot was assisted by E. Nejman (H)."
             ]
         },
         {
@@ -4139,7 +4139,7 @@
             "gameclock": 268,
             "shotclock": 19,
             "comments": [
-                "R. Stokowski (W) threw the ball away."
+                "R. Stokowski (A) threw the ball away."
             ]
         },
         {
@@ -4151,7 +4151,7 @@
             "gameclock": 268,
             "shotclock": 19,
             "comments": [
-                "J. Cerra (D) comes into the game to replace E. Nejman (D) at PG."
+                "J. Cerra (H) comes into the game to replace E. Nejman (H) at PG."
             ]
         },
         {
@@ -4163,7 +4163,7 @@
             "gameclock": 268,
             "shotclock": 19,
             "comments": [
-                "Change at PF: D. Strobel (D) in. S. Sztaba (D) out."
+                "Change at PF: D. Strobel (H) in. S. Sztaba (H) out."
             ]
         },
         {
@@ -4180,7 +4180,7 @@
             "shot_pos_x": 364,
             "shot_pos_y": 166,
             "comments": [
-                "R. Barresi (D) attempts a baseline jumper, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) attempts a baseline jumper, guarded closely by A. Szyszka (A).",
                 "Shot missed."
             ]
         },
@@ -4194,7 +4194,7 @@
             "gameclock": 292,
             "shotclock": 0,
             "comments": [
-                "A. Brzezicki (W) corrals the missed shot."
+                "A. Brzezicki (A) corrals the missed shot."
             ]
         },
         {
@@ -4208,7 +4208,7 @@
             "gameclock": 306,
             "shotclock": 10,
             "comments": [
-                "Foul called on N. Skórkiewicz (D)."
+                "Foul called on N. Skórkiewicz (H)."
             ]
         },
         {
@@ -4220,7 +4220,7 @@
             "gameclock": 306,
             "shotclock": 0,
             "comments": [
-                "Z. Rygol (D) brought in for N. Skórkiewicz (D) at SF."
+                "Z. Rygol (H) brought in for N. Skórkiewicz (H) at SF."
             ]
         },
         {
@@ -4232,7 +4232,7 @@
             "gameclock": 306,
             "shotclock": 0,
             "comments": [
-                "A. Myga (W) brought in for N. Guz (W) at PF."
+                "A. Myga (A) brought in for N. Guz (A) at PF."
             ]
         },
         {
@@ -4244,7 +4244,7 @@
             "gameclock": 306,
             "shotclock": 0,
             "comments": [
-                "H. Achremowicz (W) came off the bench to replace A. Brzezicki (W) at center."
+                "H. Achremowicz (A) came off the bench to replace A. Brzezicki (A) at center."
             ]
         },
         {
@@ -4261,7 +4261,7 @@
             "shot_pos_x": 25,
             "shot_pos_y": 123,
             "comments": [
-                "A. Szyszka (W) opens up the play with a pass to H. Achremowicz (W). H. Achremowicz (W) tries a driving layup.",
+                "A. Szyszka (A) opens up the play with a pass to H. Achremowicz (A). H. Achremowicz (A) tries a driving layup.",
                 "Shot missed."
             ]
         },
@@ -4276,7 +4276,7 @@
             "gameclock": 320,
             "shotclock": 0,
             "comments": [
-                "Foul called on H. Achremowicz (W)."
+                "Foul called on H. Achremowicz (A)."
             ]
         },
         {
@@ -4288,7 +4288,7 @@
             "gameclock": 320,
             "shotclock": 0,
             "comments": [
-                "R. Stokowski (W) was replaced by G. Fabis (W) at SF."
+                "R. Stokowski (A) was replaced by G. Fabis (A) at SF."
             ]
         },
         {
@@ -4305,7 +4305,7 @@
             "shot_pos_x": 321,
             "shot_pos_y": 81,
             "comments": [
-                "D. Strobel (D) opens up the play with a pass to J. Jagodziak (D). J. Jagodziak (D) switches hands in mid-air on his way to the basket.",
+                "D. Strobel (H) opens up the play with a pass to J. Jagodziak (H). J. Jagodziak (H) switches hands in mid-air on his way to the basket.",
                 "Shot missed."
             ]
         },
@@ -4319,7 +4319,7 @@
             "gameclock": 341,
             "shotclock": 0,
             "comments": [
-                "A. Magoński (W) pulls down a defensive rebound."
+                "A. Magoński (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -4336,9 +4336,9 @@
             "shot_pos_x": 87,
             "shot_pos_y": 120,
             "comments": [
-                "G. Fabis (W) pulls up at the top of the key and takes a shot.",
+                "G. Fabis (A) pulls up at the top of the key and takes a shot.",
                 "Scored.",
-                "A. Myga (W) credited with the assist."
+                "A. Myga (A) credited with the assist."
             ]
         },
         {
@@ -4351,7 +4351,7 @@
             "gameclock": 359,
             "shotclock": 17,
             "comments": [
-                "J. Cerra (D) threw the ball away."
+                "J. Cerra (H) threw the ball away."
             ]
         },
         {
@@ -4363,7 +4363,7 @@
             "gameclock": 359,
             "shotclock": 17,
             "comments": [
-                "E. Nejman (D) comes into the game to replace J. Cerra (D) at PG."
+                "E. Nejman (H) comes into the game to replace J. Cerra (H) at PG."
             ]
         },
         {
@@ -4375,7 +4375,7 @@
             "gameclock": 359,
             "shotclock": 17,
             "comments": [
-                "R. Pawelski (D) substituted for R. Barresi (D) at SG."
+                "R. Pawelski (H) substituted for R. Barresi (H) at SG."
             ]
         },
         {
@@ -4392,7 +4392,7 @@
             "shot_pos_x": 94,
             "shot_pos_y": 114,
             "comments": [
-                "A. Szyszka (W) fires from the top of the key off of a nice pass from H. Achremowicz (W).",
+                "A. Szyszka (A) fires from the top of the key off of a nice pass from H. Achremowicz (A).",
                 "Shot missed."
             ]
         },
@@ -4423,7 +4423,7 @@
             "shot_pos_x": 275,
             "shot_pos_y": 117,
             "comments": [
-                "D. Strobel (D) pulls up at the top of the key and takes a shot, guarded closely by A. Myga (W).",
+                "D. Strobel (H) pulls up at the top of the key and takes a shot, guarded closely by A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -4437,7 +4437,7 @@
             "gameclock": 384,
             "shotclock": 10,
             "comments": [
-                "E. Nejman (D) boxes out his man and snags the offensive rebound."
+                "E. Nejman (H) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -4450,7 +4450,7 @@
             "gameclock": 393,
             "shotclock": 15,
             "comments": [
-                "Pass intercepted by H. Achremowicz (W)."
+                "Pass intercepted by H. Achremowicz (A)."
             ]
         },
         {
@@ -4467,9 +4467,9 @@
             "shot_pos_x": 27,
             "shot_pos_y": 125,
             "comments": [
-                "H. Achremowicz (W) gets off a great pass to G. Fabis (W). G. Fabis (W) goes up strong for an inside shot.",
+                "H. Achremowicz (A) gets off a great pass to G. Fabis (A). G. Fabis (A) goes up strong for an inside shot.",
                 "Scored.",
-                "H. Achremowicz (W) credited with the assist."
+                "H. Achremowicz (A) credited with the assist."
             ]
         },
         {
@@ -4482,7 +4482,7 @@
             "gameclock": 416,
             "shotclock": 4,
             "comments": [
-                "Pass intercepted by G. Fabis (W)."
+                "Pass intercepted by G. Fabis (A)."
             ]
         },
         {
@@ -4499,7 +4499,7 @@
             "shot_pos_x": 39,
             "shot_pos_y": 63,
             "comments": [
-                "H. Achremowicz (W) backs down his defender and shoots from close range off of a nice pass from A. Myga (W).",
+                "H. Achremowicz (A) backs down his defender and shoots from close range off of a nice pass from A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -4514,7 +4514,7 @@
             "gameclock": 431,
             "shotclock": 9,
             "comments": [
-                "J. Jagodziak (D) is called for a shooting foul."
+                "J. Jagodziak (H) is called for a shooting foul."
             ]
         },
         {
@@ -4525,7 +4525,7 @@
             "gameclock": 431,
             "shotclock": 0,
             "comments": [
-                "Free throw made by H. Achremowicz (W)."
+                "Free throw made by H. Achremowicz (A)."
             ]
         },
         {
@@ -4537,7 +4537,7 @@
             "gameclock": 431,
             "shotclock": 9,
             "comments": [
-                "N. Skórkiewicz (D) brought in for Z. Rygol (D) at SF."
+                "N. Skórkiewicz (H) brought in for Z. Rygol (H) at SF."
             ]
         },
         {
@@ -4549,7 +4549,7 @@
             "gameclock": 431,
             "shotclock": 9,
             "comments": [
-                "Change at PF: S. Sztaba (D) in. D. Strobel (D) out."
+                "Change at PF: S. Sztaba (H) in. D. Strobel (H) out."
             ]
         },
         {
@@ -4561,7 +4561,7 @@
             "gameclock": 431,
             "shotclock": 9,
             "comments": [
-                "G. Fabis (W) was replaced by R. Stokowski (W) at SF."
+                "G. Fabis (A) was replaced by R. Stokowski (A) at SF."
             ]
         },
         {
@@ -4573,7 +4573,7 @@
             "gameclock": 431,
             "shotclock": 9,
             "comments": [
-                "N. Guz (W) brought in for A. Myga (W) at PF."
+                "N. Guz (A) brought in for A. Myga (A) at PF."
             ]
         },
         {
@@ -4584,7 +4584,7 @@
             "gameclock": 431,
             "shotclock": 0,
             "comments": [
-                "H. Achremowicz (W) throws up a brick from the line."
+                "H. Achremowicz (A) throws up a brick from the line."
             ]
         },
         {
@@ -4597,7 +4597,7 @@
             "gameclock": 431,
             "shotclock": 9,
             "comments": [
-                "J. Jagodziak (D) ends the possession with a defensive rebound."
+                "J. Jagodziak (H) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -4614,7 +4614,7 @@
             "shot_pos_x": 333,
             "shot_pos_y": 53,
             "comments": [
-                "N. Skórkiewicz (D) goes up strong for an inside shot, guarded closely by R. Stokowski (W).",
+                "N. Skórkiewicz (H) goes up strong for an inside shot, guarded closely by R. Stokowski (A).",
                 "Shot missed."
             ]
         },
@@ -4628,7 +4628,7 @@
             "gameclock": 451,
             "shotclock": 4,
             "comments": [
-                "N. Guz (W) ends the possession with a defensive rebound."
+                "N. Guz (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -4645,7 +4645,7 @@
             "shot_pos_x": 67,
             "shot_pos_y": 46,
             "comments": [
-                "H. Achremowicz (W) gets off a great pass to N. Guz (W). N. Guz (W) attempts a jump-shot from the wing.",
+                "H. Achremowicz (A) gets off a great pass to N. Guz (A). N. Guz (A) attempts a jump-shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -4659,7 +4659,7 @@
             "gameclock": 465,
             "shotclock": 10,
             "comments": [
-                "H. Achremowicz (W) boxes out his man and snags the offensive rebound."
+                "H. Achremowicz (A) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -4676,7 +4676,7 @@
             "shot_pos_x": 58,
             "shot_pos_y": 79,
             "comments": [
-                "H. Achremowicz (W) collects the rebound and goes back up for the shot under pressure from J. Jagodziak (D).",
+                "H. Achremowicz (A) collects the rebound and goes back up for the shot under pressure from J. Jagodziak (H).",
                 "Scored."
             ]
         },
@@ -4694,7 +4694,7 @@
             "shot_pos_x": 284,
             "shot_pos_y": 116,
             "comments": [
-                "N. Skórkiewicz (D) gets off a great pass to E. Nejman (D). E. Nejman (D) pulls up at the top of the key and takes a shot.",
+                "N. Skórkiewicz (H) gets off a great pass to E. Nejman (H). E. Nejman (H) pulls up at the top of the key and takes a shot.",
                 "Shot missed."
             ]
         },
@@ -4708,7 +4708,7 @@
             "gameclock": 478,
             "shotclock": 13,
             "comments": [
-                "The defensive rebound is snapped up by H. Achremowicz (W)."
+                "The defensive rebound is snapped up by H. Achremowicz (A)."
             ]
         },
         {
@@ -4725,7 +4725,7 @@
             "shot_pos_x": 55,
             "shot_pos_y": 124,
             "comments": [
-                "N. Guz (W) tries a driving layup, guarded closely by S. Sztaba (D).",
+                "N. Guz (A) tries a driving layup, guarded closely by S. Sztaba (H).",
                 "Shot missed."
             ]
         },
@@ -4739,7 +4739,7 @@
             "gameclock": 492,
             "shotclock": 10,
             "comments": [
-                "H. Achremowicz (W) boxes out his man and snags the offensive rebound."
+                "H. Achremowicz (A) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -4756,7 +4756,7 @@
             "shot_pos_x": 25,
             "shot_pos_y": 106,
             "comments": [
-                "A. Szyszka (W) tries a driving layup over R. Pawelski (D).",
+                "A. Szyszka (A) tries a driving layup over R. Pawelski (H).",
                 "Scored."
             ]
         },
@@ -4774,9 +4774,9 @@
             "shot_pos_x": 328,
             "shot_pos_y": 105,
             "comments": [
-                "N. Skórkiewicz (D)  finds R. Pawelski (D) in space. R. Pawelski (D) goes way up to snag an alley-oop pass.",
+                "N. Skórkiewicz (H)  finds R. Pawelski (H) in space. R. Pawelski (H) goes way up to snag an alley-oop pass.",
                 "Scored.",
-                "The shot was assisted by N. Skórkiewicz (D)."
+                "The shot was assisted by N. Skórkiewicz (H)."
             ]
         },
         {
@@ -4793,7 +4793,7 @@
             "shot_pos_x": 35,
             "shot_pos_y": 136,
             "comments": [
-                "Bodies go flying as A. Magoński (W) plows his way to the basket.",
+                "Bodies go flying as A. Magoński (A) plows his way to the basket.",
                 "Shot missed."
             ]
         },
@@ -4808,7 +4808,7 @@
             "gameclock": 538,
             "shotclock": 12,
             "comments": [
-                "E. Nejman (D) is called for a shooting foul."
+                "E. Nejman (H) is called for a shooting foul."
             ]
         },
         {
@@ -4819,7 +4819,7 @@
             "gameclock": 538,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by A. Magoński (W)."
+                "Free throw missed by A. Magoński (A)."
             ]
         },
         {
@@ -4831,7 +4831,7 @@
             "gameclock": 538,
             "shotclock": 12,
             "comments": [
-                "J. Cerra (D) will come off the bench to replace E. Nejman (D) at PG."
+                "J. Cerra (H) will come off the bench to replace E. Nejman (H) at PG."
             ]
         },
         {
@@ -4843,7 +4843,7 @@
             "gameclock": 538,
             "shotclock": 12,
             "comments": [
-                "R. Barresi (D) substituted for R. Pawelski (D) at SG."
+                "R. Barresi (H) substituted for R. Pawelski (H) at SG."
             ]
         },
         {
@@ -4855,7 +4855,7 @@
             "gameclock": 538,
             "shotclock": 12,
             "comments": [
-                "A. Brzezicki (W) came off the bench to replace H. Achremowicz (W) at center."
+                "A. Brzezicki (A) came off the bench to replace H. Achremowicz (A) at center."
             ]
         },
         {
@@ -4866,7 +4866,7 @@
             "gameclock": 538,
             "shotclock": 0,
             "comments": [
-                "The free throw by A. Magoński (W) is up and in."
+                "The free throw by A. Magoński (A) is up and in."
             ]
         },
         {
@@ -4883,7 +4883,7 @@
             "shot_pos_x": 327,
             "shot_pos_y": 113,
             "comments": [
-                "S. Sztaba (D) gets off a great pass to N. Skórkiewicz (D). N. Skórkiewicz (D) goes baseline and tries a reverse lay-up.",
+                "S. Sztaba (H) gets off a great pass to N. Skórkiewicz (H). N. Skórkiewicz (H) goes baseline and tries a reverse lay-up.",
                 "Shot missed."
             ]
         },
@@ -4897,7 +4897,7 @@
             "gameclock": 552,
             "shotclock": 10,
             "comments": [
-                "J. Cerra (D) grabs the offensive rebound."
+                "J. Cerra (H) grabs the offensive rebound."
             ]
         },
         {
@@ -4914,7 +4914,7 @@
             "shot_pos_x": 341,
             "shot_pos_y": 55,
             "comments": [
-                "J. Cerra (D) tries a driving layup, guarded closely by A. Magoński (W).",
+                "J. Cerra (H) tries a driving layup, guarded closely by A. Magoński (A).",
                 "Shot blocked."
             ]
         },
@@ -4928,7 +4928,7 @@
             "gameclock": 573,
             "shotclock": 3,
             "comments": [
-                "The defensive rebound is snapped up by A. Magoński (W)."
+                "The defensive rebound is snapped up by A. Magoński (A)."
             ]
         },
         {
@@ -4941,7 +4941,7 @@
             "gameclock": 587,
             "shotclock": 10,
             "comments": [
-                "A. Brzezicki (W) lost the handle! Ball ends up in the stands."
+                "A. Brzezicki (A) lost the handle! Ball ends up in the stands."
             ]
         },
         {
@@ -4953,7 +4953,7 @@
             "gameclock": 587,
             "shotclock": 10,
             "comments": [
-                "Z. Rygol (D) brought in for N. Skórkiewicz (D) at SF."
+                "Z. Rygol (H) brought in for N. Skórkiewicz (H) at SF."
             ]
         },
         {
@@ -4965,7 +4965,7 @@
             "gameclock": 587,
             "shotclock": 10,
             "comments": [
-                "R. Stokowski (W) was replaced by G. Fabis (W) at SF."
+                "R. Stokowski (A) was replaced by G. Fabis (A) at SF."
             ]
         },
         {
@@ -4977,7 +4977,7 @@
             "gameclock": 587,
             "shotclock": 10,
             "comments": [
-                "A. Myga (W) brought in for N. Guz (W) at PF."
+                "A. Myga (A) brought in for N. Guz (A) at PF."
             ]
         },
         {
@@ -4999,9 +4999,9 @@
             "shot_pos_x": 359,
             "shot_pos_y": 42,
             "comments": [
-                "J. Cerra (D) gets off a great pass to S. Sztaba (D). S. Sztaba (D) attempts a baseline jumper.",
+                "J. Cerra (H) gets off a great pass to S. Sztaba (H). S. Sztaba (H) attempts a baseline jumper.",
                 "Scored.",
-                "The shot was assisted by J. Cerra (D)."
+                "The shot was assisted by J. Cerra (H)."
             ]
         },
         {
@@ -5018,9 +5018,9 @@
             "shot_pos_x": 35,
             "shot_pos_y": 76,
             "comments": [
-                "A. Brzezicki (W)  finds A. Magoński (W) in space. A. Magoński (W) tries a driving layup.",
+                "A. Brzezicki (A)  finds A. Magoński (A) in space. A. Magoński (A) tries a driving layup.",
                 "Scored.",
-                "The shot was assisted by A. Brzezicki (W)."
+                "The shot was assisted by A. Brzezicki (A)."
             ]
         },
         {
@@ -5037,7 +5037,7 @@
             "shot_pos_x": 246,
             "shot_pos_y": 55,
             "comments": [
-                "R. Barresi (D) forces up a three from the top of the arc, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) forces up a three from the top of the arc, guarded closely by A. Szyszka (A).",
                 "Shot missed."
             ]
         },
@@ -5051,7 +5051,7 @@
             "gameclock": 627,
             "shotclock": 8,
             "comments": [
-                "A. Brzezicki (W) pulls down a defensive rebound."
+                "A. Brzezicki (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -5068,9 +5068,9 @@
             "shot_pos_x": 11,
             "shot_pos_y": 142,
             "comments": [
-                "G. Fabis (W) gets off a great pass to A. Myga (W). A. Myga (W) attempts a baseline jumper.",
+                "G. Fabis (A) gets off a great pass to A. Myga (A). A. Myga (A) attempts a baseline jumper.",
                 "Scored.",
-                "The shot was assisted by G. Fabis (W)."
+                "The shot was assisted by G. Fabis (A)."
             ]
         },
         {
@@ -5087,7 +5087,7 @@
             "shot_pos_x": 343,
             "shot_pos_y": 85,
             "comments": [
-                "J. Jagodziak (D) gets off a great pass to Z. Rygol (D). Z. Rygol (D) throws down a powerful two-handed dunk.",
+                "J. Jagodziak (H) gets off a great pass to Z. Rygol (H). Z. Rygol (H) throws down a powerful two-handed dunk.",
                 "Shot missed."
             ]
         },
@@ -5102,7 +5102,7 @@
             "gameclock": 653,
             "shotclock": 11,
             "comments": [
-                "G. Fabis (W) is called for a shooting foul."
+                "G. Fabis (A) is called for a shooting foul."
             ]
         },
         {
@@ -5113,7 +5113,7 @@
             "gameclock": 653,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by Z. Rygol (D)."
+                "Free throw missed by Z. Rygol (H)."
             ]
         },
         {
@@ -5125,7 +5125,7 @@
             "gameclock": 653,
             "shotclock": 11,
             "comments": [
-                "Substitution at C: N. Skórkiewicz (D) for J. Jagodziak (D)."
+                "Substitution at C: N. Skórkiewicz (H) for J. Jagodziak (H)."
             ]
         },
         {
@@ -5137,7 +5137,7 @@
             "gameclock": 653,
             "shotclock": 11,
             "comments": [
-                "G. Fabis (W) was replaced by R. Stokowski (W) at SF."
+                "G. Fabis (A) was replaced by R. Stokowski (A) at SF."
             ]
         },
         {
@@ -5149,7 +5149,7 @@
             "gameclock": 653,
             "shotclock": 11,
             "comments": [
-                "N. Guz (W) brought in for A. Myga (W) at PF."
+                "N. Guz (A) brought in for A. Myga (A) at PF."
             ]
         },
         {
@@ -5160,7 +5160,7 @@
             "gameclock": 653,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by Z. Rygol (D)."
+                "Free throw missed by Z. Rygol (H)."
             ]
         },
         {
@@ -5173,7 +5173,7 @@
             "gameclock": 653,
             "shotclock": 11,
             "comments": [
-                "A. Brzezicki (W) ends the possession with a defensive rebound."
+                "A. Brzezicki (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -5190,9 +5190,9 @@
             "shot_pos_x": 75,
             "shot_pos_y": 92,
             "comments": [
-                "R. Stokowski (W)  finds A. Brzezicki (W) in space. A. Brzezicki (W) pulls up at the top of the key and takes a shot.",
+                "R. Stokowski (A)  finds A. Brzezicki (A) in space. A. Brzezicki (A) pulls up at the top of the key and takes a shot.",
                 "Scored.",
-                "The shot was assisted by R. Stokowski (W)."
+                "The shot was assisted by R. Stokowski (A)."
             ]
         },
         {
@@ -5209,7 +5209,7 @@
             "shot_pos_x": 316,
             "shot_pos_y": 4,
             "comments": [
-                "R. Barresi (D) attempts a three-point shot from the wing, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) attempts a three-point shot from the wing, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -5227,7 +5227,7 @@
             "shot_pos_x": 34,
             "shot_pos_y": 95,
             "comments": [
-                "A. Szyszka (W) tries a driving layup, guarded closely by R. Barresi (D).",
+                "A. Szyszka (A) tries a driving layup, guarded closely by R. Barresi (H).",
                 "Shot missed."
             ]
         },
@@ -5241,7 +5241,7 @@
             "gameclock": 691,
             "shotclock": 10,
             "comments": [
-                "S. Sztaba (D) ends the possession with a defensive rebound."
+                "S. Sztaba (H) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -5258,7 +5258,7 @@
             "shot_pos_x": 341,
             "shot_pos_y": 110,
             "comments": [
-                "Bodies go flying as S. Sztaba (D) plows his way to the basket over N. Guz (W).",
+                "Bodies go flying as S. Sztaba (H) plows his way to the basket over N. Guz (A).",
                 "Shot blocked."
             ]
         },
@@ -5272,7 +5272,7 @@
             "gameclock": 712,
             "shotclock": 3,
             "comments": [
-                "N. Guz (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "N. Guz (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -5289,7 +5289,7 @@
             "shot_pos_x": 361,
             "shot_pos_y": 35,
             "comments": [
-                "Z. Rygol (D) gets off a great pass to J. Cerra (D). J. Cerra (D) attempts a baseline jumper.",
+                "Z. Rygol (H) gets off a great pass to J. Cerra (H). J. Cerra (H) attempts a baseline jumper.",
                 "Shot missed."
             ]
         },
@@ -5303,7 +5303,7 @@
             "gameclock": 715,
             "shotclock": 5,
             "comments": [
-                "The defensive rebound is snapped up by N. Guz (W)."
+                "The defensive rebound is snapped up by N. Guz (A)."
             ]
         },
         {
@@ -5320,7 +5320,7 @@
             "shot_pos_x": 16,
             "shot_pos_y": 188,
             "comments": [
-                "N. Guz (W) threads a pass through the defense and finds A. Szyszka (W).  A. Szyszka (W) fires up a three-point shot from the corner.",
+                "N. Guz (A) threads a pass through the defense and finds A. Szyszka (A).  A. Szyszka (A) fires up a three-point shot from the corner.",
                 "Shot missed."
             ]
         },
@@ -5338,7 +5338,7 @@
             "gameclock": 720,
             "shotclock": 19,
             "comments": [
-                "Z. Rygol (D) and N. Skórkiewicz (D) will swap positions on the court."
+                "Z. Rygol (H) and N. Skórkiewicz (H) will swap positions on the court."
             ]
         },
         {
@@ -5350,7 +5350,7 @@
             "gameclock": 720,
             "shotclock": 19,
             "comments": [
-                "J. Cerra (D) is headed to the bench; he'll be replaced at PG by E. Nejman (D)."
+                "J. Cerra (H) is headed to the bench; he'll be replaced at PG by E. Nejman (H)."
             ]
         },
         {
@@ -5367,7 +5367,7 @@
             "shot_pos_x": 23,
             "shot_pos_y": 106,
             "comments": [
-                "N. Guz (W) attempts a hook shot, guarded closely by S. Sztaba (D).",
+                "N. Guz (A) attempts a hook shot, guarded closely by S. Sztaba (H).",
                 "Goaltending called."
             ]
         },
@@ -5385,7 +5385,7 @@
             "shot_pos_x": 336,
             "shot_pos_y": 159,
             "comments": [
-                "E. Nejman (D) attempts a jump-shot from the wing, guarded closely by A. Magoński (W).",
+                "E. Nejman (H) attempts a jump-shot from the wing, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -5399,7 +5399,7 @@
             "gameclock": 750,
             "shotclock": 0,
             "comments": [
-                "R. Stokowski (W) corrals the missed shot."
+                "R. Stokowski (A) corrals the missed shot."
             ]
         },
         {
@@ -5416,7 +5416,7 @@
             "shot_pos_x": 96,
             "shot_pos_y": 102,
             "comments": [
-                "A. Szyszka (W) fires from the top of the key with R. Barresi (D) right in his face.",
+                "A. Szyszka (A) fires from the top of the key with R. Barresi (H) right in his face.",
                 "Scored."
             ]
         },
@@ -5434,7 +5434,7 @@
             "shot_pos_x": 308,
             "shot_pos_y": 159,
             "comments": [
-                "N. Skórkiewicz (D) attempts a jump-shot from the wing, as A. Szyszka (W) rotates over and alters his shot.",
+                "N. Skórkiewicz (H) attempts a jump-shot from the wing, as A. Szyszka (A) rotates over and alters his shot.",
                 "Shot blocked."
             ]
         },
@@ -5465,7 +5465,7 @@
             "shot_pos_x": 12,
             "shot_pos_y": 56,
             "comments": [
-                "A. Szyszka (W) opens up the play with a pass to N. Guz (W). N. Guz (W) dribbles baseline and pulls up for a jumper.",
+                "A. Szyszka (A) opens up the play with a pass to N. Guz (A). N. Guz (A) dribbles baseline and pulls up for a jumper.",
                 "Shot missed."
             ]
         },
@@ -5479,7 +5479,7 @@
             "gameclock": 799,
             "shotclock": 11,
             "comments": [
-                "Z. Rygol (D) grabs the defensive rebound."
+                "Z. Rygol (H) grabs the defensive rebound."
             ]
         },
         {
@@ -5496,7 +5496,7 @@
             "shot_pos_x": 328,
             "shot_pos_y": 144,
             "comments": [
-                "N. Skórkiewicz (D) gets off a great pass to S. Sztaba (D). S. Sztaba (D) attempts a jump-shot from the wing.",
+                "N. Skórkiewicz (H) gets off a great pass to S. Sztaba (H). S. Sztaba (H) attempts a jump-shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -5510,7 +5510,7 @@
             "gameclock": 812,
             "shotclock": 11,
             "comments": [
-                "N. Guz (W) corrals the missed shot."
+                "N. Guz (A) corrals the missed shot."
             ]
         },
         {
@@ -5527,7 +5527,7 @@
             "shot_pos_x": 42,
             "shot_pos_y": 64,
             "comments": [
-                "A. Magoński (W) tries a driving layup off of a nice pass from N. Guz (W).",
+                "A. Magoński (A) tries a driving layup off of a nice pass from N. Guz (A).",
                 "Shot missed."
             ]
         },
@@ -5541,7 +5541,7 @@
             "gameclock": 823,
             "shotclock": 13,
             "comments": [
-                "N. Guz (W) boxes out his man and snags the offensive rebound."
+                "N. Guz (A) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -5558,7 +5558,7 @@
             "shot_pos_x": 64,
             "shot_pos_y": 141,
             "comments": [
-                "R. Stokowski (W)  finds A. Szyszka (W) in space. A. Szyszka (W) attempts a jump-shot from the wing.",
+                "R. Stokowski (A)  finds A. Szyszka (A) in space. A. Szyszka (A) attempts a jump-shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -5585,7 +5585,7 @@
             "gameclock": 844,
             "shotclock": 18,
             "comments": [
-                "Ball thrown out of bounds by Z. Rygol (D)."
+                "Ball thrown out of bounds by Z. Rygol (H)."
             ]
         },
         {
@@ -5597,7 +5597,7 @@
             "gameclock": 844,
             "shotclock": 18,
             "comments": [
-                "Substitution at C: J. Jagodziak (D) for Z. Rygol (D)."
+                "Substitution at C: J. Jagodziak (H) for Z. Rygol (H)."
             ]
         },
         {
@@ -5614,7 +5614,7 @@
             "shot_pos_x": 12,
             "shot_pos_y": 54,
             "comments": [
-                "A. Szyszka (W) gets free for a baseline jumper with R. Barresi (D) right in his face.",
+                "A. Szyszka (A) gets free for a baseline jumper with R. Barresi (H) right in his face.",
                 "Shot missed."
             ]
         },
@@ -5628,7 +5628,7 @@
             "gameclock": 859,
             "shotclock": 9,
             "comments": [
-                "The defensive rebound is snapped up by J. Jagodziak (D)."
+                "The defensive rebound is snapped up by J. Jagodziak (H)."
             ]
         },
         {
@@ -5645,9 +5645,9 @@
             "shot_pos_x": 343,
             "shot_pos_y": 80,
             "comments": [
-                "S. Sztaba (D)  finds N. Skórkiewicz (D) in space. N. Skórkiewicz (D) goes way up to snag an alley-oop pass.",
+                "S. Sztaba (H)  finds N. Skórkiewicz (H) in space. N. Skórkiewicz (H) goes way up to snag an alley-oop pass.",
                 "Scored.",
-                "The shot was assisted by S. Sztaba (D)."
+                "The shot was assisted by S. Sztaba (H)."
             ]
         },
         {
@@ -5664,7 +5664,7 @@
             "shot_pos_x": 96,
             "shot_pos_y": 101,
             "comments": [
-                "A. Magoński (W) pulls up at the top of the key and takes a shot, guarded closely by E. Nejman (D).",
+                "A. Magoński (A) pulls up at the top of the key and takes a shot, guarded closely by E. Nejman (H).",
                 "Scored."
             ]
         },
@@ -5682,7 +5682,7 @@
             "shot_pos_x": 267,
             "shot_pos_y": 147,
             "comments": [
-                "N. Skórkiewicz (D) attempts a three-point shot from the wing over R. Stokowski (W).",
+                "N. Skórkiewicz (H) attempts a three-point shot from the wing over R. Stokowski (A).",
                 "Shot missed."
             ]
         },
@@ -5696,7 +5696,7 @@
             "gameclock": 910,
             "shotclock": 4,
             "comments": [
-                "N. Skórkiewicz (D) cleans the offensive glass."
+                "N. Skórkiewicz (H) cleans the offensive glass."
             ]
         },
         {
@@ -5713,7 +5713,7 @@
             "shot_pos_x": 337,
             "shot_pos_y": 94,
             "comments": [
-                "R. Barresi (D) goes up strong for a dunk with A. Szyszka (W) right in his face.",
+                "R. Barresi (H) goes up strong for a dunk with A. Szyszka (A) right in his face.",
                 "Shot blocked."
             ]
         },
@@ -5727,7 +5727,7 @@
             "gameclock": 919,
             "shotclock": 15,
             "comments": [
-                "N. Guz (W) ends the possession with a defensive rebound."
+                "N. Guz (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -5740,7 +5740,7 @@
             "gameclock": 928,
             "shotclock": 15,
             "comments": [
-                "Ball stolen by E. Nejman (D)."
+                "Ball stolen by E. Nejman (H)."
             ]
         },
         {
@@ -5757,7 +5757,7 @@
             "shot_pos_x": 345,
             "shot_pos_y": 85,
             "comments": [
-                "S. Sztaba (D)  finds J. Jagodziak (D) in space. J. Jagodziak (D) shows some amazing body control with an acrobatic finish at the rim.",
+                "S. Sztaba (H)  finds J. Jagodziak (H) in space. J. Jagodziak (H) shows some amazing body control with an acrobatic finish at the rim.",
                 "Shot missed."
             ]
         },
@@ -5771,7 +5771,7 @@
             "gameclock": 931,
             "shotclock": 21,
             "comments": [
-                "A. Brzezicki (W) corrals the missed shot."
+                "A. Brzezicki (A) corrals the missed shot."
             ]
         },
         {
@@ -5788,7 +5788,7 @@
             "shot_pos_x": 70,
             "shot_pos_y": 76,
             "comments": [
-                "A. Brzezicki (W) gets off a great pass to A. Szyszka (W). A. Szyszka (W) attempts a jumper from the elbow.",
+                "A. Brzezicki (A) gets off a great pass to A. Szyszka (A). A. Szyszka (A) attempts a jumper from the elbow.",
                 "Shot missed."
             ]
         },
@@ -5824,7 +5824,7 @@
             "shot_pos_x": 269,
             "shot_pos_y": 163,
             "comments": [
-                "J. Jagodziak (D) gets off a great pass to E. Nejman (D). E. Nejman (D) attempts a three-point shot from the wing.",
+                "J. Jagodziak (H) gets off a great pass to E. Nejman (H). E. Nejman (H) attempts a three-point shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -5838,7 +5838,7 @@
             "gameclock": 960,
             "shotclock": 9,
             "comments": [
-                "J. Jagodziak (D) hustles for the offensive rebound."
+                "J. Jagodziak (H) hustles for the offensive rebound."
             ]
         },
         {
@@ -5855,7 +5855,7 @@
             "shot_pos_x": 326,
             "shot_pos_y": 112,
             "comments": [
-                "J. Jagodziak (D) collects the rebound and goes back up for the shot, as A. Brzezicki (W) rotates over and alters his shot.",
+                "J. Jagodziak (H) collects the rebound and goes back up for the shot, as A. Brzezicki (A) rotates over and alters his shot.",
                 "Shot blocked."
             ]
         },
@@ -5869,7 +5869,7 @@
             "gameclock": 962,
             "shotclock": 22,
             "comments": [
-                "R. Stokowski (W) pulls down a defensive rebound."
+                "R. Stokowski (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -5886,9 +5886,9 @@
             "shot_pos_x": 57,
             "shot_pos_y": 102,
             "comments": [
-                "R. Stokowski (W) gets off a great pass to N. Guz (W). N. Guz (W) goes up strong for an inside shot.",
+                "R. Stokowski (A) gets off a great pass to N. Guz (A). N. Guz (A) goes up strong for an inside shot.",
                 "Scored.",
-                "The shot was assisted by R. Stokowski (W)."
+                "The shot was assisted by R. Stokowski (A)."
             ]
         },
         {
@@ -5905,7 +5905,7 @@
             "shot_pos_x": 319,
             "shot_pos_y": 119,
             "comments": [
-                "Inside move leads to a layup by N. Skórkiewicz (D), as A. Szyszka (W) rotates over and alters his shot.",
+                "Inside move leads to a layup by N. Skórkiewicz (H), as A. Szyszka (A) rotates over and alters his shot.",
                 "Shot missed."
             ]
         },
@@ -5919,7 +5919,7 @@
             "gameclock": 986,
             "shotclock": 14,
             "comments": [
-                "A. Szyszka (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "A. Szyszka (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -5936,7 +5936,7 @@
             "shot_pos_x": 347,
             "shot_pos_y": 69,
             "comments": [
-                "J. Jagodziak (D) attempts the fade-away.",
+                "J. Jagodziak (H) attempts the fade-away.",
                 "Shot missed."
             ]
         },
@@ -5950,7 +5950,7 @@
             "gameclock": 1001,
             "shotclock": 9,
             "comments": [
-                "N. Skórkiewicz (D) flew in from the wing to grab the offensive rebound."
+                "N. Skórkiewicz (H) flew in from the wing to grab the offensive rebound."
             ]
         },
         {
@@ -5967,7 +5967,7 @@
             "shot_pos_x": 300,
             "shot_pos_y": 55,
             "comments": [
-                "S. Sztaba (D) tries to bank one in from the wing with N. Guz (W) right in his face.",
+                "S. Sztaba (H) tries to bank one in from the wing with N. Guz (A) right in his face.",
                 "Shot missed."
             ]
         },
@@ -5981,7 +5981,7 @@
             "gameclock": 1021,
             "shotclock": 4,
             "comments": [
-                "A. Magoński (W) grabs the defensive rebound."
+                "A. Magoński (A) grabs the defensive rebound."
             ]
         },
         {
@@ -5998,7 +5998,7 @@
             "shot_pos_x": 69,
             "shot_pos_y": 121,
             "comments": [
-                "A. Szyszka (W) attempts a jumper from the elbow, guarded closely by R. Barresi (D).",
+                "A. Szyszka (A) attempts a jumper from the elbow, guarded closely by R. Barresi (H).",
                 "Shot missed."
             ]
         },
@@ -6012,7 +6012,7 @@
             "gameclock": 1036,
             "shotclock": 9,
             "comments": [
-                "R. Barresi (D) grabs the defensive rebound."
+                "R. Barresi (H) grabs the defensive rebound."
             ]
         },
         {
@@ -6025,7 +6025,7 @@
             "gameclock": 1042,
             "shotclock": 18,
             "comments": [
-                "E. Nejman (D) threw the ball away."
+                "E. Nejman (H) threw the ball away."
             ]
         },
         {
@@ -6037,7 +6037,7 @@
             "gameclock": 1042,
             "shotclock": 18,
             "comments": [
-                "J. Cerra (D) will come off the bench to replace E. Nejman (D) at PG."
+                "J. Cerra (H) will come off the bench to replace E. Nejman (H) at PG."
             ]
         },
         {
@@ -6049,7 +6049,7 @@
             "gameclock": 1042,
             "shotclock": 18,
             "comments": [
-                "Z. Rygol (D) brought in for N. Skórkiewicz (D) at SF."
+                "Z. Rygol (H) brought in for N. Skórkiewicz (H) at SF."
             ]
         },
         {
@@ -6061,7 +6061,7 @@
             "gameclock": 1042,
             "shotclock": 18,
             "comments": [
-                "Change at PF: D. Strobel (D) in. S. Sztaba (D) out."
+                "Change at PF: D. Strobel (H) in. S. Sztaba (H) out."
             ]
         },
         {
@@ -6073,7 +6073,7 @@
             "gameclock": 1042,
             "shotclock": 18,
             "comments": [
-                "A. Myga (W) brought in for N. Guz (W) at PF."
+                "A. Myga (A) brought in for N. Guz (A) at PF."
             ]
         },
         {
@@ -6085,7 +6085,7 @@
             "gameclock": 1042,
             "shotclock": 18,
             "comments": [
-                "H. Achremowicz (W) came off the bench to replace A. Brzezicki (W) at center."
+                "H. Achremowicz (A) came off the bench to replace A. Brzezicki (A) at center."
             ]
         },
         {
@@ -6102,9 +6102,9 @@
             "shot_pos_x": 42,
             "shot_pos_y": 134,
             "comments": [
-                "R. Stokowski (W) threads a pass through the defense and finds A. Szyszka (W).  A. Szyszka (W) lays it off the glass with his left hand.",
+                "R. Stokowski (A) threads a pass through the defense and finds A. Szyszka (A).  A. Szyszka (A) lays it off the glass with his left hand.",
                 "Scored.",
-                "The shot was assisted by R. Stokowski (W)."
+                "The shot was assisted by R. Stokowski (A)."
             ]
         },
         {
@@ -6118,7 +6118,7 @@
             "gameclock": 1061,
             "shotclock": 19,
             "comments": [
-                "Foul called on A. Szyszka (W)."
+                "Foul called on A. Szyszka (A)."
             ]
         },
         {
@@ -6135,7 +6135,7 @@
             "shot_pos_x": 309,
             "shot_pos_y": 79,
             "comments": [
-                "J. Jagodziak (D) goes way up to snag the alley-oop pass after H. Achremowicz (W) backed off slightly.",
+                "J. Jagodziak (H) goes way up to snag the alley-oop pass after H. Achremowicz (A) backed off slightly.",
                 "Shot blocked."
             ]
         },
@@ -6149,7 +6149,7 @@
             "gameclock": 1067,
             "shotclock": 13,
             "comments": [
-                "A. Myga (W) corrals the missed shot."
+                "A. Myga (A) corrals the missed shot."
             ]
         },
         {
@@ -6166,9 +6166,9 @@
             "shot_pos_x": 59,
             "shot_pos_y": 55,
             "comments": [
-                "R. Stokowski (W) gets off a great pass to A. Magoński (W). A. Magoński (W) attempts a jump-shot from the wing.",
+                "R. Stokowski (A) gets off a great pass to A. Magoński (A). A. Magoński (A) attempts a jump-shot from the wing.",
                 "Scored.",
-                "R. Stokowski (W) credited with the assist."
+                "R. Stokowski (A) credited with the assist."
             ]
         },
         {
@@ -6190,7 +6190,7 @@
             "shot_pos_x": 303,
             "shot_pos_y": 62,
             "comments": [
-                "J. Jagodziak (D)  finds R. Barresi (D) in space. R. Barresi (D) elevates and fires off a pull-up jumper from the elbow.",
+                "J. Jagodziak (H)  finds R. Barresi (H) in space. R. Barresi (H) elevates and fires off a pull-up jumper from the elbow.",
                 "Shot missed."
             ]
         },
@@ -6204,7 +6204,7 @@
             "gameclock": 1101,
             "shotclock": 4,
             "comments": [
-                "R. Stokowski (W) ends the possession with a defensive rebound."
+                "R. Stokowski (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -6217,7 +6217,7 @@
             "gameclock": 1108,
             "shotclock": 17,
             "comments": [
-                "D. Strobel (D) intercepted a pass."
+                "D. Strobel (H) intercepted a pass."
             ]
         },
         {
@@ -6234,9 +6234,9 @@
             "shot_pos_x": 329,
             "shot_pos_y": 71,
             "comments": [
-                "Quick drop-step move leads to a two-handed dunk by Z. Rygol (D) off of a nice pass from R. Barresi (D).",
+                "Quick drop-step move leads to a two-handed dunk by Z. Rygol (H) off of a nice pass from R. Barresi (H).",
                 "Scored.",
-                "R. Barresi (D) credited with the assist."
+                "R. Barresi (H) credited with the assist."
             ]
         },
         {
@@ -6253,7 +6253,7 @@
             "shot_pos_x": 97,
             "shot_pos_y": 40,
             "comments": [
-                "R. Stokowski (W) attempts a three-point shot from the wing, guarded closely by Z. Rygol (D).",
+                "R. Stokowski (A) attempts a three-point shot from the wing, guarded closely by Z. Rygol (H).",
                 "Scored."
             ]
         },
@@ -6271,7 +6271,7 @@
             "shot_pos_x": 302,
             "shot_pos_y": 74,
             "comments": [
-                "D. Strobel (D) elevates and fires off a pull-up jumper from the elbow after A. Myga (W) backed off slightly.",
+                "D. Strobel (H) elevates and fires off a pull-up jumper from the elbow after A. Myga (A) backed off slightly.",
                 "Shot missed."
             ]
         },
@@ -6285,7 +6285,7 @@
             "gameclock": 1155,
             "shotclock": 2,
             "comments": [
-                "H. Achremowicz (W) grabs the defensive rebound."
+                "H. Achremowicz (A) grabs the defensive rebound."
             ]
         },
         {
@@ -6298,7 +6298,7 @@
             "gameclock": 1165,
             "shotclock": 14,
             "comments": [
-                "D. Strobel (D) intercepted a pass."
+                "D. Strobel (H) intercepted a pass."
             ]
         },
         {
@@ -6315,7 +6315,7 @@
             "shot_pos_x": 256,
             "shot_pos_y": 123,
             "comments": [
-                "J. Cerra (D) forces up a three from the top of the arc, guarded closely by A. Magoński (W).",
+                "J. Cerra (H) forces up a three from the top of the arc, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -6329,7 +6329,7 @@
             "gameclock": 1188,
             "shotclock": 1,
             "comments": [
-                "A. Myga (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "A. Myga (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -6346,7 +6346,7 @@
             "shot_pos_x": 364,
             "shot_pos_y": 172,
             "comments": [
-                "J. Jagodziak (D) threads a pass through the defense and finds R. Barresi (D).  R. Barresi (D) puts up an off-balance jumper from the baseline.",
+                "J. Jagodziak (H) threads a pass through the defense and finds R. Barresi (H).  R. Barresi (H) puts up an off-balance jumper from the baseline.",
                 "Shot missed."
             ]
         },
@@ -6360,7 +6360,7 @@
             "gameclock": 1196,
             "shotclock": 16,
             "comments": [
-                "R. Stokowski (W) ends the possession with a defensive rebound."
+                "R. Stokowski (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -6377,7 +6377,7 @@
             "shot_pos_x": 24,
             "shot_pos_y": 188,
             "comments": [
-                "A. Magoński (W) fires up a three-point shot from the corner, guarded closely by J. Cerra (D).",
+                "A. Magoński (A) fires up a three-point shot from the corner, guarded closely by J. Cerra (H).",
                 "Shot missed."
             ]
         },
@@ -6391,7 +6391,7 @@
             "gameclock": 1210,
             "shotclock": 10,
             "comments": [
-                "H. Achremowicz (W) flew in from the wing to grab the offensive rebound."
+                "H. Achremowicz (A) flew in from the wing to grab the offensive rebound."
             ]
         },
         {
@@ -6408,7 +6408,7 @@
             "shot_pos_x": 52,
             "shot_pos_y": 113,
             "comments": [
-                "H. Achremowicz (W) collects the rebound and goes back up for the shot after J. Jagodziak (D) backed off slightly.",
+                "H. Achremowicz (A) collects the rebound and goes back up for the shot after J. Jagodziak (H) backed off slightly.",
                 "Scored."
             ]
         },
@@ -6426,9 +6426,9 @@
             "shot_pos_x": 279,
             "shot_pos_y": 81,
             "comments": [
-                "D. Strobel (D) gets off a great pass to R. Barresi (D). R. Barresi (D) pulls up at the top of the key and takes a shot.",
+                "D. Strobel (H) gets off a great pass to R. Barresi (H). R. Barresi (H) pulls up at the top of the key and takes a shot.",
                 "Scored.",
-                "The shot was assisted by D. Strobel (D)."
+                "The shot was assisted by D. Strobel (H)."
             ]
         },
         {
@@ -6445,9 +6445,9 @@
             "shot_pos_x": 26,
             "shot_pos_y": 87,
             "comments": [
-                "R. Stokowski (W) gets off a great pass to A. Szyszka (W). A. Szyszka (W) brings the crowd to its feet with a powerful slam.",
+                "R. Stokowski (A) gets off a great pass to A. Szyszka (A). A. Szyszka (A) brings the crowd to its feet with a powerful slam.",
                 "Scored.",
-                "The shot was assisted by R. Stokowski (W)."
+                "The shot was assisted by R. Stokowski (A)."
             ]
         },
         {
@@ -6464,7 +6464,7 @@
             "shot_pos_x": 331,
             "shot_pos_y": 188,
             "comments": [
-                "J. Cerra (D) gets open in the corner and puts up a three-point shot after A. Magoński (W) backed off slightly.",
+                "J. Cerra (H) gets open in the corner and puts up a three-point shot after A. Magoński (A) backed off slightly.",
                 "Shot missed."
             ]
         },
@@ -6478,7 +6478,7 @@
             "gameclock": 1262,
             "shotclock": 1,
             "comments": [
-                "A. Myga (W) grabs the defensive rebound."
+                "A. Myga (A) grabs the defensive rebound."
             ]
         },
         {
@@ -6495,9 +6495,9 @@
             "shot_pos_x": 4,
             "shot_pos_y": 33,
             "comments": [
-                "A. Szyszka (W) opens up the play with a pass to R. Stokowski (W). R. Stokowski (W) dribbles baseline and pulls up for a jumper.",
+                "A. Szyszka (A) opens up the play with a pass to R. Stokowski (A). R. Stokowski (A) dribbles baseline and pulls up for a jumper.",
                 "Scored.",
-                "The shot was assisted by A. Szyszka (W)."
+                "The shot was assisted by A. Szyszka (A)."
             ]
         },
         {
@@ -6511,7 +6511,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "Z. Rygol (D) is called for a shooting foul."
+                "Z. Rygol (H) is called for a shooting foul."
             ]
         },
         {
@@ -6523,7 +6523,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "E. Nejman (D) will come off the bench to replace J. Cerra (D) at PG."
+                "E. Nejman (H) will come off the bench to replace J. Cerra (H) at PG."
             ]
         },
         {
@@ -6535,7 +6535,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "R. Pawelski (D) substituted for R. Barresi (D) at SG."
+                "R. Pawelski (H) substituted for R. Barresi (H) at SG."
             ]
         },
         {
@@ -6547,7 +6547,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "N. Skórkiewicz (D) brought in for Z. Rygol (D) at SF."
+                "N. Skórkiewicz (H) brought in for Z. Rygol (H) at SF."
             ]
         },
         {
@@ -6559,7 +6559,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "Change at PF: S. Sztaba (D) in. D. Strobel (D) out."
+                "Change at PF: S. Sztaba (H) in. D. Strobel (H) out."
             ]
         },
         {
@@ -6571,7 +6571,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "N. Guz (W) brought in for A. Myga (W) at PF."
+                "N. Guz (A) brought in for A. Myga (A) at PF."
             ]
         },
         {
@@ -6583,7 +6583,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "A. Brzezicki (W) came off the bench to replace H. Achremowicz (W) at center."
+                "A. Brzezicki (A) came off the bench to replace H. Achremowicz (A) at center."
             ]
         },
         {
@@ -6595,7 +6595,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "R. Stokowski (W) was replaced by G. Fabis (W) at SF."
+                "R. Stokowski (A) was replaced by G. Fabis (A) at SF."
             ]
         },
         {
@@ -6606,7 +6606,7 @@
             "gameclock": 1273,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by R. Stokowski (W)."
+                "Free throw missed by R. Stokowski (A)."
             ]
         },
         {
@@ -6619,7 +6619,7 @@
             "gameclock": 1273,
             "shotclock": 13,
             "comments": [
-                "A. Szyszka (W) flew in from the wing to grab the offensive rebound."
+                "A. Szyszka (A) flew in from the wing to grab the offensive rebound."
             ]
         },
         {
@@ -6636,7 +6636,7 @@
             "shot_pos_x": 64,
             "shot_pos_y": 78,
             "comments": [
-                "A. Szyszka (W) collects the rebound and goes back up for the shot over R. Pawelski (D).",
+                "A. Szyszka (A) collects the rebound and goes back up for the shot over R. Pawelski (H).",
                 "Shot missed."
             ]
         },
@@ -6650,7 +6650,7 @@
             "gameclock": 1275,
             "shotclock": 22,
             "comments": [
-                "N. Skórkiewicz (D) grabs the defensive rebound."
+                "N. Skórkiewicz (H) grabs the defensive rebound."
             ]
         },
         {
@@ -6667,7 +6667,7 @@
             "shot_pos_x": 342,
             "shot_pos_y": 83,
             "comments": [
-                "N. Skórkiewicz (D) opens up the play with a pass to R. Pawelski (D). R. Pawelski (D) bullies his way to the basket for a tough inside shot.",
+                "N. Skórkiewicz (H) opens up the play with a pass to R. Pawelski (H). R. Pawelski (H) bullies his way to the basket for a tough inside shot.",
                 "Shot missed."
             ]
         },
@@ -6681,7 +6681,7 @@
             "gameclock": 1289,
             "shotclock": 10,
             "comments": [
-                "A. Brzezicki (W) pulls down a defensive rebound."
+                "A. Brzezicki (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -6698,7 +6698,7 @@
             "shot_pos_x": 120,
             "shot_pos_y": 74,
             "comments": [
-                "A. Szyszka (W) forces up a three from the top of the arc over R. Pawelski (D).",
+                "A. Szyszka (A) forces up a three from the top of the arc over R. Pawelski (H).",
                 "Shot missed."
             ]
         },
@@ -6712,7 +6712,7 @@
             "gameclock": 1305,
             "shotclock": 8,
             "comments": [
-                "E. Nejman (D) pulls down a defensive rebound."
+                "E. Nejman (H) pulls down a defensive rebound."
             ]
         },
         {
@@ -6729,7 +6729,7 @@
             "shot_pos_x": 333,
             "shot_pos_y": 125,
             "comments": [
-                "S. Sztaba (D) attempts a hook shot off of a nice pass from J. Jagodziak (D).",
+                "S. Sztaba (H) attempts a hook shot off of a nice pass from J. Jagodziak (H).",
                 "Shot missed."
             ]
         },
@@ -6743,7 +6743,7 @@
             "gameclock": 1316,
             "shotclock": 13,
             "comments": [
-                "G. Fabis (W) ends the possession with a defensive rebound."
+                "G. Fabis (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -6760,7 +6760,7 @@
             "shot_pos_x": 80,
             "shot_pos_y": 110,
             "comments": [
-                "A. Szyszka (W) pulls up at the top of the key and takes a shot, guarded closely by R. Pawelski (D).",
+                "A. Szyszka (A) pulls up at the top of the key and takes a shot, guarded closely by R. Pawelski (H).",
                 "Scored."
             ]
         },
@@ -6778,7 +6778,7 @@
             "shot_pos_x": 307,
             "shot_pos_y": 71,
             "comments": [
-                "R. Pawelski (D) attempts a jumper from the elbow, guarded closely by A. Szyszka (W).",
+                "R. Pawelski (H) attempts a jumper from the elbow, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -6796,7 +6796,7 @@
             "shot_pos_x": 38,
             "shot_pos_y": 55,
             "comments": [
-                "N. Guz (W) attempts the fade-away, guarded closely by S. Sztaba (D).",
+                "N. Guz (A) attempts the fade-away, guarded closely by S. Sztaba (H).",
                 "Scored."
             ]
         },
@@ -6814,7 +6814,7 @@
             "shot_pos_x": 343,
             "shot_pos_y": 139,
             "comments": [
-                "E. Nejman (D) gets off a great pass to R. Pawelski (D). R. Pawelski (D) goes up strong for an inside shot.",
+                "E. Nejman (H) gets off a great pass to R. Pawelski (H). R. Pawelski (H) goes up strong for an inside shot.",
                 "Shot missed."
             ]
         },
@@ -6828,7 +6828,7 @@
             "gameclock": 1380,
             "shotclock": 13,
             "comments": [
-                "The defensive rebound is snapped up by A. Brzezicki (W)."
+                "The defensive rebound is snapped up by A. Brzezicki (A)."
             ]
         },
         {
@@ -6845,7 +6845,7 @@
             "shot_pos_x": 62,
             "shot_pos_y": 71,
             "comments": [
-                "A. Magoński (W) has plenty of time to set-up, and shoots from near the foul line under pressure from E. Nejman (D).",
+                "A. Magoński (A) has plenty of time to set-up, and shoots from near the foul line under pressure from E. Nejman (H).",
                 "Shot missed."
             ]
         },
@@ -6859,7 +6859,7 @@
             "gameclock": 1403,
             "shotclock": 1,
             "comments": [
-                "The defensive rebound is snapped up by S. Sztaba (D)."
+                "The defensive rebound is snapped up by S. Sztaba (H)."
             ]
         },
         {
@@ -6876,7 +6876,7 @@
             "shot_pos_x": 333,
             "shot_pos_y": 59,
             "comments": [
-                "N. Skórkiewicz (D) attempts the fade-away, guarded closely by G. Fabis (W).",
+                "N. Skórkiewicz (H) attempts the fade-away, guarded closely by G. Fabis (A).",
                 "Shot missed."
             ]
         },
@@ -6890,7 +6890,7 @@
             "gameclock": 1425,
             "shotclock": 2,
             "comments": [
-                "G. Fabis (W) corrals the missed shot."
+                "G. Fabis (A) corrals the missed shot."
             ]
         },
         {
@@ -6907,9 +6907,9 @@
             "shot_pos_x": 21,
             "shot_pos_y": 73,
             "comments": [
-                "A. Brzezicki (W) gets off a great pass to N. Guz (W). N. Guz (W) goes up for a dunk in a crowd.",
+                "A. Brzezicki (A) gets off a great pass to N. Guz (A). N. Guz (A) goes up for a dunk in a crowd.",
                 "Scored.",
-                "A. Brzezicki (W) credited with the assist."
+                "A. Brzezicki (A) credited with the assist."
             ]
         },
         {
@@ -6926,7 +6926,7 @@
             "shot_pos_x": 168,
             "shot_pos_y": 99,
             "comments": [
-                "E. Nejman (D) offers up a prayer from half-court, guarded closely by A. Magoński (W).",
+                "E. Nejman (H) offers up a prayer from half-court, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -6949,7 +6949,7 @@
             "gameclock": 1440,
             "shotclock": 23,
             "comments": [
-                "R. Barresi (D) substituted for R. Pawelski (D) at SG."
+                "R. Barresi (H) substituted for R. Pawelski (H) at SG."
             ]
         },
         {
@@ -6961,7 +6961,7 @@
             "gameclock": 1440,
             "shotclock": 23,
             "comments": [
-                "G. Fabis (W) was replaced by R. Stokowski (W) at SF."
+                "G. Fabis (A) was replaced by R. Stokowski (A) at SF."
             ]
         },
         {
@@ -6978,7 +6978,7 @@
             "shot_pos_x": 57,
             "shot_pos_y": 78,
             "comments": [
-                "R. Stokowski (W) gets off a great pass to A. Brzezicki (W). A. Brzezicki (W) goes up strong for an inside shot.",
+                "R. Stokowski (A) gets off a great pass to A. Brzezicki (A). A. Brzezicki (A) goes up strong for an inside shot.",
                 "Shot missed."
             ]
         },
@@ -6992,7 +6992,7 @@
             "gameclock": 1451,
             "shotclock": 13,
             "comments": [
-                "R. Barresi (D) corrals the missed shot."
+                "R. Barresi (H) corrals the missed shot."
             ]
         },
         {
@@ -7014,9 +7014,9 @@
             "shot_pos_x": 335,
             "shot_pos_y": 91,
             "comments": [
-                "N. Skórkiewicz (D) gets off a great pass to E. Nejman (D). E. Nejman (D) throws down a powerful two-handed dunk.",
+                "N. Skórkiewicz (H) gets off a great pass to E. Nejman (H). E. Nejman (H) throws down a powerful two-handed dunk.",
                 "Scored.",
-                "The shot was assisted by N. Skórkiewicz (D)."
+                "The shot was assisted by N. Skórkiewicz (H)."
             ]
         },
         {
@@ -7033,7 +7033,7 @@
             "shot_pos_x": 40,
             "shot_pos_y": 97,
             "comments": [
-                "N. Guz (W) opens up the play with a pass to A. Brzezicki (W). A. Brzezicki (W) bullies his way to the basket for a tough inside shot.",
+                "N. Guz (A) opens up the play with a pass to A. Brzezicki (A). A. Brzezicki (A) bullies his way to the basket for a tough inside shot.",
                 "Shot missed."
             ]
         },
@@ -7047,7 +7047,7 @@
             "gameclock": 1472,
             "shotclock": 13,
             "comments": [
-                "J. Jagodziak (D) pulls down a defensive rebound."
+                "J. Jagodziak (H) pulls down a defensive rebound."
             ]
         },
         {
@@ -7064,7 +7064,7 @@
             "shot_pos_x": 355,
             "shot_pos_y": 130,
             "comments": [
-                "E. Nejman (D) attempts a baseline jumper, guarded closely by A. Magoński (W).",
+                "E. Nejman (H) attempts a baseline jumper, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -7078,7 +7078,7 @@
             "gameclock": 1488,
             "shotclock": 8,
             "comments": [
-                "N. Guz (W) pulls down a defensive rebound."
+                "N. Guz (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -7095,7 +7095,7 @@
             "shot_pos_x": 43,
             "shot_pos_y": 93,
             "comments": [
-                "A. Brzezicki (W) gets off a great pass to A. Magoński (W). A. Magoński (W) goes up for a dunk in a crowd.",
+                "A. Brzezicki (A) gets off a great pass to A. Magoński (A). A. Magoński (A) goes up for a dunk in a crowd.",
                 "Shot missed."
             ]
         },
@@ -7110,7 +7110,7 @@
             "gameclock": 1501,
             "shotclock": 11,
             "comments": [
-                "E. Nejman (D) is called for a shooting foul."
+                "E. Nejman (H) is called for a shooting foul."
             ]
         },
         {
@@ -7121,7 +7121,7 @@
             "gameclock": 1501,
             "shotclock": 0,
             "comments": [
-                "Free throw made by A. Magoński (W)."
+                "Free throw made by A. Magoński (A)."
             ]
         },
         {
@@ -7132,7 +7132,7 @@
             "gameclock": 1501,
             "shotclock": 0,
             "comments": [
-                "The free throw by A. Magoński (W) is up and in."
+                "The free throw by A. Magoński (A) is up and in."
             ]
         },
         {
@@ -7149,7 +7149,7 @@
             "shot_pos_x": 272,
             "shot_pos_y": 160,
             "comments": [
-                "E. Nejman (D) gets off a great pass to N. Skórkiewicz (D). N. Skórkiewicz (D) is forced to take a very long three pointer.",
+                "E. Nejman (H) gets off a great pass to N. Skórkiewicz (H). N. Skórkiewicz (H) is forced to take a very long three pointer.",
                 "Shot missed."
             ]
         },
@@ -7163,7 +7163,7 @@
             "gameclock": 1522,
             "shotclock": 3,
             "comments": [
-                "A. Brzezicki (W) pulls down a defensive rebound."
+                "A. Brzezicki (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -7180,9 +7180,9 @@
             "shot_pos_x": 41,
             "shot_pos_y": 138,
             "comments": [
-                "A. Brzezicki (W)  finds A. Magoński (W) in space. A. Magoński (W) tries a driving layup.",
+                "A. Brzezicki (A)  finds A. Magoński (A) in space. A. Magoński (A) tries a driving layup.",
                 "Scored.",
-                "The shot was assisted by A. Brzezicki (W)."
+                "The shot was assisted by A. Brzezicki (A)."
             ]
         },
         {
@@ -7199,7 +7199,7 @@
             "shot_pos_x": 360,
             "shot_pos_y": 148,
             "comments": [
-                "S. Sztaba (D) puts up a jumper from the baseline after N. Guz (W) backed off slightly.",
+                "S. Sztaba (H) puts up a jumper from the baseline after N. Guz (A) backed off slightly.",
                 "Scored."
             ]
         },
@@ -7217,9 +7217,9 @@
             "shot_pos_x": 46,
             "shot_pos_y": 109,
             "comments": [
-                "Quick drop-step move leads to a two-handed dunk by A. Brzezicki (W) off of a nice pass from A. Szyszka (W).",
+                "Quick drop-step move leads to a two-handed dunk by A. Brzezicki (A) off of a nice pass from A. Szyszka (A).",
                 "Scored.",
-                "The shot was assisted by A. Szyszka (W)."
+                "The shot was assisted by A. Szyszka (A)."
             ]
         },
         {
@@ -7236,7 +7236,7 @@
             "shot_pos_x": 313,
             "shot_pos_y": 188,
             "comments": [
-                "R. Barresi (D) attempts a three-point shot from the wing, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) attempts a three-point shot from the wing, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -7254,7 +7254,7 @@
             "shot_pos_x": 41,
             "shot_pos_y": 99,
             "comments": [
-                "N. Guz (W) gets off a great pass to A. Brzezicki (W). A. Brzezicki (W) goes up strong for an inside shot.",
+                "N. Guz (A) gets off a great pass to A. Brzezicki (A). A. Brzezicki (A) goes up strong for an inside shot.",
                 "Shot missed."
             ]
         },
@@ -7268,7 +7268,7 @@
             "gameclock": 1594,
             "shotclock": 10,
             "comments": [
-                "A. Brzezicki (W) flew in from the wing to grab the offensive rebound."
+                "A. Brzezicki (A) flew in from the wing to grab the offensive rebound."
             ]
         },
         {
@@ -7285,7 +7285,7 @@
             "shot_pos_x": 25,
             "shot_pos_y": 121,
             "comments": [
-                "A. Brzezicki (W) collects the rebound and goes back up for the shot, guarded closely by J. Jagodziak (D).",
+                "A. Brzezicki (A) collects the rebound and goes back up for the shot, guarded closely by J. Jagodziak (H).",
                 "Scored."
             ]
         },
@@ -7303,7 +7303,7 @@
             "shot_pos_x": 357,
             "shot_pos_y": 141,
             "comments": [
-                "R. Barresi (D) attempts a baseline jumper, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) attempts a baseline jumper, guarded closely by A. Szyszka (A).",
                 "Shot missed."
             ]
         },
@@ -7334,9 +7334,9 @@
             "shot_pos_x": 63,
             "shot_pos_y": 79,
             "comments": [
-                "A. Szyszka (W) tries a driving layup off of a nice pass from R. Stokowski (W).",
+                "A. Szyszka (A) tries a driving layup off of a nice pass from R. Stokowski (A).",
                 "Scored.",
-                "The shot was assisted by R. Stokowski (W)."
+                "The shot was assisted by R. Stokowski (A)."
             ]
         },
         {
@@ -7349,7 +7349,7 @@
             "gameclock": 1638,
             "shotclock": 17,
             "comments": [
-                "R. Stokowski (W) intercepted a pass."
+                "R. Stokowski (A) intercepted a pass."
             ]
         },
         {
@@ -7366,7 +7366,7 @@
             "shot_pos_x": 27,
             "shot_pos_y": 106,
             "comments": [
-                "A. Magoński (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) tries a driving layup.",
+                "A. Magoński (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) tries a driving layup.",
                 "Shot missed."
             ]
         },
@@ -7381,7 +7381,7 @@
             "gameclock": 1644,
             "shotclock": 18,
             "comments": [
-                "N. Skórkiewicz (D) is called for a shooting foul."
+                "N. Skórkiewicz (H) is called for a shooting foul."
             ]
         },
         {
@@ -7392,7 +7392,7 @@
             "gameclock": 1644,
             "shotclock": 0,
             "comments": [
-                "R. Stokowski (W) throws up a brick from the line."
+                "R. Stokowski (A) throws up a brick from the line."
             ]
         },
         {
@@ -7403,7 +7403,7 @@
             "gameclock": 1644,
             "shotclock": 0,
             "comments": [
-                "R. Stokowski (W)'s free throw attempt is up and good."
+                "R. Stokowski (A)'s free throw attempt is up and good."
             ]
         },
         {
@@ -7420,7 +7420,7 @@
             "shot_pos_x": 330,
             "shot_pos_y": 95,
             "comments": [
-                "N. Skórkiewicz (D) backs down his defender and shoots from close range with R. Stokowski (W) right in his face.",
+                "N. Skórkiewicz (H) backs down his defender and shoots from close range with R. Stokowski (A) right in his face.",
                 "Shot blocked."
             ]
         },
@@ -7434,7 +7434,7 @@
             "gameclock": 1655,
             "shotclock": 13,
             "comments": [
-                "A. Brzezicki (W) ends the possession with a defensive rebound."
+                "A. Brzezicki (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -7451,9 +7451,9 @@
             "shot_pos_x": 59,
             "shot_pos_y": 67,
             "comments": [
-                "A. Brzezicki (W) gets off a great pass to N. Guz (W). Inside move leads to a layup by N. Guz (W).",
+                "A. Brzezicki (A) gets off a great pass to N. Guz (A). Inside move leads to a layup by N. Guz (A).",
                 "Scored.",
-                "The shot was assisted by A. Brzezicki (W)."
+                "The shot was assisted by A. Brzezicki (A)."
             ]
         },
         {
@@ -7470,7 +7470,7 @@
             "shot_pos_x": 338,
             "shot_pos_y": 79,
             "comments": [
-                "E. Nejman (D) gets off a great pass to J. Jagodziak (D). J. Jagodziak (D) slaps the backboard as he puts up the lay-in.",
+                "E. Nejman (H) gets off a great pass to J. Jagodziak (H). J. Jagodziak (H) slaps the backboard as he puts up the lay-in.",
                 "Shot missed."
             ]
         },
@@ -7484,7 +7484,7 @@
             "gameclock": 1689,
             "shotclock": 4,
             "comments": [
-                "A. Brzezicki (W) grabs the defensive rebound."
+                "A. Brzezicki (A) grabs the defensive rebound."
             ]
         },
         {
@@ -7501,9 +7501,9 @@
             "shot_pos_x": 30,
             "shot_pos_y": 141,
             "comments": [
-                "A. Szyszka (W) gets off a great pass to N. Guz (W). N. Guz (W) attempts a jump-shot from the wing.",
+                "A. Szyszka (A) gets off a great pass to N. Guz (A). N. Guz (A) attempts a jump-shot from the wing.",
                 "Scored.",
-                "The shot was assisted by A. Szyszka (W)."
+                "The shot was assisted by A. Szyszka (A)."
             ]
         },
         {
@@ -7516,7 +7516,7 @@
             "gameclock": 1712,
             "shotclock": 12,
             "comments": [
-                "A. Szyszka (W) intercepted a pass."
+                "A. Szyszka (A) intercepted a pass."
             ]
         },
         {
@@ -7533,7 +7533,7 @@
             "shot_pos_x": 15,
             "shot_pos_y": 4,
             "comments": [
-                "A. Szyszka (W) fires up a three-point shot from the corner over R. Barresi (D).",
+                "A. Szyszka (A) fires up a three-point shot from the corner over R. Barresi (H).",
                 "Shot missed."
             ]
         },
@@ -7547,7 +7547,7 @@
             "gameclock": 1727,
             "shotclock": 9,
             "comments": [
-                "N. Guz (W) cleans the offensive glass."
+                "N. Guz (A) cleans the offensive glass."
             ]
         },
         {
@@ -7564,7 +7564,7 @@
             "shot_pos_x": 38,
             "shot_pos_y": 55,
             "comments": [
-                "N. Guz (W) collects the rebound and goes back up for the shot, guarded closely by S. Sztaba (D).",
+                "N. Guz (A) collects the rebound and goes back up for the shot, guarded closely by S. Sztaba (H).",
                 "Scored."
             ]
         },
@@ -7582,7 +7582,7 @@
             "shot_pos_x": 260,
             "shot_pos_y": 152,
             "comments": [
-                "N. Skórkiewicz (D) attempts a three-point shot from the wing, guarded closely by R. Stokowski (W).",
+                "N. Skórkiewicz (H) attempts a three-point shot from the wing, guarded closely by R. Stokowski (A).",
                 "Scored."
             ]
         },
@@ -7600,7 +7600,7 @@
             "shot_pos_x": 64,
             "shot_pos_y": 131,
             "comments": [
-                "N. Guz (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) attempts a jumper from the elbow.",
+                "N. Guz (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) attempts a jumper from the elbow.",
                 "Shot missed."
             ]
         },
@@ -7614,7 +7614,7 @@
             "gameclock": 1760,
             "shotclock": 14,
             "comments": [
-                "A. Brzezicki (W) cleans the offensive glass."
+                "A. Brzezicki (A) cleans the offensive glass."
             ]
         },
         {
@@ -7631,7 +7631,7 @@
             "shot_pos_x": 33,
             "shot_pos_y": 100,
             "comments": [
-                "A. Brzezicki (W) collects the rebound and goes back up for the shot, guarded closely by J. Jagodziak (D).",
+                "A. Brzezicki (A) collects the rebound and goes back up for the shot, guarded closely by J. Jagodziak (H).",
                 "Shot missed."
             ]
         },
@@ -7645,7 +7645,7 @@
             "gameclock": 1762,
             "shotclock": 22,
             "comments": [
-                "N. Guz (W) hustles for the offensive rebound."
+                "N. Guz (A) hustles for the offensive rebound."
             ]
         },
         {
@@ -7658,7 +7658,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "A. Magoński (W) called for a traveling violation."
+                "A. Magoński (A) called for a traveling violation."
             ]
         },
         {
@@ -7670,7 +7670,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "J. Cerra (D) will come off the bench to replace E. Nejman (D) at PG."
+                "J. Cerra (H) will come off the bench to replace E. Nejman (H) at PG."
             ]
         },
         {
@@ -7682,7 +7682,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "Z. Rygol (D) brought in for N. Skórkiewicz (D) at SF."
+                "Z. Rygol (H) brought in for N. Skórkiewicz (H) at SF."
             ]
         },
         {
@@ -7694,7 +7694,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "Change at PF: D. Strobel (D) in. S. Sztaba (D) out."
+                "Change at PF: D. Strobel (H) in. S. Sztaba (H) out."
             ]
         },
         {
@@ -7706,7 +7706,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "R. Stokowski (W) was replaced by G. Fabis (W) at SF."
+                "R. Stokowski (A) was replaced by G. Fabis (A) at SF."
             ]
         },
         {
@@ -7718,7 +7718,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "A. Myga (W) brought in for N. Guz (W) at PF."
+                "A. Myga (A) brought in for N. Guz (A) at PF."
             ]
         },
         {
@@ -7730,7 +7730,7 @@
             "gameclock": 1773,
             "shotclock": 13,
             "comments": [
-                "H. Achremowicz (W) came off the bench to replace A. Brzezicki (W) at center."
+                "H. Achremowicz (A) came off the bench to replace A. Brzezicki (A) at center."
             ]
         },
         {
@@ -7747,7 +7747,7 @@
             "shot_pos_x": 258,
             "shot_pos_y": 51,
             "comments": [
-                "Z. Rygol (D) forces up a three from the top of the arc, guarded closely by G. Fabis (W).",
+                "Z. Rygol (H) forces up a three from the top of the arc, guarded closely by G. Fabis (A).",
                 "Shot missed."
             ]
         },
@@ -7761,7 +7761,7 @@
             "gameclock": 1787,
             "shotclock": 10,
             "comments": [
-                "The defensive rebound is snapped up by A. Myga (W)."
+                "The defensive rebound is snapped up by A. Myga (A)."
             ]
         },
         {
@@ -7778,9 +7778,9 @@
             "shot_pos_x": 21,
             "shot_pos_y": 65,
             "comments": [
-                "H. Achremowicz (W) gets off a great pass to A. Myga (W). A. Myga (W) goes up strong for an inside shot.",
+                "H. Achremowicz (A) gets off a great pass to A. Myga (A). A. Myga (A) goes up strong for an inside shot.",
                 "Scored.",
-                "The shot was assisted by H. Achremowicz (W)."
+                "The shot was assisted by H. Achremowicz (A)."
             ]
         },
         {
@@ -7797,7 +7797,7 @@
             "shot_pos_x": 320,
             "shot_pos_y": 4,
             "comments": [
-                "D. Strobel (D) attempts a three-point shot from the wing, guarded closely by A. Myga (W).",
+                "D. Strobel (H) attempts a three-point shot from the wing, guarded closely by A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -7811,7 +7811,7 @@
             "gameclock": 1811,
             "shotclock": 12,
             "comments": [
-                "H. Achremowicz (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "H. Achremowicz (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -7828,7 +7828,7 @@
             "shot_pos_x": 246,
             "shot_pos_y": 119,
             "comments": [
-                "D. Strobel (D) forces up a three from the top of the arc, guarded closely by A. Myga (W).",
+                "D. Strobel (H) forces up a three from the top of the arc, guarded closely by A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -7842,7 +7842,7 @@
             "gameclock": 1818,
             "shotclock": 17,
             "comments": [
-                "A. Magoński (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "A. Magoński (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -7859,7 +7859,7 @@
             "shot_pos_x": 297,
             "shot_pos_y": 74,
             "comments": [
-                "J. Jagodziak (D) elevates and fires off a pull-up jumper from the elbow after H. Achremowicz (W) backed off slightly.",
+                "J. Jagodziak (H) elevates and fires off a pull-up jumper from the elbow after H. Achremowicz (A) backed off slightly.",
                 "Shot missed."
             ]
         },
@@ -7873,7 +7873,7 @@
             "gameclock": 1839,
             "shotclock": 3,
             "comments": [
-                "A. Magoński (W) ends the possession with a defensive rebound."
+                "A. Magoński (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -7890,9 +7890,9 @@
             "shot_pos_x": 62,
             "shot_pos_y": 121,
             "comments": [
-                "A. Szyszka (W) slips off a screen and fires from the elbow off of a nice pass from H. Achremowicz (W).",
+                "A. Szyszka (A) slips off a screen and fires from the elbow off of a nice pass from H. Achremowicz (A).",
                 "Scored.",
-                "The shot was assisted by H. Achremowicz (W)."
+                "The shot was assisted by H. Achremowicz (A)."
             ]
         },
         {
@@ -7909,7 +7909,7 @@
             "gameclock": 1852,
             "shotclock": 11,
             "comments": [
-                "G. Fabis (W) was replaced by R. Stokowski (W) at SF."
+                "G. Fabis (A) was replaced by R. Stokowski (A) at SF."
             ]
         },
         {
@@ -7926,7 +7926,7 @@
             "shot_pos_x": 330,
             "shot_pos_y": 83,
             "comments": [
-                "J. Cerra (D) threads a pass through the defense and finds Z. Rygol (D).  Z. Rygol (D) attempts a hook shot.",
+                "J. Cerra (H) threads a pass through the defense and finds Z. Rygol (H).  Z. Rygol (H) attempts a hook shot.",
                 "Shot missed."
             ]
         },
@@ -7940,7 +7940,7 @@
             "gameclock": 1861,
             "shotclock": 15,
             "comments": [
-                "A. Myga (W) corrals the missed shot."
+                "A. Myga (A) corrals the missed shot."
             ]
         },
         {
@@ -7957,7 +7957,7 @@
             "shot_pos_x": 71,
             "shot_pos_y": 4,
             "comments": [
-                "R. Stokowski (W) attempts a three-point shot from the wing, guarded closely by Z. Rygol (D).",
+                "R. Stokowski (A) attempts a three-point shot from the wing, guarded closely by Z. Rygol (H).",
                 "Scored."
             ]
         },
@@ -7975,7 +7975,7 @@
             "shot_pos_x": 343,
             "shot_pos_y": 109,
             "comments": [
-                "D. Strobel (D) glides to the hoop and tries to finish off the glass off of a nice pass from J. Cerra (D).",
+                "D. Strobel (H) glides to the hoop and tries to finish off the glass off of a nice pass from J. Cerra (H).",
                 "Shot missed."
             ]
         },
@@ -7989,7 +7989,7 @@
             "gameclock": 1894,
             "shotclock": 11,
             "comments": [
-                "A. Szyszka (W) pulls down a defensive rebound."
+                "A. Szyszka (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -8006,7 +8006,7 @@
             "shot_pos_x": 60,
             "shot_pos_y": 159,
             "comments": [
-                "A. Szyszka (W) attempts a jump-shot from the wing, guarded closely by R. Barresi (D).",
+                "A. Szyszka (A) attempts a jump-shot from the wing, guarded closely by R. Barresi (H).",
                 "Scored."
             ]
         },
@@ -8024,7 +8024,7 @@
             "shot_pos_x": 253,
             "shot_pos_y": 77,
             "comments": [
-                "Z. Rygol (D) gets off a great pass to R. Barresi (D). R. Barresi (D) forces up a three from the top of the arc.",
+                "Z. Rygol (H) gets off a great pass to R. Barresi (H). R. Barresi (H) forces up a three from the top of the arc.",
                 "Shot missed."
             ]
         },
@@ -8038,7 +8038,7 @@
             "gameclock": 1919,
             "shotclock": 11,
             "comments": [
-                "H. Achremowicz (W) corrals the missed shot."
+                "H. Achremowicz (A) corrals the missed shot."
             ]
         },
         {
@@ -8055,9 +8055,9 @@
             "shot_pos_x": 36,
             "shot_pos_y": 80,
             "comments": [
-                "A. Magoński (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) throws down a powerful two-handed dunk.",
+                "A. Magoński (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) throws down a powerful two-handed dunk.",
                 "Scored.",
-                "The shot was assisted by A. Magoński (W)."
+                "The shot was assisted by A. Magoński (A)."
             ]
         },
         {
@@ -8074,7 +8074,7 @@
             "shot_pos_x": 301,
             "shot_pos_y": 122,
             "comments": [
-                "D. Strobel (D) attempts a jumper from the elbow, guarded closely by A. Myga (W).",
+                "D. Strobel (H) attempts a jumper from the elbow, guarded closely by A. Myga (A).",
                 "Scored."
             ]
         },
@@ -8092,7 +8092,7 @@
             "shot_pos_x": 26,
             "shot_pos_y": 107,
             "comments": [
-                "A. Magoński (W) gets off a great pass to H. Achremowicz (W). H. Achremowicz (W) brings the crowd to its feet with a powerful slam.",
+                "A. Magoński (A) gets off a great pass to H. Achremowicz (A). H. Achremowicz (A) brings the crowd to its feet with a powerful slam.",
                 "Shot missed."
             ]
         },
@@ -8107,7 +8107,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "J. Jagodziak (D) is called for a shooting foul."
+                "J. Jagodziak (H) is called for a shooting foul."
             ]
         },
         {
@@ -8118,7 +8118,7 @@
             "gameclock": 1958,
             "shotclock": 0,
             "comments": [
-                "H. Achremowicz (W) sinks the free throw."
+                "H. Achremowicz (A) sinks the free throw."
             ]
         },
         {
@@ -8130,7 +8130,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "J. Cerra (D) is headed to the bench; he'll be replaced at PG by E. Nejman (D)."
+                "J. Cerra (H) is headed to the bench; he'll be replaced at PG by E. Nejman (H)."
             ]
         },
         {
@@ -8142,7 +8142,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "R. Pawelski (D) substituted for R. Barresi (D) at SG."
+                "R. Pawelski (H) substituted for R. Barresi (H) at SG."
             ]
         },
         {
@@ -8154,7 +8154,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "N. Skórkiewicz (D) brought in for Z. Rygol (D) at SF."
+                "N. Skórkiewicz (H) brought in for Z. Rygol (H) at SF."
             ]
         },
         {
@@ -8166,7 +8166,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "Change at PF: S. Sztaba (D) in. D. Strobel (D) out."
+                "Change at PF: S. Sztaba (H) in. D. Strobel (H) out."
             ]
         },
         {
@@ -8178,7 +8178,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "N. Guz (W) brought in for A. Myga (W) at PF."
+                "N. Guz (A) brought in for A. Myga (A) at PF."
             ]
         },
         {
@@ -8189,7 +8189,7 @@
             "gameclock": 1958,
             "shotclock": 0,
             "comments": [
-                "H. Achremowicz (W) throws up a brick from the line."
+                "H. Achremowicz (A) throws up a brick from the line."
             ]
         },
         {
@@ -8202,7 +8202,7 @@
             "gameclock": 1958,
             "shotclock": 12,
             "comments": [
-                "A. Magoński (W) boxes out his man and snags the offensive rebound."
+                "A. Magoński (A) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -8219,7 +8219,7 @@
             "shot_pos_x": 21,
             "shot_pos_y": 116,
             "comments": [
-                "A. Magoński (W) collects the rebound and goes back up for the shot with E. Nejman (D) right in his face.",
+                "A. Magoński (A) collects the rebound and goes back up for the shot with E. Nejman (H) right in his face.",
                 "Shot missed."
             ]
         },
@@ -8233,7 +8233,7 @@
             "gameclock": 1960,
             "shotclock": 22,
             "comments": [
-                "N. Guz (W) cleans the offensive glass."
+                "N. Guz (A) cleans the offensive glass."
             ]
         },
         {
@@ -8250,7 +8250,7 @@
             "shot_pos_x": 35,
             "shot_pos_y": 98,
             "comments": [
-                "N. Guz (W) collects the rebound and goes back up for the shot, guarded closely by S. Sztaba (D).",
+                "N. Guz (A) collects the rebound and goes back up for the shot, guarded closely by S. Sztaba (H).",
                 "Scored."
             ]
         },
@@ -8268,7 +8268,7 @@
             "shot_pos_x": 260,
             "shot_pos_y": 49,
             "comments": [
-                "R. Pawelski (D) forces up a three from the top of the arc, guarded closely by A. Szyszka (W).",
+                "R. Pawelski (H) forces up a three from the top of the arc, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -8286,9 +8286,9 @@
             "shot_pos_x": 24,
             "shot_pos_y": 161,
             "comments": [
-                "H. Achremowicz (W) threads a pass through the defense and finds R. Stokowski (W).  R. Stokowski (W) attempts a jump-shot from the wing.",
+                "H. Achremowicz (A) threads a pass through the defense and finds R. Stokowski (A).  R. Stokowski (A) attempts a jump-shot from the wing.",
                 "Scored.",
-                "The shot was assisted by H. Achremowicz (W)."
+                "The shot was assisted by H. Achremowicz (A)."
             ]
         },
         {
@@ -8305,7 +8305,7 @@
             "shot_pos_x": 291,
             "shot_pos_y": 124,
             "comments": [
-                "E. Nejman (D) gets off a great pass to R. Pawelski (D). R. Pawelski (D) attempts a jumper from the elbow.",
+                "E. Nejman (H) gets off a great pass to R. Pawelski (H). R. Pawelski (H) attempts a jumper from the elbow.",
                 "Shot missed."
             ]
         },
@@ -8319,7 +8319,7 @@
             "gameclock": 1998,
             "shotclock": 12,
             "comments": [
-                "N. Guz (W) corrals the missed shot."
+                "N. Guz (A) corrals the missed shot."
             ]
         },
         {
@@ -8333,7 +8333,7 @@
             "gameclock": 2007,
             "shotclock": 15,
             "comments": [
-                "Foul called on E. Nejman (D)."
+                "Foul called on E. Nejman (H)."
             ]
         },
         {
@@ -8345,7 +8345,7 @@
             "gameclock": 2007,
             "shotclock": 6,
             "comments": [
-                "Substitution at C: S. Kukla (D) for J. Jagodziak (D)."
+                "Substitution at C: S. Kukla (H) for J. Jagodziak (H)."
             ]
         },
         {
@@ -8357,7 +8357,7 @@
             "gameclock": 2007,
             "shotclock": 6,
             "comments": [
-                "A. Brzezicki (W) came off the bench to replace H. Achremowicz (W) at center."
+                "A. Brzezicki (A) came off the bench to replace H. Achremowicz (A) at center."
             ]
         },
         {
@@ -8374,7 +8374,7 @@
             "shot_pos_x": 63,
             "shot_pos_y": 7,
             "comments": [
-                "A. Szyszka (W) attempts a three-point shot from the wing, guarded closely by R. Pawelski (D).",
+                "A. Szyszka (A) attempts a three-point shot from the wing, guarded closely by R. Pawelski (H).",
                 "Shot missed."
             ]
         },
@@ -8388,7 +8388,7 @@
             "gameclock": 2013,
             "shotclock": 9,
             "comments": [
-                "A. Szyszka (W) cleans the offensive glass."
+                "A. Szyszka (A) cleans the offensive glass."
             ]
         },
         {
@@ -8405,7 +8405,7 @@
             "shot_pos_x": 34,
             "shot_pos_y": 106,
             "comments": [
-                "N. Guz (W) switches hands in mid-air on his way to the basket under pressure from S. Sztaba (D).",
+                "N. Guz (A) switches hands in mid-air on his way to the basket under pressure from S. Sztaba (H).",
                 "Scored."
             ]
         },
@@ -8423,7 +8423,7 @@
             "shot_pos_x": 347,
             "shot_pos_y": 188,
             "comments": [
-                "E. Nejman (D) fires up a three-point shot from the corner, guarded closely by A. Magoński (W).",
+                "E. Nejman (H) fires up a three-point shot from the corner, guarded closely by A. Magoński (A).",
                 "Scored."
             ]
         },
@@ -8441,9 +8441,9 @@
             "shot_pos_x": 9,
             "shot_pos_y": 188,
             "comments": [
-                "R. Stokowski (W) gets off a great pass to A. Szyszka (W). A. Szyszka (W) fires up a three-point shot from the corner.",
+                "R. Stokowski (A) gets off a great pass to A. Szyszka (A). A. Szyszka (A) fires up a three-point shot from the corner.",
                 "Scored.",
-                "The shot was assisted by R. Stokowski (W)."
+                "The shot was assisted by R. Stokowski (A)."
             ]
         },
         {
@@ -8460,7 +8460,7 @@
             "shot_pos_x": 306,
             "shot_pos_y": 46,
             "comments": [
-                "N. Skórkiewicz (D) opens up the play with a pass to E. Nejman (D). E. Nejman (D) fires an off-balance jumper from the wing.",
+                "N. Skórkiewicz (H) opens up the play with a pass to E. Nejman (H). E. Nejman (H) fires an off-balance jumper from the wing.",
                 "Shot missed."
             ]
         },
@@ -8475,7 +8475,7 @@
             "gameclock": 2065,
             "shotclock": 13,
             "comments": [
-                "A. Magoński (W) is called for a shooting foul."
+                "A. Magoński (A) is called for a shooting foul."
             ]
         },
         {
@@ -8486,7 +8486,7 @@
             "gameclock": 2065,
             "shotclock": 0,
             "comments": [
-                "E. Nejman (D) sinks the free throw."
+                "E. Nejman (H) sinks the free throw."
             ]
         },
         {
@@ -8498,7 +8498,7 @@
             "gameclock": 2065,
             "shotclock": 13,
             "comments": [
-                "R. Barresi (D) substituted for R. Pawelski (D) at SG."
+                "R. Barresi (H) substituted for R. Pawelski (H) at SG."
             ]
         },
         {
@@ -8510,7 +8510,7 @@
             "gameclock": 2065,
             "shotclock": 13,
             "comments": [
-                "R. Stokowski (W) was replaced by G. Fabis (W) at SF."
+                "R. Stokowski (A) was replaced by G. Fabis (A) at SF."
             ]
         },
         {
@@ -8522,7 +8522,7 @@
             "gameclock": 2065,
             "shotclock": 13,
             "comments": [
-                "A. Myga (W) brought in for N. Guz (W) at PF."
+                "A. Myga (A) brought in for N. Guz (A) at PF."
             ]
         },
         {
@@ -8534,7 +8534,7 @@
             "gameclock": 2065,
             "shotclock": 13,
             "comments": [
-                "H. Achremowicz (W) came off the bench to replace A. Brzezicki (W) at center."
+                "H. Achremowicz (A) came off the bench to replace A. Brzezicki (A) at center."
             ]
         },
         {
@@ -8545,7 +8545,7 @@
             "gameclock": 2065,
             "shotclock": 0,
             "comments": [
-                "The free throw by E. Nejman (D) is up and in."
+                "The free throw by E. Nejman (H) is up and in."
             ]
         },
         {
@@ -8562,7 +8562,7 @@
             "shot_pos_x": 64,
             "shot_pos_y": 129,
             "comments": [
-                "A. Szyszka (W) elevates and fires off a pull-up jumper from the elbow after R. Barresi (D) backed off slightly.",
+                "A. Szyszka (A) elevates and fires off a pull-up jumper from the elbow after R. Barresi (H) backed off slightly.",
                 "Scored."
             ]
         },
@@ -8580,7 +8580,7 @@
             "shot_pos_x": 321,
             "shot_pos_y": 97,
             "comments": [
-                "S. Sztaba (D) tries a driving layup off of a nice pass from N. Skórkiewicz (D).",
+                "S. Sztaba (H) tries a driving layup off of a nice pass from N. Skórkiewicz (H).",
                 "Shot missed."
             ]
         },
@@ -8594,7 +8594,7 @@
             "gameclock": 2100,
             "shotclock": 10,
             "comments": [
-                "A. Myga (W) grabs the defensive rebound."
+                "A. Myga (A) grabs the defensive rebound."
             ]
         },
         {
@@ -8611,7 +8611,7 @@
             "shot_pos_x": 65,
             "shot_pos_y": 46,
             "comments": [
-                "G. Fabis (W) attempts a jump-shot from the wing over N. Skórkiewicz (D).",
+                "G. Fabis (A) attempts a jump-shot from the wing over N. Skórkiewicz (H).",
                 "Scored."
             ]
         },
@@ -8629,7 +8629,7 @@
             "shot_pos_x": 306,
             "shot_pos_y": 123,
             "comments": [
-                "R. Barresi (D) slips off a screen and fires from the elbow off of a nice pass from N. Skórkiewicz (D).",
+                "R. Barresi (H) slips off a screen and fires from the elbow off of a nice pass from N. Skórkiewicz (H).",
                 "Shot missed."
             ]
         },
@@ -8644,7 +8644,7 @@
             "gameclock": 2126,
             "shotclock": 13,
             "comments": [
-                "A. Szyszka (W) is called for a shooting foul."
+                "A. Szyszka (A) is called for a shooting foul."
             ]
         },
         {
@@ -8655,7 +8655,7 @@
             "gameclock": 2126,
             "shotclock": 0,
             "comments": [
-                "R. Barresi (D) throws up a brick from the line."
+                "R. Barresi (H) throws up a brick from the line."
             ]
         },
         {
@@ -8666,7 +8666,7 @@
             "gameclock": 2126,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by R. Barresi (D)."
+                "Free throw missed by R. Barresi (H)."
             ]
         },
         {
@@ -8679,7 +8679,7 @@
             "gameclock": 2126,
             "shotclock": 13,
             "comments": [
-                "A. Myga (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "A. Myga (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -8696,7 +8696,7 @@
             "shot_pos_x": 328,
             "shot_pos_y": 126,
             "comments": [
-                "E. Nejman (D) goes up strong for an inside shot, guarded closely by A. Magoński (W).",
+                "E. Nejman (H) goes up strong for an inside shot, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -8710,7 +8710,7 @@
             "gameclock": 2142,
             "shotclock": 8,
             "comments": [
-                "S. Kukla (D) flew in from the wing to grab the offensive rebound."
+                "S. Kukla (H) flew in from the wing to grab the offensive rebound."
             ]
         },
         {
@@ -8727,7 +8727,7 @@
             "shot_pos_x": 320,
             "shot_pos_y": 116,
             "comments": [
-                "S. Kukla (D) reaches up and tries to tip it in under pressure from H. Achremowicz (W).",
+                "S. Kukla (H) reaches up and tries to tip it in under pressure from H. Achremowicz (A).",
                 "Shot missed."
             ]
         },
@@ -8741,7 +8741,7 @@
             "gameclock": 2144,
             "shotclock": 16,
             "comments": [
-                "S. Kukla (D) grabs the offensive rebound."
+                "S. Kukla (H) grabs the offensive rebound."
             ]
         },
         {
@@ -8758,7 +8758,7 @@
             "shot_pos_x": 261,
             "shot_pos_y": 99,
             "comments": [
-                "E. Nejman (D) pulls up at the top of the key and takes a shot after A. Magoński (W) backed off slightly.",
+                "E. Nejman (H) pulls up at the top of the key and takes a shot after A. Magoński (A) backed off slightly.",
                 "Shot blocked."
             ]
         },
@@ -8772,7 +8772,7 @@
             "gameclock": 2156,
             "shotclock": 4,
             "comments": [
-                "H. Achremowicz (W) ends the possession with a defensive rebound."
+                "H. Achremowicz (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -8789,7 +8789,7 @@
             "shot_pos_x": 74,
             "shot_pos_y": 153,
             "comments": [
-                "A. Szyszka (W) tries to bank one in from the wing with R. Barresi (D) right in his face.",
+                "A. Szyszka (A) tries to bank one in from the wing with R. Barresi (H) right in his face.",
                 "Shot missed."
             ]
         },
@@ -8812,9 +8812,9 @@
             "shot_pos_x": 331,
             "shot_pos_y": 121,
             "comments": [
-                "N. Skórkiewicz (D) opens up the play with a pass to E. Nejman (D). E. Nejman (D) skies over the defender and throws it down one-handed.",
+                "N. Skórkiewicz (H) opens up the play with a pass to E. Nejman (H). E. Nejman (H) skies over the defender and throws it down one-handed.",
                 "Scored.",
-                "N. Skórkiewicz (D) credited with the assist."
+                "N. Skórkiewicz (H) credited with the assist."
             ]
         },
         {
@@ -8831,9 +8831,9 @@
             "shot_pos_x": 25,
             "shot_pos_y": 72,
             "comments": [
-                "Quick drop-step move leads to a two-handed dunk by G. Fabis (W) off of a nice pass from H. Achremowicz (W).",
+                "Quick drop-step move leads to a two-handed dunk by G. Fabis (A) off of a nice pass from H. Achremowicz (A).",
                 "Scored.",
-                "The shot was assisted by H. Achremowicz (W)."
+                "The shot was assisted by H. Achremowicz (A)."
             ]
         },
         {
@@ -8850,7 +8850,7 @@
             "gameclock": 2193,
             "shotclock": 11,
             "comments": [
-                "Substitution at C: J. Jagodziak (D) for S. Kukla (D)."
+                "Substitution at C: J. Jagodziak (H) for S. Kukla (H)."
             ]
         },
         {
@@ -8867,7 +8867,7 @@
             "shot_pos_x": 253,
             "shot_pos_y": 72,
             "comments": [
-                "N. Skórkiewicz (D) forces up a three from the top of the arc, guarded closely by G. Fabis (W).",
+                "N. Skórkiewicz (H) forces up a three from the top of the arc, guarded closely by G. Fabis (A).",
                 "Shot missed."
             ]
         },
@@ -8881,7 +8881,7 @@
             "gameclock": 2213,
             "shotclock": 4,
             "comments": [
-                "R. Barresi (D) boxes out his man and snags the offensive rebound."
+                "R. Barresi (H) boxes out his man and snags the offensive rebound."
             ]
         },
         {
@@ -8898,7 +8898,7 @@
             "shot_pos_x": 323,
             "shot_pos_y": 120,
             "comments": [
-                "S. Sztaba (D)  spins around his defender and fires off a quick jump shot, guarded closely by A. Myga (W).",
+                "S. Sztaba (H)  spins around his defender and fires off a quick jump shot, guarded closely by A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -8912,7 +8912,7 @@
             "gameclock": 2234,
             "shotclock": 3,
             "comments": [
-                "A. Magoński (W) grabs the defensive rebound."
+                "A. Magoński (A) grabs the defensive rebound."
             ]
         },
         {
@@ -8929,7 +8929,7 @@
             "shot_pos_x": 47,
             "shot_pos_y": 73,
             "comments": [
-                "A. Szyszka (W) goes up for the dunk in a crowd, guarded closely by R. Barresi (D).",
+                "A. Szyszka (A) goes up for the dunk in a crowd, guarded closely by R. Barresi (H).",
                 "Shot blocked."
             ]
         },
@@ -8943,7 +8943,7 @@
             "gameclock": 2247,
             "shotclock": 11,
             "comments": [
-                "N. Skórkiewicz (D) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "N. Skórkiewicz (H) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -8960,7 +8960,7 @@
             "shot_pos_x": 12,
             "shot_pos_y": 4,
             "comments": [
-                "A. Magoński (W) fires up a three-point shot from the corner, guarded closely by E. Nejman (D).",
+                "A. Magoński (A) fires up a three-point shot from the corner, guarded closely by E. Nejman (H).",
                 "Shot missed."
             ]
         },
@@ -8974,7 +8974,7 @@
             "gameclock": 2255,
             "shotclock": 16,
             "comments": [
-                "S. Sztaba (D) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "S. Sztaba (H) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -8991,9 +8991,9 @@
             "shot_pos_x": 35,
             "shot_pos_y": 133,
             "comments": [
-                "A. Magoński (W) opens up the play with a pass to A. Myga (W). A. Myga (W) bullies his way to the basket for a tough inside shot.",
+                "A. Magoński (A) opens up the play with a pass to A. Myga (A). A. Myga (A) bullies his way to the basket for a tough inside shot.",
                 "Scored.",
-                "The shot was assisted by A. Magoński (W)."
+                "The shot was assisted by A. Magoński (A)."
             ]
         },
         {
@@ -9010,7 +9010,7 @@
             "shot_pos_x": 341,
             "shot_pos_y": 4,
             "comments": [
-                "R. Barresi (D) fires up a three-point shot from the corner, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) fires up a three-point shot from the corner, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -9024,7 +9024,7 @@
             "gameclock": 2298,
             "shotclock": 19,
             "comments": [
-                "R. Barresi (D) intercepted a pass."
+                "R. Barresi (H) intercepted a pass."
             ]
         },
         {
@@ -9038,7 +9038,7 @@
             "gameclock": 2304,
             "shotclock": 18,
             "comments": [
-                "Foul called on A. Magoński (W)."
+                "Foul called on A. Magoński (A)."
             ]
         },
         {
@@ -9055,7 +9055,7 @@
             "shot_pos_x": 306,
             "shot_pos_y": 118,
             "comments": [
-                "R. Barresi (D) elevates and fires off a pull-up jumper from the elbow after A. Szyszka (W) backed off slightly.",
+                "R. Barresi (H) elevates and fires off a pull-up jumper from the elbow after A. Szyszka (A) backed off slightly.",
                 "Shot missed."
             ]
         },
@@ -9069,7 +9069,7 @@
             "gameclock": 2310,
             "shotclock": 12,
             "comments": [
-                "G. Fabis (W) ends the possession with a defensive rebound."
+                "G. Fabis (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -9086,9 +9086,9 @@
             "shot_pos_x": 39,
             "shot_pos_y": 188,
             "comments": [
-                "H. Achremowicz (W) threads a pass through the defense and finds A. Magoński (W).  A. Magoński (W) attempts a three-point shot from the wing.",
+                "H. Achremowicz (A) threads a pass through the defense and finds A. Magoński (A).  A. Magoński (A) attempts a three-point shot from the wing.",
                 "Scored.",
-                "H. Achremowicz (W) credited with the assist."
+                "H. Achremowicz (A) credited with the assist."
             ]
         },
         {
@@ -9105,7 +9105,7 @@
             "shot_pos_x": 364,
             "shot_pos_y": 188,
             "comments": [
-                "E. Nejman (D) gets off a great pass to N. Skórkiewicz (D). N. Skórkiewicz (D) fires up a three-point shot from the corner.",
+                "E. Nejman (H) gets off a great pass to N. Skórkiewicz (H). N. Skórkiewicz (H) fires up a three-point shot from the corner.",
                 "Shot missed."
             ]
         },
@@ -9119,7 +9119,7 @@
             "gameclock": 2346,
             "shotclock": 2,
             "comments": [
-                "A. Magoński (W) pulls down a defensive rebound."
+                "A. Magoński (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -9136,9 +9136,9 @@
             "shot_pos_x": 4,
             "shot_pos_y": 172,
             "comments": [
-                "G. Fabis (W) gets off a great pass to H. Achremowicz (W). H. Achremowicz (W) attempts a baseline jumper.",
+                "G. Fabis (A) gets off a great pass to H. Achremowicz (A). H. Achremowicz (A) attempts a baseline jumper.",
                 "Scored.",
-                "The shot was assisted by G. Fabis (W)."
+                "The shot was assisted by G. Fabis (A)."
             ]
         },
         {
@@ -9151,7 +9151,7 @@
             "gameclock": 2370,
             "shotclock": 10,
             "comments": [
-                "R. Barresi (D) called for a traveling violation."
+                "R. Barresi (H) called for a traveling violation."
             ]
         },
         {
@@ -9168,7 +9168,7 @@
             "shot_pos_x": 59,
             "shot_pos_y": 122,
             "comments": [
-                "A. Szyszka (W) threads a pass through the defense and finds A. Magoński (W).  A. Magoński (W) attempts a jumper from the elbow.",
+                "A. Szyszka (A) threads a pass through the defense and finds A. Magoński (A).  A. Magoński (A) attempts a jumper from the elbow.",
                 "Shot missed."
             ]
         },
@@ -9199,7 +9199,7 @@
             "shot_pos_x": 311,
             "shot_pos_y": 57,
             "comments": [
-                "E. Nejman (D) gets off a great pass to R. Barresi (D). R. Barresi (D) attempts a jump-shot from the wing.",
+                "E. Nejman (H) gets off a great pass to R. Barresi (H). R. Barresi (H) attempts a jump-shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -9213,7 +9213,7 @@
             "gameclock": 2393,
             "shotclock": 13,
             "comments": [
-                "A. Myga (W) pulls down a defensive rebound."
+                "A. Myga (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -9230,7 +9230,7 @@
             "shot_pos_x": 47,
             "shot_pos_y": 33,
             "comments": [
-                "A. Szyszka (W) fires an off-balance jumper from the wing under pressure from R. Barresi (D).",
+                "A. Szyszka (A) fires an off-balance jumper from the wing under pressure from R. Barresi (H).",
                 "Shot missed."
             ]
         },
@@ -9244,7 +9244,7 @@
             "gameclock": 2405,
             "shotclock": 12,
             "comments": [
-                "R. Barresi (D) grabs the defensive rebound."
+                "R. Barresi (H) grabs the defensive rebound."
             ]
         },
         {
@@ -9261,9 +9261,9 @@
             "shot_pos_x": 294,
             "shot_pos_y": 137,
             "comments": [
-                "J. Jagodziak (D) opens up the play with a pass to E. Nejman (D). E. Nejman (D) has plenty of time to set-up, and shoots from near the foul line.",
+                "J. Jagodziak (H) opens up the play with a pass to E. Nejman (H). E. Nejman (H) has plenty of time to set-up, and shoots from near the foul line.",
                 "Scored.",
-                "The shot was assisted by J. Jagodziak (D)."
+                "The shot was assisted by J. Jagodziak (H)."
             ]
         },
         {
@@ -9280,7 +9280,7 @@
             "shot_pos_x": 33,
             "shot_pos_y": 4,
             "comments": [
-                "G. Fabis (W) catches in the corner and launches for three off of a nice pass from A. Magoński (W).",
+                "G. Fabis (A) catches in the corner and launches for three off of a nice pass from A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -9294,7 +9294,7 @@
             "gameclock": 2435,
             "shotclock": 9,
             "comments": [
-                "A. Magoński (W) hustles for the offensive rebound."
+                "A. Magoński (A) hustles for the offensive rebound."
             ]
         },
         {
@@ -9307,7 +9307,7 @@
             "gameclock": 2440,
             "shotclock": 19,
             "comments": [
-                "N. Skórkiewicz (D) intercepted a pass."
+                "N. Skórkiewicz (H) intercepted a pass."
             ]
         },
         {
@@ -9324,7 +9324,7 @@
             "shot_pos_x": 308,
             "shot_pos_y": 83,
             "comments": [
-                "N. Skórkiewicz (D) gets off a great pass to S. Sztaba (D). S. Sztaba (D)  spins around his defender and fires off a quick jump shot.",
+                "N. Skórkiewicz (H) gets off a great pass to S. Sztaba (H). S. Sztaba (H)  spins around his defender and fires off a quick jump shot.",
                 "Shot missed."
             ]
         },
@@ -9338,7 +9338,7 @@
             "gameclock": 2445,
             "shotclock": 19,
             "comments": [
-                "J. Jagodziak (D) hustles for the offensive rebound."
+                "J. Jagodziak (H) hustles for the offensive rebound."
             ]
         },
         {
@@ -9355,7 +9355,7 @@
             "shot_pos_x": 344,
             "shot_pos_y": 75,
             "comments": [
-                "J. Jagodziak (D) collects the rebound and goes back up for the shot, guarded closely by H. Achremowicz (W).",
+                "J. Jagodziak (H) collects the rebound and goes back up for the shot, guarded closely by H. Achremowicz (A).",
                 "Shot missed."
             ]
         },
@@ -9369,7 +9369,7 @@
             "gameclock": 2447,
             "shotclock": 22,
             "comments": [
-                "A. Myga (W) grabs the defensive rebound."
+                "A. Myga (A) grabs the defensive rebound."
             ]
         },
         {
@@ -9386,7 +9386,7 @@
             "shot_pos_x": 4,
             "shot_pos_y": 174,
             "comments": [
-                "A. Myga (W) gets free for a baseline jumper with S. Sztaba (D) right in his face.",
+                "A. Myga (A) gets free for a baseline jumper with S. Sztaba (H) right in his face.",
                 "Scored."
             ]
         },
@@ -9404,7 +9404,7 @@
             "shot_pos_x": 319,
             "shot_pos_y": 4,
             "comments": [
-                "R. Barresi (D) attempts a three-point shot from the wing, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) attempts a three-point shot from the wing, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -9422,9 +9422,9 @@
             "shot_pos_x": 31,
             "shot_pos_y": 80,
             "comments": [
-                "H. Achremowicz (W)  finds G. Fabis (W) in space. G. Fabis (W) lowers his shoulder and plays a shot off the glass.",
+                "H. Achremowicz (A)  finds G. Fabis (A) in space. G. Fabis (A) lowers his shoulder and plays a shot off the glass.",
                 "Scored.",
-                "H. Achremowicz (W) credited with the assist."
+                "H. Achremowicz (A) credited with the assist."
             ]
         },
         {
@@ -9441,7 +9441,7 @@
             "shot_pos_x": 362,
             "shot_pos_y": 160,
             "comments": [
-                "S. Sztaba (D) attempts a baseline jumper, guarded closely by A. Myga (W).",
+                "S. Sztaba (H) attempts a baseline jumper, guarded closely by A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -9455,7 +9455,7 @@
             "gameclock": 2498,
             "shotclock": 13,
             "comments": [
-                "G. Fabis (W) ends the possession with a defensive rebound."
+                "G. Fabis (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -9469,7 +9469,7 @@
             "gameclock": 2507,
             "shotclock": 15,
             "comments": [
-                "Foul called on R. Barresi (D)."
+                "Foul called on R. Barresi (H)."
             ]
         },
         {
@@ -9481,7 +9481,7 @@
             "gameclock": 2507,
             "shotclock": 6,
             "comments": [
-                "J. Cerra (D) will come off the bench to replace E. Nejman (D) at PG."
+                "J. Cerra (H) will come off the bench to replace E. Nejman (H) at PG."
             ]
         },
         {
@@ -9493,7 +9493,7 @@
             "gameclock": 2507,
             "shotclock": 6,
             "comments": [
-                "Z. Rygol (D) brought in for N. Skórkiewicz (D) at SF."
+                "Z. Rygol (H) brought in for N. Skórkiewicz (H) at SF."
             ]
         },
         {
@@ -9505,7 +9505,7 @@
             "gameclock": 2507,
             "shotclock": 6,
             "comments": [
-                "Change at PF: D. Strobel (D) in. S. Sztaba (D) out."
+                "Change at PF: D. Strobel (H) in. S. Sztaba (H) out."
             ]
         },
         {
@@ -9522,7 +9522,7 @@
             "shot_pos_x": 118,
             "shot_pos_y": 116,
             "comments": [
-                "A. Magoński (W) forces up a three from the top of the arc.",
+                "A. Magoński (A) forces up a three from the top of the arc.",
                 "Shot missed."
             ]
         },
@@ -9536,7 +9536,7 @@
             "gameclock": 2514,
             "shotclock": 8,
             "comments": [
-                "J. Cerra (D) grabs the defensive rebound."
+                "J. Cerra (H) grabs the defensive rebound."
             ]
         },
         {
@@ -9550,7 +9550,7 @@
             "gameclock": 2523,
             "shotclock": 15,
             "comments": [
-                "Foul called on A. Myga (W)."
+                "Foul called on A. Myga (A)."
             ]
         },
         {
@@ -9567,7 +9567,7 @@
             "shot_pos_x": 283,
             "shot_pos_y": 100,
             "comments": [
-                "D. Strobel (D) gets off a great pass to R. Barresi (D). R. Barresi (D) pulls up at the top of the key and takes a shot.",
+                "D. Strobel (H) gets off a great pass to R. Barresi (H). R. Barresi (H) pulls up at the top of the key and takes a shot.",
                 "Shot missed."
             ]
         },
@@ -9582,7 +9582,7 @@
             "gameclock": 2536,
             "shotclock": 2,
             "comments": [
-                "A. Szyszka (W) is called for a shooting foul."
+                "A. Szyszka (A) is called for a shooting foul."
             ]
         },
         {
@@ -9593,7 +9593,7 @@
             "gameclock": 2536,
             "shotclock": 0,
             "comments": [
-                "Free throw made by R. Barresi (D)."
+                "Free throw made by R. Barresi (H)."
             ]
         },
         {
@@ -9604,7 +9604,7 @@
             "gameclock": 2536,
             "shotclock": 0,
             "comments": [
-                "R. Barresi (D) gets the free throw to go."
+                "R. Barresi (H) gets the free throw to go."
             ]
         },
         {
@@ -9617,7 +9617,7 @@
             "gameclock": 2542,
             "shotclock": 18,
             "comments": [
-                "R. Barresi (D) intercepted a pass."
+                "R. Barresi (H) intercepted a pass."
             ]
         },
         {
@@ -9634,7 +9634,7 @@
             "shot_pos_x": 303,
             "shot_pos_y": 98,
             "comments": [
-                "D. Strobel (D) gets off a great pass to J. Cerra (D). J. Cerra (D) tries a driving layup.",
+                "D. Strobel (H) gets off a great pass to J. Cerra (H). J. Cerra (H) tries a driving layup.",
                 "Shot missed."
             ]
         },
@@ -9648,7 +9648,7 @@
             "gameclock": 2546,
             "shotclock": 20,
             "comments": [
-                "G. Fabis (W) grabs the defensive rebound."
+                "G. Fabis (A) grabs the defensive rebound."
             ]
         },
         {
@@ -9665,9 +9665,9 @@
             "shot_pos_x": 40,
             "shot_pos_y": 120,
             "comments": [
-                "H. Achremowicz (W) gets off a great pass to A. Myga (W). A. Myga (W) goes up for a dunk in a crowd.",
+                "H. Achremowicz (A) gets off a great pass to A. Myga (A). A. Myga (A) goes up for a dunk in a crowd.",
                 "Scored.",
-                "The shot was assisted by H. Achremowicz (W)."
+                "The shot was assisted by H. Achremowicz (A)."
             ]
         },
         {
@@ -9681,7 +9681,7 @@
             "gameclock": 2566,
             "shotclock": 16,
             "comments": [
-                "Foul called on A. Magoński (W)."
+                "Foul called on A. Magoński (A)."
             ]
         },
         {
@@ -9693,7 +9693,7 @@
             "gameclock": 2566,
             "shotclock": 8,
             "comments": [
-                "R. Pawelski (D) substituted for R. Barresi (D) at SG."
+                "R. Pawelski (H) substituted for R. Barresi (H) at SG."
             ]
         },
         {
@@ -9710,7 +9710,7 @@
             "shot_pos_x": 327,
             "shot_pos_y": 130,
             "comments": [
-                "J. Cerra (D) tries a driving layup, guarded closely by A. Magoński (W).",
+                "J. Cerra (H) tries a driving layup, guarded closely by A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -9724,7 +9724,7 @@
             "gameclock": 2574,
             "shotclock": 8,
             "comments": [
-                "G. Fabis (W) ends the possession with a defensive rebound."
+                "G. Fabis (A) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -9741,7 +9741,7 @@
             "shot_pos_x": 41,
             "shot_pos_y": 35,
             "comments": [
-                "G. Fabis (W) attempts a jump-shot from the wing.",
+                "G. Fabis (A) attempts a jump-shot from the wing.",
                 "Shot missed."
             ]
         },
@@ -9755,7 +9755,7 @@
             "gameclock": 2585,
             "shotclock": 13,
             "comments": [
-                "A. Myga (W) hustles for the offensive rebound."
+                "A. Myga (A) hustles for the offensive rebound."
             ]
         },
         {
@@ -9772,7 +9772,7 @@
             "shot_pos_x": 44,
             "shot_pos_y": 87,
             "comments": [
-                "A. Myga (W) collects the rebound and goes back up for the shot, guarded closely by D. Strobel (D).",
+                "A. Myga (A) collects the rebound and goes back up for the shot, guarded closely by D. Strobel (H).",
                 "Scored."
             ]
         },
@@ -9790,9 +9790,9 @@
             "shot_pos_x": 257,
             "shot_pos_y": 60,
             "comments": [
-                "J. Cerra (D) gets off a great pass to D. Strobel (D). D. Strobel (D) forces up a three from the top of the arc.",
+                "J. Cerra (H) gets off a great pass to D. Strobel (H). D. Strobel (H) forces up a three from the top of the arc.",
                 "Scored.",
-                "The shot was assisted by J. Cerra (D)."
+                "The shot was assisted by J. Cerra (H)."
             ]
         },
         {
@@ -9805,7 +9805,7 @@
             "gameclock": 2614,
             "shotclock": 9,
             "comments": [
-                "R. Pawelski (D) intercepted a pass."
+                "R. Pawelski (H) intercepted a pass."
             ]
         },
         {
@@ -9822,7 +9822,7 @@
             "shot_pos_x": 358,
             "shot_pos_y": 142,
             "comments": [
-                "J. Jagodziak (D) gets off a great pass to R. Pawelski (D). R. Pawelski (D) attempts a baseline jumper.",
+                "J. Jagodziak (H) gets off a great pass to R. Pawelski (H). R. Pawelski (H) attempts a baseline jumper.",
                 "Shot missed."
             ]
         },
@@ -9836,7 +9836,7 @@
             "gameclock": 2622,
             "shotclock": 16,
             "comments": [
-                "G. Fabis (W) pulls down a defensive rebound."
+                "G. Fabis (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -9853,7 +9853,7 @@
             "shot_pos_x": 26,
             "shot_pos_y": 111,
             "comments": [
-                "H. Achremowicz (W) gets off a great pass to G. Fabis (W). G. Fabis (W) tries a driving layup.",
+                "H. Achremowicz (A) gets off a great pass to G. Fabis (A). G. Fabis (A) tries a driving layup.",
                 "Shot missed."
             ]
         },
@@ -9868,7 +9868,7 @@
             "gameclock": 2636,
             "shotclock": 10,
             "comments": [
-                "Z. Rygol (D) is called for a shooting foul."
+                "Z. Rygol (H) is called for a shooting foul."
             ]
         },
         {
@@ -9879,7 +9879,7 @@
             "gameclock": 2636,
             "shotclock": 0,
             "comments": [
-                "Free throw missed by G. Fabis (W)."
+                "Free throw missed by G. Fabis (A)."
             ]
         },
         {
@@ -9891,7 +9891,7 @@
             "gameclock": 2636,
             "shotclock": 10,
             "comments": [
-                "J. Cerra (D) is headed to the bench; he'll be replaced at PG by E. Nejman (D)."
+                "J. Cerra (H) is headed to the bench; he'll be replaced at PG by E. Nejman (H)."
             ]
         },
         {
@@ -9903,7 +9903,7 @@
             "gameclock": 2636,
             "shotclock": 10,
             "comments": [
-                "N. Skórkiewicz (D) brought in for Z. Rygol (D) at SF."
+                "N. Skórkiewicz (H) brought in for Z. Rygol (H) at SF."
             ]
         },
         {
@@ -9915,7 +9915,7 @@
             "gameclock": 2636,
             "shotclock": 10,
             "comments": [
-                "Change at PF: S. Sztaba (D) in. D. Strobel (D) out."
+                "Change at PF: S. Sztaba (H) in. D. Strobel (H) out."
             ]
         },
         {
@@ -9926,7 +9926,7 @@
             "gameclock": 2636,
             "shotclock": 0,
             "comments": [
-                "The free throw by G. Fabis (W) is up and in."
+                "The free throw by G. Fabis (A) is up and in."
             ]
         },
         {
@@ -9943,7 +9943,7 @@
             "shot_pos_x": 263,
             "shot_pos_y": 142,
             "comments": [
-                "R. Pawelski (D) forces up a three from the top of the arc after A. Szyszka (W) backed off slightly.",
+                "R. Pawelski (H) forces up a three from the top of the arc after A. Szyszka (A) backed off slightly.",
                 "Shot missed."
             ]
         },
@@ -9957,7 +9957,7 @@
             "gameclock": 2646,
             "shotclock": 14,
             "comments": [
-                "A. Myga (W) corrals the missed shot."
+                "A. Myga (A) corrals the missed shot."
             ]
         },
         {
@@ -9970,7 +9970,7 @@
             "gameclock": 2662,
             "shotclock": 8,
             "comments": [
-                "A. Magoński (W) is whistled for a three-second violation."
+                "A. Magoński (A) is whistled for a three-second violation."
             ]
         },
         {
@@ -9982,7 +9982,7 @@
             "gameclock": 2662,
             "shotclock": 8,
             "comments": [
-                "R. Barresi (D) substituted for R. Pawelski (D) at SG."
+                "R. Barresi (H) substituted for R. Pawelski (H) at SG."
             ]
         },
         {
@@ -9999,7 +9999,7 @@
             "shot_pos_x": 331,
             "shot_pos_y": 92,
             "comments": [
-                "N. Skórkiewicz (D) opens up the play with a pass to E. Nejman (D). E. Nejman (D) bullies his way to the basket for a tough inside shot.",
+                "N. Skórkiewicz (H) opens up the play with a pass to E. Nejman (H). E. Nejman (H) bullies his way to the basket for a tough inside shot.",
                 "Shot missed."
             ]
         },
@@ -10013,7 +10013,7 @@
             "gameclock": 2675,
             "shotclock": 11,
             "comments": [
-                "H. Achremowicz (W) tries to grab the defensive rebound, but the ball goes out of bounds."
+                "H. Achremowicz (A) tries to grab the defensive rebound, but the ball goes out of bounds."
             ]
         },
         {
@@ -10030,7 +10030,7 @@
             "shot_pos_x": 294,
             "shot_pos_y": 78,
             "comments": [
-                "S. Sztaba (D) pulls up at the top of the key and takes a shot, guarded closely by A. Myga (W).",
+                "S. Sztaba (H) pulls up at the top of the key and takes a shot, guarded closely by A. Myga (A).",
                 "Shot missed."
             ]
         },
@@ -10044,7 +10044,7 @@
             "gameclock": 2683,
             "shotclock": 16,
             "comments": [
-                "The defensive rebound is snapped up by A. Myga (W)."
+                "The defensive rebound is snapped up by A. Myga (A)."
             ]
         },
         {
@@ -10057,7 +10057,7 @@
             "gameclock": 2700,
             "shotclock": 7,
             "comments": [
-                "Pass stolen by R. Barresi (D)."
+                "Pass stolen by R. Barresi (H)."
             ]
         },
         {
@@ -10074,7 +10074,7 @@
             "shot_pos_x": 246,
             "shot_pos_y": 138,
             "comments": [
-                "R. Barresi (D) forces up a three from the top of the arc, guarded closely by A. Szyszka (W).",
+                "R. Barresi (H) forces up a three from the top of the arc, guarded closely by A. Szyszka (A).",
                 "Scored."
             ]
         },
@@ -10092,7 +10092,7 @@
             "shot_pos_x": 39,
             "shot_pos_y": 77,
             "comments": [
-                "A. Szyszka (W) goes up for the dunk in a crowd, guarded closely by R. Barresi (D).",
+                "A. Szyszka (A) goes up for the dunk in a crowd, guarded closely by R. Barresi (H).",
                 "Shot blocked."
             ]
         },
@@ -10106,7 +10106,7 @@
             "gameclock": 2719,
             "shotclock": 11,
             "comments": [
-                "J. Jagodziak (D) grabs the defensive rebound."
+                "J. Jagodziak (H) grabs the defensive rebound."
             ]
         },
         {
@@ -10123,7 +10123,7 @@
             "shot_pos_x": 360,
             "shot_pos_y": 160,
             "comments": [
-                "J. Jagodziak (D) gets off a great pass to N. Skórkiewicz (D). N. Skórkiewicz (D) attempts a baseline jumper.",
+                "J. Jagodziak (H) gets off a great pass to N. Skórkiewicz (H). N. Skórkiewicz (H) attempts a baseline jumper.",
                 "Shot missed."
             ]
         },
@@ -10137,7 +10137,7 @@
             "gameclock": 2732,
             "shotclock": 11,
             "comments": [
-                "G. Fabis (W) pulls down a defensive rebound."
+                "G. Fabis (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -10154,7 +10154,7 @@
             "shot_pos_x": 12,
             "shot_pos_y": 59,
             "comments": [
-                "H. Achremowicz (W) attempts a baseline jumper, guarded closely by J. Jagodziak (D).",
+                "H. Achremowicz (A) attempts a baseline jumper, guarded closely by J. Jagodziak (H).",
                 "Shot missed."
             ]
         },
@@ -10168,7 +10168,7 @@
             "gameclock": 2747,
             "shotclock": 9,
             "comments": [
-                "R. Barresi (D) grabs the defensive rebound."
+                "R. Barresi (H) grabs the defensive rebound."
             ]
         },
         {
@@ -10181,7 +10181,7 @@
             "gameclock": 2760,
             "shotclock": 11,
             "comments": [
-                "R. Barresi (D) threw the ball away."
+                "R. Barresi (H) threw the ball away."
             ]
         },
         {
@@ -10193,7 +10193,7 @@
             "gameclock": 2760,
             "shotclock": 11,
             "comments": [
-                "J. Cerra (D) comes into the game to replace E. Nejman (D) at PG."
+                "J. Cerra (H) comes into the game to replace E. Nejman (H) at PG."
             ]
         },
         {
@@ -10205,7 +10205,7 @@
             "gameclock": 2760,
             "shotclock": 11,
             "comments": [
-                "R. Pawelski (D) substituted for R. Barresi (D) at SG."
+                "R. Pawelski (H) substituted for R. Barresi (H) at SG."
             ]
         },
         {
@@ -10217,7 +10217,7 @@
             "gameclock": 2760,
             "shotclock": 11,
             "comments": [
-                "Z. Rygol (D) brought in for N. Skórkiewicz (D) at SF."
+                "Z. Rygol (H) brought in for N. Skórkiewicz (H) at SF."
             ]
         },
         {
@@ -10229,7 +10229,7 @@
             "gameclock": 2760,
             "shotclock": 11,
             "comments": [
-                "Change at PF: D. Strobel (D) in. S. Sztaba (D) out."
+                "Change at PF: D. Strobel (H) in. S. Sztaba (H) out."
             ]
         },
         {
@@ -10241,7 +10241,7 @@
             "gameclock": 2760,
             "shotclock": 11,
             "comments": [
-                "R. Stokowski (W) substituted for A. Szyszka (W) at SG."
+                "R. Stokowski (A) substituted for A. Szyszka (A) at SG."
             ]
         },
         {
@@ -10258,9 +10258,9 @@
             "shot_pos_x": 21,
             "shot_pos_y": 188,
             "comments": [
-                "H. Achremowicz (W) gets off a great pass to G. Fabis (W). G. Fabis (W) fires up a three-point shot from the corner.",
+                "H. Achremowicz (A) gets off a great pass to G. Fabis (A). G. Fabis (A) fires up a three-point shot from the corner.",
                 "Scored.",
-                "The shot was assisted by H. Achremowicz (W)."
+                "The shot was assisted by H. Achremowicz (A)."
             ]
         },
         {
@@ -10277,7 +10277,7 @@
             "shot_pos_x": 257,
             "shot_pos_y": 52,
             "comments": [
-                "R. Pawelski (D) gets off a great pass to J. Cerra (D). J. Cerra (D) forces up a three from the top of the arc.",
+                "R. Pawelski (H) gets off a great pass to J. Cerra (H). J. Cerra (H) forces up a three from the top of the arc.",
                 "Shot missed."
             ]
         },
@@ -10291,7 +10291,7 @@
             "gameclock": 2783,
             "shotclock": 17,
             "comments": [
-                "A. Myga (W) pulls down a defensive rebound."
+                "A. Myga (A) pulls down a defensive rebound."
             ]
         },
         {
@@ -10308,7 +10308,7 @@
             "shot_pos_x": 13,
             "shot_pos_y": 133,
             "comments": [
-                "R. Stokowski (W) opens up the play with a pass to H. Achremowicz (W). H. Achremowicz (W) dribbles baseline and pulls up for a jumper.",
+                "R. Stokowski (A) opens up the play with a pass to H. Achremowicz (A). H. Achremowicz (A) dribbles baseline and pulls up for a jumper.",
                 "Shot missed."
             ]
         },
@@ -10322,7 +10322,7 @@
             "gameclock": 2796,
             "shotclock": 11,
             "comments": [
-                "R. Pawelski (D) ends the possession with a defensive rebound."
+                "R. Pawelski (H) ends the possession with a defensive rebound."
             ]
         },
         {
@@ -10339,7 +10339,7 @@
             "shot_pos_x": 260,
             "shot_pos_y": 136,
             "comments": [
-                "D. Strobel (D) gets off a great pass to J. Cerra (D). J. Cerra (D) forces up a three from the top of the arc.",
+                "D. Strobel (H) gets off a great pass to J. Cerra (H). J. Cerra (H) forces up a three from the top of the arc.",
                 "Shot missed."
             ]
         },
@@ -10353,7 +10353,7 @@
             "gameclock": 2804,
             "shotclock": 16,
             "comments": [
-                "H. Achremowicz (W) grabs the defensive rebound."
+                "H. Achremowicz (A) grabs the defensive rebound."
             ]
         },
         {
@@ -10370,9 +10370,9 @@
             "shot_pos_x": 110,
             "shot_pos_y": 154,
             "comments": [
-                "A. Myga (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) attempts a three-point shot from the wing.",
+                "A. Myga (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) attempts a three-point shot from the wing.",
                 "Scored.",
-                "The shot was assisted by A. Myga (W)."
+                "The shot was assisted by A. Myga (A)."
             ]
         },
         {
@@ -10389,7 +10389,7 @@
             "shot_pos_x": 333,
             "shot_pos_y": 188,
             "comments": [
-                "J. Cerra (D) fires up a three-point shot from the corner over A. Magoński (W).",
+                "J. Cerra (H) fires up a three-point shot from the corner over A. Magoński (A).",
                 "Shot missed."
             ]
         },
@@ -10403,7 +10403,7 @@
             "gameclock": 2822,
             "shotclock": 18,
             "comments": [
-                "The defensive rebound is snapped up by R. Stokowski (W)."
+                "The defensive rebound is snapped up by R. Stokowski (A)."
             ]
         },
         {
@@ -10420,9 +10420,9 @@
             "shot_pos_x": 37,
             "shot_pos_y": 83,
             "comments": [
-                "A. Myga (W) gets off a great pass to R. Stokowski (W). R. Stokowski (W) tries a driving layup.",
+                "A. Myga (A) gets off a great pass to R. Stokowski (A). R. Stokowski (A) tries a driving layup.",
                 "Scored.",
-                "A. Myga (W) credited with the assist."
+                "A. Myga (A) credited with the assist."
             ]
         },
         {
@@ -10439,7 +10439,7 @@
             "shot_pos_x": 334,
             "shot_pos_y": 4,
             "comments": [
-                "Z. Rygol (D) attempts a three-point shot from the wing off of a nice pass from D. Strobel (D).",
+                "Z. Rygol (H) attempts a three-point shot from the wing off of a nice pass from D. Strobel (H).",
                 "Shot missed."
             ]
         },
@@ -10453,7 +10453,7 @@
             "gameclock": 2841,
             "shotclock": 18,
             "comments": [
-                "The defensive rebound is snapped up by G. Fabis (W)."
+                "The defensive rebound is snapped up by G. Fabis (A)."
             ]
         },
         {
@@ -10470,7 +10470,7 @@
             "shot_pos_x": 77,
             "shot_pos_y": 182,
             "comments": [
-                "R. Stokowski (W) attempts a three-point shot from the wing, guarded closely by R. Pawelski (D).",
+                "R. Stokowski (A) attempts a three-point shot from the wing, guarded closely by R. Pawelski (H).",
                 "Shot missed."
             ]
         },
@@ -10484,7 +10484,7 @@
             "gameclock": 2852,
             "shotclock": 13,
             "comments": [
-                "The defensive rebound is snapped up by Z. Rygol (D)."
+                "The defensive rebound is snapped up by Z. Rygol (H)."
             ]
         },
         {
@@ -10501,7 +10501,7 @@
             "shot_pos_x": 225,
             "shot_pos_y": 137,
             "comments": [
-                "R. Pawelski (D) is forced to take a very long three pointer, guarded closely by R. Stokowski (W).",
+                "R. Pawelski (H) is forced to take a very long three pointer, guarded closely by R. Stokowski (A).",
                 "Shot missed."
             ]
         },
@@ -10515,7 +10515,7 @@
             "gameclock": 2858,
             "shotclock": 18,
             "comments": [
-                "The defensive rebound is snapped up by H. Achremowicz (W)."
+                "The defensive rebound is snapped up by H. Achremowicz (A)."
             ]
         },
         {
@@ -10529,7 +10529,7 @@
             "gameclock": 2866,
             "shotclock": 14,
             "comments": [
-                "Foul called on J. Jagodziak (D)."
+                "Foul called on J. Jagodziak (H)."
             ]
         },
         {
@@ -10541,7 +10541,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "E. Nejman (D) will come off the bench to replace J. Cerra (D) at PG."
+                "E. Nejman (H) will come off the bench to replace J. Cerra (H) at PG."
             ]
         },
         {
@@ -10553,7 +10553,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "R. Barresi (D) substituted for R. Pawelski (D) at SG."
+                "R. Barresi (H) substituted for R. Pawelski (H) at SG."
             ]
         },
         {
@@ -10565,7 +10565,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "N. Skórkiewicz (D) brought in for Z. Rygol (D) at SF."
+                "N. Skórkiewicz (H) brought in for Z. Rygol (H) at SF."
             ]
         },
         {
@@ -10577,7 +10577,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "Change at PF: S. Sztaba (D) in. D. Strobel (D) out."
+                "Change at PF: S. Sztaba (H) in. D. Strobel (H) out."
             ]
         },
         {
@@ -10589,7 +10589,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "Substitution at C: S. Kukla (D) for J. Jagodziak (D)."
+                "Substitution at C: S. Kukla (H) for J. Jagodziak (H)."
             ]
         },
         {
@@ -10601,7 +10601,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "A. Magoński (W) and R. Stokowski (W) trade positions on the court."
+                "A. Magoński (A) and R. Stokowski (A) trade positions on the court."
             ]
         },
         {
@@ -10613,7 +10613,7 @@
             "gameclock": 2866,
             "shotclock": 6,
             "comments": [
-                "A. Szyszka (W) substituted for A. Magoński (W) at SG."
+                "A. Szyszka (A) substituted for A. Magoński (A) at SG."
             ]
         },
         {
@@ -10630,7 +10630,7 @@
             "shot_pos_x": 83,
             "shot_pos_y": 55,
             "comments": [
-                "A. Szyszka (W) attempts a jumper from the elbow, guarded closely by R. Barresi (D).",
+                "A. Szyszka (A) attempts a jumper from the elbow, guarded closely by R. Barresi (H).",
                 "Shot missed."
             ]
         },
@@ -10644,7 +10644,7 @@
             "gameclock": 2879,
             "shotclock": 1,
             "comments": [
-                "N. Skórkiewicz (D) pulls down a defensive rebound."
+                "N. Skórkiewicz (H) pulls down a defensive rebound."
             ]
         },
         {
@@ -10661,7 +10661,7 @@
             "shot_pos_x": 335,
             "shot_pos_y": 188,
             "comments": [
-                "E. Nejman (D) gets off a great pass to R. Barresi (D). R. Barresi (D) fires up a three-point shot from the corner.",
+                "E. Nejman (H) gets off a great pass to R. Barresi (H). R. Barresi (H) fires up a three-point shot from the corner.",
                 "Shot missed."
             ]
         },

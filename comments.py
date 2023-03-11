@@ -211,12 +211,12 @@ class Comments:
             loc = None
             for p in teams[0].players:
                 if p.id == p1.id:
-                    loc = "(D)"
+                    loc = "(H)"
                     break
             if loc is None:
                 for p in teams[1].players:
                     if p.id == p1.id:
-                        loc = "(W)"
+                        loc = "(A)"
                         break
             text = text.replace("$player1$", f"{p1.get_shortened_name()} {loc}")
 
@@ -224,12 +224,12 @@ class Comments:
             loc = None
             for p in teams[0].players:
                 if p.id == p2.id:
-                    loc = "(D)"
+                    loc = "(H)"
                     break
             if loc is None:
                 for p in teams[1].players:
                     if p.id == p2.id:
-                        loc = "(W)"
+                        loc = "(A)"
                         break
             text = text.replace("$player2$", f"{p2.get_shortened_name()} {loc}")
 
