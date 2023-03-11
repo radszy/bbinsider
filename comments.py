@@ -6,7 +6,7 @@ class Comments:
     def __init__(self) -> None:
         self.comments: dict[str, dict[int, str]] = {}
 
-        input = "commentary-pl.xml"
+        input = "commentary-en.xml"
         tree = XML.parse(input)
         root = tree.getroot()
 
