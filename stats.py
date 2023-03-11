@@ -78,6 +78,65 @@ class StatSheet:
             f"{self.sheet[Statistic.Fouls]}",
         ]
 
+    def player_stats(self):
+        return {
+            "secs_pg": self.sheet[Statistic.SecsPG],
+            "secs_sg": self.sheet[Statistic.SecsSG],
+            "secs_sf": self.sheet[Statistic.SecsSF],
+            "secs_pf": self.sheet[Statistic.SecsPF],
+            "secs_c": self.sheet[Statistic.SecsC],
+            "mins": self.minutes(),
+            "pts": self.sheet[Statistic.Points],
+            "fgm": self.sheet[Statistic.FieldGoalsMade],
+            "fga": self.sheet[Statistic.FieldGoalsAtt],
+            "tpm": self.sheet[Statistic.ThreePointsMade],
+            "tpa": self.sheet[Statistic.ThreePointsAtt],
+            "ftm": self.sheet[Statistic.FreeThrowsMade],
+            "fta": self.sheet[Statistic.FreeThrowsAtt],
+            "+/-": self.sheet[Statistic.PlusMinus],
+            "or": self.sheet[Statistic.OffRebounds],
+            "dr": self.sheet[Statistic.DefRebounds],
+            "tr": self.sheet[Statistic.OffRebounds] + self.sheet[Statistic.DefRebounds],
+            "ast": self.sheet[Statistic.Assists],
+            "to": self.sheet[Statistic.Turnovers],
+            "stl": self.sheet[Statistic.Steals],
+            "blk": self.sheet[Statistic.Blocks],
+            "pf": self.sheet[Statistic.Fouls],
+            "dunks": None,
+            "points_in_the_paint": None,
+        }
+
+    def team_stats(self):
+        return {
+            "pts": self.sheet[Statistic.Points],
+            "fgm": self.sheet[Statistic.FieldGoalsMade],
+            "fga": self.sheet[Statistic.FieldGoalsAtt],
+            "tpm": self.sheet[Statistic.ThreePointsMade],
+            "tpa": self.sheet[Statistic.ThreePointsAtt],
+            "ftm": self.sheet[Statistic.FreeThrowsMade],
+            "fta": self.sheet[Statistic.FreeThrowsAtt],
+            "+/-": self.sheet[Statistic.PlusMinus],
+            "or": self.sheet[Statistic.OffRebounds],
+            "dr": self.sheet[Statistic.DefRebounds],
+            "tr": self.sheet[Statistic.OffRebounds] + self.sheet[Statistic.DefRebounds],
+            "ast": self.sheet[Statistic.Assists],
+            "to": self.sheet[Statistic.Turnovers],
+            "stl": self.sheet[Statistic.Steals],
+            "blk": self.sheet[Statistic.Blocks],
+            "pf": self.sheet[Statistic.Fouls],
+            "dunks": None,
+            "points_in_the_paint": None,
+            "fastbreak_points": None,
+            "second_chance_points": None,
+            "bench_points": None,
+            "points_of_turnovers": None,
+            "biggest_lead": None,
+            "time_of_possession": None,
+            "possessions": None,
+            "timeouts30": None,
+            "timeouts60": None,
+        }
+
     def minutes(self):
         return (
             round(self.sheet[Statistic.SecsPG] / 60)

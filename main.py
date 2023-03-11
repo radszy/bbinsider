@@ -108,8 +108,8 @@ def parse_xml(text: str) -> tuple[list[BBEvent], Team, Team]:
     tree = XML.ElementTree(XML.fromstring(text))
     root = tree.getroot()
 
-    at = Team()
     ht = Team()
+    at = Team()
     report = ""
 
     for child in root:
@@ -158,7 +158,7 @@ def parse_xml(text: str) -> tuple[list[BBEvent], Team, Team]:
 
     events = parse_report(report, at, ht)
 
-    return (events, at, ht)
+    return (events, ht, at)
 
 
 def get_xml_text(matchid) -> str:
@@ -182,9 +182,7 @@ def get_xml_text(matchid) -> str:
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--ids", help="A comma delimited list of match IDs", required=True
-    )
+    parser.add_argument("--matchid", help="Match ID", required=True)
     parser.add_argument("--username", help="BBAPI username")
     parser.add_argument("--password", help="BBAPI password")
     parser.add_argument("--print-events", action="store_true")
@@ -193,213 +191,11 @@ def main():
     parser.add_argument("--verify", action="store_true")
     args = parser.parse_args()
 
-    matchids = args.ids.split(",")
-
-    with open("uids-various.txt", "r") as f:
-        matchids = f.readlines()
-
-    games = {}
-
-    blowouts = []
-
-    for index, matchid in enumerate(matchids):
-        matchid = matchid.strip()
-        assert matchid.isnumeric(), f"MatchID {matchid}"
-
-        print(f"Processing {matchid} ({index+1} of {len(matchids)})")
-
-        text = get_xml_text(matchid)
-        if "P&G" in text:
-            text = text.replace("P&G", "PAG")
-        events, at, ht = parse_xml(text)
-
-        # possessions = Possessions()
-        shot_types = ShotTypes()
-        game = Game(matchid, events, at, ht, args, [shot_types])
-        game.play()
-
-        point_diff = abs(
-            game.teams[0].stats.full.sheet[Statistic.Points]
-            - game.teams[1].stats.full.sheet[Statistic.Points]
-        )
-        if point_diff > 35:
-            blowouts.append(game)
-            continue
-
-        api = BBApi()
-        strategy = api.strategy(matchid)
-
-        away_shots_tactics = f"{strategy[0]}|{strategy[3]}"
-        aw_shots = games.get(away_shots_tactics, [])
-        aw_shots.append(shot_types.shot_types[0])
-        games[away_shots_tactics] = aw_shots
-
-        home_shots_tactics = f"{strategy[2]}|{strategy[1]}"
-        hm_shots = games.get(home_shots_tactics, [])
-        hm_shots.append(shot_types.shot_types[1])
-        games[home_shots_tactics] = hm_shots
-
-        # if index == 100:
-        #     break
-
-    headers = [
-        "Type",
-        "Missed",
-        "Scored",
-        "Goaltended",
-        "Blocked",
-        "Missed Fouled",
-        "Scored Fouled",
-        "Total",
-    ]
-    total = 0
-    for tactic, tactic_games in games.items():
-        total += len(tactic_games)
-        print(f"{tactic} ({len(tactic_games)}):")
-        tactic_shots = {}
-        for tactic_game in tactic_games:
-            for shot_type, shot_results in tactic_game.items():
-                shots = tactic_shots.get(shot_type, [0, 0, 0, 0, 0, 0])
-                shots = [x + y for x, y in zip(shots, shot_results)]
-                tactic_shots[shot_type] = shots
-
-        table = []
-        for shot_type, shot_results in sorted(tactic_shots.items()):
-            table.append(
-                [
-                    shot_type,
-                    shot_results[0] / len(tactic_games),
-                    shot_results[1] / len(tactic_games),
-                    shot_results[2] / len(tactic_games),
-                    shot_results[3] / len(tactic_games),
-                    shot_results[4] / len(tactic_games),
-                    shot_results[5] / len(tactic_games),
-                    sum(shot_results) / len(tactic_games),
-                ]
-            )
-
-        def sum_shot_types(types):
-            results = [0, 0, 0, 0, 0, 0]
-            for t in types:
-                if t in tactic_shots:
-                    results = [x + y for x, y in zip(results, tactic_shots[t])]
-            return (
-                results[0] / len(tactic_games),
-                results[1] / len(tactic_games),
-                results[2] / len(tactic_games),
-                results[3] / len(tactic_games),
-                results[4] / len(tactic_games),
-                results[5] / len(tactic_games),
-                sum(results) / len(tactic_games),
-            )
-
-        table.append(SEPARATING_LINE)
-        table.append(
-            [
-                "PUTBACK",
-                *sum_shot_types(
-                    (
-                        "ShotType.PUTBACK_DUNK",
-                        "ShotType.REBOUND_SHOT",
-                        "ShotType.TIPIN",
-                    )
-                ),
-            ]
-        )
-        table.append(
-            [
-                "CLOSE RANGE",
-                *sum_shot_types(
-                    (
-                        "ShotType.DUNK1",
-                        "ShotType.DUNK2",
-                        "ShotType.LAYUP",
-                        "ShotType.DRIVING_LAYUP",
-                        "ShotType.HOOK",
-                        "ShotType.FADE_AWAY",
-                        "ShotType.POST_UP_MOVE",
-                    )
-                ),
-            ]
-        )
-        table.append(
-            [
-                "MID RANGE",
-                *sum_shot_types(
-                    (
-                        "ShotType.TWO_POINTER_DEFAULT",
-                        "ShotType.TWO_POINTER_BASELINE",
-                        "ShotType.TWO_POINTER_ELBOW",
-                        "ShotType.TWO_POINTER_TOPKEY",
-                        "ShotType.TWO_POINTER_WING",
-                        "ShotType.OFF_DRIBBLE_JUMP_SHOT",
-                    )
-                ),
-            ]
-        )
-        table.append(
-            [
-                "LONG RANGE",
-                *sum_shot_types(
-                    (
-                        "ShotType.THREE_POINTER_DEFAULT",
-                        "ShotType.THREE_POINTER_TOPKEY",
-                        "ShotType.THREE_POINTER_WING",
-                        "ShotType.THREE_POINTER_CORNER",
-                        "ShotType.THREE_POINTER_LONG",
-                        "ShotType.THREE_POINTER_HALFCOURT",
-                    )
-                ),
-            ]
-        )
-        table.append(SEPARATING_LINE)
-        table.append(
-            [
-                "TOTAL",
-                *sum_shot_types(
-                    (
-                        "ShotType.PUTBACK_DUNK",
-                        "ShotType.REBOUND_SHOT",
-                        "ShotType.TIPIN",
-                        "ShotType.DUNK1",
-                        "ShotType.DUNK2",
-                        "ShotType.LAYUP",
-                        "ShotType.DRIVING_LAYUP",
-                        "ShotType.HOOK",
-                        "ShotType.FADE_AWAY",
-                        "ShotType.POST_UP_MOVE",
-                        "ShotType.TWO_POINTER_DEFAULT",
-                        "ShotType.TWO_POINTER_BASELINE",
-                        "ShotType.TWO_POINTER_ELBOW",
-                        "ShotType.TWO_POINTER_TOPKEY",
-                        "ShotType.TWO_POINTER_WING",
-                        "ShotType.OFF_DRIBBLE_JUMP_SHOT",
-                        "ShotType.THREE_POINTER_DEFAULT",
-                        "ShotType.THREE_POINTER_TOPKEY",
-                        "ShotType.THREE_POINTER_WING",
-                        "ShotType.THREE_POINTER_CORNER",
-                        "ShotType.THREE_POINTER_LONG",
-                        "ShotType.THREE_POINTER_HALFCOURT",
-                    )
-                ),
-            ]
-        )
-
-        print(tabulate(table, headers=headers, floatfmt=".2f"))
-        print()
-
-    print(f"Blowouts: {len(blowouts)}")
-    print(f"Games: {total}")
-
-    # print(f"{game.teams[0].name}")
-    # print(len(possessions.possessions[0]))
-    # print(possessions.possessions[0])
-
-    # print(f"{game.teams[1].name}")
-    # print(len(possessions.possessions[1]))
-    # print(possessions.possessions[1])
-
-    # print(shot_types.table(game))
+    text = get_xml_text(args.matchid)
+    events, ht, at = parse_xml(text)
+    game = Game(args.matchid, events, ht, at, args, [])
+    game.play()
+    game.save(f"{args.matchid}.json")
 
 
 if __name__ == "__main__":

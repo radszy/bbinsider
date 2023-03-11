@@ -22,7 +22,7 @@ class Team:
         self.last_update = 0
         self.shot_chart = ShotChart()
 
-        self.verbose = False
+        self.verbose = True
         self.off_strategy = "~unknown~"
         self.def_strategy = "~unknown~"
 

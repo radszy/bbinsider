@@ -1,10 +1,12 @@
 from typing import Dict
+
 from bbapi import BBApi
 from team import Team
 from comments import Comments
 from event import *
 from event_types import *
 from stats import *
+import json
 
 
 class Extension:
@@ -41,14 +43,14 @@ class Game:
         self,
         matchid: str,
         events: list[BBEvent],
-        at: Team,
         ht: Team,
+        at: Team,
         args,
         extensions: list[Extension],
     ) -> None:
         self.matchid = matchid
         self.events = events
-        self.teams = [at, ht]
+        self.teams = [ht, at]
         self.comments = Comments()
         self.gameclock = 0
         self.shotclock = 24
@@ -328,6 +330,46 @@ class Game:
             bbteams = bbapi.boxscore(matchid=self.matchid)
             assert bbteams[0] == self.teams[1]
             assert bbteams[1] == self.teams[0]
+
+    def save(self, filename):
+        teams = []
+        for tid, team in enumerate(self.teams):
+            players = []
+
+            for pid, player in enumerate(team.players):
+                stats = {}
+                for qtr, stat in enumerate(player.stats.qtr, start=1):
+                    stats[f"q{qtr}"] = stat.player_stats()
+                stats["total"] = player.stats.full.player_stats()
+
+                p = {
+                    "id": player.id,
+                    "name": player.name,
+                    "starter": player.starter,
+                    "stats": stats,
+                }
+                players.append(p)
+
+            stats = {}
+            for qtr, stat in enumerate(team.stats.qtr, start=1):
+                stats[f"q{qtr}"] = stat.team_stats()
+            stats["total"] = team.stats.full.team_stats()
+
+            t = {"id": team.id, "name": team.name, "players": players, "stats": stats}
+            teams.append(t)
+
+        events = []
+        for event in self.baseevents:
+            events.append(event.to_json())
+
+        game = {
+            "teamHome": teams[0],
+            "teamAway": teams[1],
+            "events": events,
+        }
+
+        with open(filename, "w") as f:
+            json.dump(game, f, indent=4, ensure_ascii=False)
 
 
 class Possessions(Extension):

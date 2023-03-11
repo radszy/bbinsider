@@ -31,6 +31,9 @@ class BaseEvent:
     def patch_shotclock(self, clock):
         self.shotclock = clock
 
+    def to_json(self):
+        return None
+
 
 class ShotEvent(BaseEvent):
     def __init__(
@@ -55,6 +58,23 @@ class ShotEvent(BaseEvent):
         self.att_team = att_team
         self.def_team = def_team
         self.shot_pos = shot_pos
+
+    def to_json(self):
+        return {
+            "event_type": "shot",
+            "shot_type": str(self.shot_type),
+            "shot_result": str(self.shot_result),
+            "attacking_team": self.att_team,
+            "attacker": self.attacker,
+            "defending_team": self.def_team,
+            "defender": self.defender,
+            "assistant": self.assistant,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "shot_pos_x": self.shot_pos.x,
+            "shot_pos_y": self.shot_pos.y,
+            "comments": self.comments,
+        }
 
     def is_3pt(self):
         return self.shot_type in (
@@ -114,6 +134,19 @@ class InterruptEvent(BaseEvent):
         self.att_team = att_team
         self.def_team = def_team
 
+    def to_json(self):
+        return {
+            "event_type": "interrupt",
+            "interrupt_type": str(self.interrupt_type),
+            "attacking_team": self.att_team,
+            "attacker": self.attacker,
+            "defending_team": self.def_team,
+            "defender": self.defender,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "comments": self.comments,
+        }
+
 
 class FoulEvent(BaseEvent):
     def __init__(
@@ -135,6 +168,20 @@ class FoulEvent(BaseEvent):
         self.def_team = def_team
         self.flagrant = flagrant
 
+    def to_json(self):
+        return {
+            "event_type": "foul",
+            "foul_type": str(self.foul_type),
+            "flagrant": self.flagrant,
+            "attacking_team": self.att_team,
+            "attacker": self.attacker,
+            "defending_team": self.def_team,
+            "defender": self.defender,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "comments": self.comments,
+        }
+
 
 class ReboundEvent(BaseEvent):
     def __init__(
@@ -153,6 +200,19 @@ class ReboundEvent(BaseEvent):
         self.defender = defender
         self.att_team = att_team
         self.def_team = def_team
+
+    def to_json(self):
+        return {
+            "event_type": "rebound",
+            "rebound_type": str(self.rebound_type),
+            "attacking_team": self.att_team,
+            "attacker": self.attacker,
+            "defending_team": self.def_team,
+            "defender": self.defender,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "comments": self.comments,
+        }
 
     def is_rebound(self):
         return self.rebound_type not in (
@@ -183,6 +243,17 @@ class FreeThrowEvent(BaseEvent):
         self.attacker = attacker
         self.att_team = att_team
 
+    def to_json(self):
+        return {
+            "event_type": "free_throw",
+            "free_throw_type": str(self.free_throw_type),
+            "attacking_team": self.att_team,
+            "attacker": self.attacker,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "comments": self.comments,
+        }
+
     def has_scored(self):
         return self.shot_result == ShotResult.SCORED
 
@@ -205,6 +276,19 @@ class InjuryEvent(BaseEvent):
         self.injured_team = injured_team
         self.causedby_team = causedby_team
 
+    def to_json(self):
+        return {
+            "event_type": "injury",
+            "injury_type": str(self.injury_type),
+            "injured_team": self.injured_team,
+            "injured_player": self.injured_player,
+            "causedby_team": self.causedby_team,
+            "causedby_player": self.causedby_player,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "comments": self.comments,
+        }
+
 
 class SubEvent(BaseEvent):
     def __init__(
@@ -222,6 +306,18 @@ class SubEvent(BaseEvent):
         self.player_out = player_out
         self.team = team
 
+    def to_json(self):
+        return {
+            "event_type": "sub",
+            "sub_type": str(self.sub_type),
+            "team": self.team,
+            "player_in": self.player_in,
+            "player_out": self.player_out,
+            "gameclock": self.gameclock,
+            "shotclock": self.shotclock,
+            "comments": self.comments,
+        }
+
 
 class BreakEvent(BaseEvent):
     def __init__(
@@ -230,6 +326,13 @@ class BreakEvent(BaseEvent):
         super().__init__(comments, clocks)
         self.break_type = break_type
         self.team = team
+
+    def to_json(self):
+        return {
+            "event_type": "break",
+            "break_type": str(self.break_type),
+            "team": self.team,
+        }
 
 
 class BBEvent:
@@ -377,21 +480,18 @@ def convert(events: list[BBEvent]) -> list[BaseEvent]:
                         f"comments: {comments}",
                     )
 
-            defender = 0
-            assistant = 0
-            if shot_result in (
-                ShotResult.SCORED,
-                ShotResult.SCORED_WITH_FOUL,
-                ShotResult.GOALTEND,
-                ShotResult.BLOCKED,
-            ):
-                if unknown5 == 1:
-                    # CHECKME: alters shot, block attempt?
-                    defender = event.player2
-                elif eresult <= 3 or eresult == 7 or eresult == 6:
-                    defender = event.player2
-                else:
-                    assistant = event.player2
+            defender = None
+            assistant = None
+            if unknown5 == 1:
+                # CHECKME: alters shot, block attempt?
+                defender = event.player2
+                assistant = None
+            elif eresult <= 3 or eresult == 7 or eresult == 6:
+                defender = event.player2
+                assistant = None
+            else:
+                defender = None
+                assistant = event.player2
 
             base_events.append(
                 ShotEvent(
