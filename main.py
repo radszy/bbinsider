@@ -195,24 +195,36 @@ def main():
 
     matchids = args.ids.split(",")
 
-    with open("uids1.txt", "r") as f:
+    with open("uids-various.txt", "r") as f:
         matchids = f.readlines()
 
     games = {}
+
+    blowouts = []
 
     for index, matchid in enumerate(matchids):
         matchid = matchid.strip()
         assert matchid.isnumeric(), f"MatchID {matchid}"
 
-        print(f"Processing {index+1} of {len(matchids)}")
+        print(f"Processing {matchid} ({index+1} of {len(matchids)})")
 
         text = get_xml_text(matchid)
+        if "P&G" in text:
+            text = text.replace("P&G", "PAG")
         events, at, ht = parse_xml(text)
 
         # possessions = Possessions()
         shot_types = ShotTypes()
         game = Game(matchid, events, at, ht, args, [shot_types])
         game.play()
+
+        point_diff = abs(
+            game.teams[0].stats.full.sheet[Statistic.Points]
+            - game.teams[1].stats.full.sheet[Statistic.Points]
+        )
+        if point_diff > 35:
+            blowouts.append(game)
+            continue
 
         api = BBApi()
         strategy = api.strategy(matchid)
@@ -240,8 +252,9 @@ def main():
         "Scored Fouled",
         "Total",
     ]
-
+    total = 0
     for tactic, tactic_games in games.items():
+        total += len(tactic_games)
         print(f"{tactic} ({len(tactic_games)}):")
         tactic_shots = {}
         for tactic_game in tactic_games:
@@ -375,15 +388,18 @@ def main():
         print(tabulate(table, headers=headers, floatfmt=".2f"))
         print()
 
-        # print(f"{game.teams[0].name}")
-        # print(len(possessions.possessions[0]))
-        # print(possessions.possessions[0])
+    print(f"Blowouts: {len(blowouts)}")
+    print(f"Games: {total}")
 
-        # print(f"{game.teams[1].name}")
-        # print(len(possessions.possessions[1]))
-        # print(possessions.possessions[1])
+    # print(f"{game.teams[0].name}")
+    # print(len(possessions.possessions[0]))
+    # print(possessions.possessions[0])
 
-        # print(shot_types.table(game))
+    # print(f"{game.teams[1].name}")
+    # print(len(possessions.possessions[1]))
+    # print(possessions.possessions[1])
+
+    # print(shot_types.table(game))
 
 
 if __name__ == "__main__":

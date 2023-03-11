@@ -265,21 +265,47 @@ class BBApi:
 
 
 def prefetch_data(
-    username: str, password: str, leagueid: int, season_from: int, season_to: int
+    username: str, password: str, leagueid_: int, season_from: int, season_to: int
 ):
     api = BBApi(username, password)
 
     unique_ids = set[str]()
 
-    for season in range(season_from, season_to + 1):
+    leagueids = [
+        1,  # USA
+        86,  # Argentina,
+        107,  # Brasil
+        128,  # Canada
+        149,  # China
+        170,  # Turkiye
+        191,  # Espana
+        212,  # Deutschland
+        254,  # Italia
+        275,  # France
+        296,  # Hellas
+        893,  # Belgium
+        978,  # England
+        999,  # Isreal
+        1020,  # Nederland
+        1062,  # Portugal
+        1083,  # Rossiya
+        1104,  # Lietuva
+        1277,  # Srbija
+        2083,  # Polska
+    ]
+
+    # [ 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 29, 58]
+    season = 59
+
+    for leagueid in leagueids:
         team_ids = api.standings(leagueid, season)
         print(f"Season {season}: teams: {len(team_ids)}")
         for team_id in team_ids:
             match_ids = api.schedule(team_id, season)
             unique_ids.update(match_ids)
-            print(f"Season {season}: matches: {len(match_ids)}")
+            print(f"LeagueID: {leagueid}, Season {season}: matches: {len(match_ids)}")
 
-    with open("uids1.txt", "w") as f:
+    with open("uids-various.txt", "w") as f:
         for index, uid in enumerate(unique_ids):
             print(f"Fetch {uid} ({index+1}/{len(unique_ids)})")
             api.boxscore(uid)
