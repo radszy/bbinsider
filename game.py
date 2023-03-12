@@ -368,7 +368,7 @@ class Game:
             "events": events,
         }
 
-        with open(filename, "w") as f:
+        with open(filename, "w", encoding='utf-8') as f:
             json.dump(game, f, indent=4, ensure_ascii=False)
 
 

@@ -80,13 +80,13 @@ class BBApi:
         path = f"matches/boxscore_{matchid}.xml"
 
         if exists(path):
-            with open(path, mode="r") as f:
+            with open(path, mode="r", encoding='utf-8') as f:
                 return f.read()
         else:
             p = {"matchid": matchid}
             text = self.network.get("http://bbapi.buzzerbeater.com/boxscore.aspx", p)
 
-            with open(path, mode="w") as f:
+            with open(path, mode="w", encoding='utf-8') as f:
                 f.write(text)
 
             return text
@@ -96,13 +96,13 @@ class BBApi:
         path = f"matches/standings_{leagueid}_{season}.xml"
 
         if exists(path):
-            with open(path, mode="r") as f:
+            with open(path, mode="r", encoding='utf-8') as f:
                 return f.read()
         else:
             p = {"leagueid": str(leagueid), "season": str(season)}
             text = self.network.get("http://bbapi.buzzerbeater.com/standings.aspx", p)
 
-            with open(path, mode="w") as f:
+            with open(path, mode="w", encoding='utf-8') as f:
                 f.write(text)
 
             return text
@@ -112,13 +112,13 @@ class BBApi:
         path = f"matches/schedule_{teamid}_{season}.xml"
 
         if exists(path):
-            with open(path, mode="r") as f:
+            with open(path, mode="r", encoding='utf-8') as f:
                 return f.read()
         else:
             p = {"teamid": teamid, "season": season}
             text = self.network.get("http://bbapi.buzzerbeater.com/schedule.aspx", p)
 
-            with open(path, mode="w") as f:
+            with open(path, mode="w", encoding='utf-8') as f:
                 f.write(text)
 
             return text
@@ -305,7 +305,7 @@ def prefetch_data(
             unique_ids.update(match_ids)
             print(f"LeagueID: {leagueid}, Season {season}: matches: {len(match_ids)}")
 
-    with open("uids-various.txt", "w") as f:
+    with open("uids-various.txt", "w", encoding='utf-8') as f:
         for index, uid in enumerate(unique_ids):
             print(f"Fetch {uid} ({index+1}/{len(unique_ids)})")
             api.boxscore(uid)

@@ -167,14 +167,14 @@ def get_xml_text(matchid) -> str:
     path = f"matches/report_{matchid}.xml"
 
     if exists(path):
-        with open(path, mode="r") as f:
+        with open(path, mode="r", encoding='utf-8') as f:
             return f.read()
     else:
         data = requests.get(
             f"https://buzzerbeater.com/match/viewmatch.aspx?matchid={matchid}"
         )
 
-        with open(path, mode="w") as f:
+        with open(path, mode="w", encoding='utf-8') as f:
             f.write(data.text)
 
         return data.text
