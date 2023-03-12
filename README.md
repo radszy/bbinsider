@@ -12,6 +12,7 @@
     - `python.exe -m pip install requests tabulate Pillow`
 * Run the script (still in the Command Prompt)
   - `cd C:\Users\radszy\bbinsider`
+  - `chcp 65001`
   - `python.exe main.py --print-stats --print-events --matchid 123786926`
 
 ### Linux
